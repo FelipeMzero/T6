@@ -1,0 +1,18 @@
+# Arquivos do jogo (não incluir)
+*.iwd
+*.ff
+*.txt
+*.log
+*.cache
+
+# Arquivos do Plutonium
+*.dat
+*.tmp
+
+# Arquivos do sistema
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Scripts desabilitados
+scripts_disabled/

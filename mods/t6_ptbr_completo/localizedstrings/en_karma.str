@@ -1,0 +1,1044 @@
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           KARMA_ACCESSING_SOURCE_DATA
+LANG_ENGLISH        "ACESSANDO DADOS FONTE..."
+
+REFERENCE           KARMA_ACCESS_GRANTED
+LANG_ENGLISH        "ACESSO CONCEDIDO"
+
+REFERENCE           KARMA_DEFALCO_ENDLEVEL_FATAL_SHOT
+LANG_ENGLISH        "Defalco atirou, falha na missão."
+
+REFERENCE           KARMA_ELECTRICAL_FIELD_DEATH_HINT
+LANG_ENGLISH        "Campos elétricos danificarão Ziggy"
+
+REFERENCE           KARMA_ENDLEVEL_FAILED_TO_SHOOT_KARMA
+LANG_ENGLISH        "Falha ao desativar Karma"
+
+REFERENCE           KARMA_FAILED_LOST_SIGNAL
+LANG_ENGLISH        "SINAL PERDIDO"
+
+REFERENCE           KARMA_FAN_DEATH_HINT
+LANG_ENGLISH        "Evite cair na torcida\n"
+
+REFERENCE           KARMA_HINT_ATTACK
+LANG_ENGLISH        "Pressione ^3[{+attack}]^7"
+
+REFERENCE           KARMA_HINT_LOOK_DOWN
+LANG_ENGLISH        "^3[{+rsdown}]^7"
+
+REFERENCE           KARMA_HINT_LOOK_LEFT
+LANG_ENGLISH        "^3[{+rsleft}]^7"
+
+REFERENCE           KARMA_HINT_LOOK_RIGHT
+LANG_ENGLISH        "^3[{+rsright}]^7"
+
+REFERENCE           KARMA_HINT_LOOK_UP
+LANG_ENGLISH        "^3[{+rsup}]^7"
+
+REFERENCE           KARMA_HINT_MELEE
+LANG_ENGLISH        "Clique em ^3[{+melee}]^7"
+
+REFERENCE           KARMA_HINT_MOVE_DOWN
+LANG_ENGLISH        "^3[{+lsdown}]^7 ^3[{+rsdown}]^7"
+
+REFERENCE           KARMA_HINT_MOVE_LEFT
+LANG_ENGLISH        "^3[{+lsleft}]^7 ^3[{+rsleft}]^7"
+
+REFERENCE           KARMA_HINT_MOVE_RIGHT
+LANG_ENGLISH        "^3[{+lsright}]^7 ^3[{+rsright}]^7"
+
+REFERENCE           KARMA_HINT_MOVE_UP
+LANG_ENGLISH        "^3[{+lsup}]^7 ^3[{+rsup}]^7"
+
+REFERENCE           KARMA_HINT_SPIDERBOT_CLIMB
+LANG_ENGLISH        "Ziggy pode agarrar-se à maioria das superfícies"
+
+REFERENCE           KARMA_HINT_SPIDERBOT_JUMP
+LANG_ENGLISH        "Pressione ^3[{+gostand}]^7 para pular"
+
+REFERENCE           KARMA_HINT_SPIDERBOT_REGISTER
+LANG_ENGLISH        "Cadastre-se agora para estender sua garantia e ser notificado sobre atualizações importantes!"
+
+REFERENCE           KARMA_HINT_SPIDERBOT_TAZER
+LANG_ENGLISH        "Pressione ^3[{+attack}]^7 para disparar o zapper"
+
+REFERENCE           KARMA_HINT_SPRINT
+LANG_ENGLISH        "Clique em ^3[{+breath_sprint}]^7"
+
+REFERENCE           KARMA_HINT_UNZOOM
+LANG_ENGLISH        "^3[{+lsright}]^7 ^3[{+rsleft}]^7"
+
+REFERENCE           KARMA_HINT_USE
+LANG_ENGLISH        "Pressione ^3[{+activate}]^7"
+
+REFERENCE           KARMA_HINT_ZOOM
+LANG_ENGLISH        "^3[{+lsleft}]^7 ^3[{+rsright}]^7"
+
+REFERENCE           KARMA_INTROSCREEN_LINE_1
+LANG_ENGLISH        "^L\"KARMA\"^L"
+
+REFERENCE           KARMA_INTROSCREEN_LINE_2
+LANG_ENGLISH        "COLOSSUS, ^LILHAS CAYMAN^L"
+
+REFERENCE           KARMA_INTROSCREEN_LINE_3
+LANG_ENGLISH        "DAVID MASON // NOME DO CÓDIGO: ^L\"SEÇÃO\"^L"
+
+REFERENCE           KARMA_INTROSCREEN_LINE_4
+LANG_ENGLISH        "^LJSOC^L FORÇA ANTITERRORISMO"
+
+REFERENCE           KARMA_INTROSCREEN_LINE_5
+LANG_ENGLISH        "12 DE JUNHO, ^L2025^L"
+
+REFERENCE           KARMA_KARMA_ENDLEVEL_FATAL_SHOT
+LANG_ENGLISH        "Karma morto, falha na missão\n"
+
+REFERENCE           KARMA_LOWLIGHT_OFF
+LANG_ENGLISH        "Visão de Baixa Luz Desativada"
+
+REFERENCE           KARMA_LOWLIGHT_ON
+LANG_ENGLISH        "Visão de Baixa Luz Ativada"
+
+REFERENCE           KARMA_MATCH_COMPLETE
+LANG_ENGLISH        "PARTIDA COMPLETA"
+
+REFERENCE           KARMA_MSG_ASD_SYNC
+LANG_ENGLISH        "INICIALIZANDO LINK DE DADOS"
+
+REFERENCE           KARMA_OBJ_CRC_GUY
+LANG_ENGLISH        "Atordoe o trabalhador do CRC"
+
+REFERENCE           KARMA_OBJ_DISABLE_ZAPPER
+LANG_ENGLISH        "Desative o filtro eletrostático"
+
+REFERENCE           KARMA_OBJ_EXIT_CLUB
+LANG_ENGLISH        "Impeça Defalco de escapar com Karma"
+
+REFERENCE           KARMA_OBJ_FIND_CRC
+LANG_ENGLISH        "Vá para o CRC"
+
+REFERENCE           KARMA_OBJ_GET_TO_CLUB
+LANG_ENGLISH        "Vá até o Club Solar"
+
+REFERENCE           KARMA_OBJ_ID_KARMA
+LANG_ENGLISH        "Acesse o computador CRC e procure por Karma"
+
+REFERENCE           KARMA_OBJ_INFILTRATE_CRC
+LANG_ENGLISH        "Infiltre-se na sala CRC"
+
+REFERENCE           KARMA_OBJ_KILL_CLUB_GUARDS
+LANG_ENGLISH        "Neutralize todos os terroristas restantes"
+
+REFERENCE           KARMA_OBJ_MEET_KARMA
+LANG_ENGLISH        "Encontre-se dentro do Club Solar"
+
+REFERENCE           KARMA_OBJ_SECURITY
+LANG_ENGLISH        "Passe pelo ponto de controle de segurança"
+
+REFERENCE           KARMA_PICKUP_SPIDERBOT_HINT
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para pegar Ziggy"
+
+REFERENCE           KARMA_TAZE_FAIL_HINT
+LANG_ENGLISH        "Taze seu alvo antes que ele danifique Ziggy"
+
+REFERENCE           KARMA_TRESPASSER_DATA
+LANG_ENGLISH        "Recuperando dados..."
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_001A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Comunicados abertos, Farid.  Estamos todos ouvindo."
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_002A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Tudo bem..."
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_003A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7As faixas de identificação os identificam como inspetores sindicais."
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_004A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Vocês terão acesso à maioria das áreas... é... exceto a que vocês realmente querem."
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_005A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7O Computador de Registros Centrais está sujeito a segurança reforçada.  O acesso só é permitido por escaneamento de retina. É aí... que o Ziggy entra."
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_006A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Resumindo, o CRC é nossa melhor chance de localizar Karma antes das pessoas do DeFalco."
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_007A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Farid, conseguiu acessar os arquivos de pessoal?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_008A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Ahh... Ainda não.  A criptografia é muito complicada."
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_009A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Você é inteligente.  Eu tenho fé em você.  Section fora."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_01_001A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Então é assim que os 1% vivem."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_01_003A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Tudo bem, fique calmo..."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_01_005A_SALA_M
+LANG_ENGLISH        "^1Salazar: ^7Todos nós vamos pro inferno, cara."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_01_005A_SALA_S
+LANG_ENGLISH        "^1Salazar: ^7Todos nós vamos pagar, cara."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_01_008A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7Caramba..."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_01_008A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7Sério?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_01_009A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Uau!  Como vai, bonita?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_001A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Harper, varra o andar.  Salazar e eu seguiremos para o ponto de inserção."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_002A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Entendido."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_003A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Harper, atenção.  Os mercenários estão preparando explosivos a bordo."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_011A_GUAR_D
+LANG_ENGLISH        "^1Guard: ^7Ei! Você não deveria estar aqui."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_012A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Temos identificações sindicais."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_014A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Tudo bem... Section, estou dentro."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_015A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Pode seguir."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_016A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Colossus recentemente contratou contratados militares privados para reforçar sua equipe de segurança regular... todos ex-milicianos cubanos."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_017A_SECT_M
+LANG_ENGLISH        "^1Section: ^7Sério.   Acabamos de encontrar alguns deles."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_017A_SECT_S
+LANG_ENGLISH        "^1Section: ^7É.   Acabamos de encontrar alguns deles."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_018A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Fiquem de olho em qualquer coisa suspeita.  Precisamos saber qual é o objetivo deles."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_019A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Harper, a equipe de segurança foi comprometida por PMCs.  Eles são hostis."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_020A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Entendido."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_021A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Tudo bem, Ziggy... Hora de trabalhar."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_022A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Espere."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_023A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7O que eles estão fazendo?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_024A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Plantando explosivos."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_025A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Eles vão explodir o navio?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_026A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Não antes de garantirem a Karma."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_028A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Estou seguindo alguns deles agora.  Eles estão indo na direção de vocês!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_029A_SECT_M
+LANG_ENGLISH        "^1Section: ^7Droga."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_029A_SECT_S
+LANG_ENGLISH        "^1Section: ^7Tudo bem..."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_030A_SECT_D
+LANG_ENGLISH        "^1Section: ^7É melhor começarmos a andar."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_031A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Deve haver uma caixa de controle por perto."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_032A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Electrocuta ele."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_033A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Tudo bem."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_034A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Aí está nosso alvo."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_039A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Electrocuta ele, Section!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_040A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Escaneando agora."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_043A_SECT_D
+LANG_ENGLISH        "^1Section: ^7São os PMCs!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_044A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Harper, você estava certo.  Eles já estão dentro da sala do servidor!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_045A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Vamos."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_046A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Vamos, vamos..."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_047A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Pronto?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_048A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Vai!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_049A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Livre."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_051A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Posicionando o uplink."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_052A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Tem certeza que isso vai funcionar, Farid?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_053A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Eu achava que você tinha fé em mim?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_054A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Tudo bem... Entramos."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_055A_SECT_D
+LANG_ENGLISH        "^1Section: ^7A arma Karma pode ter sido contrabandeada a bordo junto com os suprimentos regulares."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_056A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Pesquise no manifesto de suprimentos.  Palavra-chave 'Karma'."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_057A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Nada."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_058A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Pesquise nos sistemas de segurança automatizados.  Palavra-chave 'Karma'."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_059A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Estamos perdendo algo."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_060A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Pesquise no banco de imagens das câmeras de segurança.  Reconhecimento de texto 'Karma'."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_061A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Ali."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_062A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Karma não é uma arma.  É uma mulher."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_063A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Chloe Lynch.  Ex-funcionária da TACITUS... Demitiu-se recentemente."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_064A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Agora sabemos o nome dela.  Podemos rastrear a localização dela no navio."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_065A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Lá em cima.  Club Solar."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_068A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Farid.  Preciso ser capaz de identificar o inimigo."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_069A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Faça o link ao vivo dos PMCs listados nos arquivos de pessoal com seus IDs BIOMÉTRICOS."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_070A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Pode deixar."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_071A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Envie os dados para o meu HUD."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_074A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Harper, Karma NÃO é uma arma.  É uma garota.  Estou enviando a foto dela agora."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_075A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Entendido... Ei!  Ei, ei, ei!  É a mina que eu vi no elevador!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_076A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Ela está no Club Solar, mas é melhor chegar lá rápido!  Os PMCs estão indo atrás dela agora!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_077A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Estou nisso."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_081A_KARM_D
+LANG_ENGLISH        "^1Karma: ^7Você?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_082A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Chloe... Chloe, você precisa vir comigo agora!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_083A_KARM_M
+LANG_ENGLISH        "^1Karma: ^7Quem diabos é você?!  Como você sabe meu nome?!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_083A_KARM_S
+LANG_ENGLISH        "^1Karma: ^7Quem é você?!  Como você sabe meu nome?!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_084A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Sou Mike Harper, um Navy Seal."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_085A_KARM_M
+LANG_ENGLISH        "^1Karma: ^7Saia da minha frente, porra!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_085A_KARM_S
+LANG_ENGLISH        "^1Karma: ^7Saia... Saia de perto de mim!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_086A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Ouve, você me ouve?  Sua vida está em perigo.  Os terroristas estão vindo atrás de você AGORA!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_087A_KARM_D
+LANG_ENGLISH        "^1Karma: ^7Terroristas?!  Do que você está falando?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_088A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Chloe, eles foram enviados por Raul Menendez."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_089A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Proteja ela, Harper.  Estamos a caminho."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_090A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Salazar, encontre outra entrada para o clube.  Consiga um ponto de vantagem sobre as multidões."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_091A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Harper, onde você está?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_092A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Estamos na pista de dança!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_093A_SECT_D
+LANG_ENGLISH        "^1Section: ^7A caminho."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_094A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Precisamos sair agora, Chloe!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_095A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7SECTION!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_096A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Pelo menos dez mercenários, fazendo reféns!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_097A_DEFA_D
+LANG_ENGLISH        "^1Defalco: ^7Chloe Lynch!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_098A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Ele tem reféns.  Não atirem."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_099A_DEFA_D
+LANG_ENGLISH        "^1Defalco: ^7Chloe?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_002A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Salazar.  Atira."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_003A_DEFA_D
+LANG_ENGLISH        "^1Defalco: ^7Cinco segundos, Chloe."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_004A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Não consigo atirar.  Muitos reféns."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_005A_KARM_D
+LANG_ENGLISH        "^1Karma: ^7NÃO!!!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_006A_DEFA_D
+LANG_ENGLISH        "^1Defalco: ^7Abram fogo!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_008A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7Vamos matar esse doente!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_008A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7Vamos matar esse 'Defalco'!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_009A_SECT_D
+LANG_ENGLISH        "^1Section: ^7DeFalco tem a Karma!  Estamos em perseguição."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_010A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Precisamos que você rastreie os movimentos deles, Farid.  Não podemos deixá-los sair do navio!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_015A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Entendido."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_016A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Section, ouviu isso?  Mais PMCs do lado de fora da porta!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_017A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Farid.  Temos inimigos logo do lado de fora... Sem outro caminho."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_018A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Abra a porta da sala do CRC."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_035A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Separem-se.  Peguem o elevador para o andar superior."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_036A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Entendido."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_037A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Section, estou posicionado na varanda do clube."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_037A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Vou me reagrupar com o Harper."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_039A_DEFA_D
+LANG_ENGLISH        "^1Defalco: ^7Não?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_040A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Vire à esquerda, vire à esquerda!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_041A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Movendo!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_042A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Vamos!  A porta principal é nossa saída!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_043A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Último homem!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_044A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Pronto!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_045A_SECT_D
+LANG_ENGLISH        "^1Section: ^7É o DeFalco, o braço direito do Menendez."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_048A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Movendo!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_049A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Mova!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_050A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Pela porta, escureça!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_13_01_001A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Cuidado com a lacuna que vem aí."
+
+REFERENCE           KARMA_VOX_VOX_KAR_13_01_002A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7O Ziggy pode pular por cima."
+
+REFERENCE           KARMA_VOX_VOX_KAR_13_01_012A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Parece parte do sistema de filtração.  O CRC deve ser um ambiente limpo."
+
+REFERENCE           KARMA_VOX_VOX_KAR_13_01_013A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Cuidado, Section.  Contato vai queimar o robô."
+
+REFERENCE           KARMA_VOX_VOX_KAR_1_01_006A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Sabe, se isso não fosse uma operação, acho que eu poderia me dar umas com as minas aqui."
+
+REFERENCE           KARMA_VOX_VOX_KAR_1_01_007A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Esqueceu do Paquistão?  Seu rosto não está muito bom, Harper."
+
+REFERENCE           KARMA_VOX_VOX_KAR_1_01_008A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Ei, não é o rosto. É o corpo que eles vão querer."
+
+REFERENCE           KARMA_VOX_VOX_KAR_1_01_009A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Vamos, cara."
+
+REFERENCE           KARMA_VOX_VOX_KAR_1_01_010A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Algo errado, Section?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_1_01_011A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Ei, temos um prazo aqui, cara."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_01_001A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7ASDs... Você acha que eles esperam problemas?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_01_002A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7É a cidade mais rica do mundo."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_01_003A_SECT_D
+LANG_ENGLISH        "^1Section: ^7O que a torna um provável alvo para Raul Menendez."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_02_002A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7Droga, Cabeça de Ovo.  Achei que fomos descobertos naquela vez."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_02_002A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7Ai, cara, Cabeça de Ovo.  Achei que fomos descobertos naquela vez."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_03_002A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7O que você está esperando?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_03_003A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7Ei!  Pare de ficar olhando as minas.  Precisamos nos apressar.  Vamos."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_03_003A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7Ei!  Pare de ficar olhando as minas.  Precisamos nos apressar.  Vamos."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_05_001A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Relaxa, Harper.  Eu disse que a blindagem funcionaria.  O scanner não viu nada."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_05_002A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Tudo bem, agora mostre seu ID e passe direto."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_05_006A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Olá senhoritas.  Somos do sindicato."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_05_007A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7As pessoas não fazem muito no Colossus."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_05_009A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7O que é isso?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_05_010A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7É só isso?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_3_01_002A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7É um sistema automatizado.  É acionado pelo seu ID biométrico."
+
+REFERENCE           KARMA_VOX_VOX_KAR_3_02_003A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Uau!  Olha isso.  Esse lugar é incrível, hein?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_3_02_004A_SECT_M
+LANG_ENGLISH        "^1Section: ^7Menendez escolheu um lugar do inferno para esconder sua arma Karma..."
+
+REFERENCE           KARMA_VOX_VOX_KAR_3_02_004A_SECT_S
+LANG_ENGLISH        "^1Section: ^7Menendez escolheu um lugar inteligente para esconder sua arma Karma..."
+
+REFERENCE           KARMA_VOX_VOX_KAR_3_03_001A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Ei... Quanto custaria passar um fim de semana aqui?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_3_03_002A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Mais do que você ganha em um ano."
+
+REFERENCE           KARMA_VOX_VOX_KAR_3_03_003A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Não admira que Menendez tenha tanto apoio."
+
+REFERENCE           KARMA_VOX_VOX_KAR_3_05_003A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Até agora, tudo bem."
+
+REFERENCE           KARMA_ZAPPER_PROXIMITY_WARNING
+LANG_ENGLISH        "AVISO: Campo Elétrico"
+
+REFERENCE           SCRIPT_AFGHANSTINGER_DETONATE_HINT
+LANG_ENGLISH        "Pressione^3[{+attack}]^7para detonar"
+
+REFERENCE           SCRIPT_AFGHANSTINGER_SWITCHTO_LOCKON
+LANG_ENGLISH        "Pressione^3[{+actionslot 3}]^7para alternar para o modo de bloqueio da aeronave"
+
+REFERENCE           SCRIPT_AMMO_REFILL
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para reabastecer munição"
+
+REFERENCE           SCRIPT_AM_BONUS_HARDEST_2_KILL
+LANG_ENGLISH        "Mais Difícil de Matar +&&1"
+
+REFERENCE           SCRIPT_AM_BONUS_MOST_HEADSHOTS
+LANG_ENGLISH        "Maior número de fotos na cabeça +&&1"
+
+REFERENCE           SCRIPT_AM_BONUS_MOST_REVIVES
+LANG_ENGLISH        "Mais reanimações +&&1"
+
+REFERENCE           SCRIPT_AM_DIFFICULTY_BONUS
+LANG_ENGLISH        "Bônus de Dificuldade"
+
+REFERENCE           SCRIPT_AM_DIFFICULTY_BONUS_X
+LANG_ENGLISH        "x &&1"
+
+REFERENCE           SCRIPT_AM_LOW_SCORE_WARNING
+LANG_ENGLISH        "AVISO: Você será expulso por pontuação negativa muito baixa"
+
+REFERENCE           SCRIPT_AM_MISSION_SCORE
+LANG_ENGLISH        "Pontuação da Missão"
+
+REFERENCE           SCRIPT_AM_NEW_HIGH_SCORE
+LANG_ENGLISH        "NOVA PONTUAÇÃO ALTA!"
+
+REFERENCE           SCRIPT_AM_PLAYERNAME
+LANG_ENGLISH        "&&1"
+
+REFERENCE           SCRIPT_AM_PLAYER_KICKED
+LANG_ENGLISH        "&&1 foi expulso"
+
+REFERENCE           SCRIPT_AM_ROUND_BONUS
+LANG_ENGLISH        "Bônus de Rodada"
+
+REFERENCE           SCRIPT_AM_STREAK_BONUS_LOST
+LANG_ENGLISH        "Bônus Expirado"
+
+REFERENCE           SCRIPT_AM_STREAK_COMPLETE
+LANG_ENGLISH        "Bônus concluído"
+
+REFERENCE           SCRIPT_AM_SUICIDE_COMMITED
+LANG_ENGLISH        "Você foi penalizado por cometer suicídio"
+
+REFERENCE           SCRIPT_AM_SUICIDE_KICKED
+LANG_ENGLISH        "Você foi chutado por cometer muitos suicídios"
+
+REFERENCE           SCRIPT_AM_SUICIDE_ONE_LAST_GO
+LANG_ENGLISH        "Você está a um suicídio de ser chutado"
+
+REFERENCE           SCRIPT_AM_X
+LANG_ENGLISH        "x"
+
+REFERENCE           SCRIPT_ARMOR_DAMAGE
+LANG_ENGLISH        "A armadura só pode ser danificada\npor C4 e foguetes."
+
+REFERENCE           SCRIPT_ARTILLERY_TOOFAR
+LANG_ENGLISH        "Você está muito longe do seu rádio para usar artilharia."
+
+REFERENCE           SCRIPT_C4_USE
+LANG_ENGLISH        "Pressione^3 [{+actionslot 2}] ^7para usar C4."
+
+REFERENCE           SCRIPT_CLEARBUILDING
+LANG_ENGLISH        "Limpe o prédio com as metralhadoras."
+
+REFERENCE           SCRIPT_COLLECTIBLE
+LANG_ENGLISH        "Intel adquirida"
+
+REFERENCE           SCRIPT_COLLECTIBLE_FOUND
+LANG_ENGLISH        "Encontrado %1 de %2 informações."
+
+REFERENCE           SCRIPT_COLLECTIBLE_PICKUP
+LANG_ENGLISH        "Mantenha^3&&1^7para adquirir Intel"
+
+REFERENCE           SCRIPT_COLON
+LANG_ENGLISH        ":"
+
+REFERENCE           SCRIPT_COMPROMISE_FAIL
+LANG_ENGLISH        "Suas ações comprometeram a missão"
+
+REFERENCE           SCRIPT_DEBUG_LEVEL_END
+LANG_ENGLISH        "Fim do nível atual."
+
+REFERENCE           SCRIPT_DOLLAR
+LANG_ENGLISH        "$"
+
+REFERENCE           SCRIPT_ELIMINATE_THE_FLAK_88
+LANG_ENGLISH        "Elimine as tripulações do Flak 88. [ &&1 restantes]"
+
+REFERENCE           SCRIPT_ELIMINATE_THE_FLAK_88_DONE
+LANG_ENGLISH        "Elimine as tripulações do Flak 88."
+
+REFERENCE           SCRIPT_EXPLODING_BARREL_DEATH
+LANG_ENGLISH        "Você foi morto pela explosão de um barril.\nBarris vermelhos explodirão quando disparados."
+
+REFERENCE           SCRIPT_EXPLODING_NITROGEN_TANK_DEATH
+LANG_ENGLISH        "Você foi morto pela explosão de um tanque de nitrogênio.\nOs tanques de nitrogênio explodirão quando atingidos."
+
+REFERENCE           SCRIPT_EXPLODING_VEHICLE_DEATH
+LANG_ENGLISH        "Você foi morto pela explosão de um veículo.\nVeículos em chamas provavelmente explodirão."
+
+REFERENCE           SCRIPT_EXPLOSIVESPLANTED
+LANG_ENGLISH        "EXPLOSIVOS PLANTADOS. Afaste-se!"
+
+REFERENCE           SCRIPT_EXPLOSIVE_BOLT_DEATH
+LANG_ENGLISH        "Você foi morto por um raio explosivo."
+
+REFERENCE           SCRIPT_EXPLOSIVE_FLECHETTE_DEATH
+LANG_ENGLISH        "Você foi morto por uma flecha explosiva."
+
+REFERENCE           SCRIPT_FIRE_DIRECTION
+LANG_ENGLISH        "Pressione^3[{+actionslot 1}]^7para segmentar"
+
+REFERENCE           SCRIPT_FIRE_DIRECTION_CLAW
+LANG_ENGLISH        "Pressione^3[{+actionslot 1}]^7para segmentar"
+
+REFERENCE           SCRIPT_FIRE_DIRECTION_CONFIRM
+LANG_ENGLISH        "Pressione^3[{+attack}]^7para confirmar o alvo"
+
+REFERENCE           SCRIPT_FIRE_TO_SKIP
+LANG_ENGLISH        "Clique em FOGO para pular."
+
+REFERENCE           SCRIPT_GLOWING_MARKER
+LANG_ENGLISH        "Procure o marcador brilhante no veículo antiaéreo alemão."
+
+REFERENCE           SCRIPT_GOD_ROD
+LANG_ENGLISH        "Pressione^3[{+actionslot 4}]^7para direcionar"
+
+REFERENCE           SCRIPT_GOD_ROD_INVALID_TARGET
+LANG_ENGLISH        "Área de destino inválida"
+
+REFERENCE           SCRIPT_GOD_ROD_OFFLINE
+LANG_ENGLISH        "Arma de ataque cinético - offline"
+
+REFERENCE           SCRIPT_GOD_ROD_WIIU
+LANG_ENGLISH        "Pressione^3[{+actionslot 4}]^7para direcionar"
+
+REFERENCE           SCRIPT_GRENADE_DEATH
+LANG_ENGLISH        "Você foi morto por uma granada.\nCuidado com o indicador de perigo da granada."
+
+REFERENCE           SCRIPT_GRENADE_SUICIDE_LINE1
+LANG_ENGLISH        "Você morreu segurando uma granada por muito tempo."
+
+REFERENCE           SCRIPT_GRENADE_SUICIDE_LINE2
+LANG_ENGLISH        "Segurar um botão de granada permite que você cozinhe granadas vivas."
+
+REFERENCE           SCRIPT_HINTSTR_GRENADESFULL
+LANG_ENGLISH        "Você não pode mais carregar granadas."
+
+REFERENCE           SCRIPT_HINT_BIGDOG_BULLET_DAMAGE
+LANG_ENGLISH        "Metralhadoras e pistolas comuns não podem penetrar na armadura."
+
+REFERENCE           SCRIPT_HINT_BIGDOG_CHARGED_SHOT
+LANG_ENGLISH        "Carregue seu tiro para penetrar na armadura."
+
+REFERENCE           SCRIPT_HINT_BRUTE_FORCE
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para forçar abertura"
+
+REFERENCE           SCRIPT_HINT_CAMO_SUIT_ACTIVATE
+LANG_ENGLISH        "Pressione^3[{+actionslot 2}]^7para camuflagem óptica"
+
+REFERENCE           SCRIPT_HINT_CAMO_SUIT_OFF
+LANG_ENGLISH        "Camuflagem: Desativado"
+
+REFERENCE           SCRIPT_HINT_CAMO_SUIT_ON
+LANG_ENGLISH        "Camuflagem: Habilitada"
+
+REFERENCE           SCRIPT_HINT_CANT_DISMOUNT_HERE
+LANG_ENGLISH        "Não posso desmontar aqui."
+
+REFERENCE           SCRIPT_HINT_CANT_OPEN_DOORS
+LANG_ENGLISH        "Esta porta não pode ser aberta. Você nunca precisa tentar abrir portas fechadas."
+
+REFERENCE           SCRIPT_HINT_DOOR
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para abrir a porta"
+
+REFERENCE           SCRIPT_HINT_HACK
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para hackear"
+
+REFERENCE           SCRIPT_HINT_INTRUDER
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para cortar"
+
+REFERENCE           SCRIPT_HINT_LEANINGSLOWMOVE
+LANG_ENGLISH        "Você se move mais devagar enquanto se inclina."
+
+REFERENCE           SCRIPT_HINT_LOCK_BREAKER
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para arrombar a fechadura"
+
+REFERENCE           SCRIPT_HINT_MELEE
+LANG_ENGLISH        "Pressione^3[{+melee}]^7para corpo a corpo"
+
+REFERENCE           SCRIPT_HINT_OBJECTIVEONCOMPASS
+LANG_ENGLISH        "A estrela na sua bússola marca seu próximo objetivo"
+
+REFERENCE           SCRIPT_HINT_PICKUPAMMOKEY
+LANG_ENGLISH        "Para pegar munição de outra arma, ande perto dela ou olhe para ela e pressione USE [ &&1 ]."
+
+REFERENCE           SCRIPT_HINT_THROW_C4
+LANG_ENGLISH        "Pressione^3[{+throw}]^7para lançar C4."
+
+REFERENCE           SCRIPT_HINT_THROW_C4_SPEED
+LANG_ENGLISH        "Pressione^3[{+speed_throw}]^7para lançar C4."
+
+REFERENCE           SCRIPT_HINT_THROW_C4_SPEED_TRIGGER
+LANG_ENGLISH        "Puxe ^3[{+speed_throw}]^7 para lançar C4."
+
+REFERENCE           SCRIPT_HINT_THROW_C4_TOGGLE
+LANG_ENGLISH        "Pressione^3[{+toggleads_throw}]^7para lançar C4."
+
+REFERENCE           SCRIPT_HOLD_TO_USE
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para usar"
+
+REFERENCE           SCRIPT_INTELLIGENCE_FOUND
+LANG_ENGLISH        "Você encontrou informações inimigas."
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_FOURTYFIVE
+LANG_ENGLISH        "&&1 /45 informações inimigas encontradas."
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_SIXTY
+LANG_ENGLISH        "&&1 /60 informações inimigas encontradas."
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_THIRTY
+LANG_ENGLISH        "&&1 /30 informações inimigas encontradas."
+
+REFERENCE           SCRIPT_INTELLIGENCE_ONEREMAINING
+LANG_ENGLISH        "Restam &&1 informações inimigas."
+
+REFERENCE           SCRIPT_INTELLIGENCE_PICKUP
+LANG_ENGLISH        "Pressione e segure^3&&1^7para proteger a inteligência inimiga."
+
+REFERENCE           SCRIPT_INTELLIGENCE_PTS
+LANG_ENGLISH        "Você encontrou &&1 pontos de inteligência inimigos."
+
+REFERENCE           SCRIPT_INTELLIGENCE_REMAINING
+LANG_ENGLISH        "Restam &&1 peças de informação inimiga."
+
+REFERENCE           SCRIPT_LEARN_CHOPPER_AIR_SUPPORT1
+LANG_ENGLISH        "Apoio Aéreo Fechado em prontidão!"
+
+REFERENCE           SCRIPT_LEARN_CHOPPER_AIR_SUPPORT1_PC
+LANG_ENGLISH        "Apoio Aéreo Fechado em prontidão! Pressione^3[{+ slot de ação 4}]."
+
+REFERENCE           SCRIPT_LEARN_CLAYMORES
+LANG_ENGLISH        "Pressione ^3[{+actionslot 4}]^7 para usar claymores."
+
+REFERENCE           SCRIPT_LEARN_CLAYMORE_PLACEMENT
+LANG_ENGLISH        "Pressione^3 [{+attack}] ^7para plantar claymores."
+
+REFERENCE           SCRIPT_LEARN_GRENADE_LAUNCHER
+LANG_ENGLISH        "Pressione^3[{+actionslot 3}]^7para usar o lançador de granadas M203."
+
+REFERENCE           SCRIPT_LEARN_M14_SWITCH
+LANG_ENGLISH        "Pressione^3[{weapnext}]^7para mudar para seu rifle de precisão M21"
+
+REFERENCE           SCRIPT_MANTLE
+LANG_ENGLISH        "Pressione ^3[{+gostand}]^7 para "
+
+REFERENCE           SCRIPT_MINUS
+LANG_ENGLISH        "-"
+
+REFERENCE           SCRIPT_MINUS_AMOUNT
+LANG_ENGLISH        "-%s"
+
+REFERENCE           SCRIPT_MINUS_DOLLAR
+LANG_ENGLISH        "-$"
+
+REFERENCE           SCRIPT_MISSIONFAIL_ESCAPE
+LANG_ENGLISH        "Você não conseguiu escapar a tempo."
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_AMERICAN
+LANG_ENGLISH        "Fogo amigo não será tolerado!"
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_BRITISH
+LANG_ENGLISH        "Fogo amigo não será tolerado!"
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_NEUTRAL
+LANG_ENGLISH        "Você atirou em um civil, cuidado com o fogo!"
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_RUSSIAN
+LANG_ENGLISH        "Você é um traidor de seus irmãos!"
+
+REFERENCE           SCRIPT_MOVING_VEHICLE_DEATH
+LANG_ENGLISH        "Você foi morto por um veículo em movimento."
+
+REFERENCE           SCRIPT_NIGHTVISION_STOP_USE
+LANG_ENGLISH        "Pressione^3 [{+actionslot 1}] ^7para desligar a Visão Noturna."
+
+REFERENCE           SCRIPT_NIGHTVISION_USE
+LANG_ENGLISH        "Pressione^3 [{+actionslot 1}] ^7para usar Visão Noturna."
+
+REFERENCE           SCRIPT_OBJ_DESTROYFLAKPANZERS
+LANG_ENGLISH        "Destrua os tanques antiaéreos 'Flakpanzer'. [ &&1 restantes]"
+
+REFERENCE           SCRIPT_OBJ_FOLEYDEBRIEF
+LANG_ENGLISH        "Converse com o Capitão Foley na encruzilhada."
+
+REFERENCE           SCRIPT_PICKUPSTIELHANDGRANATES
+LANG_ENGLISH        "Peguei algumas Stielhandgranates."
+
+REFERENCE           SCRIPT_PLUS
+LANG_ENGLISH        "+"
+
+REFERENCE           SCRIPT_PLUS_AMOUNT
+LANG_ENGLISH        "+%s"
+
+REFERENCE           SCRIPT_PLUS_DOLLAR
+LANG_ENGLISH        "+$"
+
+REFERENCE           SCRIPT_RADIATION_DEATH
+LANG_ENGLISH        "Evite as zonas de radiação.\nOuça os cliques do contador Geiger."
+
+REFERENCE           SCRIPT_SHOT_TEAMMATE
+LANG_ENGLISH        "Você atirou em um companheiro de equipe!"
+
+REFERENCE           SCRIPT_TAKELEFTFLANK
+LANG_ENGLISH        "Pegue o flanco esquerdo."
+
+REFERENCE           SCRIPT_TANKSHELL_DEATH
+LANG_ENGLISH        "Você foi morto por um projétil de tanque!"
+
+REFERENCE           SCRIPT_TIME_REMAINING
+LANG_ENGLISH        "TEMPO RESTANTE:"
+
+REFERENCE           SCRIPT_TOTAL_SCORE
+LANG_ENGLISH        "PONTUAÇÃO TOTAL:"
+
+REFERENCE           SCRIPT_USE_THE_PANZERFAUST_ANTITANK
+LANG_ENGLISH        "Use as armas antitanque Panzerfaust atrás do bunker para destruir os tanques."
+
+REFERENCE           SCRIPT_X2
+LANG_ENGLISH        "x2"
+
+REFERENCE           SCRIPT_X3
+LANG_ENGLISH        "x3"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_ENGLISH        "Munição"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_ENGLISH        "Violação"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_ENGLISH        "Limpar"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_ENGLISH        "Escala"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_ENGLISH        "defender"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_ENGLISH        "destruir"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_ENGLISH        "Detonar"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_ENGLISH        "Inutilizável"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_ENGLISH        "Digitar"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_ENGLISH        "Escolta"
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_ENGLISH        "Prossiga"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_ENGLISH        "Ajuda"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_ENGLISH        "Eles chegam (helicópteros)"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_ENGLISH        "(tanques) chegam"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_ENGLISH        "Acesso"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_ENGLISH        "Salto"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_ENGLISH        "Matar"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_ENGLISH        "Corpo a corpo"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_ENGLISH        "Escolher"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_ENGLISH        "Proteger"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_ENGLISH        "Descer"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_ENGLISH        "Reagrupar"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_ENGLISH        "Procura"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_ENGLISH        "Atire"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_ENGLISH        "Apoio"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_ENGLISH        "Varrer"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_ENGLISH        "Branco"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_ENGLISH        "Usar"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_ENGLISH        "Armas"
