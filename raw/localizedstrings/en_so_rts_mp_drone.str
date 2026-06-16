@@ -6,13 +6,13 @@ REFERENCE           KILLSTREAK_AIRSPACE_FULL
 LANG_ENGLISH        "Suporte aéreo não está disponível"
 
 REFERENCE           KILLSTREAK_AI_TANK_1_ROCKETS
-LANG_ENGLISH        "^3[{+speed_throw}]^7 1 Rockets Ready"
+LANG_ENGLISH        "^3[{+speed_throw}]^7 1 FOGUETE PRONTO"
 
 REFERENCE           KILLSTREAK_AI_TANK_2_ROCKETS
-LANG_ENGLISH        "^3[{+speed_throw}]^7 2 Rockets Ready"
+LANG_ENGLISH        "^3[{+speed_throw}]^7 2 FOGUETES PRONTOS"
 
 REFERENCE           KILLSTREAK_AI_TANK_3_ROCKETS
-LANG_ENGLISH        "^3[{+speed_throw}]^7 3 Rockets Ready"
+LANG_ENGLISH        "^3[{+speed_throw}]^7 3 FOGUETES PRONTOS"
 
 REFERENCE           KILLSTREAK_AI_TANK_CRATE
 LANG_ENGLISH        "Segure ^3&&1^7 para A.G.R."
@@ -24,25 +24,25 @@ REFERENCE           KILLSTREAK_AI_TANK_DROP
 LANG_ENGLISH        "A.G.R."
 
 REFERENCE           KILLSTREAK_AI_TANK_GUNS
-LANG_ENGLISH        "^3[{+attack}]^7 Fire Machine Guns"
+LANG_ENGLISH        "^3[{+attack}]^7 ATIRAR METRALHADORAS"
 
 REFERENCE           KILLSTREAK_AI_TANK_INBOUND
-LANG_ENGLISH        "A.G.R. Inbound"
+LANG_ENGLISH        "A.G.R. A CAMINHO"
 
 REFERENCE           KILLSTREAK_AI_TANK_NOT_AVAILABLE
 LANG_ENGLISH        "A.G.R. não disponível"
 
 REFERENCE           KILLSTREAK_AI_TANK_ROCKETS
-LANG_ENGLISH        "^3[{+speed_throw}]^7 Fire Rockets"
+LANG_ENGLISH        "^3[{+speed_throw}]^7 ATIRAR FOGUETES"
 
 REFERENCE           KILLSTREAK_AMMO_CRATE
 LANG_ENGLISH        "Segure ^3&&1^7 para munição"
 
 REFERENCE           KILLSTREAK_AUTO_TURRET
-LANG_ENGLISH        "Sentry Gun"
+LANG_ENGLISH        "ARMA SENTINELA"
 
 REFERENCE           KILLSTREAK_AUTO_TURRET_CAPS
-LANG_ENGLISH        "SENTRY GUN"
+LANG_ENGLISH        "ARMA SENTINELA"
 
 REFERENCE           KILLSTREAK_AUTO_TURRET_CRATE
 LANG_ENGLISH        "Segure ^3&&1^7 para Sentinela"
@@ -51,16 +51,16 @@ REFERENCE           KILLSTREAK_AUTO_TURRET_DESC
 LANG_ENGLISH        "Implante uma Sentry Gun automatizada.  Pode ser controlado remotamente."
 
 REFERENCE           KILLSTREAK_AUTO_TURRET_DROP
-LANG_ENGLISH        "Sentry Gun"
+LANG_ENGLISH        "ARMA SENTINELA"
 
 REFERENCE           KILLSTREAK_AUTO_TURRET_DROP_DESC
-LANG_ENGLISH        "Airdrop a placeable Sentry Gun."
+LANG_ENGLISH        "Lance aereo de uma Arma Sentinela colocavel."
 
 REFERENCE           KILLSTREAK_AUTO_TURRET_NOT_AVAILABLE
 LANG_ENGLISH        "Sentinela não disponível"
 
 REFERENCE           KILLSTREAK_CAPTURING_CRATE
-LANG_ENGLISH        "Capturing Crate"
+LANG_ENGLISH        "CAPTURANDO CAIXA"
 
 REFERENCE           KILLSTREAK_CHOPPER_GUNNER_NOT_USABLE
 LANG_ENGLISH        "VTOL não pode ser usado neste local"
@@ -69,13 +69,13 @@ REFERENCE           KILLSTREAK_COUNTERU2_CRATE
 LANG_ENGLISH        "Segure ^3&&1^7 para Contra-UAV"
 
 REFERENCE           KILLSTREAK_COUNTERUAV_INBOUND
-LANG_ENGLISH        "Counter-UAV inbound"
+LANG_ENGLISH        "CONTRA-UAV A CAMINHO"
 
 REFERENCE           KILLSTREAK_COUNTERUAV_NOT_AVAILABLE
 LANG_ENGLISH        "Contra-UAV não disponível"
 
 REFERENCE           KILLSTREAK_COUNTER_UAV
-LANG_ENGLISH        "Counter-UAV"
+LANG_ENGLISH        "CONTRA-UAV"
 
 REFERENCE           KILLSTREAK_COUNTER_UAV_DESC
 LANG_ENGLISH        "Desativa temporariamente o minimapa inimigo."
@@ -87,7 +87,7 @@ REFERENCE           KILLSTREAK_DESTROYED_COUNTERUAV
 LANG_ENGLISH        "Contra-UAV destruído"
 
 REFERENCE           KILLSTREAK_DESTROYED_HELICOPTER
-LANG_ENGLISH        "Destroyed Helicopter"
+LANG_ENGLISH        "HELICOPTERO DESTRUIDO"
 
 REFERENCE           KILLSTREAK_DESTROYED_HELICOPTER_GUNNER
 LANG_ENGLISH        "Navio de guerra VTOL destruído"
@@ -99,7 +99,7 @@ REFERENCE           KILLSTREAK_DESTROYED_UAV
 LANG_ENGLISH        "UAV destruído"
 
 REFERENCE           KILLSTREAK_DOGS
-LANG_ENGLISH        "K9 Unit"
+LANG_ENGLISH        "UNIDADE K9"
 
 REFERENCE           KILLSTREAK_DOGS_CRATE
 LANG_ENGLISH        "Segure ^3&&1^7 para Unidade K9"
@@ -111,7 +111,7 @@ REFERENCE           KILLSTREAK_DOGS_DESTROYED_CHALLENGE_DESC
 LANG_ENGLISH        "Matar cães &&1"
 
 REFERENCE           KILLSTREAK_DOGS_INBOUND
-LANG_ENGLISH        "K9 Unit inbound"
+LANG_ENGLISH        "UNIDADE K9 A CAMINHO"
 
 REFERENCE           KILLSTREAK_DOGS_LVL2_DESC
 LANG_ENGLISH        "8 cães de ataque que caçam o inimigo."
@@ -204,7 +204,7 @@ REFERENCE           KILLSTREAK_EARNED_TOW_TURRET
 LANG_ENGLISH        "Pressione ^3[{+actionslot 4}]^7 para bateria SAM"
 
 REFERENCE           KILLSTREAK_EMP
-LANG_ENGLISH        "EMP Systems"
+LANG_ENGLISH        "SISTEMAS EMP"
 
 REFERENCE           KILLSTREAK_EMP_CRATE
 LANG_ENGLISH        "Segure ^3&&1^7 para sistemas EMP"
@@ -213,7 +213,7 @@ REFERENCE           KILLSTREAK_EMP_DESC
 LANG_ENGLISH        "Desativa temporariamente os eletrônicos inimigos."
 
 REFERENCE           KILLSTREAK_EMP_INBOUND
-LANG_ENGLISH        "EMP detonated"
+LANG_ENGLISH        "EMP DETONADO"
 
 REFERENCE           KILLSTREAK_EMP_NOT_AVAILABLE
 LANG_ENGLISH        "Sistemas EMP não disponíveis"
@@ -222,13 +222,13 @@ REFERENCE           KILLSTREAK_HACKING_CRATE
 LANG_ENGLISH        "Caixa de captura e armadilha"
 
 REFERENCE           KILLSTREAK_HELICOPTER_COMLINK
-LANG_ENGLISH        "Stealth Chopper"
+LANG_ENGLISH        "HELICOPTERO FURTIVO"
 
 REFERENCE           KILLSTREAK_HELICOPTER_COMLINK_DESC
 LANG_ENGLISH        "Chame um helicóptero furtivo.  Não aparece no minimapa do inimigo."
 
 REFERENCE           KILLSTREAK_HELICOPTER_COMLINK_INBOUND
-LANG_ENGLISH        "Stealth Chopper inbound"
+LANG_ENGLISH        "HELICOPTERO FURTIVO A CAMINHO"
 
 REFERENCE           KILLSTREAK_HELICOPTER_COMLINK_NOT_AVAILABLE
 LANG_ENGLISH        "Chopper furtivo não disponível"
@@ -237,7 +237,7 @@ REFERENCE           KILLSTREAK_HELICOPTER_CRATE
 LANG_ENGLISH        "Segure ^3&&1^7 para Stealth Chopper"
 
 REFERENCE           KILLSTREAK_HELICOPTER_GUARD
-LANG_ENGLISH        "Escort Drone"
+LANG_ENGLISH        "DRONE DE ESCOLTA"
 
 REFERENCE           KILLSTREAK_HELICOPTER_GUARD_CRATE
 LANG_ENGLISH        "Segure ^3&&1^7 para Drone de Escolta"
@@ -246,13 +246,13 @@ REFERENCE           KILLSTREAK_HELICOPTER_GUARD_DESC
 LANG_ENGLISH        "Obtenha suporte aéreo pessoal de um Drone de Escolta."
 
 REFERENCE           KILLSTREAK_HELICOPTER_GUARD_INBOUND
-LANG_ENGLISH        "Escort Drone inbound"
+LANG_ENGLISH        "DRONE DE ESCOLTA A CAMINHO"
 
 REFERENCE           KILLSTREAK_HELICOPTER_GUARD_NOT_AVAILABLE
 LANG_ENGLISH        "Drone de escolta não disponível"
 
 REFERENCE           KILLSTREAK_HELICOPTER_GUNNER
-LANG_ENGLISH        "VTOL Warship"
+LANG_ENGLISH        "NAVIO DE GUERRA VTOL"
 
 REFERENCE           KILLSTREAK_HELICOPTER_GUNNER_CRATE
 LANG_ENGLISH        "Segure ^3&&1^7 para navio de guerra VTOL"
@@ -261,28 +261,28 @@ REFERENCE           KILLSTREAK_HELICOPTER_GUNNER_DESC
 LANG_ENGLISH        "Seja o artilheiro de um poderoso navio de guerra VTOL."
 
 REFERENCE           KILLSTREAK_HELICOPTER_GUNNER_INBOUND
-LANG_ENGLISH        "VTOL Warship inbound"
+LANG_ENGLISH        "NAVIO DE GUERRA VTOL A CAMINHO"
 
 REFERENCE           KILLSTREAK_HELICOPTER_GUNNER_NOT_AVAILABLE
 LANG_ENGLISH        "Navio de guerra VTOL não disponível"
 
 REFERENCE           KILLSTREAK_HELICOPTER_PLAYER
-LANG_ENGLISH        "Gunship"
+LANG_ENGLISH        "NAVIO AEREO"
 
 REFERENCE           KILLSTREAK_HELICOPTER_PLAYER_CRATE
 LANG_ENGLISH        "Segure ^3&&1^7 para Gunship"
 
 REFERENCE           KILLSTREAK_HELICOPTER_PLAYER_DESC
-LANG_ENGLISH        "Pilot an attack helicopter."
+LANG_ENGLISH        "Pilote um helicoptero de ataque."
 
 REFERENCE           KILLSTREAK_HELICOPTER_PLAYER_INBOUND
-LANG_ENGLISH        "Gunship inbound"
+LANG_ENGLISH        "NAVIO AEREO A CAMINHO"
 
 REFERENCE           KILLSTREAK_HELICOPTER_PLAYER_NOT_AVAILABLE
 LANG_ENGLISH        "Arma não disponível"
 
 REFERENCE           KILLSTREAK_INCREASE_ZOOM
-LANG_ENGLISH        "^3[{+speed_throw}]^7 Increase Zoom"
+LANG_ENGLISH        "^3[{+speed_throw}]^7 AUMENTAR ZOOM"
 
 REFERENCE           KILLSTREAK_KILLCOUNT_DISPLAY
 LANG_ENGLISH        "&&1 Sequência de mortes!"
@@ -303,7 +303,7 @@ REFERENCE           KILLSTREAK_KILLS_SATELLITE_DESC
 LANG_ENGLISH        "Mate &&1 inimigos enquanto você tem um VSAT Orbital no ar."
 
 REFERENCE           KILLSTREAK_KILLS_U2
-LANG_ENGLISH        "Actionable Intel"
+LANG_ENGLISH        "INTELIGENCIA OPERACIONAL"
 
 REFERENCE           KILLSTREAK_KILLS_U2_DESC
 LANG_ENGLISH        "Mate &&1 inimigos enquanto você tem um UAV no ar."
@@ -318,13 +318,13 @@ REFERENCE           KILLSTREAK_M202_FLASH_DESC
 LANG_ENGLISH        "Um lançador de foguetes semiautomático com capacidade de bloqueio."
 
 REFERENCE           KILLSTREAK_M202_FLASH_DROP
-LANG_ENGLISH        "Grim Reaper"
+LANG_ENGLISH        "CEIFADOR"
 
 REFERENCE           KILLSTREAK_M202_FLASH_DROP_DESC
 LANG_ENGLISH        "Um lançador de foguetes semiautomático com capacidade de bloqueio."
 
 REFERENCE           KILLSTREAK_M202_FLASH_INBOUND
-LANG_ENGLISH        "Grim Reaper equipped"
+LANG_ENGLISH        "CEIFADOR EQUIPADO"
 
 REFERENCE           KILLSTREAK_M202_FLASH_KILLS_CHALLENGE_DESC
 LANG_ENGLISH        "Mate &&1 jogadores inimigos ou aeronaves com o Grim Reaper."
@@ -333,7 +333,7 @@ REFERENCE           KILLSTREAK_M202_FLASH_NOT_AVAILABLE
 LANG_ENGLISH        "Grim Reaper não disponível"
 
 REFERENCE           KILLSTREAK_M220_TOW
-LANG_ENGLISH        "Valkyrie Rockets"
+LANG_ENGLISH        "FOGUETES VALQUIRIA"
 
 REFERENCE           KILLSTREAK_M220_TOW_CRATE
 LANG_ENGLISH        "Segure ^3&&1^7 para Valkyrie Rockets"
@@ -342,13 +342,13 @@ REFERENCE           KILLSTREAK_M220_TOW_DESC
 LANG_ENGLISH        "Lançador com foguetes controlados remotamente."
 
 REFERENCE           KILLSTREAK_M220_TOW_DROP
-LANG_ENGLISH        "Valkyrie Rockets"
+LANG_ENGLISH        "FOGUETES VALQUIRIA"
 
 REFERENCE           KILLSTREAK_M220_TOW_DROP_DESC
 LANG_ENGLISH        "Lançador com foguetes controlados remotamente."
 
 REFERENCE           KILLSTREAK_M220_TOW_INBOUND
-LANG_ENGLISH        "Valkyrie Rockets equipped"
+LANG_ENGLISH        "FOGUETES VALQUIRIA EQUIPADOS"
 
 REFERENCE           KILLSTREAK_M220_TOW_NOT_AVAILABLE
 LANG_ENGLISH        "Foguetes Valquíria não disponíveis"
@@ -372,7 +372,7 @@ REFERENCE           KILLSTREAK_M32_DROP_DESC
 LANG_ENGLISH        "Lançador de granadas com disparo semiautomático rápido"
 
 REFERENCE           KILLSTREAK_M32_INBOUND
-LANG_ENGLISH        "War Machine equipped"
+LANG_ENGLISH        "MAQUINA DE GUERRA EQUIPADA"
 
 REFERENCE           KILLSTREAK_M32_NOT_AVAILABLE
 LANG_ENGLISH        "Máquina de Guerra não disponível"
@@ -408,7 +408,7 @@ REFERENCE           KILLSTREAK_MINIGUN_DROP_DESC
 LANG_ENGLISH        "Sua própria Minigun portátil pessoal."
 
 REFERENCE           KILLSTREAK_MINIGUN_INBOUND
-LANG_ENGLISH        "Death Machine equipped"
+LANG_ENGLISH        "MAQUINA DA MORTE EQUIPADA"
 
 REFERENCE           KILLSTREAK_MINIGUN_NOT_AVAILABLE
 LANG_ENGLISH        "Máquina da Morte não disponível"
@@ -423,13 +423,13 @@ REFERENCE           KILLSTREAK_MISSILE_DRONE_DESC
 LANG_ENGLISH        "A infantaria implantou um drone que procura um alvo ou veículo inimigo."
 
 REFERENCE           KILLSTREAK_MISSILE_DRONE_INBOUND
-LANG_ENGLISH        "Hunter Killer Inbound"
+LANG_ENGLISH        "CACADOR ASSASSINO A CAMINHO"
 
 REFERENCE           KILLSTREAK_MISSILE_DRONE_NOT_AVAILABLE
 LANG_ENGLISH        "Assassino de caçador não disponível"
 
 REFERENCE           KILLSTREAK_MISSILE_SWARM
-LANG_ENGLISH        "Swarm"
+LANG_ENGLISH        "ENXAME"
 
 REFERENCE           KILLSTREAK_MISSILE_SWARM_CRATE
 LANG_ENGLISH        "Segure ^3&&1^7 para Swarm"
@@ -438,19 +438,19 @@ REFERENCE           KILLSTREAK_MISSILE_SWARM_DESC
 LANG_ENGLISH        "Chame um enxame de drones letais Hunter Killer."
 
 REFERENCE           KILLSTREAK_MISSILE_SWARM_INBOUND
-LANG_ENGLISH        "Swarm inbound"
+LANG_ENGLISH        "ENXAME A CAMINHO"
 
 REFERENCE           KILLSTREAK_MISSILE_SWARM_NOT_AVAILABLE
 LANG_ENGLISH        "Enxame não disponível"
 
 REFERENCE           KILLSTREAK_MOBILESPAWN_INBOUND
-LANG_ENGLISH        "Mobile Spawn inbound"
+LANG_ENGLISH        "GERACAO MOVEL A CAMINHO"
 
 REFERENCE           KILLSTREAK_MOBILESPAWN_NOT_AVAILABLE
 LANG_ENGLISH        "Spawn Móvel não disponível"
 
 REFERENCE           KILLSTREAK_MORTAR
-LANG_ENGLISH        "Mortar Team"
+LANG_ENGLISH        "EQUIPE DE MORTEIRO"
 
 REFERENCE           KILLSTREAK_MORTAR_CRATE
 LANG_ENGLISH        "Segure ^3&&1^7 para a equipe de morteiro"
@@ -459,13 +459,13 @@ REFERENCE           KILLSTREAK_MORTAR_DESC
 LANG_ENGLISH        "Escolha três locais para bombardear com ataques de morteiro."
 
 REFERENCE           KILLSTREAK_MORTAR_INBOUND
-LANG_ENGLISH        "Mortar Strike inbound"
+LANG_ENGLISH        "ATAQUE DE MORTEIRO A CAMINHO"
 
 REFERENCE           KILLSTREAK_MORTAR_NOT_AVAILABLE
 LANG_ENGLISH        "Equipe de morteiro não disponível"
 
 REFERENCE           KILLSTREAK_NAPALM
-LANG_ENGLISH        "Napalm Strike"
+LANG_ENGLISH        "ATAQUE NAPALM"
 
 REFERENCE           KILLSTREAK_NAPALM_CRATE
 LANG_ENGLISH        "Segure ^3&&1^7 para Napalm Strike"
@@ -486,7 +486,7 @@ REFERENCE           KILLSTREAK_PLANEMORTAR
 LANG_ENGLISH        "Ataque Relâmpago"
 
 REFERENCE           KILLSTREAK_PLANEMORTAR_DESC
-LANG_ENGLISH        "Launch a coordinated Lightning Strike on three locations."
+LANG_ENGLISH        "Lance um Ataque Relampago coordenado em tres locais."
 
 REFERENCE           KILLSTREAK_PLANEMORTAR_NOT_AVAILABLE
 LANG_ENGLISH        "Relâmpago não disponível"
@@ -495,7 +495,7 @@ REFERENCE           KILLSTREAK_PLANE_MORTAR_CRATE
 LANG_ENGLISH        "Segure ^3&&1^7 para relâmpago"
 
 REFERENCE           KILLSTREAK_PRESS_TO_KILLSTREAK
-LANG_ENGLISH        "^3&&1^7 to activate"
+LANG_ENGLISH        "^3&&1^7 para ativar"
 
 REFERENCE           KILLSTREAK_QRDRONE
 LANG_ENGLISH        "Dragonfire"
@@ -507,7 +507,7 @@ REFERENCE           KILLSTREAK_QRDRONE_DESC
 LANG_ENGLISH        "Rotor quádruplo controlado remotamente com uma metralhadora leve."
 
 REFERENCE           KILLSTREAK_QRDRONE_INBOUND
-LANG_ENGLISH        "Dragonfire active"
+LANG_ENGLISH        "DRAGONFIRE ATIVO"
 
 REFERENCE           KILLSTREAK_QRDRONE_NOT_AVAILABLE
 LANG_ENGLISH        "Fogo do Dragão não disponível"
@@ -519,10 +519,10 @@ REFERENCE           KILLSTREAK_RADAR_CRATE
 LANG_ENGLISH        "Segure ^3&&1^7 para UAV"
 
 REFERENCE           KILLSTREAK_RADAR_INBOUND
-LANG_ENGLISH        "UAV inbound"
+LANG_ENGLISH        "UAV A CAMINHO"
 
 REFERENCE           KILLSTREAK_RADAR_INCOMING
-LANG_ENGLISH        "UAV called in by"
+LANG_ENGLISH        "UAV CHAMADO POR"
 
 REFERENCE           KILLSTREAK_RADAR_NOT_AVAILABLE
 LANG_ENGLISH        "UAV não disponível"
@@ -552,19 +552,19 @@ REFERENCE           KILLSTREAK_RECON_DESC
 LANG_ENGLISH        "Mostra os inimigos no minimapa."
 
 REFERENCE           KILLSTREAK_REMOTE_MISSILE
-LANG_ENGLISH        "Hellstorm Missile"
+LANG_ENGLISH        "MISSIL HELLSTORM"
 
 REFERENCE           KILLSTREAK_REMOTE_MISSILE_CRATE
 LANG_ENGLISH        "Segure ^3&&1^7 para o míssil Hellstorm"
 
 REFERENCE           KILLSTREAK_REMOTE_MISSILE_DEPLOY
-LANG_ENGLISH        "^3[{+attack}]^7 Deploy Cluster Bomb"
+LANG_ENGLISH        "^3[{+attack}]^7 LANCAR BOMBA CLUSTER"
 
 REFERENCE           KILLSTREAK_REMOTE_MISSILE_DESC
 LANG_ENGLISH        "Míssil Hellstorm controlado remotamente com carga útil de bomba coletiva."
 
 REFERENCE           KILLSTREAK_REMOTE_MISSILE_INBOUND
-LANG_ENGLISH        "Hellstorm Missile Inbound"
+LANG_ENGLISH        "MISSIL HELLSTORM A CAMINHO"
 
 REFERENCE           KILLSTREAK_REMOTE_MISSILE_NOT_AVAILABLE
 LANG_ENGLISH        "Míssil Hellstorm não disponível"
@@ -582,7 +582,7 @@ REFERENCE           KILLSTREAK_REMOTE_MORTAR_DESC
 LANG_ENGLISH        "Mísseis Lase atingem alvos remotamente da Lodestar."
 
 REFERENCE           KILLSTREAK_REMOTE_MORTAR_INBOUND
-LANG_ENGLISH        "Lodestar inbound"
+LANG_ENGLISH        "LODESTAR A CAMINHO"
 
 REFERENCE           KILLSTREAK_REMOTE_MORTAR_NOT_AVAILABLE
 LANG_ENGLISH        "Estrela Polar não disponível"
@@ -591,7 +591,7 @@ REFERENCE           KILLSTREAK_REMOTE_MORTAR_NOT_USABLE
 LANG_ENGLISH        "Lodestar não pode ser usado neste local"
 
 REFERENCE           KILLSTREAK_SATELLITE
-LANG_ENGLISH        "VSAT orbital"
+LANG_ENGLISH        "VSAT ORBITAL"
 
 REFERENCE           KILLSTREAK_SATELLITE_CRATE
 LANG_ENGLISH        "Segure ^3&&1^7 para VSAT orbital"
@@ -600,7 +600,7 @@ REFERENCE           KILLSTREAK_SATELLITE_DESC
 LANG_ENGLISH        "Mostra a posição e a direção do inimigo no minimapa. Não pode ser abatido."
 
 REFERENCE           KILLSTREAK_SATELLITE_INBOUND
-LANG_ENGLISH        "Orbital VSAT active"
+LANG_ENGLISH        "VSAT ORBITAL ATIVO"
 
 REFERENCE           KILLSTREAK_SATELLITE_NOT_AVAILABLE
 LANG_ENGLISH        "VSAT orbital não disponível"
@@ -633,7 +633,7 @@ REFERENCE           KILLSTREAK_SUPPLY_DROP_DISARM_HINT
 LANG_ENGLISH        "Segure ^3&&1^7 para desarmar a caixa com armadilha"
 
 REFERENCE           KILLSTREAK_SUPPLY_DROP_INBOUND
-LANG_ENGLISH        "Care Package Inbound"
+LANG_ENGLISH        "PACOTE DE SUPRIMENTOS A CAMINHO"
 
 REFERENCE           KILLSTREAK_TOW_TURRET
 LANG_ENGLISH        "Bateria Sam"

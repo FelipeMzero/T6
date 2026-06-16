@@ -1,4 +1,4 @@
-VERSION             "1"
+﻿VERSION             "1"
 CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
 FILENOTES           ""
 
@@ -5847,7 +5847,7 @@ REFERENCE           MPUI_SPREMINDER_TOP_BODY
 LANG_SPANISH        "Como proprietário do Passe de Temporada, você já possui os seguintes pacotes de mapas de Call of Duty: Black Ops 2 e recomendamos que você os instale:\n"
 
 REFERENCE           MPUI_START_XBOX_PARTY
-LANG_SPANISH        "Inicie uma festa Xbox LIVE"
+LANG_SPANISH        "Inicie uma sala Xbox LIVE"
 
 REFERENCE           MPUI_STATS_ABSENT
 LANG_SPANISH        "Ocorreu um erro ao acessar dados de classificação persistente ( &&1 )."

@@ -189,7 +189,7 @@ REFERENCE           ZM_TOMB_SHPU
 LANG_SPANISH        "Segure^3[{+activate}]^7para pegar a pá"
 
 REFERENCE           ZM_TOMB_STAFF_PARTS
-LANG_SPANISH        "Peças de pessoal"
+LANG_SPANISH        "Peças do Cajado"
 
 REFERENCE           ZM_TOMB_TAKE_BEACON
 LANG_SPANISH        "Segure^3[{+activate}]^7para pegar o Sinalizador de Artilharia"
@@ -234,7 +234,7 @@ REFERENCE           ZM_TOMB_ZOMBIE_SHIELD
 LANG_SPANISH        "Escudo Zumbi"
 
 REFERENCE           ZM_TOMB_ZOMBIE_STAFF_PICKUP
-LANG_SPANISH        "Segure^3[{+activate}]^7para a equipe"
+LANG_SPANISH        "Segure^3[{+activate}]^7para pegar o Cajado"
 
 REFERENCE           ZM_TOMB_ZONE_RECAPTURE_IN_PROGRESS
 LANG_SPANISH        "Um gerador de conversão 115 está sendo atacado"

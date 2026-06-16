@@ -1,4 +1,4 @@
-VERSION             "1"
+﻿VERSION             "1"
 CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
 FILENOTES           ""
 
@@ -684,7 +684,7 @@ REFERENCE           CH_SP_WAR_DRONE_SENTRY_KILLS
 LANG_ENGLISH        "Elimine o pessoal inimigo (x20) usando a torre de sentinela"
 
 REFERENCE           CH_SP_WAR_DRONE_SENTRY_LOST
-LANG_ENGLISH        "Allow no more than one sentry turret to be destroyed"
+LANG_ENGLISH        "Permitir no máximo uma torre de sentinela ser destruída"
 
 REFERENCE           CH_SP_WAR_DRONE_SENTRY_VS_ASD
 LANG_ENGLISH        "Elimine ASD inimigo (x3) usando apenas torres de sentinela\n"
@@ -864,7 +864,7 @@ REFERENCE           CLASS_PRESTIGE_UNLOCK_DESC
 LANG_ENGLISH        "Desbloqueado no nível de prestígio &&1."
 
 REFERENCE           CLASS_PURCHASE_TO_UNLOCK
-LANG_ENGLISH        "Purchase &&1 to view challenge."
+LANG_ENGLISH        "Compre &&1 para ver o desafio."
 
 REFERENCE           CLASS_SLOT1
 LANG_ENGLISH        "Personalizado 1"
@@ -972,7 +972,7 @@ REFERENCE           EXE_BADSTATS
 LANG_ENGLISH        "Erro delta do cliente"
 
 REFERENCE           EXE_BAD_CHALLENGE
-LANG_ENGLISH        "No or bad challenge for address."
+LANG_ENGLISH        "Desafio inválido ou ausente para o endereço."
 
 REFERENCE           EXE_BANNED
 LANG_ENGLISH        "Você foi banido da sessão de jogo"
@@ -1005,52 +1005,52 @@ REFERENCE           EXE_CHECKPOINT_REACHED
 LANG_ENGLISH        "Ponto de verificação alcançado"
 
 REFERENCE           EXE_COD_BOOSTER_RESET
-LANG_ENGLISH        "Your stats have been reset for violations of the Call of Duty: Black Ops II Online Security Policy. For more information, visit www.callofduty.com/blackops2/status."
+LANG_ENGLISH        "Suas estatísticas foram redefinidas por violações da Política de Segurança Online do Call of Duty: Black Ops II. Para mais informações, visite www.callofduty.com/blackops2/status."
 
 REFERENCE           EXE_COD_FEATURE_PERM_BAN_CONSOLE
-LANG_ENGLISH        "This console has been permanently banned from using this feature. For more information, visit www.callofduty.com/blackops2/status."
+LANG_ENGLISH        "Este console foi banido permanentemente de usar este recurso. Para mais informações, visite www.callofduty.com/blackops2/status."
 
 REFERENCE           EXE_COD_FEATURE_PERM_BAN_PLAYER
-LANG_ENGLISH        "&&1 has been permanently banned from using this feature. For more information, visit www.callofduty.com/blackops2/status."
+LANG_ENGLISH        "&&1 foi banido permanentemente de usar este recurso. Para mais informações, visite www.callofduty.com/blackops2/status."
 
 REFERENCE           EXE_COD_FEATURE_PLAYER_BAN
 LANG_ENGLISH        "&&1 foi banido de usar este recurso. Saia deste perfil para usar o recurso."
 
 REFERENCE           EXE_COD_FEATURE_TEMP_BAN_CONSOLE
-LANG_ENGLISH        "This console has been temporarily banned from using this feature. For more information, visit www.callofduty.com/blackops2/status."
+LANG_ENGLISH        "Este console foi banido temporariamente de usar este recurso. Para mais informações, visite www.callofduty.com/blackops2/status."
 
 REFERENCE           EXE_COD_FEATURE_TEMP_BAN_PLAYER
-LANG_ENGLISH        "&&1 has been temporarily banned from using this feature. For more information, visit www.callofduty.com/blackops2/status."
+LANG_ENGLISH        "&&1 foi banido temporariamente de usar este recurso. Para mais informações, visite www.callofduty.com/blackops2/status."
 
 REFERENCE           EXE_COD_LEADERBOARD_WRITE_BAN
-LANG_ENGLISH        "You have been banned from appearing on this Leaderboard."
+LANG_ENGLISH        "Você foi banido de aparecer neste Ranking."
 
 REFERENCE           EXE_COD_MULTIPLAYER
 LANG_ENGLISH        "COD_MULTIJOGADOR"
 
 REFERENCE           EXE_COD_ONLINE_PERM_BAN_CONSOLE
-LANG_ENGLISH        "This console has been permanently banned from playing on the Call of Duty: Black Ops II servers. For more information, visit www.callofduty.com/blackops2/status."
+LANG_ENGLISH        "Este console foi banido permanentemente de jogar nos servidores de Call of Duty: Black Ops II. Para mais informações, visite www.callofduty.com/blackops2/status."
 
 REFERENCE           EXE_COD_ONLINE_PERM_BAN_PLAYER
 LANG_ENGLISH        "&&1 foi banido permanentemente de jogar nos servidores de Call of Duty: Black Ops II. Para obter mais informações, visite www.callofduty.com/blackops2/status."
 
 REFERENCE           EXE_COD_ONLINE_TEMP_BAN_CONSOLE
-LANG_ENGLISH        "This console has been temporarily banned from playing on the Call of Duty: Black Ops II servers. For more information, visit www.callofduty.com/blackops2/status."
+LANG_ENGLISH        "Este console foi banido temporariamente de jogar nos servidores de Call of Duty: Black Ops II. Para mais informações, visite www.callofduty.com/blackops2/status."
 
 REFERENCE           EXE_COD_ONLINE_TEMP_BAN_PLAYER
-LANG_ENGLISH        "&&1 has been temporarily banned from playing on the Call of Duty: Black Ops II servers. For more information, visit www.callofduty.com/blackops2/status."
+LANG_ENGLISH        "&&1 foi banido temporariamente de jogar nos servidores de Call of Duty: Black Ops II. Para mais informações, visite www.callofduty.com/blackops2/status."
 
 REFERENCE           EXE_COD_PIRACY_PERM_BAN_CONSOLE
 LANG_ENGLISH        "Este console foi banido permanentemente dos servidores de Call of Duty: Black Ops II porque foi detectado conteúdo não autorizado. Visite www.callofduty.com/blackops2/status."
 
 REFERENCE           EXE_COD_PIRACY_PERM_BAN_PLAYER
-LANG_ENGLISH        "&&1 has been permanently banned from the Call of Duty: Black Ops II servers due to detection of unauthorized content. Visit www.callofduty.com/blackops2/status."
+LANG_ENGLISH        "&&1 foi banido permanentemente dos servidores de Call of Duty: Black Ops II devido à detecção de conteúdo não autorizado. Visite www.callofduty.com/blackops2/status."
 
 REFERENCE           EXE_COD_PIRACY_TEMP_BAN_CONSOLE
 LANG_ENGLISH        "Este console foi temporariamente excluído dos servidores Call of Duty: Black Ops II porque foi detectado conteúdo não autorizado. Visite www.callofduty.com/blackops2/status."
 
 REFERENCE           EXE_COD_PIRACY_TEMP_BAN_PLAYER
-LANG_ENGLISH        "&&1 has been temporarily banned from the Call of Duty: Black Ops II servers due to detection of unauthorized content. Visit www.callofduty.com/blackops2/status."
+LANG_ENGLISH        "&&1 foi banido temporariamente dos servidores de Call of Duty: Black Ops II devido à detecção de conteúdo não autorizado. Visite www.callofduty.com/blackops2/status."
 
 REFERENCE           EXE_COD_TEMP_BAN_DAYS
 LANG_ENGLISH        "&&1 dias restantes antes que o acesso seja concedido."
@@ -1077,13 +1077,13 @@ REFERENCE           EXE_CONNECTINGTO
 LANG_ENGLISH        "Conectando-se a &&1"
 
 REFERENCE           EXE_CONSOLE_STATS_CHECK_ALERT_MESSAGE
-LANG_ENGLISH        "Please contact Treyarch at dbunting@treyarch.com"
+LANG_ENGLISH        "Entre em contato com a Treyarch em dbunting@treyarch.com"
 
 REFERENCE           EXE_CONSOLE_STATS_CHECK_ALERT_TITLE
 LANG_ENGLISH        "Alerta de segurança"
 
 REFERENCE           EXE_CONSOLE_STATS_CHECK_FAIL
-LANG_ENGLISH        "Severe security alert. Please contact Treyarch at dbunting@treyarch.com"
+LANG_ENGLISH        "Alerta de segurança grave. Entre em contato com a Treyarch em dbunting@treyarch.com"
 
 REFERENCE           EXE_COPIED
 LANG_ENGLISH        "copiado"
@@ -1098,7 +1098,7 @@ REFERENCE           EXE_DEFAULT_PLAYER
 LANG_ENGLISH        "Jogador"
 
 REFERENCE           EXE_DEMONWARE_PLAYER_BAN
-LANG_ENGLISH        "&&1 has been banned from playing on the Call of Duty: Black Ops II servers. Sign in with another profile to play online."
+LANG_ENGLISH        "&&1 foi banido de jogar nos servidores de Call of Duty: Black Ops II. Entre com outro perfil para jogar online."
 
 REFERENCE           EXE_DISCONNECT
 LANG_ENGLISH        "Desconectado"
@@ -1113,7 +1113,7 @@ REFERENCE           EXE_DISCONNECTED_FROM_SERVER
 LANG_ENGLISH        "Desconectado do servidor"
 
 REFERENCE           EXE_DOWNLOADING
-LANG_ENGLISH        "Downloading:"
+LANG_ENGLISH        "Baixando:"
 
 REFERENCE           EXE_DOWNLOADINGUPDATE
 LANG_ENGLISH        "Baixando atualização: &&1"
@@ -1320,16 +1320,16 @@ REFERENCE           EXE_GIGABYTE
 LANG_ENGLISH        "GB"
 
 REFERENCE           EXE_GUESTS_NOT_ALLOWED
-LANG_ENGLISH        "Could not join because no guests are allowed."
+LANG_ENGLISH        "Não foi possível ingressar porque convidados não são permitidos."
 
 REFERENCE           EXE_HOSTCONNECTIONLOST
 LANG_ENGLISH        "A conexão com o host foi perdida"
 
 REFERENCE           EXE_HOSTUNREACH
-LANG_ENGLISH        "The game session is no longer available."
+LANG_ENGLISH        "A sessão de jogo não está mais disponível."
 
 REFERENCE           EXE_HOSTUNREACH_JOIN_IN_PROGRESS
-LANG_ENGLISH        "Unable to join game session. Game session may no longer be available."
+LANG_ENGLISH        "Não foi possível ingressar na sessão de jogo. A sessão pode não estar mais disponível."
 
 REFERENCE           EXE_HOSTUNREACH_TOO_MANY_JOINS
 LANG_ENGLISH        "Ocorreu um erro ao ingressar na sessão online."
@@ -1401,7 +1401,7 @@ REFERENCE           EXE_MEGABYTE
 LANG_ENGLISH        "MB"
 
 REFERENCE           EXE_MIGRATIONABORTED
-LANG_ENGLISH        "Host Migration aborted. No good host available."
+LANG_ENGLISH        "Migração de host interrompida. Nenhum host adequado disponível."
 
 REFERENCE           EXE_MIGRATIONDROPPED
 LANG_ENGLISH        "A migração falhou. Abandonado pelo host."
@@ -1473,7 +1473,7 @@ REFERENCE           EXE_NOSAVEGAMES
 LANG_ENGLISH        "(sem jogos salvos)"
 
 REFERENCE           EXE_NO_SESSIONS_FOUND_UNABLE_TO_HOST
-LANG_ENGLISH        "No available sessions were found. Please try your search again."
+LANG_ENGLISH        "Nenhuma sessão disponível foi encontrada. Por favor, tente sua pesquisa novamente."
 
 REFERENCE           EXE_OF
 LANG_ENGLISH        "de"
@@ -1629,7 +1629,7 @@ REFERENCE           EXE_SV_INFO_PING
 LANG_ENGLISH        "pingar"
 
 REFERENCE           EXE_SV_INFO_PRIVATECLIENTS
-LANG_ENGLISH        "Private Clients"
+LANG_ENGLISH        "Clientes Privados"
 
 REFERENCE           EXE_SV_INFO_PROTOCOL
 LANG_ENGLISH        "Versão do protocolo"
@@ -1647,7 +1647,7 @@ REFERENCE           EXE_SV_INFO_SERVERNAME
 LANG_ENGLISH        "Nome do servidor"
 
 REFERENCE           EXE_SV_INFO_TEAM
-LANG_ENGLISH        "Team"
+LANG_ENGLISH        "Equipe"
 
 REFERENCE           EXE_SV_INFO_VERSION
 LANG_ENGLISH        "Versão"
@@ -1767,16 +1767,16 @@ REFERENCE           GAME_DEMI_GODMODE_ON
 LANG_ENGLISH        "modo semideus ATIVADO"
 
 REFERENCE           GAME_DIFFICULTY_EASY
-LANG_ENGLISH        "Difficulty: Greenhorn"
+LANG_ENGLISH        "Dificuldade: Novato"
 
 REFERENCE           GAME_DIFFICULTY_FU
 LANG_ENGLISH        "Dificuldade: Veterano"
 
 REFERENCE           GAME_DIFFICULTY_HARD
-LANG_ENGLISH        "Dificuldade: endurecido"
+LANG_ENGLISH        "Dificuldade: Difícil"
 
 REFERENCE           GAME_DIFFICULTY_MEDIUM
-LANG_ENGLISH        "Difficulty: Regular"
+LANG_ENGLISH        "Dificuldade: Regular"
 
 REFERENCE           GAME_DIFFICULTY_UNKNOWN
 LANG_ENGLISH        "Dificuldade: Desconhecida"
@@ -1878,7 +1878,7 @@ REFERENCE           GAME_NOTARGETON
 LANG_ENGLISH        "notarget ON"
 
 REFERENCE           GAME_NOVOTEINPROGRESS
-LANG_ENGLISH        "No vote in progress."
+LANG_ENGLISH        "Nenhuma votação em andamento."
 
 REFERENCE           GAME_OBJECTIVECOMPLETED
 LANG_ENGLISH        "Objetivo concluído"
@@ -2298,10 +2298,10 @@ REFERENCE           MENU_ACCEPTINVITE
 LANG_ENGLISH        "Sair do Grupo"
 
 REFERENCE           MENU_ACCEPTINVITETITLE
-LANG_ENGLISH        "Sair da festa?"
+LANG_ENGLISH        "Sair da sala?"
 
 REFERENCE           MENU_ACCEPTINVITETITLE_PARTY
-LANG_ENGLISH        "Sair da festa?"
+LANG_ENGLISH        "Sair da sala?"
 
 REFERENCE           MENU_ACCEPTINVITE_PARTY
 LANG_ENGLISH        "Sair do Grupo"
@@ -2760,7 +2760,7 @@ REFERENCE           MENU_BLACKOUT
 LANG_ENGLISH        "Apagão"
 
 REFERENCE           MENU_BLINDED_AND_KILLED
-LANG_ENGLISH        "Blinded and killed"
+LANG_ENGLISH        "Cegado e morto"
 
 REFERENCE           MENU_BOMB_TIMER
 LANG_ENGLISH        "Temporizador de bomba"
@@ -2856,7 +2856,7 @@ REFERENCE           MENU_BOT_DIFFICULTY
 LANG_ENGLISH        "Determina o quão difícil é lutar contra os bots."
 
 REFERENCE           MENU_BOT_WARS_DESC
-LANG_ENGLISH        "Capture e controle os objetivos do mapa com aliados bot neste jogo de festa gratuito para todos."
+LANG_ENGLISH        "Capture e controle os objetivos do mapa com aliados bot neste jogo de sala gratuito para todos."
 
 REFERENCE           MENU_BRAVO_CAPS
 LANG_ENGLISH        "BRAVO"
@@ -2886,7 +2886,7 @@ REFERENCE           MENU_BRIGHTNESS_NOT_VISIBLE
 LANG_ENGLISH        "Não visível"
 
 REFERENCE           MENU_BRING_PARTY
-LANG_ENGLISH        "Traga Festa"
+LANG_ENGLISH        "Traga sala"
 
 REFERENCE           MENU_BRITISH
 LANG_ENGLISH        "Britânico"
@@ -3243,7 +3243,7 @@ REFERENCE           MENU_CHALLENGE_COMPLETED
 LANG_ENGLISH        "Desafio concluído: &&1"
 
 REFERENCE           MENU_CHALLENGE_SORT
-LANG_ENGLISH        "Sort order set to"
+LANG_ENGLISH        "Ordem de classificação definida como"
 
 REFERENCE           MENU_CHALLENGE_TIER_DESC
 LANG_ENGLISH        "Camada &&1 de &&2 . Complete o nível &&3 para desbloquear este cartão de visitas."
@@ -3453,19 +3453,19 @@ REFERENCE           MENU_CLOSE1
 LANG_ENGLISH        "Fechar"
 
 REFERENCE           MENU_CLOSE_DESC
-LANG_ENGLISH        "No one may join your party. "
+LANG_ENGLISH        "Ninguém pode entrar na sua sessão."
 
 REFERENCE           MENU_CODTV_FOLDER_EMPTY_HINT
 LANG_ENGLISH        "Não há itens disponíveis nesta categoria."
 
 REFERENCE           MENU_COD_BOOSTER_RESET
-LANG_ENGLISH        "Your stats have been reset for violations of the Call of Duty: Black Ops II Online Security Policy. For more information, visit http://support.activision.com/blackops2."
+LANG_ENGLISH        "Suas estatísticas foram redefinidas por violações da Política de Segurança Online do Call of Duty: Black Ops II. Para mais informações, visite http://support.activision.com/blackops2."
 
 REFERENCE           MENU_COD_FEATURE_PERM_BAN_PLAYER
 LANG_ENGLISH        "&&1 foi banido permanentemente de usar este recurso. Para mais informações, visite http://support.activision.com/blackops2."
 
 REFERENCE           MENU_COD_FEATURE_TEMP_BAN_PLAYER
-LANG_ENGLISH        "&&1 has been temporarily banned from using this feature. For more information, visit http://support.activision.com/blackops2."
+LANG_ENGLISH        "&&1 foi banido temporariamente de usar este recurso. Para mais informações, visite http://support.activision.com/blackops2."
 
 REFERENCE           MENU_COD_ONLINE_PERM_BAN_PLAYER
 LANG_ENGLISH        "&&1 foi banido permanentemente dos servidores do Call of Duty: Black Ops II. Para mais informações, visite http://support.activision.com/blackops2."
@@ -3474,13 +3474,13 @@ REFERENCE           MENU_COD_ONLINE_TEMP_BAN_PLAYER
 LANG_ENGLISH        "&&1 foi banido temporariamente dos servidores do Call of Duty: Black Ops II. Para mais informações, visite http://support.activision.com/blackops2."
 
 REFERENCE           MENU_COD_PIRACY_PERM_BAN_CONSOLE
-LANG_ENGLISH        "This console has been permanently banned from the Call of Duty: Black Ops II servers due to detection of unauthorized content. Visit http://support.activision.com/blackops2."
+LANG_ENGLISH        "Este console foi banido permanentemente dos servidores do Call of Duty: Black Ops II devido à detecção de conteúdo não autorizado. Visite http://support.activision.com/blackops2."
 
 REFERENCE           MENU_COD_PIRACY_PERM_BAN_PLAYER
 LANG_ENGLISH        "&&1 foi banido permanentemente dos servidores do Call of Duty: Black Ops II devido à detecção de conteúdo não autorizado. Visite http://support.activision.com/blackops2."
 
 REFERENCE           MENU_COD_PIRACY_TEMP_BAN_CONSOLE
-LANG_ENGLISH        "This console has been temporarily banned from the Call of Duty: Black Ops II servers due to detection of unauthorized content. Visit http://support.activision.com/blackops2."
+LANG_ENGLISH        "Este console foi banido temporariamente dos servidores do Call of Duty: Black Ops II devido à detecção de conteúdo não autorizado. Visite http://support.activision.com/blackops2."
 
 REFERENCE           MENU_COD_PIRACY_TEMP_BAN_PLAYER
 LANG_ENGLISH        "&&1 foi banido temporariamente dos servidores do Call of Duty: Black Ops II devido à detecção de conteúdo não autorizado. Visite http://support.activision.com/blackops2."
@@ -3741,7 +3741,7 @@ REFERENCE           MENU_CREATE_ONLINE_PLAYER_PROFILE
 LANG_ENGLISH        "Criar perfil on-line"
 
 REFERENCE           MENU_CREATE_PARTY
-LANG_ENGLISH        "Criar festa"
+LANG_ENGLISH        "Criar sala"
 
 REFERENCE           MENU_CREATE_PLAYER_PROFILE
 LANG_ENGLISH        "Criar perfil de jogador"
@@ -3786,7 +3786,7 @@ REFERENCE           MENU_CROUCH_PRONE
 LANG_ENGLISH        "Agachado/Pronado"
 
 REFERENCE           MENU_CR_CAREER_HINT
-LANG_ENGLISH        "Career summary for Public Match"
+LANG_ENGLISH        "Resumo de carreira para Partida Pública"
 
 REFERENCE           MENU_CR_EQUIPMENT_HINT
 LANG_ENGLISH        "Procure estatísticas de equipamentos para Partida Pública."
@@ -3888,7 +3888,7 @@ REFERENCE           MENU_CYCLE_TEAM
 LANG_ENGLISH        "EQUIPE DE CICLO"
 
 REFERENCE           MENU_DASHBOARD
-LANG_ENGLISH        "Quit to Xbox Dashboard?"
+LANG_ENGLISH        "Sair para o Painel do Xbox?"
 
 REFERENCE           MENU_DATE
 LANG_ENGLISH        "Data"
@@ -4257,7 +4257,7 @@ REFERENCE           MENU_DEMO_HIGHLIGHT_REEL_PLAYER_NAME
 LANG_ENGLISH        "Jogador: &&1"
 
 REFERENCE           MENU_DEMO_HIGHLIGHT_REEL_PLAYER_SETTINGS
-LANG_ENGLISH        "Players"
+LANG_ENGLISH        "Jogadores"
 
 REFERENCE           MENU_DEMO_HIGHLIGHT_REEL_PLAYER_SETTINGS_DESC
 LANG_ENGLISH        "Selecione os jogadores que deseja incluir no Highlight Reel."
@@ -4404,7 +4404,7 @@ REFERENCE           MENU_DEMO_MODE_THEATER_FULL_EDITOR
 LANG_ENGLISH        "MODO: Editor de Filme"
 
 REFERENCE           MENU_DEMO_MODE_THEATER_PARTY
-LANG_ENGLISH        "MODO: Festa no Teatro"
+LANG_ENGLISH        "MODO: sala no Teatro"
 
 REFERENCE           MENU_DEMO_MODE_THEATER_PLAYBACK
 LANG_ENGLISH        "MODO: Reprodução de Filme"
@@ -4596,7 +4596,7 @@ REFERENCE           MENU_DISBAND_PARTY_HOST_WARNING
 LANG_ENGLISH        "Isso fará com que você saia do lobby e desfaça seu grupo."
 
 REFERENCE           MENU_DISBAND_PARTY_TITLE
-LANG_ENGLISH        "Dissolver festa?"
+LANG_ENGLISH        "Dissolver sala?"
 
 REFERENCE           MENU_DISCARD
 LANG_ENGLISH        "Descartar"
@@ -6234,7 +6234,7 @@ REFERENCE           MENU_HARDENED_CAPS
 LANG_ENGLISH        "ENDURECIDO"
 
 REFERENCE           MENU_HC_KILL_EVERYONE_FIRST_PLAYER
-LANG_ENGLISH        "Every man for himself. Limited HUD. Extra bullet damage. No health regen. No Tactical Insertions."
+LANG_ENGLISH        "Cada um por si. HUD limitado. Dano extra de bala. Sem regeneração de saúde. Sem Inserções Táticas."
 
 REFERENCE           MENU_HC_KILL_PLAYERS_ON_THE_OPPOSING
 LANG_ENGLISH        "Team Deathmatch com HUD limitado, dano extra de bala e fogo amigo habilitado."
@@ -7122,22 +7122,22 @@ REFERENCE           MENU_LEAVEMPGAMEWARNING
 LANG_ENGLISH        "Se aceitar este convite, você sairá do lobby de jogo atual. Aceitar convite?"
 
 REFERENCE           MENU_LEAVEMPGAMEWARNINGPARTYHOST
-LANG_ENGLISH        "Se você entrar em outra sessão, seu grupo será dissolvido.  Dissolver festa?"
+LANG_ENGLISH        "Se você entrar em outra sessão, seu grupo será dissolvido.  Dissolver sala?"
 
 REFERENCE           MENU_LEAVEMPGAMEWARNINGSQUADHOST
-LANG_ENGLISH        "Se você entrar em outra sessão, seu grupo será dissolvido.  Dissolver festa?"
+LANG_ENGLISH        "Se você entrar em outra sessão, seu grupo será dissolvido.  Dissolver sala?"
 
 REFERENCE           MENU_LEAVEMPGAMEWARNINGSQUADLEADER
-LANG_ENGLISH        "Se você entrar em outra sessão, seu grupo será dissolvido.  Dissolver festa?"
+LANG_ENGLISH        "Se você entrar em outra sessão, seu grupo será dissolvido.  Dissolver sala?"
 
 REFERENCE           MENU_LEAVEPARTYWARNING
-LANG_ENGLISH        "Se você entrar em outra sessão, você sairá do seu grupo.  Sair da festa?"
+LANG_ENGLISH        "Se você entrar em outra sessão, você sairá do seu grupo.  Sair da sala?"
 
 REFERENCE           MENU_LEAVESQUADWARNING
-LANG_ENGLISH        "Se você entrar em outra sessão, você sairá do seu grupo.  Sair da festa?"
+LANG_ENGLISH        "Se você entrar em outra sessão, você sairá do seu grupo.  Sair da sala?"
 
 REFERENCE           MENU_LEAVE_AND_DISBAND_PARTY
-LANG_ENGLISH        "Sair e dissolver a festa"
+LANG_ENGLISH        "Sair e dissolver a sala"
 
 REFERENCE           MENU_LEAVE_CURRENT_CLAN
 LANG_ENGLISH        "Do you want to leave current clan and join new clan?"
@@ -7182,13 +7182,13 @@ REFERENCE           MENU_LEAVE_LOBBY_DISBAND_PARTY
 LANG_ENGLISH        "Sair da Sala e Desfazer Grupo"
 
 REFERENCE           MENU_LEAVE_LOBBY_HOST_WARNING
-LANG_ENGLISH        "Decida se quer sair sozinho ou trazer sua festa com você."
+LANG_ENGLISH        "Decida se quer sair sozinho ou trazer sua sala com você."
 
 REFERENCE           MENU_LEAVE_LOBBY_TITLE
 LANG_ENGLISH        "Sair da Sala?"
 
 REFERENCE           MENU_LEAVE_LOBBY_WITH_PARTY
-LANG_ENGLISH        "Sair com festa"
+LANG_ENGLISH        "Sair com sala"
 
 REFERENCE           MENU_LEAVE_PARTY
 LANG_ENGLISH        "Sair do Grupo"
@@ -8124,7 +8124,7 @@ REFERENCE           MENU_MUTE
 LANG_ENGLISH        "Silenciar"
 
 REFERENCE           MENU_MUTE_ALL_EXCEPT_PARTY_CAPS
-LANG_ENGLISH        "SILENCIAR TODOS, EXCETO FESTA"
+LANG_ENGLISH        "SILENCIAR TODOS, EXCETO salA"
 
 REFERENCE           MENU_MUTE_ALL_EXCEPT_PARTY_DESC
 LANG_ENGLISH        "Silencie todos no lobby atual, exceto os jogadores que estão no seu grupo."
@@ -8628,10 +8628,10 @@ REFERENCE           MENU_PARTYPLAYERCOUNT
 LANG_ENGLISH        "&&1 jogador(es) no grupo."
 
 REFERENCE           MENU_PARTYRECONNECT
-LANG_ENGLISH        "Reconectando-se à festa..."
+LANG_ENGLISH        "Reconectando-se à sala..."
 
 REFERENCE           MENU_PARTY_CAPS
-LANG_ENGLISH        "FESTA"
+LANG_ENGLISH        "salA"
 
 REFERENCE           MENU_PARTY_LEADER
 LANG_ENGLISH        "Líder do Partido:"
@@ -9333,16 +9333,16 @@ REFERENCE           MENU_RANK_NAME_FULL
 LANG_ENGLISH        "&&1 (Nível &&2 )"
 
 REFERENCE           MENU_RANK_PLAYER_WAS_PROMOTED_CAPS
-LANG_ENGLISH        "RANK_PLAYER_WAS_PROMOTED"
+LANG_ENGLISH        "JOGADOR FOI PROMOVIDO"
 
 REFERENCE           MENU_RANK_PLAYER_WAS_PROMOTED_N_CAPS
-LANG_ENGLISH        "RANK_PLAYER_WAS_PROMOTED_N"
+LANG_ENGLISH        "JOGADOR FOI PROMOVIDO (N)"
 
 REFERENCE           MENU_RANK_POINTS
 LANG_ENGLISH        "Pontos de escada"
 
 REFERENCE           MENU_RANK_PROMOTED_CAPS
-LANG_ENGLISH        "RANK_PROMOTED"
+LANG_ENGLISH        "PROMOVIDO"
 
 REFERENCE           MENU_RANK_VS_FRIENDS_CAPS
 LANG_ENGLISH        "CLASSIFICAÇÃO VS. AMIGOS"
@@ -9366,7 +9366,7 @@ REFERENCE           MENU_RECENTLY_SHARED_HINT
 LANG_ENGLISH        "Uma coleção de arquivos salvos recentemente da comunidade."
 
 REFERENCE           MENU_RECENT_GAMES
-LANG_ENGLISH        "RECENT GAMES"
+LANG_ENGLISH        "JOGOS RECENTES"
 
 REFERENCE           MENU_RECENT_VICTORIES
 LANG_ENGLISH        "VITÓRIAS RECENTES"
@@ -9399,7 +9399,7 @@ REFERENCE           MENU_RECOMMEND_TO_CLAN_CAPS
 LANG_ENGLISH        "RECOMENDO PARA O CLÃ"
 
 REFERENCE           MENU_RECONNECTING_TO_PARTY_CAPS
-LANG_ENGLISH        "RECONECTANDO-SE À FESTA"
+LANG_ENGLISH        "RECONECTANDO-SE À salA"
 
 REFERENCE           MENU_RECONNECTING_TO_SQUAD_CAPS
 LANG_ENGLISH        "RECONECTANDO-SE À ESQUADRÃO"
@@ -10863,7 +10863,7 @@ REFERENCE           MENU_STATUS_LOCAL_ONLY_DESC
 LANG_ENGLISH        "Preferências de pesquisa: apenas localidade"
 
 REFERENCE           MENU_STATUS_OPEN_CLAN_DESC
-LANG_ENGLISH        "Privacidade da festa: somente membros do clã"
+LANG_ENGLISH        "Privacidade da sala: somente membros do clã"
 
 REFERENCE           MENU_STATUS_OPEN_DESC_CAPS
 LANG_ENGLISH        "Open"
@@ -10875,7 +10875,7 @@ REFERENCE           MENU_STAT_SUMMARY_CAPS
 LANG_ENGLISH        "RESUMO DE ESTATÍSTICAS"
 
 REFERENCE           MENU_STAYINPARTY
-LANG_ENGLISH        "Fique nesta festa"
+LANG_ENGLISH        "Fique nesta sala"
 
 REFERENCE           MENU_STAYINSQUAD
 LANG_ENGLISH        "Fique neste esquadrão"
@@ -10929,10 +10929,10 @@ REFERENCE           MENU_STORE_DESC
 LANG_ENGLISH        "Navegue na Loja para avatares, temas, conteúdo para download e muito mais."
 
 REFERENCE           MENU_STORE_DOWNLOAD
-LANG_ENGLISH        "Download"
+LANG_ENGLISH        "Baixar"
 
 REFERENCE           MENU_STORE_EMPTY
-LANG_ENGLISH        "There are no items in the store at this time."
+LANG_ENGLISH        "Não há itens na loja neste momento."
 
 REFERENCE           MENU_STORE_ERROR_HINT
 LANG_ENGLISH        "Ocorreu um erro ao recuperar itens da Loja."
@@ -10965,7 +10965,7 @@ REFERENCE           MENU_STRAFE_CAPS
 LANG_ENGLISH        "ESTRAFE"
 
 REFERENCE           MENU_STRAFE_LEFT_RIGHT
-LANG_ENGLISH        "Strafe Left/Right"
+LANG_ENGLISH        "Metralhar Esquerda/Direita"
 
 REFERENCE           MENU_STREAK
 LANG_ENGLISH        "Raia"
@@ -11178,7 +11178,7 @@ REFERENCE           MENU_TAB_STORE_THEMES
 LANG_ENGLISH        "TEMAS"
 
 REFERENCE           MENU_TAB_XBOXLIVE_PARTY
-LANG_ENGLISH        "FESTA XBOX LIVE"
+LANG_ENGLISH        "salA XBOX LIVE"
 
 REFERENCE           MENU_TACTICAL_CAPS
 LANG_ENGLISH        "TÁTICO"
@@ -11403,7 +11403,7 @@ REFERENCE           MENU_THEATER_LOAD_HINT
 LANG_ENGLISH        "Carregue um filme para começar."
 
 REFERENCE           MENU_THEATER_PARTY
-LANG_ENGLISH        "Festa no Teatro"
+LANG_ENGLISH        "sala no Teatro"
 
 REFERENCE           MENU_THE_SERVER_IS_STARTED
 LANG_ENGLISH        "o jogo é iniciado."
@@ -11913,7 +11913,7 @@ REFERENCE           MENU_VIEW_TEAMMATE_PLAYERCARD
 LANG_ENGLISH        "Ver cartão de jogador do companheiro de equipe"
 
 REFERENCE           MENU_VIEW_THEATER_PARTY
-LANG_ENGLISH        "Ver Festa no Teatro"
+LANG_ENGLISH        "Ver sala no Teatro"
 
 REFERENCE           MENU_VISOR_TYPEWRITER
 LANG_ENGLISH        "Self test... OK\nNew user detected.\nScanning retina... OK\nSyncing markers... OK\n\\\\\\ MATCH FOUND \\\\\\\nLogging in..."
@@ -11970,7 +11970,7 @@ REFERENCE           MENU_VOICE_CHAT_WILL_BE_DISABLED_BECAUSE
 LANG_ENGLISH        "O bate-papo por voz será desativado porque"
 
 REFERENCE           MENU_VOICE_VOLUME_CAPS
-LANG_ENGLISH        "VOICE VOLUME"
+LANG_ENGLISH        "VOLUME DA VOZ"
 
 REFERENCE           MENU_VOICE_VOLUME_DESC
 LANG_ENGLISH        "Ajusta o volume das vozes no jogo."
@@ -11991,13 +11991,13 @@ REFERENCE           MENU_VOTESKIPCONFIRM
 LANG_ENGLISH        "Votar para pular?"
 
 REFERENCE           MENU_VOTE_NO
-LANG_ENGLISH        "Vote No"
+LANG_ENGLISH        "Votar Não"
 
 REFERENCE           MENU_VOTE_NO_CAPS
 LANG_ENGLISH        "VOTE NO"
 
 REFERENCE           MENU_VOTE_YES
-LANG_ENGLISH        "Vote sim"
+LANG_ENGLISH        "Votar Sim"
 
 REFERENCE           MENU_VOTE_YES_CAPS
 LANG_ENGLISH        "VOTE SIM"
@@ -12204,7 +12204,7 @@ REFERENCE           MENU_WORLD_ONLY
 LANG_ENGLISH        "Somente no mundo"
 
 REFERENCE           MENU_XBOXLIVE_PARTY
-LANG_ENGLISH        "Festa Xbox LIVE"
+LANG_ENGLISH        "sala Xbox LIVE"
 
 REFERENCE           MENU_XP
 LANG_ENGLISH        "XP"
@@ -13212,7 +13212,7 @@ REFERENCE           MPUI_CATEGORY_CUSTOM_DESC
 LANG_ENGLISH        "Carregue qualquer modo de jogo previamente personalizado."
 
 REFERENCE           MPUI_CATEGORY_PARTY_CAPS
-LANG_ENGLISH        "FESTA"
+LANG_ENGLISH        "salA"
 
 REFERENCE           MPUI_CATEGORY_PARTY_DESC
 LANG_ENGLISH        "Escolha entre uma ampla variedade de modos de jogo divertidos. Melhor jogado com amigos."
@@ -13863,7 +13863,7 @@ REFERENCE           MPUI_CREATE_NEW_RULE
 LANG_ENGLISH        "Criar nova regra"
 
 REFERENCE           MPUI_CREATE_PARTY
-LANG_ENGLISH        "Criar festa"
+LANG_ENGLISH        "Criar sala"
 
 REFERENCE           MPUI_CREATE_SQUAD
 LANG_ENGLISH        "Criar Esquadrão"
@@ -14133,16 +14133,16 @@ REFERENCE           MPUI_DESC_CUSTOM_MATCH_LOCKED
 LANG_ENGLISH        "Apenas o líder do esquadrão pode iniciar uma partida personalizada."
 
 REFERENCE           MPUI_DESC_CUSTOM_MATCH_LOCKED_PARTY
-LANG_ENGLISH        "Somente o anfitrião da festa pode iniciar uma partida personalizada."
+LANG_ENGLISH        "Somente o anfitrião da sala pode iniciar uma partida personalizada."
 
 REFERENCE           MPUI_DESC_FIND_GAME
 LANG_ENGLISH        "Selecione um tipo de partida e participe de um jogo online."
 
 REFERENCE           MPUI_DESC_FIND_GAME_LOCKED
-LANG_ENGLISH        "Somente o anfitrião da festa pode encontrar jogos."
+LANG_ENGLISH        "Somente o anfitrião da sala pode encontrar jogos."
 
 REFERENCE           MPUI_DESC_FIND_GAME_LOCKED_PARTY
-LANG_ENGLISH        "Somente o anfitrião da festa pode encontrar jogos."
+LANG_ENGLISH        "Somente o anfitrião da sala pode encontrar jogos."
 
 REFERENCE           MPUI_DESC_GAME_SETUP
 LANG_ENGLISH        "Altere o mapa, o tipo de jogo e as regras."
@@ -14319,13 +14319,13 @@ REFERENCE           MPUI_DESC_MAP_ZOO
 LANG_ENGLISH        "Esteja pronto para tiroteios de longo alcance neste zoológico soviético abandonado."
 
 REFERENCE           MPUI_DESC_PARTY_INVITE
-LANG_ENGLISH        "Convide amigos para sua festa."
+LANG_ENGLISH        "Convide amigos para sua sala."
 
 REFERENCE           MPUI_DESC_PARTY_PRIVACY
 LANG_ENGLISH        "Defina as configurações de privacidade do grupo."
 
 REFERENCE           MPUI_DESC_PARTY_PRIVACY_LOCKED
-LANG_ENGLISH        "Somente o anfitrião da festa pode definir a privacidade."
+LANG_ENGLISH        "Somente o anfitrião da sala pode definir a privacidade."
 
 REFERENCE           MPUI_DESC_PLAYER_OPTIONS
 LANG_ENGLISH        "Abra o menu de opções do jogador."
@@ -14346,7 +14346,7 @@ REFERENCE           MPUI_DESC_PRIVATE_MATCH_LOCKED
 LANG_ENGLISH        "Apenas o líder do esquadrão pode iniciar uma partida privada."
 
 REFERENCE           MPUI_DESC_PRIVATE_MATCH_LOCKED_PARTY
-LANG_ENGLISH        "Apenas o anfitrião da festa pode iniciar uma partida privada."
+LANG_ENGLISH        "Apenas o anfitrião da sala pode iniciar uma partida privada."
 
 REFERENCE           MPUI_DESC_SQUAD_INVITE
 LANG_ENGLISH        "Convide amigos para o seu time."
@@ -16068,10 +16068,10 @@ REFERENCE           MPUI_LEAVE_SQUAD
 LANG_ENGLISH        "Sair do Esquadrão"
 
 REFERENCE           MPUI_LEAVE_WITHOUT_PARTY
-LANG_ENGLISH        "Sair sem Festa"
+LANG_ENGLISH        "Sair sem sala"
 
 REFERENCE           MPUI_LEAVE_WITH_PARTY
-LANG_ENGLISH        "Sair com festa"
+LANG_ENGLISH        "Sair com sala"
 
 REFERENCE           MPUI_LENS_BLUE
 LANG_ENGLISH        "Lente Azul"
@@ -16167,10 +16167,10 @@ REFERENCE           MPUI_LOBBY_LEADERBOARD_DESC
 LANG_ENGLISH        "Veja como você se compara aos outros jogadores no seu lobby."
 
 REFERENCE           MPUI_LOBBY_PRIVACY
-LANG_ENGLISH        "Privacidade da festa"
+LANG_ENGLISH        "Privacidade da sala"
 
 REFERENCE           MPUI_LOBBY_PRIVACY_CAPS
-LANG_ENGLISH        "PRIVACIDADE DA FESTA"
+LANG_ENGLISH        "PRIVACIDADE DA salA"
 
 REFERENCE           MPUI_LOCALE_ONLY_CAPS
 LANG_ENGLISH        "SOMENTE LOCAL"
@@ -16794,13 +16794,13 @@ REFERENCE           MPUI_PARA_CAPS
 LANG_ENGLISH        "PARANÓICO"
 
 REFERENCE           MPUI_PARTY_INVITE
-LANG_ENGLISH        "Convite para festa"
+LANG_ENGLISH        "Convite para sala"
 
 REFERENCE           MPUI_PARTY_PRIVACY_SUBTITLE
 LANG_ENGLISH        "As opções de adesão ao grupo são definidas aqui."
 
 REFERENCE           MPUI_PARTY_PRIVACY_TITLE
-LANG_ENGLISH        "Definir privacidade da festa"
+LANG_ENGLISH        "Definir privacidade da sala"
 
 REFERENCE           MPUI_PATTERN_COLOR_0
 LANG_ENGLISH        "INCOLOR"
@@ -19044,7 +19044,7 @@ REFERENCE           MPUI_START_MATCH_DESC
 LANG_ENGLISH        "Comece o jogo."
 
 REFERENCE           MPUI_START_XBOX_PARTY
-LANG_ENGLISH        "Inicie uma festa Xbox LIVE"
+LANG_ENGLISH        "Inicie uma sala Xbox LIVE"
 
 REFERENCE           MPUI_STATSERROR
 LANG_ENGLISH        "Parece que os dados de classificação persistente para '&&4' foram corrompidos. Sua classificação foi restaurada para o backup armazenado mais recentemente: &&1 Nível &&2."
@@ -19149,7 +19149,7 @@ REFERENCE           MPUI_SWAYREDUC_SHORT_CAPS
 LANG_ENGLISH        "CPU BALÍSTICA"
 
 REFERENCE           MPUI_SWITCH_LOBBIES_DESC
-LANG_ENGLISH        "Mova-se rapidamente para outro lobby. Isso inclui sua festa, se você tiver uma."
+LANG_ENGLISH        "Mova-se rapidamente para outro lobby. Isso inclui sua sala, se você tiver uma."
 
 REFERENCE           MPUI_SWITCH_PLAYER_CAPS
 LANG_ENGLISH        "TROCAR DE JOGADOR"
@@ -21564,13 +21564,13 @@ REFERENCE           PLATFORM_INVITE_NOT_JOINABLE
 LANG_ENGLISH        "Seu amigo não está em uma sessão ingressável."
 
 REFERENCE           PLATFORM_INVITE_NOT_JOINABLE_PRIVACY_CLOSED
-LANG_ENGLISH        "Não foi possível ingressar na sessão. O anfitrião definiu a privacidade da festa como ‘fechada’."
+LANG_ENGLISH        "Não foi possível ingressar na sessão. O anfitrião definiu a privacidade da sala como ‘fechada’."
 
 REFERENCE           PLATFORM_INVITE_NOT_JOINABLE_PRIVACY_INVITE_ONLY
-LANG_ENGLISH        "Não foi possível ingressar na sessão. O anfitrião definiu a privacidade da festa como 'somente para convidados'. Você pode participar apenas através de um convite."
+LANG_ENGLISH        "Não foi possível ingressar na sessão. O anfitrião definiu a privacidade da sala como 'somente para convidados'. Você pode participar apenas através de um convite."
 
 REFERENCE           PLATFORM_INVITE_XBOXLIVE_PARTY
-LANG_ENGLISH        "^BBUTTON_MP_CANCELCOMMAND^Convidar festa Steam"
+LANG_ENGLISH        "^BBUTTON_MP_CANCELCOMMAND^Convidar sala Steam"
 
 REFERENCE           PLATFORM_JOIN
 LANG_ENGLISH        "^BBUTTON_INTERACT^ Participar"
@@ -21594,7 +21594,7 @@ REFERENCE           PLATFORM_JUMPFORWARD
 LANG_ENGLISH        "^BBUTTON_EMBLEM_PALETTE_NEXT^ Pular para frente"
 
 REFERENCE           PLATFORM_KICKEDFROMPARTY
-LANG_ENGLISH        "Você foi expulso da festa."
+LANG_ENGLISH        "Você foi expulso da sala."
 
 REFERENCE           PLATFORM_LAGOMETER_CAPS
 LANG_ENGLISH        "LAGÔMETRO"
@@ -22080,13 +22080,13 @@ REFERENCE           PLATFORM_SHOW_GAMERCARD
 LANG_ENGLISH        "Mostrar perfil do Steam"
 
 REFERENCE           PLATFORM_SHOW_GAMERCARD_CAPS
-LANG_ENGLISH        "MOSTRAR PERFIL DE VAPOR"
+LANG_ENGLISH        "MOSTRAR PERFIL DE STEAM"
 
 REFERENCE           PLATFORM_SHOW_MAP
 LANG_ENGLISH        "^BBUTTON_INTERACT^ Mapa"
 
 REFERENCE           PLATFORM_SHOW_PARTY
-LANG_ENGLISH        "^BBUTTON_FRIENDSLIST^0 Festa Steam"
+LANG_ENGLISH        "^BBUTTON_FRIENDSLIST^0 sala Steam"
 
 REFERENCE           PLATFORM_SHOW_PLAYER_CARD
 LANG_ENGLISH        "^BBUTTON_INTERACT^Vire para mostrar o cartão do jogador"
@@ -22377,7 +22377,7 @@ REFERENCE           PLATFORM_VIEW_GEAR
 LANG_ENGLISH        "^BBUTTON_MP_REFRESH^ ver equipamento"
 
 REFERENCE           PLATFORM_VIEW_LOCAL_PLAYERS
-LANG_ENGLISH        "^BBUTTON_FRIENDSLIST^ Ver festa no teatro"
+LANG_ENGLISH        "^BBUTTON_FRIENDSLIST^ Ver sala no teatro"
 
 REFERENCE           PLATFORM_VIEW_MAP
 LANG_ENGLISH        "^BBUTTON_MP_REFRESH^ ver mapa"
@@ -22620,7 +22620,7 @@ REFERENCE           PRESENCE_PANAMA
 LANG_ENGLISH        "Sofra comigo"
 
 REFERENCE           PRESENCE_PARTY
-LANG_ENGLISH        "Em uma festa"
+LANG_ENGLISH        "Em uma sala"
 
 REFERENCE           PRESENCE_PLAYINGMP
 LANG_ENGLISH        "Playing &&1 on &&2"
@@ -28941,7 +28941,7 @@ REFERENCE           XBOXLIVE_CLAN_MEMBERS_DESC
 LANG_ENGLISH        "Membros do clã que jogaram partidas online"
 
 REFERENCE           XBOXLIVE_DESTROYPARTY
-LANG_ENGLISH        "Fim da festa?"
+LANG_ENGLISH        "Fim da sala?"
 
 REFERENCE           XBOXLIVE_EDITCLANINFO
 LANG_ENGLISH        "Editar informações do clã"
@@ -28962,7 +28962,7 @@ REFERENCE           XBOXLIVE_FRIENDSLISTONX
 LANG_ENGLISH        "^BBUTTON_MP_READY^ amigos"
 
 REFERENCE           XBOXLIVE_FRIENDS_CAPS
-LANG_ENGLISH        "AMIGOS DO VAPOR"
+LANG_ENGLISH        "AMIGOS DO STEAM"
 
 REFERENCE           XBOXLIVE_FRIENDS_UNAVAILABLE
 LANG_ENGLISH        "Você deve estar online e conectado ao Steam para acessar o Friends."
@@ -29076,7 +29076,7 @@ REFERENCE           XBOXLIVE_NOTSIGNEDINLIVE
 LANG_ENGLISH        "Não conectado a um perfil Steam ativo"
 
 REFERENCE           XBOXLIVE_PARTYDETAILS
-LANG_ENGLISH        "^BBUTTON_MP_READY^ detalhes da festa"
+LANG_ENGLISH        "^BBUTTON_MP_READY^ detalhes da sala"
 
 REFERENCE           XBOXLIVE_PARTYENDED
 LANG_ENGLISH        "The party is no longer active"
@@ -29118,7 +29118,7 @@ REFERENCE           XBOXLIVE_SELECTBUTTON
 LANG_ENGLISH        "^BBUTTON_SELECTCHOICE^"
 
 REFERENCE           XBOXLIVE_SERVICENAME_CAPS
-LANG_ENGLISH        "VAPOR ON-LINE"
+LANG_ENGLISH        "STEAM ON-LINE"
 
 REFERENCE           XBOXLIVE_SIGNEDINAS
 LANG_ENGLISH        "Signed in as: &&1"
@@ -29184,7 +29184,7 @@ REFERENCE           XBOXLIVE_VIEW_PROFILE
 LANG_ENGLISH        "Ver perfil do Steam"
 
 REFERENCE           XBOXLIVE_VIEW_PROFILE_CAPS
-LANG_ENGLISH        "VER PERFIL DE VAPOR"
+LANG_ENGLISH        "VER PERFIL DE STEAM"
 
 REFERENCE           XBOXLIVE_WRONGCLAN
 LANG_ENGLISH        "Não foi possível entrar no grupo porque o anfitrião do grupo deseja que apenas os membros do seu clã participem do grupo."

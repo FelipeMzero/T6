@@ -1,4 +1,4 @@
-VERSION             "1"
+﻿VERSION             "1"
 CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
 FILENOTES           ""
 
@@ -123,7 +123,7 @@ REFERENCE           CGAME_PRESSYESNO
 LANG_ENGLISH        "Pressione '&&1' para SIM, ou '&&2' para NÃO"
 
 REFERENCE           CGAME_PRONE_BLOCKED
-LANG_ENGLISH        "Propenso Bloqueado"
+LANG_ENGLISH        "DEITADO BLOQUEADO"
 
 REFERENCE           CGAME_PRONE_BLOCKED_WEAPON
 LANG_ENGLISH        "Não posso cair com esta arma"
@@ -159,25 +159,25 @@ REFERENCE           CGAME_SB_DEFENDS
 LANG_ENGLISH        "Defesas"
 
 REFERENCE           CGAME_SB_DEFUSES
-LANG_ENGLISH        "Defuses"
+LANG_ENGLISH        "DESARMES"
 
 REFERENCE           CGAME_SB_DESTRUCTIONS
-LANG_ENGLISH        "Destructions"
+LANG_ENGLISH        "ESTRAGOS"
 
 REFERENCE           CGAME_SB_DOWNS
 LANG_ENGLISH        "Baixas"
 
 REFERENCE           CGAME_SB_HEADSHOTS
-LANG_ENGLISH        "Fotos na cabeça"
+LANG_ENGLISH        "TIROS NA CABEÇA"
 
 REFERENCE           CGAME_SB_KDRATIO
 LANG_ENGLISH        "Razão"
 
 REFERENCE           CGAME_SB_KILLS
-LANG_ENGLISH        "Mata"
+LANG_ENGLISH        "ABATES"
 
 REFERENCE           CGAME_SB_PING
-LANG_ENGLISH        "Pingue"
+LANG_ENGLISH        "PING"
 
 REFERENCE           CGAME_SB_PLANTS
 LANG_ENGLISH        "Plantas"
@@ -192,10 +192,10 @@ REFERENCE           CGAME_SB_POINTS
 LANG_ENGLISH        "Pontos"
 
 REFERENCE           CGAME_SB_RETURNS
-LANG_ENGLISH        "Retorna"
+LANG_ENGLISH        "RETORNOS"
 
 REFERENCE           CGAME_SB_REVIVES
-LANG_ENGLISH        "Revive"
+LANG_ENGLISH        "REVIVES"
 
 REFERENCE           CGAME_SB_SCORE
 LANG_ENGLISH        "Pontuação"
@@ -1539,10 +1539,10 @@ REFERENCE           EXE_BADSTATS
 LANG_ENGLISH        "Erro delta do cliente"
 
 REFERENCE           EXE_COD_FEATURE_PERM_BAN_PLAYER
-LANG_ENGLISH        "&&1 has been permanently banned from using this feature. For more information, visit www.callofduty.com/blackops2/status."
+LANG_ENGLISH        "&&1 foi banido permanentemente deste recurso. Para mais informações, visite www.callofduty.com/blackops2/status."
 
 REFERENCE           EXE_COD_FEATURE_TEMP_BAN_PLAYER
-LANG_ENGLISH        "&&1 has been temporarily banned from using this feature. For more information, visit www.callofduty.com/blackops2/status."
+LANG_ENGLISH        "&&1 foi banido temporariamente deste recurso. Para mais informações, visite www.callofduty.com/blackops2/status."
 
 REFERENCE           EXE_COD_LEADERBOARD_WRITE_BAN
 LANG_ENGLISH        "Você foi banido de aparecer nesta tabela de classificação."
@@ -1554,16 +1554,16 @@ REFERENCE           EXE_COD_LEAGUE_GAMETYPE_TEMP_BAN_PLAYER
 LANG_ENGLISH        "Este perfil ( &&1 ) foi temporariamente banido das Ligas devido a uma violação da Política de Segurança e Execução publicada. Para obter mais informações, visite http://support.activision.com/blackops2."
 
 REFERENCE           EXE_COD_ONLINE_PERM_BAN_CONSOLE
-LANG_ENGLISH        "This console has been permanently banned from playing on the Call of Duty: Black Ops II servers. For more information, visit www.callofduty.com/blackops2/status."
+LANG_ENGLISH        "Este console foi banido permanentemente dos servidores de Call of Duty: Black Ops II. Para mais informações, visite www.callofduty.com/blackops2/status."
 
 REFERENCE           EXE_COD_ONLINE_PERM_BAN_PLAYER
 LANG_ENGLISH        "&&1 foi banido de jogar nos servidores de Call of Duty: Black Ops II. Faça login com outro perfil para jogar online."
 
 REFERENCE           EXE_COD_ONLINE_TEMP_BAN_PLAYER
-LANG_ENGLISH        "&&1 has been temporarily banned from playing on the Call of Duty: Black Ops II servers. For more information, visit www.callofduty.com/blackops2/status."
+LANG_ENGLISH        "&&1 foi banido temporariamente dos servidores de Call of Duty: Black Ops II. Para mais informações, visite www.callofduty.com/blackops2/status."
 
 REFERENCE           EXE_COD_PIRACY_PERM_BAN_PLAYER
-LANG_ENGLISH        "&&1 has been permanently banned from the Call of Duty: Black Ops II servers due to detection of unauthorized content. Visit www.callofduty.com/blackops2/status."
+LANG_ENGLISH        "&&1 foi banido permanentemente dos servidores de Call of Duty: Black Ops II devido à detecção de conteúdo não autorizado. Visite www.callofduty.com/blackops2/status."
 
 REFERENCE           EXE_DAY_PLURAL
 LANG_ENGLISH        "&&1 dias"
@@ -2853,13 +2853,13 @@ REFERENCE           MENU_CODTV_FOLDER_EMPTY_HINT
 LANG_ENGLISH        "Não há itens disponíveis nesta categoria."
 
 REFERENCE           MENU_COD_BOOSTER_RESET
-LANG_ENGLISH        "Your stats have been reset for violations of the Call of Duty: Black Ops II Online Security Policy. For more information, visit http://support.activision.com/blackops2."
+LANG_ENGLISH        "Suas estatísticas foram reiniciadas por violação da Política de Segurança Online do Call of Duty: Black Ops II. Para mais informações, visite http://support.activision.com/blackops2."
 
 REFERENCE           MENU_COD_FEATURE_PERM_BAN_PLAYER
 LANG_ENGLISH        "&&1 foi banido permanentemente de usar este recurso. Para mais informações, visite http://support.activision.com/blackops2."
 
 REFERENCE           MENU_COD_FEATURE_TEMP_BAN_PLAYER
-LANG_ENGLISH        "&&1 has been temporarily banned from using this feature. For more information, visit http://support.activision.com/blackops2."
+LANG_ENGLISH        "&&1 foi banido temporariamente deste recurso. Para mais informações, visite http://support.activision.com/blackops2."
 
 REFERENCE           MENU_COD_ONLINE_PERM_BAN_PLAYER
 LANG_ENGLISH        "&&1 foi banido permanentemente dos servidores do Call of Duty: Black Ops II. Para mais informações, visite http://support.activision.com/blackops2."
@@ -2868,13 +2868,13 @@ REFERENCE           MENU_COD_ONLINE_TEMP_BAN_PLAYER
 LANG_ENGLISH        "&&1 foi banido temporariamente dos servidores do Call of Duty: Black Ops II. Para mais informações, visite http://support.activision.com/blackops2."
 
 REFERENCE           MENU_COD_PIRACY_PERM_BAN_CONSOLE
-LANG_ENGLISH        "This console has been permanently banned from the Call of Duty: Black Ops II servers due to detection of unauthorized content. Visit http://support.activision.com/blackops2."
+LANG_ENGLISH        "Este console foi banido permanentemente dos servidores de Call of Duty: Black Ops II devido à detecção de conteúdo não autorizado. Visite http://support.activision.com/blackops2."
 
 REFERENCE           MENU_COD_PIRACY_PERM_BAN_PLAYER
 LANG_ENGLISH        "&&1 foi banido permanentemente dos servidores do Call of Duty: Black Ops II devido à detecção de conteúdo não autorizado. Visite http://support.activision.com/blackops2."
 
 REFERENCE           MENU_COD_PIRACY_TEMP_BAN_CONSOLE
-LANG_ENGLISH        "This console has been temporarily banned from the Call of Duty: Black Ops II servers due to detection of unauthorized content. Visit http://support.activision.com/blackops2."
+LANG_ENGLISH        "Este console foi banido temporariamente dos servidores de Call of Duty: Black Ops II devido à detecção de conteúdo não autorizado. Visite http://support.activision.com/blackops2."
 
 REFERENCE           MENU_COD_PIRACY_TEMP_BAN_PLAYER
 LANG_ENGLISH        "&&1 foi banido temporariamente dos servidores do Call of Duty: Black Ops II devido à detecção de conteúdo não autorizado. Visite http://support.activision.com/blackops2."
@@ -3306,10 +3306,10 @@ REFERENCE           MENU_FACEBOOK_ACCOUNT_LINK_DESC
 LANG_ENGLISH        "Para postar o link da sua transmissão ao vivo no Facebook, você precisará vincular sua conta do Facebook."
 
 REFERENCE           MENU_FB_ACCOUNT_IN_USE
-LANG_ENGLISH        "This Facebook account is already in use. To disconnect, visit www.facebook.com and update your privacy settings."
+LANG_ENGLISH        "Esta conta do Facebook já está em uso. Para desconectar, visite www.facebook.com e atualize suas configurações de privacidade."
 
 REFERENCE           MENU_FB_LINK
-LANG_ENGLISH        "Sign In To Facebook"
+LANG_ENGLISH        "ENTRAR NO FACEBOOK"
 
 REFERENCE           MENU_FB_MSG_DESC
 LANG_ENGLISH        "A seguinte mensagem foi enviada ao Facebook:\n\n&&1"
@@ -3993,7 +3993,7 @@ REFERENCE           MENU_PRESTIGE_FRESH_START_DESC
 LANG_ENGLISH        "Selecionar Novo Começo redefinirá completamente todo o progresso e estatísticas na Partida Pública, incluindo Prestígio e todos os emblemas, camuflagens e planos de fundo que você desbloqueou. \n\nVocê começará no nível 1 como se nunca tivesse jogado uma Partida Pública. \n\nTem certeza de que deseja usar o Fresh Start?"
 
 REFERENCE           MENU_PRESTIGE_FRESH_START_WARNING
-LANG_ENGLISH        "Are you sure you want to select Fresh Start?  There is no going back once you reset your progress."
+LANG_ENGLISH        "Tem certeza que deseja selecionar Recomeço? Não há volta quando você reinicia seu progresso."
 
 REFERENCE           MENU_PRESTIGE_FRESH_START_WARNING2
 LANG_ENGLISH        "Última chance.\n\nNão há como voltar atrás depois de usar o Fresh Start.\n\nTem certeza absoluta de que deseja recomeçar do início, como se estivesse jogando o modo multijogador pela primeira vez?\n"
@@ -4557,7 +4557,7 @@ REFERENCE           MENU_YOUTUBE_CONNECT
 LANG_ENGLISH        "Conectando ao YouTube"
 
 REFERENCE           MENU_YOUTUBE_ERROR
-LANG_ENGLISH        "An error occurred while connecting to YouTube."
+LANG_ENGLISH        "Ocorreu um erro ao conectar-se ao YouTube."
 
 REFERENCE           MENU_YOUTUBE_UNLINK_FAILED
 LANG_ENGLISH        "Ocorreu um erro ao tentar desvincular do YouTube. Por favor, tente novamente mais tarde."
@@ -4710,7 +4710,7 @@ REFERENCE           MPUI_CONFIRM_WEAPON_PRESTIGE_DESC_SPECIALS
 LANG_ENGLISH        "Redefina esta arma para o nível 1. Em troca, você pode mostrar a etiqueta do seu clã em sua arma e ganhará recompensas de XP novamente para cada nível de arma."
 
 REFERENCE           MPUI_CONFIRM_WEAPON_PRESTIGE_WARNING
-LANG_ENGLISH        "Weapon prestige does not affect progress towards challenges or camo.  Once you prestige this weapon there is no going back. Are you sure you want to enter weapon prestige?"
+LANG_ENGLISH        "O prestígio da arma não afeta o progresso de desafios ou camuflagens. Uma vez que você entrar no prestígio desta arma, não há volta. Tem certeza de que deseja entrar no prestígio da arma?"
 
 REFERENCE           MPUI_CONNECTION_ANY_CAPS
 LANG_ENGLISH        "QUALQUER"
@@ -5124,7 +5124,7 @@ REFERENCE           MPUI_HINTTEXT_SUBSCRIBE
 LANG_ENGLISH        "Aproveite ao máximo Call of Duty! Sim, quero acompanhar minhas estatísticas, ouvir sobre novos conteúdos e obter as informações mais recentes do Call of Duty."
 
 REFERENCE           MPUI_HINTTEXT_UCD_ACCOUNT_NAME
-LANG_ENGLISH        "This will be your online identity for posting and rating comments. Max length is 20 and no special characters are allowed except underscores."
+LANG_ENGLISH        "Este será seu identificador online para publicar e classificar comentários. O comprimento máximo é 20 e nenhum caractere especial é permitido, exceto sublinhados."
 
 REFERENCE           MPUI_HINTTEXT_UCD_ACCOUNT_NAME_ERROR
 LANG_ENGLISH        "O primeiro nome que você digitou contém caracteres não suportados. Certifique-se de que não contenha nenhum símbolo."
@@ -5418,7 +5418,7 @@ REFERENCE           MPUI_PERMANENT_UNLOCK_ITEM
 LANG_ENGLISH        "Desbloquear permanentemente &&1?"
 
 REFERENCE           MPUI_PERSONALIZE_KNIFE
-LANG_ENGLISH        "Personalize Knife"
+LANG_ENGLISH        "PERSONALIZAR FACA"
 
 REFERENCE           MPUI_PLAYER_MATCH_DESC
 LANG_ENGLISH        "Jogue partidas ranqueadas e não ranqueadas online."
@@ -5847,7 +5847,7 @@ REFERENCE           MPUI_SPREMINDER_TOP_BODY
 LANG_ENGLISH        "Como proprietário do Passe de Temporada, você já possui os seguintes pacotes de mapas de Call of Duty: Black Ops 2 e recomendamos que você os instale:\n"
 
 REFERENCE           MPUI_START_XBOX_PARTY
-LANG_ENGLISH        "Inicie uma festa Xbox LIVE"
+LANG_ENGLISH        "Inicie uma sala Xbox LIVE"
 
 REFERENCE           MPUI_STATS_ABSENT
 LANG_ENGLISH        "Ocorreu um erro ao acessar dados de classificação persistente ( &&1 )."
@@ -6066,7 +6066,7 @@ REFERENCE           MP_ONE_FLAG_CTF_OVERTIME_ROUND_2_WINNER
 LANG_ENGLISH        "CAPTURE A BANDEIRA OU DEFENDA ATÉ O TEMPO EXPIRAR"
 
 REFERENCE           MP_OTHER_TEAMS_FORFEITED
-LANG_ENGLISH        "Other teams forfeited"
+LANG_ENGLISH        "Outras equipes desistiram"
 
 REFERENCE           OBJECTIVES_AQ
 LANG_ENGLISH        "Ganhe pontos carregando a bandeira."
@@ -6441,10 +6441,10 @@ REFERENCE           PLATFORM_STEAM_AUTH_DENIED_NOT_SIGNED_IN
 LANG_ENGLISH        "Falha na autorização do Steam, não conectado ao Steam"
 
 REFERENCE           PLATFORM_STEAM_AUTH_DENIED_NO_LICENSE
-LANG_ENGLISH        "Steam authorization failed, no license for game."
+LANG_ENGLISH        "Falha na autorização do Steam, sem licença para o jogo."
 
 REFERENCE           PLATFORM_STEAM_AUTH_DENIED_NO_LICENSE_FOR_CONTENT
-LANG_ENGLISH        "Steam authorization failed, no license for this content."
+LANG_ENGLISH        "Falha na autorização do Steam, sem licença para este conteúdo."
 
 REFERENCE           PLATFORM_STEAM_AUTH_DENIED_SIGNED_IN_ELSE_WHERE
 LANG_ENGLISH        "Falha na autorização do Steam, faça login em outro lugar."
@@ -7152,7 +7152,7 @@ REFERENCE           SCRIPT_COMPROMISE_FAIL
 LANG_ENGLISH        "Suas ações comprometeram a missão"
 
 REFERENCE           SCRIPT_DEBUG_LEVEL_END
-LANG_ENGLISH        "End of current level."
+LANG_ENGLISH        "Fim do nível atual."
 
 REFERENCE           SCRIPT_DOLLAR
 LANG_ENGLISH        "$"

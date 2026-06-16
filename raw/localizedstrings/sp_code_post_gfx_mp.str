@@ -1,4 +1,4 @@
-VERSION             "1"
+﻿VERSION             "1"
 CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
 FILENOTES           ""
 
@@ -7869,10 +7869,10 @@ REFERENCE           MENU_ACCEPTINVITE
 LANG_SPANISH        "Sair do Grupo"
 
 REFERENCE           MENU_ACCEPTINVITETITLE
-LANG_SPANISH        "Sair da festa?"
+LANG_SPANISH        "Sair da sala?"
 
 REFERENCE           MENU_ACCEPTINVITETITLE_PARTY
-LANG_SPANISH        "Sair da festa?"
+LANG_SPANISH        "Sair da sala?"
 
 REFERENCE           MENU_ACCEPTINVITE_PARTY
 LANG_SPANISH        "Sair do Grupo"
@@ -8394,7 +8394,7 @@ REFERENCE           MENU_BOT_DIFFICULTY
 LANG_SPANISH        "Determina o quão difícil é lutar contra os bots."
 
 REFERENCE           MENU_BOT_WARS_DESC
-LANG_SPANISH        "Capture e controle os objetivos do mapa com aliados bot neste jogo de festa gratuito para todos."
+LANG_SPANISH        "Capture e controle os objetivos do mapa com aliados bot neste jogo de sala gratuito para todos."
 
 REFERENCE           MENU_BRAVO_CAPS
 LANG_SPANISH        "BRAVO"
@@ -8424,7 +8424,7 @@ REFERENCE           MENU_BRIGHTNESS_NOT_VISIBLE
 LANG_SPANISH        "Não visível"
 
 REFERENCE           MENU_BRING_PARTY
-LANG_SPANISH        "Traga Festa"
+LANG_SPANISH        "Traga sala"
 
 REFERENCE           MENU_BRITISH
 LANG_SPANISH        "Britânico"
@@ -9201,7 +9201,7 @@ REFERENCE           MENU_CREATE_ONLINE_PLAYER_PROFILE
 LANG_SPANISH        "Criar perfil on-line"
 
 REFERENCE           MENU_CREATE_PARTY
-LANG_SPANISH        "Criar festa"
+LANG_SPANISH        "Criar sala"
 
 REFERENCE           MENU_CREATE_PLAYER_PROFILE
 LANG_SPANISH        "Criar perfil de jogador"
@@ -9822,7 +9822,7 @@ REFERENCE           MENU_DEMO_MODE_THEATER_FULL_EDITOR
 LANG_SPANISH        "MODO: Editor de Filme"
 
 REFERENCE           MENU_DEMO_MODE_THEATER_PARTY
-LANG_SPANISH        "MODO: Festa no Teatro"
+LANG_SPANISH        "MODO: sala no Teatro"
 
 REFERENCE           MENU_DEMO_MODE_THEATER_PLAYBACK
 LANG_SPANISH        "MODO: Reprodução de Filme"
@@ -9969,7 +9969,7 @@ REFERENCE           MENU_DISBAND_PARTY_HOST_WARNING
 LANG_SPANISH        "Isso fará com que você saia do lobby e desfaça seu grupo."
 
 REFERENCE           MENU_DISBAND_PARTY_TITLE
-LANG_SPANISH        "Dissolver festa?"
+LANG_SPANISH        "Dissolver sala?"
 
 REFERENCE           MENU_DISCARD
 LANG_SPANISH        "Descartar"
@@ -12168,22 +12168,22 @@ REFERENCE           MENU_LEAVEMPGAMEWARNING
 LANG_SPANISH        "Se aceitar este convite, você sairá do lobby de jogo atual. Aceitar convite?"
 
 REFERENCE           MENU_LEAVEMPGAMEWARNINGPARTYHOST
-LANG_SPANISH        "Se você entrar em outra sessão, seu grupo será dissolvido.  Dissolver festa?"
+LANG_SPANISH        "Se você entrar em outra sessão, seu grupo será dissolvido.  Dissolver sala?"
 
 REFERENCE           MENU_LEAVEMPGAMEWARNINGSQUADHOST
-LANG_SPANISH        "Se você entrar em outra sessão, seu grupo será dissolvido.  Dissolver festa?"
+LANG_SPANISH        "Se você entrar em outra sessão, seu grupo será dissolvido.  Dissolver sala?"
 
 REFERENCE           MENU_LEAVEMPGAMEWARNINGSQUADLEADER
-LANG_SPANISH        "Se você entrar em outra sessão, seu grupo será dissolvido.  Dissolver festa?"
+LANG_SPANISH        "Se você entrar em outra sessão, seu grupo será dissolvido.  Dissolver sala?"
 
 REFERENCE           MENU_LEAVEPARTYWARNING
-LANG_SPANISH        "Se você entrar em outra sessão, você sairá do seu grupo.  Sair da festa?"
+LANG_SPANISH        "Se você entrar em outra sessão, você sairá do seu grupo.  Sair da sala?"
 
 REFERENCE           MENU_LEAVESQUADWARNING
-LANG_SPANISH        "Se você entrar em outra sessão, você sairá do seu grupo.  Sair da festa?"
+LANG_SPANISH        "Se você entrar em outra sessão, você sairá do seu grupo.  Sair da sala?"
 
 REFERENCE           MENU_LEAVE_AND_DISBAND_PARTY
-LANG_SPANISH        "Sair e dissolver a festa"
+LANG_SPANISH        "Sair e dissolver a sala"
 
 REFERENCE           MENU_LEAVE_CURRENT_CLAN
 LANG_SPANISH        "Do you want to leave current clan and join new clan?"
@@ -12192,7 +12192,7 @@ REFERENCE           MENU_LEAVE_GAME
 LANG_SPANISH        "Sair do jogo"
 
 REFERENCE           MENU_LEAVE_GAME_AND_PARTY
-LANG_SPANISH        "Sair do jogo e da festa?"
+LANG_SPANISH        "Sair do jogo e da sala?"
 
 REFERENCE           MENU_LEAVE_GAME_AND_PARTY_DESC
 LANG_SPANISH        "Se você sair, você sairá do seu grupo. Tem certeza de que deseja sair?"
@@ -12228,13 +12228,13 @@ REFERENCE           MENU_LEAVE_LOBBY_DISBAND_PARTY
 LANG_SPANISH        "Sair da Sala e Desfazer Grupo"
 
 REFERENCE           MENU_LEAVE_LOBBY_HOST_WARNING
-LANG_SPANISH        "Decida se quer sair sozinho ou trazer sua festa com você."
+LANG_SPANISH        "Decida se quer sair sozinho ou trazer sua sala com você."
 
 REFERENCE           MENU_LEAVE_LOBBY_TITLE
 LANG_SPANISH        "Sair da Sala?"
 
 REFERENCE           MENU_LEAVE_LOBBY_WITH_PARTY
-LANG_SPANISH        "Sair com festa"
+LANG_SPANISH        "Sair com sala"
 
 REFERENCE           MENU_LEAVE_PARTY
 LANG_SPANISH        "Sair do Grupo"
@@ -13038,7 +13038,7 @@ REFERENCE           MENU_MUTE
 LANG_SPANISH        "Silenciar"
 
 REFERENCE           MENU_MUTE_ALL_EXCEPT_PARTY_CAPS
-LANG_SPANISH        "SILENCIAR TODOS, EXCETO FESTA"
+LANG_SPANISH        "SILENCIAR TODOS, EXCETO salA"
 
 REFERENCE           MENU_MUTE_ALL_EXCEPT_PARTY_DESC
 LANG_SPANISH        "Silencie todos no lobby atual, exceto os jogadores que estão no seu grupo."
@@ -13518,10 +13518,10 @@ REFERENCE           MENU_PARTYPLAYERCOUNT
 LANG_SPANISH        "&&1 jogador(es) no grupo."
 
 REFERENCE           MENU_PARTYRECONNECT
-LANG_SPANISH        "Reconectando-se à festa..."
+LANG_SPANISH        "Reconectando-se à sala..."
 
 REFERENCE           MENU_PARTY_CAPS
-LANG_SPANISH        "FESTA"
+LANG_SPANISH        "salA"
 
 REFERENCE           MENU_PARTY_LEADER
 LANG_SPANISH        "Líder do Partido:"
@@ -14166,7 +14166,7 @@ REFERENCE           MENU_RECOMMEND_TO_CLAN_CAPS
 LANG_SPANISH        "RECOMENDO PARA O CLÃ"
 
 REFERENCE           MENU_RECONNECTING_TO_PARTY_CAPS
-LANG_SPANISH        "RECONECTANDO-SE À FESTA"
+LANG_SPANISH        "RECONECTANDO-SE À salA"
 
 REFERENCE           MENU_RECONNECTING_TO_SQUAD_CAPS
 LANG_SPANISH        "RECONECTANDO-SE À ESQUADRÃO"
@@ -15558,7 +15558,7 @@ REFERENCE           MENU_STATUS_LOCAL_ONLY_DESC
 LANG_SPANISH        "Preferências de pesquisa: apenas localidade"
 
 REFERENCE           MENU_STATUS_OPEN_CLAN_DESC
-LANG_SPANISH        "Privacidade da festa: somente membros do clã"
+LANG_SPANISH        "Privacidade da sala: somente membros do clã"
 
 REFERENCE           MENU_STATUS_OPEN_DESC_CAPS
 LANG_SPANISH        "Open"
@@ -15570,7 +15570,7 @@ REFERENCE           MENU_STAT_SUMMARY_CAPS
 LANG_SPANISH        "RESUMO DE ESTATÍSTICAS"
 
 REFERENCE           MENU_STAYINPARTY
-LANG_SPANISH        "Fique nesta festa"
+LANG_SPANISH        "Fique nesta sala"
 
 REFERENCE           MENU_STAYINSQUAD
 LANG_SPANISH        "Fique neste esquadrão"
@@ -15840,7 +15840,7 @@ REFERENCE           MENU_TAB_STORE_THEMES
 LANG_SPANISH        "TEMAS"
 
 REFERENCE           MENU_TAB_XBOXLIVE_PARTY
-LANG_SPANISH        "FESTA XBOX LIVE"
+LANG_SPANISH        "salA XBOX LIVE"
 
 REFERENCE           MENU_TACTICAL_CAPS
 LANG_SPANISH        "TÁTICO"
@@ -16056,7 +16056,7 @@ REFERENCE           MENU_THEATER_LOAD_HINT
 LANG_SPANISH        "Carregue um filme para começar."
 
 REFERENCE           MENU_THEATER_PARTY
-LANG_SPANISH        "Festa no Teatro"
+LANG_SPANISH        "sala no Teatro"
 
 REFERENCE           MENU_THE_SERVER_IS_STARTED
 LANG_SPANISH        "o jogo é iniciado."
@@ -16509,7 +16509,7 @@ REFERENCE           MENU_VIEW_STATS_CAPS
 LANG_SPANISH        "VER ESTATÍSTICAS"
 
 REFERENCE           MENU_VIEW_THEATER_PARTY
-LANG_SPANISH        "Ver Festa no Teatro"
+LANG_SPANISH        "Ver sala no Teatro"
 
 REFERENCE           MENU_VISOR_TYPEWRITER
 LANG_SPANISH        "Self test... OK\nNew user detected.\nScanning retina... OK\nSyncing markers... OK\n\\\\\\ MATCH FOUND \\\\\\\nLogging in..."
@@ -16794,7 +16794,7 @@ REFERENCE           MENU_WORLD_ONLY
 LANG_SPANISH        "Somente no mundo"
 
 REFERENCE           MENU_XBOXLIVE_PARTY
-LANG_SPANISH        "Festa Xbox LIVE"
+LANG_SPANISH        "sala Xbox LIVE"
 
 REFERENCE           MENU_XP
 LANG_SPANISH        "XP"
@@ -18378,7 +18378,7 @@ REFERENCE           MPUI_CATEGORY_CUSTOM_DESC
 LANG_SPANISH        "Carregue qualquer modo de jogo previamente personalizado."
 
 REFERENCE           MPUI_CATEGORY_PARTY_CAPS
-LANG_SPANISH        "FESTA"
+LANG_SPANISH        "salA"
 
 REFERENCE           MPUI_CATEGORY_PARTY_DESC
 LANG_SPANISH        "Escolha entre uma ampla variedade de modos de jogo divertidos. Melhor jogado com amigos."
@@ -18978,7 +18978,7 @@ REFERENCE           MPUI_CREATE_NEW_RULE
 LANG_SPANISH        "Criar nova regra"
 
 REFERENCE           MPUI_CREATE_PARTY
-LANG_SPANISH        "Criar festa"
+LANG_SPANISH        "Criar sala"
 
 REFERENCE           MPUI_CREATE_SQUAD
 LANG_SPANISH        "Criar Esquadrão"
@@ -19239,16 +19239,16 @@ REFERENCE           MPUI_DESC_CUSTOM_MATCH_LOCKED
 LANG_SPANISH        "Apenas o líder do esquadrão pode iniciar uma partida personalizada."
 
 REFERENCE           MPUI_DESC_CUSTOM_MATCH_LOCKED_PARTY
-LANG_SPANISH        "Somente o anfitrião da festa pode iniciar uma partida personalizada."
+LANG_SPANISH        "Somente o anfitrião da sala pode iniciar uma partida personalizada."
 
 REFERENCE           MPUI_DESC_FIND_GAME
 LANG_SPANISH        "Selecione um tipo de partida e participe de um jogo online."
 
 REFERENCE           MPUI_DESC_FIND_GAME_LOCKED
-LANG_SPANISH        "Somente o anfitrião da festa pode encontrar jogos."
+LANG_SPANISH        "Somente o anfitrião da sala pode encontrar jogos."
 
 REFERENCE           MPUI_DESC_FIND_GAME_LOCKED_PARTY
-LANG_SPANISH        "Somente o anfitrião da festa pode encontrar jogos."
+LANG_SPANISH        "Somente o anfitrião da sala pode encontrar jogos."
 
 REFERENCE           MPUI_DESC_GAME_SETUP
 LANG_SPANISH        "Altere o mapa, o tipo de jogo e as regras."
@@ -19422,13 +19422,13 @@ REFERENCE           MPUI_DESC_MAP_ZOO
 LANG_SPANISH        "Esteja pronto para tiroteios de longo alcance neste zoológico soviético abandonado."
 
 REFERENCE           MPUI_DESC_PARTY_INVITE
-LANG_SPANISH        "Convide amigos para sua festa."
+LANG_SPANISH        "Convide amigos para sua sala."
 
 REFERENCE           MPUI_DESC_PARTY_PRIVACY
 LANG_SPANISH        "Defina as configurações de privacidade do grupo."
 
 REFERENCE           MPUI_DESC_PARTY_PRIVACY_LOCKED
-LANG_SPANISH        "Somente o anfitrião da festa pode definir a privacidade."
+LANG_SPANISH        "Somente o anfitrião da sala pode definir a privacidade."
 
 REFERENCE           MPUI_DESC_PLAYER_OPTIONS
 LANG_SPANISH        "Abra o menu de opções do jogador."
@@ -19449,7 +19449,7 @@ REFERENCE           MPUI_DESC_PRIVATE_MATCH_LOCKED
 LANG_SPANISH        "Apenas o líder do esquadrão pode iniciar uma partida privada."
 
 REFERENCE           MPUI_DESC_PRIVATE_MATCH_LOCKED_PARTY
-LANG_SPANISH        "Apenas o anfitrião da festa pode iniciar uma partida privada."
+LANG_SPANISH        "Apenas o anfitrião da sala pode iniciar uma partida privada."
 
 REFERENCE           MPUI_DESC_SQUAD_INVITE
 LANG_SPANISH        "Convide amigos para o seu time."
@@ -21015,10 +21015,10 @@ REFERENCE           MPUI_LEAVE_SQUAD
 LANG_SPANISH        "Sair do Esquadrão"
 
 REFERENCE           MPUI_LEAVE_WITHOUT_PARTY
-LANG_SPANISH        "Sair sem Festa"
+LANG_SPANISH        "Sair sem sala"
 
 REFERENCE           MPUI_LEAVE_WITH_PARTY
-LANG_SPANISH        "Sair com festa"
+LANG_SPANISH        "Sair com sala"
 
 REFERENCE           MPUI_LENS_BLUE
 LANG_SPANISH        "Lente Azul"
@@ -21111,10 +21111,10 @@ REFERENCE           MPUI_LOBBY_LEADERBOARD_DESC
 LANG_SPANISH        "Veja como você se compara aos outros jogadores no seu lobby."
 
 REFERENCE           MPUI_LOBBY_PRIVACY
-LANG_SPANISH        "Privacidade da festa"
+LANG_SPANISH        "Privacidade da sala"
 
 REFERENCE           MPUI_LOBBY_PRIVACY_CAPS
-LANG_SPANISH        "PRIVACIDADE DA FESTA"
+LANG_SPANISH        "PRIVACIDADE DA salA"
 
 REFERENCE           MPUI_LOCALE_ONLY_CAPS
 LANG_SPANISH        "SOMENTE LOCAL"
@@ -21720,13 +21720,13 @@ REFERENCE           MPUI_PARA_CAPS
 LANG_SPANISH        "PARANÓICO"
 
 REFERENCE           MPUI_PARTY_INVITE
-LANG_SPANISH        "Convite para festa"
+LANG_SPANISH        "Convite para sala"
 
 REFERENCE           MPUI_PARTY_PRIVACY_SUBTITLE
 LANG_SPANISH        "As opções de adesão ao grupo são definidas aqui."
 
 REFERENCE           MPUI_PARTY_PRIVACY_TITLE
-LANG_SPANISH        "Definir privacidade da festa"
+LANG_SPANISH        "Definir privacidade da sala"
 
 REFERENCE           MPUI_PATTERN_COLOR_0
 LANG_SPANISH        "INCOLOR"
@@ -23925,7 +23925,7 @@ REFERENCE           MPUI_START_MATCH_DESC
 LANG_SPANISH        "Comece o jogo."
 
 REFERENCE           MPUI_START_XBOX_PARTY
-LANG_SPANISH        "Inicie uma festa Xbox LIVE"
+LANG_SPANISH        "Inicie uma sala Xbox LIVE"
 
 REFERENCE           MPUI_STATSERROR
 LANG_SPANISH        "Parece que os dados de classificação persistente para '&&4' foram corrompidos. Sua classificação foi restaurada para o backup armazenado mais recentemente: &&1 Nível &&2."
@@ -24030,7 +24030,7 @@ REFERENCE           MPUI_SWAYREDUC_SHORT_CAPS
 LANG_SPANISH        "CPU BALÍSTICA"
 
 REFERENCE           MPUI_SWITCH_LOBBIES_DESC
-LANG_SPANISH        "Mova-se rapidamente para outro lobby. Isso inclui sua festa, se você tiver uma."
+LANG_SPANISH        "Mova-se rapidamente para outro lobby. Isso inclui sua sala, se você tiver uma."
 
 REFERENCE           MPUI_SWITCH_PLAYER_CAPS
 LANG_SPANISH        "TROCAR DE JOGADOR"
@@ -29028,13 +29028,13 @@ REFERENCE           PLATFORM_INVITE_NOT_JOINABLE
 LANG_SPANISH        "Seu amigo não está em uma sessão ingressável."
 
 REFERENCE           PLATFORM_INVITE_NOT_JOINABLE_PRIVACY_CLOSED
-LANG_SPANISH        "Não foi possível ingressar na sessão. O anfitrião definiu a privacidade da festa como ‘fechada’."
+LANG_SPANISH        "Não foi possível ingressar na sessão. O anfitrião definiu a privacidade da sala como ‘fechada’."
 
 REFERENCE           PLATFORM_INVITE_NOT_JOINABLE_PRIVACY_INVITE_ONLY
-LANG_SPANISH        "Não foi possível ingressar na sessão. O anfitrião definiu a privacidade da festa como 'somente para convidados'. Você pode participar apenas através de um convite."
+LANG_SPANISH        "Não foi possível ingressar na sessão. O anfitrião definiu a privacidade da sala como 'somente para convidados'. Você pode participar apenas através de um convite."
 
 REFERENCE           PLATFORM_INVITE_XBOXLIVE_PARTY
-LANG_SPANISH        "^BBUTTON_MP_CANCELCOMMAND^Convidar festa Steam"
+LANG_SPANISH        "^BBUTTON_MP_CANCELCOMMAND^Convidar sala Steam"
 
 REFERENCE           PLATFORM_JOIN
 LANG_SPANISH        "^BBUTTON_INTERACT^ Participar"
@@ -29058,7 +29058,7 @@ REFERENCE           PLATFORM_JUMPFORWARD
 LANG_SPANISH        "^BBUTTON_EMBLEM_PALETTE_NEXT^ Pular para frente"
 
 REFERENCE           PLATFORM_KICKEDFROMPARTY
-LANG_SPANISH        "Você foi expulso da festa."
+LANG_SPANISH        "Você foi expulso da sala."
 
 REFERENCE           PLATFORM_LAGOMETER_CAPS
 LANG_SPANISH        "LAGÔMETRO"
@@ -29538,13 +29538,13 @@ REFERENCE           PLATFORM_SHOW_GAMERCARD
 LANG_SPANISH        "Mostrar perfil do Steam"
 
 REFERENCE           PLATFORM_SHOW_GAMERCARD_CAPS
-LANG_SPANISH        "MOSTRAR PERFIL DE VAPOR"
+LANG_SPANISH        "MOSTRAR PERFIL DE STEAM"
 
 REFERENCE           PLATFORM_SHOW_MAP
 LANG_SPANISH        "^BBUTTON_INTERACT^ Mapa"
 
 REFERENCE           PLATFORM_SHOW_PARTY
-LANG_SPANISH        "^BBUTTON_FRIENDSLIST^0 Festa Steam"
+LANG_SPANISH        "^BBUTTON_FRIENDSLIST^0 sala Steam"
 
 REFERENCE           PLATFORM_SHOW_PLAYER_CARD
 LANG_SPANISH        "^BBUTTON_INTERACT^Vire para mostrar o cartão do jogador"
@@ -29802,7 +29802,7 @@ REFERENCE           PLATFORM_VIEW_GEAR
 LANG_SPANISH        "^BBUTTON_MP_REFRESH^ ver equipamento"
 
 REFERENCE           PLATFORM_VIEW_LOCAL_PLAYERS
-LANG_SPANISH        "^BBUTTON_FRIENDSLIST^ Ver festa no teatro"
+LANG_SPANISH        "^BBUTTON_FRIENDSLIST^ Ver sala no teatro"
 
 REFERENCE           PLATFORM_VIEW_MAP
 LANG_SPANISH        "^BBUTTON_MP_REFRESH^ ver mapa"
@@ -30030,7 +30030,7 @@ REFERENCE           PRESENCE_PANAMA
 LANG_SPANISH        "Sofra comigo"
 
 REFERENCE           PRESENCE_PARTY
-LANG_SPANISH        "Em uma festa"
+LANG_SPANISH        "Em uma sala"
 
 REFERENCE           PRESENCE_PLAYINGMP
 LANG_SPANISH        "Playing &&1 on &&2"
@@ -33648,7 +33648,7 @@ REFERENCE           XBOXLIVE_CLAN_MEMBERS_DESC
 LANG_SPANISH        "Membros do clã que jogaram partidas online"
 
 REFERENCE           XBOXLIVE_DESTROYPARTY
-LANG_SPANISH        "Fim da festa?"
+LANG_SPANISH        "Fim da sala?"
 
 REFERENCE           XBOXLIVE_EDITCLANINFO
 LANG_SPANISH        "Editar informações do clã"
@@ -33669,7 +33669,7 @@ REFERENCE           XBOXLIVE_FRIENDSLISTONX
 LANG_SPANISH        "^BBUTTON_MP_READY^ amigos"
 
 REFERENCE           XBOXLIVE_FRIENDS_CAPS
-LANG_SPANISH        "AMIGOS DO VAPOR"
+LANG_SPANISH        "AMIGOS DO STEAM"
 
 REFERENCE           XBOXLIVE_FRIENDS_UNAVAILABLE
 LANG_SPANISH        "Você deve estar online e conectado ao Steam para acessar o Friends."
@@ -33783,7 +33783,7 @@ REFERENCE           XBOXLIVE_NOTSIGNEDINLIVE
 LANG_SPANISH        "Não conectado a um perfil Steam ativo"
 
 REFERENCE           XBOXLIVE_PARTYDETAILS
-LANG_SPANISH        "^BBUTTON_MP_READY^ detalhes da festa"
+LANG_SPANISH        "^BBUTTON_MP_READY^ detalhes da sala"
 
 REFERENCE           XBOXLIVE_PARTYENDED
 LANG_SPANISH        "The party is no longer active"
@@ -33825,7 +33825,7 @@ REFERENCE           XBOXLIVE_SELECTBUTTON
 LANG_SPANISH        "^BBUTTON_SELECTCHOICE^"
 
 REFERENCE           XBOXLIVE_SERVICENAME_CAPS
-LANG_SPANISH        "VAPOR ON-LINE"
+LANG_SPANISH        "STEAM ON-LINE"
 
 REFERENCE           XBOXLIVE_SIGNEDINAS
 LANG_SPANISH        "Signed in as: &&1"
@@ -33891,7 +33891,7 @@ REFERENCE           XBOXLIVE_VIEW_PROFILE
 LANG_SPANISH        "Ver perfil do Steam"
 
 REFERENCE           XBOXLIVE_VIEW_PROFILE_CAPS
-LANG_SPANISH        "VER PERFIL DE VAPOR"
+LANG_SPANISH        "VER PERFIL DE STEAM"
 
 REFERENCE           XBOXLIVE_WRONGCLAN
 LANG_SPANISH        "Não foi possível entrar no grupo porque o anfitrião do grupo deseja que apenas os membros do seu clã participem do grupo."
