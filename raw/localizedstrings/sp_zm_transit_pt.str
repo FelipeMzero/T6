@@ -1,0 +1,40 @@
+﻿VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_TRANSIT_BUS_CLIMB_ROOF
+LANG_SPANISH        "Segure ^3 [{+activate}] ^7 para subir até o telhado"
+LANG_ENGLISH        "Segure ^3 [{+activate}] ^7 para subir até o telhado"
+
+REFERENCE           ZOMBIE_TRANSIT_CLOSE_BUS_DOOR
+LANG_SPANISH        "Segure ^3 [{+activate}] ^7 para fechar"
+LANG_ENGLISH        "Segure ^3 [{+activate}] ^7 para fechar"
+
+REFERENCE           ZOMBIE_TRANSIT_EMERGENCY_EXIT
+LANG_SPANISH        "Segure ^3 [{+activate}] ^7 para saída de emergência"
+LANG_ENGLISH        "Segure ^3 [{+activate}] ^7 para saída de emergência"
+
+REFERENCE           ZOMBIE_TRANSIT_ENGINE_OVERHEAT
+LANG_SPANISH        "Motor superaquecido, aguardando resfriamento"
+LANG_ENGLISH        "Motor superaquecido, aguardando resfriamento"
+
+REFERENCE           ZOMBIE_TRANSIT_ENTER_BUNKER
+LANG_SPANISH        "Segure ^3 [{+activate}] ^7 Para entrar no bunker"
+LANG_ENGLISH        "Segure ^3 [{+activate}] ^7 Para entrar no bunker"
+
+REFERENCE           ZOMBIE_TRANSIT_HATCH_DOWN
+LANG_SPANISH        "Segure ^3 [{+activate}] ^7 para descer"
+LANG_ENGLISH        "Segure ^3 [{+activate}] ^7 para descer"
+
+REFERENCE           ZOMBIE_TRANSIT_HATCH_UP
+LANG_SPANISH        "Segure ^3 [{+activate}] ^7 para subir"
+LANG_ENGLISH        "Segure ^3 [{+activate}] ^7 para subir"
+
+REFERENCE           ZOMBIE_TRANSIT_OPEN_BUS_DOOR
+LANG_SPANISH        "Segure ^3 [{+activate}] ^7 para abrir"
+LANG_ENGLISH        "Segure ^3 [{+activate}] ^7 para abrir"
+
+REFERENCE           ZOMBIE_TRANSIT_PURCHASE_BUS
+LANG_SPANISH        "Pressione ^3 [{+activate}] ^7 para ligar o ônibus [Custo: &&1 ]"
+LANG_ENGLISH        "Pressione ^3 [{+activate}] ^7 para ligar o ônibus [Custo: &&1 ]"
+

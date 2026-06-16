@@ -1,0 +1,346 @@
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           AFGHANISTAN_BASECAMP_1
+LANG_ENGLISH        "Reúna-se com Woods."
+
+REFERENCE           AFGHANISTAN_BASECAMP_2
+LANG_ENGLISH        "Aguarde contato com o Afeganistão.\n"
+
+REFERENCE           AFGHANISTAN_BASECAMP_3
+LANG_ENGLISH        "Siga Zhao até a base Mujahideen"
+
+REFERENCE           AFGHANISTAN_BP1WAVE3_VEHICLES
+LANG_ENGLISH        "Destrua veículos inimigos [&&1 de 2 destruídos]."
+
+REFERENCE           AFGHANISTAN_BP1_FIRE_CRATER_CHARGE
+LANG_ENGLISH        "Pressione ^3[{+attack}]^7 para detonar a carga de crateras"
+
+REFERENCE           AFGHANISTAN_BP1_PLACE_CRATER_CHARGE
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para colocar carga de cratera"
+
+REFERENCE           AFGHANISTAN_BP1_VEHICLES
+LANG_ENGLISH        "Destrua os BTRs soviéticos [&&1 de 2 destruídos]."
+
+REFERENCE           AFGHANISTAN_BP2WAVE2_VEHICLES
+LANG_ENGLISH        "Destrua veículos inimigos [&&1 de 3 destruídos]."
+
+REFERENCE           AFGHANISTAN_BP2WAVE3_VEHICLES
+LANG_ENGLISH        "Destrua veículos inimigos [&&1 de 2 destruídos]."
+
+REFERENCE           AFGHANISTAN_BP3WAVE2_VEHICLES
+LANG_ENGLISH        "Destrua veículos inimigos [&&1 de 3 destruídos]."
+
+REFERENCE           AFGHANISTAN_BP3WAVE3_VEHICLES
+LANG_ENGLISH        "Destrua veículos inimigos [&&1 de 2 destruídos]."
+
+REFERENCE           AFGHANISTAN_BRAINWASH_1
+LANG_ENGLISH        "Segure ^3[{+movestick}]^7 pressionado"
+
+REFERENCE           AFGHANISTAN_BRAINWASH_2
+LANG_ENGLISH        "Segure ^3[{+movestick}]^7 para a esquerda"
+
+REFERENCE           AFGHANISTAN_BRAINWASH_3
+LANG_ENGLISH        "Segure ^3[{+movestick}]^7 e ^3[{+lookstick}]^7 pressionados"
+
+REFERENCE           AFGHANISTAN_BRAINWASH_PROMPT2
+LANG_ENGLISH        "Tap ^F^3[{+activate}]^7^F to resist"
+
+REFERENCE           AFGHANISTAN_BRAINWASH_PROMPT3
+LANG_ENGLISH        "Tap        to resist"
+
+REFERENCE           AFGHANISTAN_C4_FAIL
+LANG_ENGLISH        "Espere até que sua equipe alcance uma distância segura da explosão."
+
+REFERENCE           AFGHANISTAN_CREW_HINT
+LANG_ENGLISH        "Pressione ^3[{+actionslot 4}]^7 para implantar uma tripulação."
+
+REFERENCE           AFGHANISTAN_DISTANCE_FAILED
+LANG_ENGLISH        "Você abandonou sua missão"
+
+REFERENCE           AFGHANISTAN_HINT_MINE_PLACE
+LANG_ENGLISH        "Pressione ^3[{+attack}]^7 para colocar minas"
+
+REFERENCE           AFGHANISTAN_HINT_MINE_SELECT
+LANG_ENGLISH        "Pressione ^3[{+actionslot 1}]^7 para selecionar minas"
+
+REFERENCE           AFGHANISTAN_HINT_STICKY_THROW
+LANG_ENGLISH        "Pressione ^3[{+actionslot 4}]^7 para selecionar argamassas"
+
+REFERENCE           AFGHANISTAN_HORSE_DISMOUNT
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para desmontar"
+
+REFERENCE           AFGHANISTAN_HORSE_SHOOTING_TUTORIAL_1
+LANG_ENGLISH        "Você já disparou uma arma de um cavalo'\n"
+
+REFERENCE           AFGHANISTAN_HORSE_SHOOTING_TUTORIAL_2
+LANG_ENGLISH        "Leva algum tempo para se acostumar, tentar atirar naqueles abutres naquele tanque enferrujado."
+
+REFERENCE           AFGHANISTAN_HORSE_SHOOTING_TUTORIAL_FAIL
+LANG_ENGLISH        "Você vai querer praticar mais se quiser sobreviver no deserto.\n"
+
+REFERENCE           AFGHANISTAN_HORSE_SHOOTING_TUTORIAL_GOOD
+LANG_ENGLISH        "Nice shooting!"
+
+REFERENCE           AFGHANISTAN_INEFFECTIVE_WEAPON
+LANG_ENGLISH        "A arma atual é ineficaz contra este tipo de veículo"
+
+REFERENCE           AFGHANISTAN_INTROSCREEN_LINE_1
+LANG_ENGLISH        "^L\"OLD WOUNDS\"^L"
+
+REFERENCE           AFGHANISTAN_INTROSCREEN_LINE_2
+LANG_ENGLISH        "KHOST PROVINCE, ^LAFGHANISTAN^L"
+
+REFERENCE           AFGHANISTAN_INTROSCREEN_LINE_3
+LANG_ENGLISH        "ALEX^LMASON^L"
+
+REFERENCE           AFGHANISTAN_INTROSCREEN_LINE_4
+LANG_ENGLISH        "^LCIA^L DIVISÃO DE ATIVIDADES ESPECIAIS"
+
+REFERENCE           AFGHANISTAN_INTROSCREEN_LINE_5
+LANG_ENGLISH        "SEPTEMBER 5th, ^L1986^L"
+
+REFERENCE           AFGHANISTAN_INTRUDER
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 arrombar a fechadura"
+
+REFERENCE           AFGHANISTAN_LOCKBREAKER
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para cortar"
+
+REFERENCE           AFGHANISTAN_MAP_A
+LANG_ENGLISH        "^3[{+gostand}]^7 : Tank"
+
+REFERENCE           AFGHANISTAN_MAP_B
+LANG_ENGLISH        "^3[{+stance}]^7"
+
+REFERENCE           AFGHANISTAN_MAP_MOVEMENT
+LANG_ENGLISH        "^3[{+movestick}]^7: Movement"
+
+REFERENCE           AFGHANISTAN_MAP_NO_UNIT
+LANG_ENGLISH        "O tipo de tripulação não está disponível."
+
+REFERENCE           AFGHANISTAN_MAP_TUT_1
+LANG_ENGLISH        "Move ^3[{+movestick}]^7 to identify Blocking Point 1"
+
+REFERENCE           AFGHANISTAN_MAP_TUT_2
+LANG_ENGLISH        "Move ^3[{+movestick}]^7 to identify Blocking Point 2"
+
+REFERENCE           AFGHANISTAN_MAP_TUT_3
+LANG_ENGLISH        "Move ^3[{+movestick}]^7 to identify Blocking Point 3"
+
+REFERENCE           AFGHANISTAN_MAP_TUT_4
+LANG_ENGLISH        "Pressione ^3[{+activate}]^7, ^3[{+weapnext_inventory}]^7 ou ^3[{+stance}]^7 para colocar uma unidade"
+
+REFERENCE           AFGHANISTAN_MAP_TUT_5
+LANG_ENGLISH        "Pressione ^3[{+gostand}]^7 para colocar o tanque na Arena"
+
+REFERENCE           AFGHANISTAN_MAP_TUT_6
+LANG_ENGLISH        "Quando estiver pronto, pressione ^3[{+actionslot 4}]^7 para sair do mapa"
+
+REFERENCE           AFGHANISTAN_MAP_TUT_7
+LANG_ENGLISH        "Pressione ^3[{+actionslot 4}]^7 quando quiser Radio Woods"
+
+REFERENCE           AFGHANISTAN_MAP_TUT_8
+LANG_ENGLISH        "Mova ^3[{+movestick}]^7 para identificar a Arena"
+
+REFERENCE           AFGHANISTAN_MAP_X
+LANG_ENGLISH        "^3[{+activate}]^7"
+
+REFERENCE           AFGHANISTAN_MAP_Y
+LANG_ENGLISH        "^3[{+weapnext_inventory}]^7"
+
+REFERENCE           AFGHANISTAN_MORTAR_HINT
+LANG_ENGLISH        "Pressione ^3[{+attack}]^7 para detonar no ar e fazer chover fogo"
+
+REFERENCE           AFGHANISTAN_MORTAR_HINT1
+LANG_ENGLISH        "Faça chover fogo sobre os alvos dos morteiros."
+
+REFERENCE           AFGHANISTAN_MORTAR_HINT2
+LANG_ENGLISH        "Use o modo free-fire do FIM-92 Stinger para fazer chover fogo."
+
+REFERENCE           AFGHANISTAN_MORTAR_HINT3
+LANG_ENGLISH        "Mire acima do morteiro e detone o foguete para fazer chover fogo."
+
+REFERENCE           AFGHANISTAN_MSG_BASEATTACK
+LANG_ENGLISH        "A BASE ESTÁ SOB ATAQUE"
+
+REFERENCE           AFGHANISTAN_NEED_HORSE
+LANG_ENGLISH        "Você não chegará a tempo a pé."
+
+REFERENCE           AFGHANISTAN_OBJECTIVE_FAIL
+LANG_ENGLISH        "Você não conseguiu cumprir o objetivo da missão."
+
+REFERENCE           AFGHANISTAN_OBJ_BP1
+LANG_ENGLISH        "Defenda o Ponto de Bloqueio Oeste."
+
+REFERENCE           AFGHANISTAN_OBJ_BP2
+LANG_ENGLISH        "Defend blocking point 2."
+
+REFERENCE           AFGHANISTAN_OBJ_BP2_MORTAR
+LANG_ENGLISH        "Destrua as posições de morteiro [&&1 de 2 destruídas]."
+
+REFERENCE           AFGHANISTAN_OBJ_BP3
+LANG_ENGLISH        "Defend blocking point 3."
+
+REFERENCE           AFGHANISTAN_OBJ_BRIDGES
+LANG_ENGLISH        "Destrua as pontes [&&1 de 2 destruídas]."
+
+REFERENCE           AFGHANISTAN_OBJ_DEFEND_ALL
+LANG_ENGLISH        "Destroy threats to base [&&1 of 6 destroyed]."
+
+REFERENCE           AFGHANISTAN_OBJ_DEFEND_CACHE1
+LANG_ENGLISH        "Defenda o esconderijo de armas."
+
+REFERENCE           AFGHANISTAN_OBJ_DEFEND_CACHE2
+LANG_ENGLISH        "Defenda o esconderijo de armas."
+
+REFERENCE           AFGHANISTAN_OBJ_DESTROY_BTR
+LANG_ENGLISH        "Destrua o veículo blindado."
+
+REFERENCE           AFGHANISTAN_OBJ_DESTROY_DOME
+LANG_ENGLISH        "Bloqueie a entrada da aldeia"
+
+REFERENCE           AFGHANISTAN_OBJ_INTERROGATE
+LANG_ENGLISH        "Interrogate Kravchenko"
+
+REFERENCE           AFGHANISTAN_OBJ_OVERALL
+LANG_ENGLISH        "Investigue a ligação de Menéndez com os soviéticos"
+
+REFERENCE           AFGHANISTAN_OBJ_PROTECT
+LANG_ENGLISH        "Defenda a base de ser destruída"
+
+REFERENCE           AFGHANISTAN_OBJ_RETURN_BASE
+LANG_ENGLISH        "Return to base."
+
+REFERENCE           AFGHANISTAN_OBJ_RIDE
+LANG_ENGLISH        "Ride"
+
+REFERENCE           AFGHANISTAN_OBJ_SECURE_CACHE
+LANG_ENGLISH        "Retome o cache de armas"
+
+REFERENCE           AFGHANISTAN_OBJ_WAVE2_THREAT
+LANG_ENGLISH        "Destroy threat to base."
+
+REFERENCE           AFGHANISTAN_OBJ_WAVE3
+LANG_ENGLISH        "Defend blocking points [&&1 of 2 defended]."
+
+REFERENCE           AFGHANISTAN_OBJ_WAVE3_THREAT
+LANG_ENGLISH        "Destroy threats to base [&&1 of 2 destroyed]."
+
+REFERENCE           AFGHANISTAN_OBJ_WEAPONS
+LANG_ENGLISH        "Armas"
+
+REFERENCE           AFGHANISTAN_OBTAIN_PULWAR
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para forçar a soltura"
+
+REFERENCE           AFGHANISTAN_PROTECT_FAILED
+LANG_ENGLISH        "Você falhou em proteger a base."
+
+REFERENCE           AFGHANISTAN_PUSH_OFF_HORSE
+LANG_ENGLISH        "Segure ^3[{+speed_throw}]^7 e ^3[{+attack}]^7 para escapar"
+
+REFERENCE           AFGHANISTAN_REBEL_CAMP
+LANG_ENGLISH        "Entre na sala de comando"
+
+REFERENCE           AFGHANISTAN_RETURN_TO_BASE
+LANG_ENGLISH        "Return to Mujahideen base"
+
+REFERENCE           AFGHANISTAN_ROCK_ARCH_FAIL
+LANG_ENGLISH        "You were crushed."
+
+REFERENCE           AFGHANISTAN_SPRINT
+LANG_ENGLISH        "Pressione ^3[{+breath_sprint}]^7 para correr"
+
+REFERENCE           AFGHANISTAN_STINGER_FF_HINT
+LANG_ENGLISH        "Pressione ^3[{+attack}]^7 para disparar o foguete e ^3[{+attack}]^7 novamente para detonar no ar e fazer chover fogo"
+
+REFERENCE           AFGHANISTAN_STINGER_HINT
+LANG_ENGLISH        "Pressione^3[{+actionslot 3}]^7para alternar para o modo de bloqueio da aeronave"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_ENGLISH        "Munição"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_ENGLISH        "Violação"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_ENGLISH        "Limpar"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_ENGLISH        "Escala"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_ENGLISH        "defender"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_ENGLISH        "destruir"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_ENGLISH        "Detonar"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_ENGLISH        "Inutilizável"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_ENGLISH        "Digitar"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_ENGLISH        "Escolta"
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_ENGLISH        "Prossiga"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_ENGLISH        "Ajuda"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_ENGLISH        "Eles chegam (helicópteros)"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_ENGLISH        "(tanques) chegam"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_ENGLISH        "Acesso"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_ENGLISH        "Salto"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_ENGLISH        "Matar"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_ENGLISH        "Corpo a corpo"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_ENGLISH        "Escolher"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_ENGLISH        "Proteger"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_ENGLISH        "Descer"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_ENGLISH        "Reagrupar"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_ENGLISH        "Procura"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_ENGLISH        "Atire"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_ENGLISH        "Apoio"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_ENGLISH        "Varrer"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_ENGLISH        "Branco"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_ENGLISH        "Usar"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_ENGLISH        "Armas"
+

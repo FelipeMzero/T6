@@ -1,0 +1,136 @@
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           FRONTEND_CYCLE_MISSIONS
+LANG_SPANISH        "Pressione ^3[{+actionslot 3}]^7 para escolher a missão."
+
+REFERENCE           FRONTEND_INCOMING_MESSAGE
+LANG_SPANISH        "Mensagem recebida do Almirante Briggs"
+
+REFERENCE           FRONTEND_PRESENCE_REQUESTED
+LANG_SPANISH        "David Mason, sua presença é obrigatória na Sala de Guerra."
+
+REFERENCE           FRONTEND_PRESS_X_TO_SELECT
+LANG_SPANISH        "Pressione ^3[{+activate}]^7 para confirmar a escolha da missão."
+
+REFERENCE           FRONTEND_REPORT_TO_WAR_ROOM
+LANG_SPANISH        "Reporte-se à Sala de Guerra"
+
+REFERENCE           FRONTEND_SF_AFGHANISTAN
+LANG_SPANISH        "Afeganistão"
+
+REFERENCE           FRONTEND_SF_AT_RISK
+LANG_SPANISH        "Em Risco"
+
+REFERENCE           FRONTEND_SF_CARRIER
+LANG_SPANISH        "Porta-aviões"
+
+REFERENCE           FRONTEND_SF_DRONE
+LANG_SPANISH        "Fábrica de Drones"
+
+REFERENCE           FRONTEND_SF_OVERFLOW
+LANG_SPANISH        "Inundação"
+
+REFERENCE           FRONTEND_SF_SINGAPORE
+LANG_SPANISH        "Docas"
+
+REFERENCE           FRONTEND_SF_SOCOTRA
+LANG_SPANISH        "Socotra"
+
+REFERENCE           FRONTEND_UNITS_REMAINING
+LANG_SPANISH        "Unidades de implantação restantes"
+
+REFERENCE           FRONTEND_USE_STRIKEFORCE
+LANG_SPANISH        "Pressione ^3[{+activate}]^7 para acessar a Força de Assalto."
+
+REFERENCE           FRONTEND_WARMAP_AVAILABLE
+LANG_SPANISH        "Mapa da Força de Assalto Disponível"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_SPANISH        "Munição"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_SPANISH        "Violação"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_SPANISH        "Limpar"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_SPANISH        "Escala"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_SPANISH        "defender"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_SPANISH        "destruir"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_SPANISH        "Detonar"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_SPANISH        "Inutilizável"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_SPANISH        "Digitar"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_SPANISH        "Escolta"
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_SPANISH        "Prossiga"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_SPANISH        "Ajuda"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_SPANISH        "Eles chegam (helicópteros)"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_SPANISH        "(tanques) chegam"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_SPANISH        "Acesso"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_SPANISH        "Salto"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_SPANISH        "Matar"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_SPANISH        "Corpo a corpo"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_SPANISH        "Escolher"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_SPANISH        "Proteger"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_SPANISH        "Descer"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_SPANISH        "Reagrupar"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_SPANISH        "Procura"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_SPANISH        "Atire"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_SPANISH        "Apoio"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_SPANISH        "Varrer"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_SPANISH        "Branco"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_SPANISH        "Usar"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_SPANISH        "Armas"
+

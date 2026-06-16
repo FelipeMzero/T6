@@ -25,13 +25,13 @@ imgui.ini
 /players/
 /plutonium/
 /main/
-/raw/
 /scratch/
 /zone_dump/
 /zone/
 /lms/
 /reveja/
 /scripts_disabled/
+raw/backup_jun6/
 
 # Cache de tradução
 translation_cache.json
