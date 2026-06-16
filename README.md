@@ -1,54 +1,71 @@
 # T6 - Tradução PT-BR para Call of Duty: Black Ops II
 
-Mod de tradução em Português Brasileiro para Call of Duty: Black Ops II via Plutonium.
+Mod de tradução completa em Português Brasileiro para Call of Duty: Black Ops II via Plutonium.
 
-## Funcionalidades
+**Versão:** 2.3
 
-- Tradução completa do modo **Zombies**
-- Tradução completa do modo **Multiplayer**
-- Textos de interação corrigidos com espaços adequados
-- Suporte automático para controles PlayStation e Xbox
+## O que está traduzido
+
+- Modo **Zombies** — Transit, Buried, Die Rise, Nuketown, Prison, Tomb, Highrise
+- Modo **Multiplayer** — 30+ mapas
+- **Campanha** — múltiplas missões
+- **Menus** — completamente em Português
+- **45.000+ strings** traduzidas
 
 ## Instalação
 
-1. Baixe a pasta `mods` deste repositório
-2. Acesse a pasta do Plutonium:
+1. Baixe este repositório (botão **Code → Download ZIP**) ou clone:
    ```
-   %localappdata%\Plutonium\storage\t6
+   git clone https://github.com/FelipeMzero/T6.git
    ```
-3. Copie a pasta `mods` para dentro da pasta `t6`
-4. A estrutura final deve ficar assim:
+
+2. Copie a pasta `mods\t6_ptbr_completo` para dentro da pasta do Plutonium:
+   ```
+   %localappdata%\Plutonium\storage\t6\mods\
+   ```
+   A estrutura final deve ficar assim:
    ```
    %localappdata%\Plutonium\storage\t6\mods\t6_ptbr_completo\
    ```
 
+3. A pasta `AppData` fica oculta — ative **Exibir itens ocultos** no Explorador de Arquivos se necessário.
+
 ## Como Usar
 
-1. Inicie o **T6 Zombies** ou **T6 Multiplayer** pelo Plutonium
-2. No menu principal, vá em **Mods**
-3. Selecione o mod de tradução **t6_ptbr_completo**
-4. O jogo irá reiniciar automaticamente
+1. Abra o **Plutonium T6** (Zombies ou Multiplayer)
+2. No menu principal, clique em **Mods**
+3. Selecione **t6_ptbr_completo**
+4. Clique em **Load** — o jogo reinicia automaticamente
 5. Pronto! O jogo estará em Português Brasileiro
+
+## Estrutura do Repositório
+
+```
+mods/
+└── t6_ptbr_completo/
+    ├── mod.json              ← identificação do mod
+    ├── mod.all.sabl          ← strings compiladas (arquivo principal)
+    ├── localizedstrings/     ← 84 arquivos .str com todas as traduções
+    └── scripts/              ← scripts do mod (ZM e MP)
+```
 
 ## Observações
 
-- **Importante:** Ao selecionar o mod, o jogo irá reiniciar. Isso é normal.
-- Caso queira desativar a tradução, basta não selecionar o mod na tela de Mods.
+- Ao selecionar o mod o jogo irá reiniciar — isso é normal.
+- Para desativar a tradução, basta não carregar o mod na tela de Mods.
+- Compatível com a versão mais recente do Plutonium T6.
 
-## Nota sobre a Tradução
+## Reportar Erros de Tradução
 
-Este mod foi desenvolvido utilizando **API Google Translate** como base. Algumas traduções podem ter ficado de forma literal. 
-
-**Encontrou alguma tradução incorreta ou sugestão de melhoria?** 
-Por favor, abra uma [Issue](../../issues) neste repositório com:
-- Texto incorreto
-- Texto sugerido
-- Contexto onde o texto aparece (menu, gameplay, etc.)
+Encontrou alguma tradução incorreta? Abra uma [Issue](../../issues) com:
+- Texto incorreto encontrado
+- Texto correto sugerido
+- Onde aparece (menu, gameplay, mapa)
 
 ## Créditos
 
-- **Desenvolvimento:** Comunidade Plutonium
-- **Tradução:** Via Google Translate API com ajustes manuais
+- **Autor:** FelipeMzero
+- **Tradução:** Google Translate API com ajustes manuais
 
 ---
 

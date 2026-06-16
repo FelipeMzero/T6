@@ -1,9 +1,13 @@
-# Arquivos do jogo (não incluir)
+# Arquivos do jogo
 *.iwd
 *.ff
-*.txt
 *.log
 *.cache
+
+# Arquivos compactados
+*.rar
+*.zip
+*.7z
 
 # Arquivos do Plutonium
 *.dat
@@ -13,6 +17,21 @@
 Thumbs.db
 Desktop.ini
 .DS_Store
+imgui.ini
 
-# Scripts desabilitados
-scripts_disabled/
+# Pastas de dados do jogo (não incluir no repositório)
+/backup_originals/
+/demos/
+/players/
+/plutonium/
+/main/
+/raw/
+/scratch/
+/zone_dump/
+/zone/
+/lms/
+/reveja/
+/scripts_disabled/
+
+# Cache de tradução
+translation_cache.json

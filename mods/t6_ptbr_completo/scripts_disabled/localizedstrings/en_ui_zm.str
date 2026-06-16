@@ -1,0 +1,1198 @@
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CUSTOM_ALL
+LANG_ENGLISH        "TODOS"
+
+REFERENCE           CUSTOM_ALLIES
+LANG_ENGLISH        "ALIADOS"
+
+REFERENCE           CUSTOM_ALLOW_PLAYER_CLASSES_CAPS
+LANG_ENGLISH        "PERMITIR CLASSES DE JOGADORES"
+
+REFERENCE           CUSTOM_BOMB_DEFUSE_TIME
+LANG_ENGLISH        "TEMPO DE DESATIVAÇÃO"
+
+REFERENCE           CUSTOM_BOMB_DEFUSE_TIME_DESC
+LANG_ENGLISH        "A quantidade de tempo que leva para desarmar a bomba depois de plantada."
+
+REFERENCE           CUSTOM_BOMB_PLANT_TIME
+LANG_ENGLISH        "TEMPO DE PLANTA"
+
+REFERENCE           CUSTOM_BOMB_PLANT_TIME_DESC
+LANG_ENGLISH        "A quantidade de tempo que leva para plantar a bomba."
+
+REFERENCE           CUSTOM_BOMB_TIMER
+LANG_ENGLISH        "TEMPORIZADOR DE BOMBA"
+
+REFERENCE           CUSTOM_BOMB_TIMER_DESC
+LANG_ENGLISH        "A quantidade de tempo antes da bomba explodir."
+
+REFERENCE           CUSTOM_BUTTON_SAVE_FILESHARE
+LANG_ENGLISH        "^BBUTTON_INTERACT^5 Salvar no compartilhamento de arquivos"
+
+REFERENCE           CUSTOM_CLASSIC_HQ
+LANG_ENGLISH        "MODO QG CLÁSSICO"
+
+REFERENCE           CUSTOM_CLASSIC_HQ_DESC
+LANG_ENGLISH        "O quartel-general não pode ser destruído após ser capturado e permanecerá em cada novo local durante sua vida útil definida, enquanto ambas as equipes lutam pelo controle."
+
+REFERENCE           CUSTOM_CLASS_EDITOR_CAPS
+LANG_ENGLISH        "EDITOR DE AULA"
+
+REFERENCE           CUSTOM_CLASS_EDITOR_DESC
+LANG_ENGLISH        "Crie classes personalizadas para o seu modo."
+
+REFERENCE           CUSTOM_CLASS_EDITOR_DISABLED_DESC
+LANG_ENGLISH        "Crie classes personalizadas para o seu modo. Você pode selecionar o editor de classes quando\Classes Personalizadas\estiver definido."
+
+REFERENCE           CUSTOM_CLASS_INCORRECT
+LANG_ENGLISH        "Você deve ter pelo menos uma classe Ops e uma classe Comunista"
+
+REFERENCE           CUSTOM_COMMUNISTS
+LANG_ENGLISH        "COMUNISTAS"
+
+REFERENCE           CUSTOM_CONT_WITHOUT_SAVE
+LANG_ENGLISH        "MODO DE JOGO SEM SALVAR"
+
+REFERENCE           CUSTOM_CTF_CAPTURE_LIMIT_CAPS
+LANG_ENGLISH        "LIMITE DE CAPTURA"
+
+REFERENCE           CUSTOM_CTF_CAPTURE_LIMIT_DESC
+LANG_ENGLISH        "O número de bandeiras que uma equipe deve capturar antes do final da rodada."
+
+REFERENCE           CUSTOM_CTF_ENEMY_CARRIER_VISIBLE_DESC
+LANG_ENGLISH        "Especifica se deve ou não revelar a posição do inimigo enquanto carrega a bandeira.  Definido como atrasado para atualizar apenas a posição dos inimigos de vez em quando."
+
+REFERENCE           CUSTOM_CTF_IDLE_FLAG_RETURN_TIME_DESC
+LANG_ENGLISH        "O tempo em segundos que uma bandeira pode ficar ociosa antes de retornar à base. Se definido como ilimitado, o retorno por toque estará sempre ativado."
+
+REFERENCE           CUSTOM_CTF_TOUCH_RETURN_DESC
+LANG_ENGLISH        "Se ativado, faz com que uma bandeira caída retorne à base quando tocada pela equipe proprietária."
+
+REFERENCE           CUSTOM_CTF_TOUCH_RETURN_DISABLED_DESC
+LANG_ENGLISH        "O retorno por toque está sempre habilitado com um tempo de retorno do sinalizador ilimitado."
+
+REFERENCE           CUSTOM_CUSTOMIZED_CAPS
+LANG_ENGLISH        "PERSONALIZADO"
+
+REFERENCE           CUSTOM_CUSTOM_CLASS
+LANG_ENGLISH        "PERSONALIZADO"
+
+REFERENCE           CUSTOM_CUSTOM_CLASSES
+LANG_ENGLISH        "AULAS PERSONALIZADAS"
+
+REFERENCE           CUSTOM_CUSTOM_CLASSES_CAPS
+LANG_ENGLISH        "AULAS PERSONALIZADAS"
+
+REFERENCE           CUSTOM_CUSTOM_GAME_MODE_CAPS
+LANG_ENGLISH        "MODO DE JOGO PERSONALIZADO"
+
+REFERENCE           CUSTOM_DAMAGE
+LANG_ENGLISH        "DANO"
+
+REFERENCE           CUSTOM_DAMAGE_DESC
+LANG_ENGLISH        "Modifica o dano causado pela classe por armas e armas não explosivas."
+
+REFERENCE           CUSTOM_DISABLE_PERKS_CAPS
+LANG_ENGLISH        "NÃO PERMITE BENEFÍCIOS"
+
+REFERENCE           CUSTOM_DOM_FLAGCAPTIME_CAPS
+LANG_ENGLISH        "TEMPO DE CAPTURA DA BANDEIRA"
+
+REFERENCE           CUSTOM_DOM_FLAGCAPTIME_DESC
+LANG_ENGLISH        "A quantidade de tempo que leva para capturar uma bandeira."
+
+REFERENCE           CUSTOM_DOUBLE
+LANG_ENGLISH        "DOBRO"
+
+REFERENCE           CUSTOM_EDIT_CLASS_LOADOUT
+LANG_ENGLISH        "EDITAR CARREGAMENTO DE CLASSE"
+
+REFERENCE           CUSTOM_EDIT_CLASS_LOADOUT_CAPS
+LANG_ENGLISH        "EDITAR CARREGAMENTO DE CLASSE"
+
+REFERENCE           CUSTOM_EDIT_CLASS_LOADOUT_DESC
+LANG_ENGLISH        "Mude as armas, equipamentos e vantagens da classe."
+
+REFERENCE           CUSTOM_EDIT_CLASS_PROTIP
+LANG_ENGLISH        "Edite os atributos, armas e vantagens de uma classe personalizada."
+
+REFERENCE           CUSTOM_EDIT_CLASS_PROTIP_DISABLED
+LANG_ENGLISH        "Esta classe está desativada e não pode ser editada."
+
+REFERENCE           CUSTOM_ENABLE_PERKS_CAPS
+LANG_ENGLISH        "PERMITIR BENEFÍCIOS"
+
+REFERENCE           CUSTOM_EXPLOSIVE_DAMAGE
+LANG_ENGLISH        "DANOS EXPLOSIVOS"
+
+REFERENCE           CUSTOM_EXPLOSIVE_DAMAGE_DESC
+LANG_ENGLISH        "Modifica o dano causado pela classe com armas explosivas."
+
+REFERENCE           CUSTOM_EXTRA_TIME_CAPS
+LANG_ENGLISH        "TEMPO EXTRA"
+
+REFERENCE           CUSTOM_EXTRA_TIME_DESC
+LANG_ENGLISH        "A quantidade de tempo adicionada à hora atual quando um local de bomba é destruído.  O tempo extra é desativado quando um limite de tempo ilimitado é definido."
+
+REFERENCE           CUSTOM_EXTRA_TIME_DISABLED_DESC
+LANG_ENGLISH        "Você não pode definir o tempo extra com limite de tempo ilimitado."
+
+REFERENCE           CUSTOM_FAST
+LANG_ENGLISH        "RÁPIDO"
+
+REFERENCE           CUSTOM_FFA_SPECTATE_OPTIONS
+LANG_ENGLISH        "OPÇÕES DE ESPECTADO"
+
+REFERENCE           CUSTOM_FFA_SPECTATE_OPTIONS_DESC
+LANG_ENGLISH        "Ajuste as opções do espectador para este modo de jogo."
+
+REFERENCE           CUSTOM_FILESHARE_CANT_SELECT
+LANG_ENGLISH        "Somente modos de jogo personalizados salvos podem ser selecionados."
+
+REFERENCE           CUSTOM_FILESHARE_CGM_HIGHLIGHTED
+LANG_ENGLISH        "Selecione este modo para jogar com todas as suas configurações personalizadas."
+
+REFERENCE           CUSTOM_FILESHARE_SELECT
+LANG_ENGLISH        "Modo personalizado carregado"
+
+REFERENCE           CUSTOM_FILESHARE_SELECT_MODE_DESC
+LANG_ENGLISH        "Selecione um modo de jogo personalizado para usar no seu compartilhamento de arquivos."
+
+REFERENCE           CUSTOM_FILESHARE_SELECT_MODE_TITLE
+LANG_ENGLISH        "SELECIONE O MODO DE JOGO"
+
+REFERENCE           CUSTOM_FILESHARE_UPLOAD
+LANG_ENGLISH        "Salvar no compartilhamento de arquivos concluído"
+
+REFERENCE           CUSTOM_FORCE_RESPAWN_DESC
+LANG_ENGLISH        "Quando ativado, o jogador irá reaparecer automaticamente após a morte, em vez de precisar ativar o reaparecimento.  Sempre ativado quando um atraso no surgimento da onda está definido."
+
+REFERENCE           CUSTOM_FORCE_RESPAWN_DISABLED_DESC
+LANG_ENGLISH        "O reaparecimento forçado está sempre ativado quando um atraso no surgimento da onda é definido."
+
+REFERENCE           CUSTOM_FRIENDLY_FIRE
+LANG_ENGLISH        "FOGO AMIGO"
+
+REFERENCE           CUSTOM_FRIENDLY_FIRE_DESC
+LANG_ENGLISH        "Se os companheiros de equipe podem ou não causar danos aos membros de sua equipe. Se ativado e um número de vidas definido, as mortes de sua própria equipe não subtrairão nenhuma vida."
+
+REFERENCE           CUSTOM_GAME_CREATE_CAPS
+LANG_ENGLISH        "EDITOR DE MODO DE JOGO PERSONALIZADO"
+
+REFERENCE           CUSTOM_GAME_MODE_OPTIONS_CAPS
+LANG_ENGLISH        "OPÇÕES DE MODO DE JOGO"
+
+REFERENCE           CUSTOM_GAME_MODE_OPTIONS_DESC
+LANG_ENGLISH        "Ajuste as opções específicas do modo de jogo para o seu modo de jogo personalizado."
+
+REFERENCE           CUSTOM_GAME_RECORDING_CAPS
+LANG_ENGLISH        "GRAVAÇÃO DE JOGO"
+
+REFERENCE           CUSTOM_GAME_RECORDING_DESC
+LANG_ENGLISH        "Ligue/desligue a gravação do seu jogo."
+
+REFERENCE           CUSTOM_GAME_SCORE_LIMIT_DESC
+LANG_ENGLISH        "O número de pontos a serem marcados antes do término da rodada."
+
+REFERENCE           CUSTOM_GAME_TIME_LIMIT_DESC
+LANG_ENGLISH        "O número de minutos que a rodada dura antes de terminar."
+
+REFERENCE           CUSTOM_GENERAL_OPTIONS_CAPS
+LANG_ENGLISH        "OPÇÕES GERAIS"
+
+REFERENCE           CUSTOM_GENERAL_OPTIONS_DESC
+LANG_ENGLISH        "Personalize opções gerais."
+
+REFERENCE           CUSTOM_HEALTH
+LANG_ENGLISH        "SAÚDE"
+
+REFERENCE           CUSTOM_HEALTH_DESC
+LANG_ENGLISH        "A quantidade máxima de saúde que a classe possui."
+
+REFERENCE           CUSTOM_HEALTH_REGEN
+LANG_ENGLISH        "REGENERAÇÃO DE SAÚDE"
+
+REFERENCE           CUSTOM_HEALTH_REGENERATION
+LANG_ENGLISH        "REGENERAÇÃO DA SAÚDE"
+
+REFERENCE           CUSTOM_HEALTH_REGEN_CUSTOM_DESC
+LANG_ENGLISH        "A taxa na qual cada jogador recupera saúde quando sofre dano."
+
+REFERENCE           CUSTOM_HEALTH_REGEN_DESC
+LANG_ENGLISH        "A taxa na qual cada jogador recupera saúde quando sofre dano.  A ativação de classes personalizadas desativará esta configuração."
+
+REFERENCE           CUSTOM_HEALTH_REGEN_DISABLED_DESC
+LANG_ENGLISH        "A regeneração de funcionamento global não pode ser definida quando classes personalizadas estão sendo usadas."
+
+REFERENCE           CUSTOM_HQ_HOLD_TIME
+LANG_ENGLISH        "VIDA ÚTIL DA HQ"
+
+REFERENCE           CUSTOM_HQ_HOLD_TIME_DESC
+LANG_ENGLISH        "A quantidade de tempo que um QG permanece vivo."
+
+REFERENCE           CUSTOM_HQ_RESPAWN_DELAY
+LANG_ENGLISH        "ATRASO DE ATIVAÇÃO DO QG"
+
+REFERENCE           CUSTOM_HQ_RESPAWN_DELAY_DESC
+LANG_ENGLISH        "A quantidade de tempo de espera antes de selecionar um novo QG."
+
+REFERENCE           CUSTOM_INCREASED
+LANG_ENGLISH        "AUMENTOU"
+
+REFERENCE           CUSTOM_KILLSTREAK_EDITOR
+LANG_ENGLISH        "EDITOR DE KILLSTREAK"
+
+REFERENCE           CUSTOM_KILLSTREAK_EDITOR_DESC
+LANG_ENGLISH        "Edite quais killstreaks os jogadores recebem."
+
+REFERENCE           CUSTOM_KILLSTREAK_EDITOR_DISABLED_DESC
+LANG_ENGLISH        "Edite quais killstreaks os jogadores recebem. Você pode selecionar o editor de Killstreak quando\Killstreaks personalizados\estiver definido."
+
+REFERENCE           CUSTOM_LIVES_AND_HEALTH_OPTIONS
+LANG_ENGLISH        "OPÇÕES DE VIDAS E SAÚDE"
+
+REFERENCE           CUSTOM_LIVES_AND_HEALTH_OPTIONS_CAPS
+LANG_ENGLISH        "OPÇÕES DE VIDAS E SAÚDE"
+
+REFERENCE           CUSTOM_LIVES_AND_HEALTH_OPTIONS_DESC
+LANG_ENGLISH        "Ajuste a vida dos jogadores e as opções de saúde."
+
+REFERENCE           CUSTOM_LOAD_ERROR
+LANG_ENGLISH        "Erro encontrado ao tentar carregar o modo de jogo personalizado."
+
+REFERENCE           CUSTOM_MAXIMUM
+LANG_ENGLISH        "MÁXIMO"
+
+REFERENCE           CUSTOM_MAX_HEALTH
+LANG_ENGLISH        "SAÚDE MÁXIMA"
+
+REFERENCE           CUSTOM_MAX_HEALTH_DESC
+LANG_ENGLISH        "A quantidade de saúde que cada jogador possui.  A ativação de classes personalizadas desativará esta configuração."
+
+REFERENCE           CUSTOM_MAX_HEALTH_DISABLED_DESC
+LANG_ENGLISH        "A integridade máxima global não pode ser definida quando classes personalizadas estão sendo usadas."
+
+REFERENCE           CUSTOM_MOVEMENT_SPEED
+LANG_ENGLISH        "VELOCIDADE DE MOVIMENTO"
+
+REFERENCE           CUSTOM_MOVEMENT_SPEED_DESC
+LANG_ENGLISH        "A velocidade com que a classe se move."
+
+REFERENCE           CUSTOM_MULTI_BOMB
+LANG_ENGLISH        "MULTI BOMBA"
+
+REFERENCE           CUSTOM_MULTI_BOMB_DESC
+LANG_ENGLISH        "Habilite a ação de bombas múltiplas!"
+
+REFERENCE           CUSTOM_NORMAL
+LANG_ENGLISH        "NORMAL"
+
+REFERENCE           CUSTOM_NO_KILLSTREAK
+LANG_ENGLISH        "SEM KILLSTREAK"
+
+REFERENCE           CUSTOM_NUMBER_OF_LIVES
+LANG_ENGLISH        "NÚMERO DE VIDAS"
+
+REFERENCE           CUSTOM_NUMBER_OF_LIVES_DESC
+LANG_ENGLISH        "Número de vidas que o jogador tem disponíveis antes de não poder mais reaparecer."
+
+REFERENCE           CUSTOM_NUM_KILLS
+LANG_ENGLISH        "MATANÇAS NECESSÁRIAS"
+
+REFERENCE           CUSTOM_NUM_KILLS_DESC
+LANG_ENGLISH        "Especifique o número de mortes que um jogador deve realizar consecutivamente antes que este killstreak seja ativado."
+
+REFERENCE           CUSTOM_NUM_KILLS_DISABLED_DESC
+LANG_ENGLISH        "Você deve selecionar um Killstreak antes de definir as mortes necessárias para ganhá-lo."
+
+REFERENCE           CUSTOM_NUM_KILLS_IN_USE_DESC
+LANG_ENGLISH        "Outro Killstreak está definido para usar esse número de mortes."
+
+REFERENCE           CUSTOM_NUM_KILLS_THIS_KILLSTREAK_DESC
+LANG_ENGLISH        "Este Killstreak está definido para este número de mortes"
+
+REFERENCE           CUSTOM_OPS
+LANG_ENGLISH        "OPS"
+
+REFERENCE           CUSTOM_OPT_ALLOW_SPRINT
+LANG_ENGLISH        "PERMITIR SPRINT"
+
+REFERENCE           CUSTOM_OPT_ALLOW_SPRINT_DESC
+LANG_ENGLISH        "Alterne a capacidade dos jogadores correrem."
+
+REFERENCE           CUSTOM_OPT_HARDCORE
+LANG_ENGLISH        "MODO HARDCORE"
+
+REFERENCE           CUSTOM_OPT_HARDCORE_DESC
+LANG_ENGLISH        "Ative e desative o modo Hardcore. Hardcore: HUD limitado, armas mais mortíferas e fogo amigo habilitados."
+
+REFERENCE           CUSTOM_OPT_HEADSHOTS_ONLY
+LANG_ENGLISH        "SOMENTE TIROS NA CABEÇA"
+
+REFERENCE           CUSTOM_OPT_HEADSHOT_ONLY_DESC
+LANG_ENGLISH        "Quando ativado, tiros na cabeça de todas as armas de bala serão necessários para causar danos.  Danos de fontes como faca, killstreaks e explosões ainda funcionarão normalmente."
+
+REFERENCE           CUSTOM_OPT_KILLCAM
+LANG_ENGLISH        "PERMITIR KILLCAM"
+
+REFERENCE           CUSTOM_OPT_KILLCAM_DESC
+LANG_ENGLISH        "Ligue e desligue a killcam."
+
+REFERENCE           CUSTOM_OPT_SPECTATE
+LANG_ENGLISH        "ESPECTANDO"
+
+REFERENCE           CUSTOM_OPT_SPECTATE_DESC
+LANG_ENGLISH        "Escolha como os jogadores se observam quando não conseguem reaparecer."
+
+REFERENCE           CUSTOM_PERKS_BUTTON_TOGGLE_PRO
+LANG_ENGLISH        "Alternar vantagens profissionais"
+
+REFERENCE           CUSTOM_PERKS_TAB_EDIT_BASIC
+LANG_ENGLISH        "BENEFÍCIOS BÁSICOS"
+
+REFERENCE           CUSTOM_PERKS_TAB_EDIT_PRO
+LANG_ENGLISH        "VANTAGENS PRO"
+
+REFERENCE           CUSTOM_PERK_ADS_SPEED
+LANG_ENGLISH        "VELOCIDADE DE ANÚNCIOS"
+
+REFERENCE           CUSTOM_PERK_ADS_SPEED_DESC
+LANG_ENGLISH        "O multiplicador da velocidade com que o jogador pode mirar."
+
+REFERENCE           CUSTOM_PERK_ARMOR_PIERCING
+LANG_ENGLISH        "DANOS PERFURANTES DE ARMADURA"
+
+REFERENCE           CUSTOM_PERK_ARMOR_PIERCING_DESC
+LANG_ENGLISH        "A porcentagem de dano adicional contra aeronaves e torres."
+
+REFERENCE           CUSTOM_PERK_BLEEDOUT_TIME
+LANG_ENGLISH        "TEMPO DE SANGRAMENTO"
+
+REFERENCE           CUSTOM_PERK_BLEEDOUT_TIME_DESC
+LANG_ENGLISH        "O número de segundos que o jogador leva para sangrar ao ser abatido antes de reaparecer."
+
+REFERENCE           CUSTOM_PERK_BULLET_PENETRATION
+LANG_ENGLISH        "PENETRAÇÃO DE BALA"
+
+REFERENCE           CUSTOM_PERK_BULLET_PENETRATION_DESC
+LANG_ENGLISH        "O multiplicador da profundidade que uma bala penetrará em uma superfície."
+
+REFERENCE           CUSTOM_PERK_DAMAGE_KICK_REDUCTION
+LANG_ENGLISH        "REDUÇÃO DE DANO"
+
+REFERENCE           CUSTOM_PERK_DAMAGE_KICK_REDUCTION_DESC
+LANG_ENGLISH        "A porcentagem do chute de dano original a ser aplicada."
+
+REFERENCE           CUSTOM_PERK_DEEP_IMPACT_PRO_TITLE
+LANG_ENGLISH        "MODIFICAR BENEFÍCIO PRO HARDENED"
+
+REFERENCE           CUSTOM_PERK_DEEP_IMPACT_TITLE
+LANG_ENGLISH        "MODIFICAR BENEFÍCIO ENDURECIDO"
+
+REFERENCE           CUSTOM_PERK_DISARM_TIME
+LANG_ENGLISH        "TEMPO DE DESARMAR"
+
+REFERENCE           CUSTOM_PERK_DISARM_TIME_DESC
+LANG_ENGLISH        "O tempo que leva para desarmar equipamentos e torres."
+
+REFERENCE           CUSTOM_PERK_DOUBLE_TAP_DESC
+LANG_ENGLISH        "Ajuste a taxa de tiro das armas do jogador."
+
+REFERENCE           CUSTOM_PERK_DOUBLE_TAP_TITLE
+LANG_ENGLISH        "MODIFICAR BENEFÍCIO DE TOQUE DUPLO"
+
+REFERENCE           CUSTOM_PERK_EDIT
+LANG_ENGLISH        "EDITAR BENEFÍCIOS DO SLOT &&1"
+
+REFERENCE           CUSTOM_PERK_EDITOR_CAPS
+LANG_ENGLISH        "EDITOR DE BENEFÍCIOS"
+
+REFERENCE           CUSTOM_PERK_EDITOR_DESC
+LANG_ENGLISH        "Ative/desative vantagens e ajuste variáveis ​​para cada vantagem."
+
+REFERENCE           CUSTOM_PERK_EDITOR_DISABLED_DESC
+LANG_ENGLISH        "Ative/desative vantagens e ajuste variáveis ​​para cada vantagem. Você pode selecionar o editor de benefícios quando\Permitir benefícios\estiver definido."
+
+REFERENCE           CUSTOM_PERK_EXTRA_BREATH_TIME
+LANG_ENGLISH        "TEMPO DE RESPIRAÇÃO EXTRA"
+
+REFERENCE           CUSTOM_PERK_EXTRA_BREATH_TIME_DESC
+LANG_ENGLISH        "A quantidade de segundos extras adicionados ao tempo base durante os quais o jogador pode prender a respiração."
+
+REFERENCE           CUSTOM_PERK_FALL_DAMAGE
+LANG_ENGLISH        "DANOS DE QUEDA"
+
+REFERENCE           CUSTOM_PERK_FALL_DAMAGE_DESC
+LANG_ENGLISH        "Quão alto o jogador pode cair antes de começar a sofrer danos."
+
+REFERENCE           CUSTOM_PERK_FIREPROOF_REDUCTION
+LANG_ENGLISH        "DANOS DE INCÊNDIO"
+
+REFERENCE           CUSTOM_PERK_FIREPROOF_REDUCTION_DESC
+LANG_ENGLISH        "A porcentagem de dano de fogo a ser aplicada ao jogador."
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_PRO_TITLE
+LANG_ENGLISH        "MODIFICAR FLAK JACKET PRO PERK"
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_REDUCTION
+LANG_ENGLISH        "DANOS EXPLOSIVOS"
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_REDUCTION_DESC
+LANG_ENGLISH        "A porcentagem de dano explosivo a ser aplicada ao jogador."
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_TITLE
+LANG_ENGLISH        "MODIFICAR VANTAGENS DO JAQUETA FLAK"
+
+REFERENCE           CUSTOM_PERK_HACKER_PRO_TITLE
+LANG_ENGLISH        "MODIFICAR HACKER PRO PERK"
+
+REFERENCE           CUSTOM_PERK_HARDLINE_PRO_TITLE
+LANG_ENGLISH        "MODIFICAR O PERK HARDLINE PRO"
+
+REFERENCE           CUSTOM_PERK_HARDLINE_TITLE
+LANG_ENGLISH        "MODIFICAR O BENEFÍCIO HARDLINE"
+
+REFERENCE           CUSTOM_PERK_HEALTH_REGEN_SPEED
+LANG_ENGLISH        "VELOCIDADE DE REGENERAÇÃO DE SAÚDE"
+
+REFERENCE           CUSTOM_PERK_HEALTH_REGEN_SPEED_DESC
+LANG_ENGLISH        "O multiplicador da velocidade com que o jogador regenera saúde."
+
+REFERENCE           CUSTOM_PERK_HIGH_ALERT_DESC
+LANG_ENGLISH        "Ajuste o multiplicador de velocidade para mirar."
+
+REFERENCE           CUSTOM_PERK_HIGH_ALERT_TITLE
+LANG_ENGLISH        "MODIFICAR BENEFÍCIO DE ALERTA ALTO"
+
+REFERENCE           CUSTOM_PERK_INTERACT_SPEED
+LANG_ENGLISH        "VELOCIDADE DE INTERAÇÃO"
+
+REFERENCE           CUSTOM_PERK_INTERACT_SPEED_DESC
+LANG_ENGLISH        "O multiplicador do tempo que o jogador leva para interagir."
+
+REFERENCE           CUSTOM_PERK_KILLSTREAK_REDUCTION
+LANG_ENGLISH        "REDUÇÃO DE KILLSTREAK"
+
+REFERENCE           CUSTOM_PERK_KILLSTREAK_REDUCTION_DESC
+LANG_ENGLISH        "O número de mortes para reduzir cada killstreak."
+
+REFERENCE           CUSTOM_PERK_KNIFE_RECOVERY_SPEED
+LANG_ENGLISH        "RECUPERAÇÃO DE LUNGE DE FACA"
+
+REFERENCE           CUSTOM_PERK_KNIFE_RECOVERY_SPEED_DESC
+LANG_ENGLISH        "O multiplicador da velocidade com que o jogador se recupera de uma estocada de faca."
+
+REFERENCE           CUSTOM_PERK_KNIFE_WORK_DESC
+LANG_ENGLISH        "Ajuste o multiplicador de velocidade para estocada da faca."
+
+REFERENCE           CUSTOM_PERK_LIGHTWEIGHT_PRO_TITLE
+LANG_ENGLISH        "MODIFICAR O BENEFÍCIO LIGHTWEIGHT PRO"
+
+REFERENCE           CUSTOM_PERK_LIGHTWEIGHT_TITLE
+LANG_ENGLISH        "MODIFICAR BENEFÍCIOS LEVES"
+
+REFERENCE           CUSTOM_PERK_MANTLE_SPEED
+LANG_ENGLISH        "VELOCIDADE DO MANTO"
+
+REFERENCE           CUSTOM_PERK_MANTLE_SPEED_DESC
+LANG_ENGLISH        "O multiplicador da velocidade com que o jogador passa pelos objetos."
+
+REFERENCE           CUSTOM_PERK_MARATHON_TITLE
+LANG_ENGLISH        "MODIFICAR BENEFÍCIO DA MARATONA"
+
+REFERENCE           CUSTOM_PERK_MOVE_SPEED
+LANG_ENGLISH        "MULTIPLICADOR DE VELOCIDADE DE MOVIMENTO"
+
+REFERENCE           CUSTOM_PERK_MOVE_SPEED_DESC
+LANG_ENGLISH        "O multiplicador da rapidez com que o jogador se move."
+
+REFERENCE           CUSTOM_PERK_NO_EDIT_DESC
+LANG_ENGLISH        "Não há valores disponíveis para edição para este benefício."
+
+REFERENCE           CUSTOM_PERK_PRO_EDIT
+LANG_ENGLISH        "EDITAR VANTAGENS PRO DO SLOT &&1"
+
+REFERENCE           CUSTOM_PERK_PRO_SLOT
+LANG_ENGLISH        "BENEFÍCIO PRO &&1"
+
+REFERENCE           CUSTOM_PERK_PRO_SLOT_DESC
+LANG_ENGLISH        "Personalize vantagens profissionais associadas a este slot."
+
+REFERENCE           CUSTOM_PERK_QUICK_SWAP_DESC
+LANG_ENGLISH        "Ajuste os multiplicadores de velocidade para troca de armas."
+
+REFERENCE           CUSTOM_PERK_QUICK_SWAP_TITLE
+LANG_ENGLISH        "MODIFICAR BENEFÍCIO DE TROCA RÁPIDA"
+
+REFERENCE           CUSTOM_PERK_RELOAD_TIME
+LANG_ENGLISH        "TEMPO DE RECARGA"
+
+REFERENCE           CUSTOM_PERK_RELOAD_TIME_DESC
+LANG_ENGLISH        "O multiplicador da rapidez com que o jogador recarrega uma arma."
+
+REFERENCE           CUSTOM_PERK_REVIVE_TIME
+LANG_ENGLISH        "TEMPO DE REVIVER"
+
+REFERENCE           CUSTOM_PERK_REVIVE_TIME_DESC
+LANG_ENGLISH        "A quantidade de tempo, em segundos, necessária para reviver um jogador caído."
+
+REFERENCE           CUSTOM_PERK_ROF
+LANG_ENGLISH        "TAXA DE FOGO"
+
+REFERENCE           CUSTOM_PERK_ROF_DESC
+LANG_ENGLISH        "O multiplicador da velocidade com que a arma do jogador dispara."
+
+REFERENCE           CUSTOM_PERK_SCOUT_PRO_TITLE
+LANG_ENGLISH        "MODIFICAR O BENEFÍCIO DO SCOUT PRO"
+
+REFERENCE           CUSTOM_PERK_SCOUT_TITLE
+LANG_ENGLISH        "MODIFICAR BENEFÍCIO DO SCOUT"
+
+REFERENCE           CUSTOM_PERK_SECOND_CHANCE_PRO_TITLE
+LANG_ENGLISH        "MODIFICAR A SEGUNDA CHANCE PRO PERK"
+
+REFERENCE           CUSTOM_PERK_SECOND_CHANCE_TITLE
+LANG_ENGLISH        "MODIFICAR BENEFÍCIO DE SEGUNDA CHANCE"
+
+REFERENCE           CUSTOM_PERK_SHELL_SHOCK_REDUCTION
+LANG_ENGLISH        "REDUÇÃO DE CHOQUE SHELL"
+
+REFERENCE           CUSTOM_PERK_SHELL_SHOCK_REDUCTION_DESC
+LANG_ENGLISH        "A porcentagem do choque original a ser aplicada."
+
+REFERENCE           CUSTOM_PERK_SLEIGHT_OF_HAND_PRO_TITLE
+LANG_ENGLISH        "MODIFICAR SLEIGHT OF HAND PRO PERK"
+
+REFERENCE           CUSTOM_PERK_SLEIGHT_OF_HAND_TITLE
+LANG_ENGLISH        "MODIFICAR PRESTÍNIO DE MÃO"
+
+REFERENCE           CUSTOM_PERK_SLOT
+LANG_ENGLISH        "BENEFÍCIO &&1"
+
+REFERENCE           CUSTOM_PERK_SLOT_DESC
+LANG_ENGLISH        "Personalize os benefícios associados a este slot."
+
+REFERENCE           CUSTOM_PERK_SLOT_HINT
+LANG_ENGLISH        "Suas alterações afetarão globalmente todos os benefícios do seu jogo personalizado."
+
+REFERENCE           CUSTOM_PERK_SPRINT_MULT
+LANG_ENGLISH        "MULTIPLICADOR DE SPRINT"
+
+REFERENCE           CUSTOM_PERK_SPRINT_MULT_DESC
+LANG_ENGLISH        "O multiplicador dos segundos básicos pelos quais o jogador pode correr."
+
+REFERENCE           CUSTOM_PERK_SPRINT_RECOVERY
+LANG_ENGLISH        "RECUPERAÇÃO DE SPRINT"
+
+REFERENCE           CUSTOM_PERK_SPRINT_RECOVERY_DESC
+LANG_ENGLISH        "A porcentagem do tempo base que o jogador leva para se recuperar após correr."
+
+REFERENCE           CUSTOM_PERK_STEADY_AIM_PRO_TITLE
+LANG_ENGLISH        "MODIFICAR O BENEFÍCIO STEADY AIM PRO"
+
+REFERENCE           CUSTOM_PERK_STEADY_AIM_TITLE
+LANG_ENGLISH        "MODIFICAR BENEFÍCIO DE AIM ESTÁVEL"
+
+REFERENCE           CUSTOM_PERK_WEAPON_SPREAD
+LANG_ENGLISH        "PROPAGAÇÃO DE ARMAS"
+
+REFERENCE           CUSTOM_PERK_WEAPON_SPREAD_DESC
+LANG_ENGLISH        "A porcentagem da distribuição da arma base a ser usada. (Porcentagem mais baixa significa menos spread)"
+
+REFERENCE           CUSTOM_PERK_WEAPON_SWITCH_SPEED
+LANG_ENGLISH        "VELOCIDADE DO INTERRUPTOR DE ARMA"
+
+REFERENCE           CUSTOM_PERK_WEAPON_SWITCH_SPEED_DESC
+LANG_ENGLISH        "O multiplicador da velocidade necessária para trocar de armas."
+
+REFERENCE           CUSTOM_PRE_MATCH_TIMER_CAPS
+LANG_ENGLISH        "TEMPORIZADOR PRÉ-JOGO"
+
+REFERENCE           CUSTOM_PRE_MATCH_TIMER_DESC
+LANG_ENGLISH        "Altere a quantidade de tempo antes do jogo começar."
+
+REFERENCE           CUSTOM_RADAR_ALWAYS_ON
+LANG_ENGLISH        "RADAR SEMPRE LIGADO"
+
+REFERENCE           CUSTOM_RADAR_ALWAYS_ON_DESC
+LANG_ENGLISH        "Os inimigos sempre aparecem no radar."
+
+REFERENCE           CUSTOM_RCXD_AUTO_DESTRUCT_TIMER
+LANG_ENGLISH        "TEMPORIZADOR DE AUTODESTRUÇÃO RC-XD"
+
+REFERENCE           CUSTOM_RCXD_AUTO_DESTRUCT_TIMER_DESC
+LANG_ENGLISH        "Ative ou desative o temporizador de autodestruição RC-XD."
+
+REFERENCE           CUSTOM_RCXD_OPTIONS
+LANG_ENGLISH        "OPÇÕES PERSONALIZADAS RC-XD"
+
+REFERENCE           CUSTOM_REDUCED
+LANG_ENGLISH        "REDUZIDO"
+
+REFERENCE           CUSTOM_RESPAWN_DELAY
+LANG_ENGLISH        "ATRASO DE REPARO"
+
+REFERENCE           CUSTOM_RESPAWN_DELAY_DESC
+LANG_ENGLISH        "Defina quanto tempo em segundos um jogador deve esperar antes de reaparecer."
+
+REFERENCE           CUSTOM_RESPAWN_OPTIONS
+LANG_ENGLISH        "OPÇÕES DE REPARO"
+
+REFERENCE           CUSTOM_RESPAWN_OPTIONS_DESC
+LANG_ENGLISH        "Ajuste as opções de respawn para o modo de jogo."
+
+REFERENCE           CUSTOM_REVERT_CHANGES_CAPS
+LANG_ENGLISH        "REVERTER ALTERAÇÕES"
+
+REFERENCE           CUSTOM_REVERT_CHANGES_CONFIRM_TITLE
+LANG_ENGLISH        "Tem certeza de que deseja reverter todas as alterações no modo de jogo personalizado?"
+
+REFERENCE           CUSTOM_REVERT_CHANGES_DESC
+LANG_ENGLISH        "Reverta todas as alterações do modo de jogo personalizado feitas para as configurações padrão."
+
+REFERENCE           CUSTOM_REVERT_TO_DEFAULT
+LANG_ENGLISH        "REVERTER PARA O PADRÃO"
+
+REFERENCE           CUSTOM_ROUND_LIMIT
+LANG_ENGLISH        "LIMITE DE RODADA"
+
+REFERENCE           CUSTOM_ROUND_LIMIT_DESC
+LANG_ENGLISH        "O número de rodadas a serem jogadas antes do jogo terminar."
+
+REFERENCE           CUSTOM_ROUND_SWITCH
+LANG_ENGLISH        "INTERRUPTOR REDONDO"
+
+REFERENCE           CUSTOM_ROUND_SWITCH_DESC
+LANG_ENGLISH        "O número de rodadas a serem disputadas antes que as equipes troquem de lado."
+
+REFERENCE           CUSTOM_ROUND_WIN_LIMIT_CAPS
+LANG_ENGLISH        "LIMITE DE GANHOS DA RODADA"
+
+REFERENCE           CUSTOM_ROUND_WIN_LIMIT_DESC
+LANG_ENGLISH        "O número de rodadas que uma equipe precisa vencer antes do jogo terminar."
+
+REFERENCE           CUSTOM_RULES_FORCE_RESPAWN
+LANG_ENGLISH        "FORÇA DE REPARO"
+
+REFERENCE           CUSTOM_SAVE_CHANGES
+LANG_ENGLISH        "SALVAR PARA COMPARTILHAR ARQUIVOS"
+
+REFERENCE           CUSTOM_SAVE_DESC
+LANG_ENGLISH        "Salvar alterações no modo de jogo?"
+
+REFERENCE           CUSTOM_SELECT_FROM_FILESHARE_DESC
+LANG_ENGLISH        "Selecione um modo de jogo personalizado em seu compartilhamento de arquivos para usar."
+
+REFERENCE           CUSTOM_SELECT_KILLSTREAK
+LANG_ENGLISH        "SELECIONE UM KILLSTREAK"
+
+REFERENCE           CUSTOM_SELECT_KILLSTREAK_DESC
+LANG_ENGLISH        "Selecione o Killstreak para premiar os jogadores por conseguirem um certo número de mortes consecutivas."
+
+REFERENCE           CUSTOM_SHARE_BOMB_TIMER
+LANG_ENGLISH        "TEMPORIZADOR DE BOMBA COMPARTILHADO"
+
+REFERENCE           CUSTOM_SHARE_BOMB_TIMER_DESC
+LANG_ENGLISH        "Se sim, o cronômetro da bomba continuará após ser desarmado."
+
+REFERENCE           CUSTOM_SLOW
+LANG_ENGLISH        "LENTO"
+
+REFERENCE           CUSTOM_SPECIALTY_EDITOR
+LANG_ENGLISH        "EDITOR DE BENEFÍCIOS"
+
+REFERENCE           CUSTOM_SPRINT_SPEED
+LANG_ENGLISH        "VELOCIDADE DE SPRINT"
+
+REFERENCE           CUSTOM_SPRINT_SPEED_DESC
+LANG_ENGLISH        "Quão mais rápido a classe se move ao correr."
+
+REFERENCE           CUSTOM_TDM_ASSIST_SCORE
+LANG_ENGLISH        "PONTUAÇÃO DE ASSISTÊNCIA"
+
+REFERENCE           CUSTOM_TDM_ASSIST_SCORE_DESC
+LANG_ENGLISH        "O número de pontos concedidos por uma assistência.  Defina isso como padrão para usar a pontuação de assistência normal."
+
+REFERENCE           CUSTOM_TDM_DEATH_SCORE
+LANG_ENGLISH        "PONTUAÇÃO DE MORTE"
+
+REFERENCE           CUSTOM_TDM_DEATH_SCORE_DESC
+LANG_ENGLISH        "O número de pontos subtraídos por uma morte."
+
+REFERENCE           CUSTOM_TDM_HEADSHOT_BONUS
+LANG_ENGLISH        "BÔNUS DE TIRO NA CABEÇA"
+
+REFERENCE           CUSTOM_TDM_HEADSHOT_BONUS_DESC
+LANG_ENGLISH        "Bônus de pontos por acertar um tiro na cabeça."
+
+REFERENCE           CUSTOM_TDM_KILL_SCORE
+LANG_ENGLISH        "PONTUAÇÃO DE MATANÇA"
+
+REFERENCE           CUSTOM_TDM_KILL_SCORE_DESC
+LANG_ENGLISH        "O número de pontos concedidos por uma morte."
+
+REFERENCE           CUSTOM_TDM_LEADER_BONUS
+LANG_ENGLISH        "BÔNUS DE LÍDER"
+
+REFERENCE           CUSTOM_TDM_LEADER_BONUS_DESC
+LANG_ENGLISH        "Bônus de pontos por matar o jogador líder."
+
+REFERENCE           CUSTOM_TDM_SUICIDE_SCORE
+LANG_ENGLISH        "PONTUAÇÃO DE SUICÍDIO"
+
+REFERENCE           CUSTOM_TDM_SUICIDE_SCORE_DESC
+LANG_ENGLISH        "O número de pontos subtraídos por um suicídio."
+
+REFERENCE           CUSTOM_TEAM_OPTIONS
+LANG_ENGLISH        "OPÇÕES DE EQUIPE"
+
+REFERENCE           CUSTOM_TEAM_OPTIONS_DESC
+LANG_ENGLISH        "Ajuste as opções de equipe para este modo de jogo."
+
+REFERENCE           CUSTOM_TITLE
+LANG_ENGLISH        "TÍTULO"
+
+REFERENCE           CUSTOM_TITLE_DESC
+LANG_ENGLISH        "Este é o nome da classe personalizada."
+
+REFERENCE           CUSTOM_VALUE_100_PER_DEFAULT
+LANG_ENGLISH        "100% (PADRÃO)"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_10_CAPS
+LANG_ENGLISH        "10 BANDEIRAS"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_1_CAPS
+LANG_ENGLISH        "1BANDEIRA"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_2_CAPS
+LANG_ENGLISH        "2 BANDEIRAS"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_3_CAPS
+LANG_ENGLISH        "3 BANDEIRAS"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_4_CAPS
+LANG_ENGLISH        "4 BANDEIRAS"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_6_CAPS
+LANG_ENGLISH        "6 BANDEIRAS"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_8_CAPS
+LANG_ENGLISH        "8 BANDEIRAS"
+
+REFERENCE           CUSTOM_VALUE_KILLS_1
+LANG_ENGLISH        "1 MATANÇA"
+
+REFERENCE           CUSTOM_VALUE_KILLS_2
+LANG_ENGLISH        "2 MATANÇAS"
+
+REFERENCE           CUSTOM_VALUE_KILLS_3
+LANG_ENGLISH        "3 MATANÇAS"
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_3
+LANG_ENGLISH        "3 RODADAS"
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_5
+LANG_ENGLISH        "5 RODADAS"
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_7
+LANG_ENGLISH        "7 RODADAS"
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_9
+LANG_ENGLISH        "9 RODADAS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1
+LANG_ENGLISH        "1 SEGUNDO"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_10
+LANG_ENGLISH        "10 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_15
+LANG_ENGLISH        "15 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_15
+LANG_ENGLISH        "1,15 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_35
+LANG_ENGLISH        "1,35 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_5
+LANG_ENGLISH        "1,5 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_65
+LANG_ENGLISH        "1,65 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_85
+LANG_ENGLISH        "1,85 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_2
+LANG_ENGLISH        "2 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_20
+LANG_ENGLISH        "20 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_25
+LANG_ENGLISH        "25 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_2_POINT_5
+LANG_ENGLISH        "2,5 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_3
+LANG_ENGLISH        "3 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_30
+LANG_ENGLISH        "30 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_35
+LANG_ENGLISH        "35 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_3_POINT_5
+LANG_ENGLISH        "3,5 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_4
+LANG_ENGLISH        "4 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_40
+LANG_ENGLISH        "40 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_45
+LANG_ENGLISH        "45 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_5
+LANG_ENGLISH        "5 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_50
+LANG_ENGLISH        "50 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_55
+LANG_ENGLISH        "55 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_6
+LANG_ENGLISH        "6 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_60
+LANG_ENGLISH        "60 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_7
+LANG_ENGLISH        "7 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_8
+LANG_ENGLISH        "8 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_9
+LANG_ENGLISH        "9 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_15
+LANG_ENGLISH        "0,15 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_35
+LANG_ENGLISH        "0,35 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_5
+LANG_ENGLISH        "0,5 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_65
+LANG_ENGLISH        "0,65 SEGUNDOS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_85
+LANG_ENGLISH        "0,85 SEGUNDOS"
+
+REFERENCE           CUSTOM_VAMPIRISM
+LANG_ENGLISH        "VAMPIRISMO"
+
+REFERENCE           CUSTOM_VAMPIRISM_DESC
+LANG_ENGLISH        "Defina a quantidade de saúde devolvida ao jogador como uma porcentagem do dano causado."
+
+REFERENCE           CUSTOM_VERY_FAST
+LANG_ENGLISH        "MUITO RÁPIDO"
+
+REFERENCE           CUSTOM_VERY_SLOW
+LANG_ENGLISH        "MUITO LENTO"
+
+REFERENCE           CUSTOM_WARN_DEMO_SIZE
+LANG_ENGLISH        "Jogos extremamente longos podem não ser gravados na sua totalidade."
+
+REFERENCE           CUSTOM_WAVE_RESPAWN_DELAY
+LANG_ENGLISH        "ATRASO DE GERAÇÃO DE ONDA"
+
+REFERENCE           CUSTOM_WAVE_RESPAWN_DELAY_DESC
+LANG_ENGLISH        "Os jogadores esperarão para entrar na onda.  Se o atraso de reaparecimento também estiver definido, o jogador deve esperar pelo menos o mesmo tempo que o atraso de reaparecimento antes de aparecer na próxima onda."
+
+
+REFERENCE           ZMUI_MAP_CAPS
+LANG_ENGLISH        "Mapa"
+
+
+REFERENCE           ZMUI_MAPS_CAPS
+LANG_ENGLISH        "Mapas"
+
+
+REFERENCE           ZMUI_DIFFICULTY_CAPS
+LANG_ENGLISH        "Dificuldade"
+
+
+REFERENCE           ZMUI_DIFFICULTY_NORMAL_CAPS
+LANG_ENGLISH        "Normal"
+
+
+REFERENCE           ZMUI_STARTING_ROUND_CAPS
+LANG_ENGLISH        "Rodada Inicial"
+
+
+REFERENCE           ZMUI_MAGIC_CAPS
+LANG_ENGLISH        "Magia"
+
+
+REFERENCE           ZMUI_HEADSHOTS_ONLY_CAPS
+LANG_ENGLISH        "Apenas Tiros na Cabeça"
+
+
+REFERENCE           ZMUI_CHEATS_CAPS
+LANG_ENGLISH        "Trapaças"
+
+
+REFERENCE           ZMUI_NUKED
+LANG_ENGLISH        "Nuketown Zombies"
+
+
+REFERENCE           ZMUI_NUKED_STARTLOC_CAPS
+LANG_ENGLISH        "Nuketown"
+
+
+REFERENCE           ZMUI_STANDARD_CAPS
+LANG_ENGLISH        "Sobrevivência"
+
+
+REFERENCE           ZMUI_PRISON
+LANG_ENGLISH        "Alcatraz"
+
+
+REFERENCE           ZMUI_PRISON_CAPS
+LANG_ENGLISH        "ALCATRAZ"
+
+
+REFERENCE           ZMUI_CLASSIC_CAPS
+LANG_ENGLISH        "Clássico"
+
+
+REFERENCE           ZMUI_SOLO_PLAY_caps
+LANG_ENGLISH        "Jogar Solo"
+
+
+REFERENCE           ZMUI_CUSTOM_MATCH_DESC
+LANG_ENGLISH        "Configure e jogue uma partida personalizada com seus amigos."
+
+
+REFERENCE           ZMUI_zclassic_zm_transit_CAPS
+LANG_ENGLISH        "TranZit"
+
+
+REFERENCE           ZMUI_CLASSIC_DESC_transit
+LANG_ENGLISH        "Viaje pelas estradas de um mundo arruinado."
+
+
+REFERENCE           ZMUI_GRIEF_CAPS
+LANG_ENGLISH        "Pena"
+
+
+REFERENCE           ZMUI_GRIEF_DESC_town
+LANG_ENGLISH        "Lute contra outra equipe além dos mortos-vivos."
+
+
+REFERENCE           ZMUI_GRIEF_DESC_farm
+LANG_ENGLISH        "Lute contra outra equipe além dos mortos-vivos."
+
+
+REFERENCE           ZMUI_CLEANSED_CAPS
+LANG_ENGLISH        "Transformado"
+
+
+REFERENCE           ZMUI_CLEANSED_DESC_diner
+LANG_ENGLISH        "Jogue como um zumbi para caçar o humano."
+
+
+REFERENCE           ZMUI_DIFFICULTY_EASY_CAPS
+LANG_ENGLISH        "Fácil"
+
+
+REFERENCE           ZMUI_DOGS_CAPS
+LANG_ENGLISH        "Cães do Inferno"
+
+
+REFERENCE           ZMUI_TOWN_CAPS
+LANG_ENGLISH        "Cidade"
+
+
+REFERENCE           ZMUI_MAP_SELECTION_DESC
+LANG_ENGLISH        "Escolha um mapa para jogar."
+
+
+REFERENCE           ZMUI_WAITING_FOR_HOST_TO_START
+LANG_ENGLISH        "Aguardando o host iniciar a partida..."
+
+
+REFERENCE           ZMUI_TOMB
+LANG_ENGLISH        "Origins"
+
+
+REFERENCE           PLATFORM_VOICECHAT_VOLUME
+LANG_ENGLISH        "Volume do Bate-papo por Voz"
+
+
+REFERENCE           PLATFORM_VOICECHAT_RECORD_LEVEL
+LANG_ENGLISH        "Nível de Gravação do Microfone"
+
+
+REFERENCE           ZMUI_SOLO_PLAY_DESC
+LANG_ENGLISH        "Jogue por conta própria."
+
+
+REFERENCE           ZMUI_DIFFICULTY_DESC
+LANG_ENGLISH        "Altere a dificuldade dos zumbis."
+
+
+REFERENCE           ZMUI_CELLBLOCK_CAPS
+LANG_ENGLISH        "Bloco de Celas"
+
+
+REFERENCE           ZMUI_BURIED
+LANG_ENGLISH        "Buried"
+
+
+REFERENCE           ZMUI_CLEANSED_DESC_street
+LANG_ENGLISH        "Jogue como um zumbi para caçar o humano."
+
+
+REFERENCE           ZMUI_STREET_LOC_caps
+LANG_ENGLISH        "Processamento"
+
+
+REFERENCE           ZMUI_CLEANSED_LOADOUT_MUCAR
+LANG_ENGLISH        "Juggernaut"
+
+
+REFERENCE           GUN_GAME_CAPS
+LANG_ENGLISH        "Jogo de Armas"
+
+
+REFERENCE           ZMUI_START_MATCH_MIN_TOTAL_PLAYERS_DESC
+LANG_ENGLISH        "Aguardando mais jogadores entrarem antes de iniciar a partida."
+
+
+REFERENCE           ZMUI_zclassic_zm_highrise_CAPS
+LANG_ENGLISH        "Die Rise"
+
+
+REFERENCE           ZMUI_CLASSIC_DESC_rooftop
+LANG_ENGLISH        "Salto de fé."
+
+
+REFERENCE           ZMUI_zclassic_zm_tomb_CAPS
+LANG_ENGLISH        "Origins"
+
+
+REFERENCE           ZMUI_CLASSIC_DESC_tomb
+LANG_ENGLISH        "É onde tudo começou."
+
+
+REFERENCE           ZMUI_GRIEF_DESC_cellblock
+LANG_ENGLISH        "Sem vantagens. Sem energia. Nenhum lugar para se esconder."
+
+
+REFERENCE           ZMUI_zclassic_zm_prison_CAPS
+LANG_ENGLISH        "Mob of the Dead"
+
+
+REFERENCE           ZMUI_CLASSIC_DESC_prison
+LANG_ENGLISH        "Fuja de Alcatraz."
+
+
+REFERENCE           ZMUI_STANDARD_DESC_nuked
+LANG_ENGLISH        "Um local de testes nucleares infestado por mortos-vivos."
+
+
+REFERENCE           ZMUI_zclassic_zm_buried_CAPS
+LANG_ENGLISH        "Buried"
+
+
+REFERENCE           ZMUI_CLASSIC_DESC_processing
+LANG_ENGLISH        "Enfrente seus medos mais profundos debaixo da terra."
+
+
+REFERENCE           ZMUI_GRIEF_DESC_street
+LANG_ENGLISH        "Sobreviva à equipe rival nas profundezas da terra."
+
+
+REFERENCE           ZMUI_STANDARD_DESC_FARM
+LANG_ENGLISH        "Sobreviva na Fazenda com armas de parede limitadas, vantagens e a Caixa de Mistério."
+
+
+REFERENCE           ZMUI_STANDARD_DESC_TOWN
+LANG_ENGLISH        "Sobreviva na Cidade com várias vantagens, armas de parede e a máquina Pack-a-Punch."
+
+
+REFERENCE           ZMUI_STANDARD_DESC_TRANSIT
+LANG_ENGLISH        "Sobreviva com armas limitadas e sem a máquina Pack-a-Punch ou quaisquer vantagens. É o sonho de um masoquista. Vá em frente, nós te desafiamos!"
+
+
+REFERENCE           ZMUI_TRANSIT_LOC
+LANG_ENGLISH        "Green Run"
+
+
+REFERENCE           ZOMBIE_ROUND
+LANG_ENGLISH        "Rodada Zumbi"
+
+
+REFERENCE           ZOMBIE_RACE_ZOMBIES_LEFT
+LANG_ENGLISH        "Zumbis Restantes:"
+
+
+REFERENCE           ZOMBIE_PERK_PACKAPUNCH
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para Pack-a-Punch [Custo: &&1]"
+
+
+REFERENCE           ZOMBIE_PERK_PACKAPUNCH_ATT
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para Pack-a-Punch [Custo: &&1]"
+
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER
+LANG_ENGLISH        "Segure^3[{+activate}]^7para reconstruir a Barreira"
+
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_10
+LANG_ENGLISH        "Segure^3[{+activate}]^7para reconstruir a barreira [Recompensa: 10]"
+
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_20
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para Reparar Barricada [Recompensa: 20]"
+
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_30
+LANG_ENGLISH        "Segure^3[{+activate}]^7para reconstruir a barreira [Recompensa: 30]"
+
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_40
+LANG_ENGLISH        "Segure^3[{+activate}]^7para reconstruir a barreira [Recompensa: 40]"
+
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_50
+LANG_ENGLISH        "Segure^3[{+activate}]^7para reconstruir a barreira [Recompensa: 50]"
+
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_10
+LANG_ENGLISH        "Segure^3[{+activate}]^7para recomprar a Barreira [Custo: 10]"
+
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_20
+LANG_ENGLISH        "Segure^3[{+activate}]^7para recomprar a Barreira [Custo: 20]"
+
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_50
+LANG_ENGLISH        "Segure^3[{+activate}]^7para recomprar a Barreira [Custo: 50]"
+
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_100
+LANG_ENGLISH        "Segure^3[{+activate}]^7para recomprar a Barreira [Custo: 100]"
+
