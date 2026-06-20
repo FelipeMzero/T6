@@ -252,6 +252,35 @@ parede_comprar_aleatorio()
 
 	wait 4;
 
+	armas_nomes = [];
+	armas_custos = [];
+
+	armas_nomes[0] = "raygun_mark2_zm"; armas_custos[0] = 1000;
+	armas_nomes[1] = "an94_zm"; armas_custos[1] = 2000;
+	armas_nomes[2] = "pdw57_zm"; armas_custos[2] = 1500;
+	armas_nomes[3] = "galil_zm"; armas_custos[3] = 2000;
+	armas_nomes[4] = "mp40_zm"; armas_custos[4] = 1000;
+	armas_nomes[5] = "rpk_zm"; armas_custos[5] = 2500;
+	armas_nomes[6] = "svu_zm"; armas_custos[6] = 1500;
+	armas_nomes[7] = "ksg_zm"; armas_custos[7] = 1500;
+	armas_nomes[8] = "dsr50_zm"; armas_custos[8] = 2000;
+	armas_nomes[9] = "browninghp_zm"; armas_custos[9] = 1000;
+	armas_nomes[10] = "staff_ice_zm"; armas_custos[10] = 5000;
+	armas_nomes[11] = "staff_fire_zm"; armas_custos[11] = 5000;
+	armas_nomes[12] = "staff_wind_zm"; armas_custos[12] = 5000;
+	armas_nomes[13] = "staff_lightning_zm"; armas_custos[13] = 5000;
+	armas_nomes[14] = "staff_ice_upgraded_zm"; armas_custos[14] = 10000;
+	armas_nomes[15] = "staff_fire_upgraded_zm"; armas_custos[15] = 10000;
+	armas_nomes[16] = "staff_wind_upgraded_zm"; armas_custos[16] = 10000;
+	armas_nomes[17] = "staff_lightning_upgraded_zm"; armas_custos[17] = 10000;
+	armas_nomes[18] = "jetgun_zm"; armas_custos[18] = 3000;
+	armas_nomes[19] = "sliquifier_zm"; armas_custos[19] = 5000;
+	armas_nomes[20] = "blundergat_zm"; armas_custos[20] = 5000;
+	armas_nomes[21] = "acid_gat_zm"; armas_custos[21] = 8000;
+	armas_nomes[22] = "paralyzer_zm"; armas_custos[22] = 5000;
+	armas_nomes[23] = "one_inch_punch_zm"; armas_custos[23] = 3000;
+	armas_nomes[24] = "tomahawk_zm"; armas_custos[24] = 2000;
+
 	origens = [];
 	spawns = getentarray("info_player_start", "classname");
 
