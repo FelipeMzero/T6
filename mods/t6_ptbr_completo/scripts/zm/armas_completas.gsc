@@ -3,6 +3,7 @@
 #include maps\mp\zombies\_zm_utility;
 #include maps\mp\zombies\_zm_magicbox;
 #include maps\mp\zombies\_zm_weapons;
+#include maps\mp\zombies\_zm_score;
 
 main()
 {
@@ -157,18 +158,6 @@ spawn_novas_armas_parede()
 
 	wait 3;
 
-	if (!isDefined(level.zombie_weapons))
-	{
-		return;
-	}
-
-	interesses = getentarray("zombie_weapon_upgrade", "targetname");
-
-	if (!isDefined(interesses) || interesses.size <= 0)
-	{
-		return;
-	}
-
 	armas_nomes = [];
 	armas_custos = [];
 
@@ -198,16 +187,149 @@ spawn_novas_armas_parede()
 	armas_nomes[23] = "one_inch_punch_zm"; armas_custos[23] = 3000;
 	armas_nomes[24] = "tomahawk_zm"; armas_custos[24] = 2000;
 
-	for (i = 0; i < armas_nomes.size; i++)
+	if (isDefined(level.zombie_weapons))
 	{
-		arma_nome = armas_nomes[i];
-		arma_custo = armas_custos[i];
-
-		if (!isDefined(level.zombie_weapons[arma_nome]))
+		for (i = 0; i < armas_nomes.size; i++)
 		{
-			level.zombie_weapons[arma_nome] = [];
-			level.zombie_weapons[arma_nome].cost = arma_custo;
-			level.zombie_weapons[arma_nome].hint = "Mantenha [{+activate}] para comprar ^3" + arma_nome + " ^7[Custo: " + arma_custo + "]";
+			arma_nome = armas_nomes[i];
+			arma_custo = armas_custos[i];
+
+			if (!isDefined(level.zombie_weapons[arma_nome]))
+			{
+				level.zombie_weapons[arma_nome] = [];
+				level.zombie_weapons[arma_nome].cost = arma_custo;
+				level.zombie_weapons[arma_nome].hint = "Mantenha [{+activate}] para comprar ^3" + arma_nome + " ^7[Custo: " + arma_custo + "]";
+			}
 		}
+	}
+
+	level thread caixa_multiplas_localizacoes();
+	level thread parede_comprar_aleatorio();
+}
+
+caixa_multiplas_localizacoes()
+{
+	level endon("end_game");
+
+	wait 2;
+
+	for (;;)
+	{
+		if (isDefined(level.chests))
+		{
+			for (i = 0; i < level.chests.size; i++)
+			{
+				if (isDefined(level.chests[i]) && !isDefined(level.chests[i].caixa_ativa_extra))
+				{
+					level.chests[i].caixa_ativa_extra = true;
+					level.chests[i] thread caixa_reativar_periodicamente();
+				}
+			}
+		}
+
+		wait 15;
+	}
+}
+
+caixa_reativar_periodicamente()
+{
+	self endon("end_game");
+
+	for (;;)
+	{
+		if (isDefined(self) && isDefined(self.unitrigger_stub))
+		{
+			self.unitrigger_stub.enabled = true;
+		}
+
+		wait 10;
+	}
+}
+
+parede_comprar_aleatorio()
+{
+	level endon("end_game");
+
+	wait 4;
+
+	origens = [];
+	spawns = getentarray("info_player_start", "classname");
+
+	for (i = 0; i < spawns.size; i++)
+	{
+		if (isDefined(spawns[i]) && isDefined(spawns[i].origin))
+		{
+			origens[origens.size] = spawns[i].origin;
+		}
+	}
+
+	if (origens.size <= 0)
+	{
+		return;
+	}
+
+	for (i = 0; i < 15; i++)
+	{
+		origem_aleatoria = origens[randomint(origens.size)];
+
+		offset_x = randomint(2000) - 1000;
+		offset_y = randomint(2000) - 1000;
+
+		pos = (origem_aleatoria[0] + offset_x, origem_aleatoria[1] + offset_y, origem_aleatoria[2]);
+
+		indice_arma = randomint(armas_nomes.size);
+		nome_arma = armas_nomes[indice_arma];
+		custo_arma = armas_custos[indice_arma];
+
+		trigger = spawn("trigger_use", pos);
+
+		if (isDefined(trigger))
+		{
+			trigger.arma_aleatoria = nome_arma;
+			trigger.custo_aleatorio = custo_arma;
+			trigger.targetname = "compra_aleatoria";
+			trigger.radius = 60;
+			trigger thread trigger_compra_loop(nome_arma, custo_arma);
+		}
+	}
+}
+
+trigger_compra_loop(nome_arma, custo_arma)
+{
+	self endon("end_game");
+
+	self sethintstring("Mantenha [{+activate}] para comprar ^3" + nome_arma + " ^7[Custo: " + custo_arma + "]");
+
+	for (;;)
+	{
+		players = getplayers();
+
+		for (p = 0; p < players.size; p++)
+		{
+			if (!isDefined(players[p]) || !isAlive(players[p]))
+			{
+				continue;
+			}
+
+			dist = distance(self.origin, players[p].origin);
+
+			if (dist < 60 && players[p] useButtonPressed())
+			{
+				pontos = players[p] maps\mp\zombies\_zm_score::get_player_score();
+
+				if (pontos >= custo_arma)
+				{
+					players[p] maps\mp\zombies\_zm_score::add_to_player_score(custo_arma * -1);
+					players[p] giveWeapon(nome_arma);
+					players[p] iPrintLnBold("^2Comprou: ^3" + nome_arma + " ^7por ^2" + custo_arma + " ^7pontos!");
+				}
+				else
+				{
+					players[p] iPrintLnBold("^1Pontos insuficientes! Precisa de ^2" + custo_arma);
+				}
+			}
+		}
+
+		wait 0.5;
 	}
 }
