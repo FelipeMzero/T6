@@ -101,7 +101,7 @@ pap_melhorado_get_options(arma)
 {
 	nivel = 1;
 
-	if (self isDefined() && isDefined(self.pap_niveis[arma]))
+	if (isDefined(self) && isDefined(self.pap_niveis[arma]))
 	{
 		nivel = self.pap_niveis[arma] + 1;
 	}
