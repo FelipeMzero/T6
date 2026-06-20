@@ -28872,7 +28872,7 @@ REFERENCE           PLATFORM_FOLLOWSTOP
 LANG_SPANISH        "^BBUTTON_MP_TOGGLECHASECAM^ Câmera grátis"
 
 REFERENCE           PLATFORM_FOV_DESC
-LANG_SPANISH        "Ajuste seu campo de visão para permitir uma visão mais ampla ou mais estreita no jogo. Definir o FOV acima de^165^7pode resultar em taxa de quadros mais baixa e alguns problemas gráficos."
+LANG_SPANISH        "Ajuste seu campo de visão para permitir uma visão mais ampla ou mais estreita no jogo. Definir o FOV acima de ^165^7 pode resultar em taxa de quadros mais baixa e alguns problemas gráficos."
 
 REFERENCE           PLATFORM_FREEFALL
 LANG_SPANISH        "Use^3[{+movestick}]^7para controlar a queda livre"

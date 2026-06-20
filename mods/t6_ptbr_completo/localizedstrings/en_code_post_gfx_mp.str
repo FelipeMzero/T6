@@ -9957,7 +9957,7 @@ REFERENCE           MENU_DISABLE_THIRD_PERSON_SPECTATING_HINT
 LANG_ENGLISH        "Desativa a capacidade de um jogador mudar para a vis�o de 3� pessoa quando estiver observando outro jogador enquanto espera para reaparecer."
 
 REFERENCE           MENU_DISALLOW_AIM_SLOWDOWN
-LANG_ENGLISH        "PROIBIR ASSIST�NCIA AO ALVO"
+LANG_ENGLISH        "PROIBIR ASSISTÊNCIA DE MIRA"
 
 REFERENCE           MENU_DISALLOW_PRONE
 LANG_ENGLISH        "N�O PERMITIR PRONE"
@@ -15855,7 +15855,7 @@ REFERENCE           MENU_TANGO_CAPS
 LANG_ENGLISH        "TANGO"
 
 REFERENCE           MENU_TARGET_ASSIST_CAPS
-LANG_ENGLISH        "ASSIST�NCIA AO ALVO"
+LANG_ENGLISH        "ASSISTÊNCIA DE MIRA"
 
 REFERENCE           MENU_TARGET_ASSIST_DESC
 LANG_ENGLISH        "Alterne a assist�ncia ao alvo ao mirar nos inimigos."
@@ -28872,7 +28872,7 @@ REFERENCE           PLATFORM_FOLLOWSTOP
 LANG_ENGLISH        "^BBUTTON_MP_TOGGLECHASECAM^ C�mera gr�tis"
 
 REFERENCE           PLATFORM_FOV_DESC
-LANG_ENGLISH        "Ajuste seu Campo de Vis�o para permitir uma vis�o mais ampla ou mais estreita no jogo."
+LANG_ENGLISH        "Ajuste seu campo de visão para permitir uma visão mais ampla ou mais estreita no jogo. Definir o FOV acima de ^165^7 pode resultar em taxa de quadros mais baixa e alguns problemas gráficos."
 
 REFERENCE           PLATFORM_FREEFALL
 LANG_ENGLISH        "Use^3[{+movestick}]^7para controlar a queda livre"

@@ -81,10 +81,10 @@ REFERENCE           ZM_TOMB_DIHO
 LANG_SPANISH        "Pressione^3[{+actionslot 1}]^7para usar o Maxis Drone"
 
 REFERENCE           ZM_TOMB_DIHS
-LANG_SPANISH        "Segure^79 [{+activate}]^30 para pegar o Maxis Drone"
+LANG_SPANISH        "Segure^7[{+activate}]^3 para pegar o Maxis Drone"
 
 REFERENCE           ZM_TOMB_EHT
-LANG_SPANISH        "Pressione^3[{+ativar}]^7para sair da Cabeça do Robô"
+LANG_SPANISH        "Pressione^3[{+activate}]^7 para sair da Cabeça do Robô"
 
 REFERENCE           ZM_TOMB_EQUIPMENT
 LANG_SPANISH        "Partes Musicais"
@@ -135,7 +135,7 @@ REFERENCE           ZM_TOMB_PRESS_X_TO_TELEPORT
 LANG_SPANISH        "Segure^3[{+activate}]^7para ejetar"
 
 REFERENCE           ZM_TOMB_PUAS
-LANG_SPANISH        "Segure^3[{+activate}]^7para trocar por Wind Staff"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para trocar por Cajado do Vento"
 
 REFERENCE           ZM_TOMB_PUBT
 LANG_SPANISH        "Segure^3[{+activate}]^7para pegar o Tablet\n"
@@ -144,16 +144,16 @@ REFERENCE           ZM_TOMB_PUCT
 LANG_SPANISH        "Segure^3[{+activate}]^7para pegar o Tablet"
 
 REFERENCE           ZM_TOMB_PUFS
-LANG_SPANISH        "Segure^3[{+activate}]^7para trocar por Fire Staff"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para trocar por Cajado de Fogo"
 
 REFERENCE           ZM_TOMB_PUGR
 LANG_SPANISH        "Segure^3[{+activate}]^7para pegar o gramofone"
 
 REFERENCE           ZM_TOMB_PUIS
-LANG_SPANISH        "Segure^3[{+activate}]^7para trocar por Ice Staff"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para trocar por Cajado de Gelo"
 
 REFERENCE           ZM_TOMB_PULS
-LANG_SPANISH        "Segure^79 [{+activate}]^30 para trocar por Lightning Staff"
+LANG_SPANISH        "Segure^7[{+activate}]^3 para trocar por Cajado Relâmpago"
 
 REFERENCE           ZM_TOMB_QUADROTOR
 LANG_SPANISH        "Drone Maxis"
@@ -222,7 +222,7 @@ REFERENCE           ZM_TOMB_X2D
 LANG_SPANISH        "Segure^3[{+activate}]^7para cavar"
 
 REFERENCE           ZM_TOMB_X2PU
-LANG_SPANISH        "Segure^3[{+ativar}]^7por &&1"
+LANG_SPANISH        "Segure^3[{+activate}]^7 por &&1"
 
 REFERENCE           ZM_TOMB_ZC
 LANG_SPANISH        "A energia deve estar ligada"

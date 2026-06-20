@@ -12,7 +12,7 @@ REFERENCE           ZM_PRISON_ACID_GAT_KIT
 LANG_SPANISH        "Kit Ácido Gat"
 
 REFERENCE           ZM_PRISON_ACID_TRAP
-LANG_SPANISH        "Segure^3[{+activate}]^7para ativar Acid Trap [Custo: &&1 ]"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para ativar a Armadilha de Ácido [Custo: &&1 ]"
 
 REFERENCE           ZM_PRISON_ACID_TRAP_UNAVAILABLE
 LANG_SPANISH        "Armadilha ácida indisponível"
@@ -63,10 +63,10 @@ REFERENCE           ZM_PRISON_ELECTRIC_CHAIR_ACTIVATE
 LANG_SPANISH        "Pressione^3[{+activate}]^7para ativar a Cadeira Elétrica"
 
 REFERENCE           ZM_PRISON_FAN_TRAP
-LANG_SPANISH        "Segure^3[{+activate}]^7para ativar Fan Trap [Custo: &&1 ]"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para ativar a Armadilha de Ventilador [Custo: &&1 ]"
 
 REFERENCE           ZM_PRISON_FAN_TRAP_UNAVAILABLE
-LANG_SPANISH        "Fan Trap indisponível"
+LANG_SPANISH        "Armadilha de Ventilador indisponível"
 
 REFERENCE           ZM_PRISON_GONDOLA_ACTIVE
 LANG_SPANISH        "A gôndola está ativa"
@@ -81,13 +81,13 @@ REFERENCE           ZM_PRISON_GOOD
 LANG_SPANISH        "O CICLO ESTÁ QUEBRADO."
 
 REFERENCE           ZM_PRISON_KEY_DOOR
-LANG_SPANISH        "Segure^3[{+ativar}]^7para abrir"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para abrir"
 
 REFERENCE           ZM_PRISON_KEY_DOOR_LOCKED
 LANG_SPANISH        "Preciso da chave do diretor"
 
 REFERENCE           ZM_PRISON_LAUNDRY_MACHINE_ACTIVATE
-LANG_SPANISH        "Pressione^3[{+ativar}]^7para ativar a Máquina de Lavar Roupa"
+LANG_SPANISH        "Pressione^3[{+activate}]^7 para ativar a Máquina de Lavar Roupa"
 
 REFERENCE           ZM_PRISON_LIFE_OVER
 LANG_SPANISH        "A VIDA ACABOU"
@@ -105,10 +105,10 @@ REFERENCE           ZM_PRISON_PERK_CHERRY
 LANG_SPANISH        "Segure^3[{+activate}]^7para comprar Electric Cherry [Custo: &&1 ]"
 
 REFERENCE           ZM_PRISON_PLANE_BEGIN_TAKEOFF
-LANG_SPANISH        "Pressione^3[{+ativar}]^7para iniciar a sequência de decolagem"
+LANG_SPANISH        "Pressione^3[{+activate}]^7 para iniciar a sequência de decolagem"
 
 REFERENCE           ZM_PRISON_PLANE_BOARD
-LANG_SPANISH        "Pressione^3[{+ativar}]^7para embarcar no avião"
+LANG_SPANISH        "Pressione^3[{+activate}]^7 para embarcar no avião"
 
 REFERENCE           ZM_PRISON_PLANE_PARTS
 LANG_SPANISH        "Peças de avião"
@@ -117,19 +117,19 @@ REFERENCE           ZM_PRISON_REFUELING_PLANE
 LANG_SPANISH        "Combustível adicionado ao avião"
 
 REFERENCE           ZM_PRISON_REFUEL_PLANE
-LANG_SPANISH        "Segure^3[{+activate}]^70 para reabastecer o avião"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para reabastecer o avião"
 
 REFERENCE           ZM_PRISON_RIOTSHIELD_ATTACK
-LANG_SPANISH        "Pressione^79 [{+melee}]^30 para atacar com Escudo"
+LANG_SPANISH        "Pressione^7[{+melee}]^3 para atacar com Escudo"
 
 REFERENCE           ZM_PRISON_RIOTSHIELD_DEPLOY
-LANG_SPANISH        "Pressione^39 [{+attack}]^70 para implantar o Shield"
+LANG_SPANISH        "Pressione^3[{+attack}]^7 para posicionar o Escudo"
 
 REFERENCE           ZM_PRISON_SHIELD
 LANG_SPANISH        "Escudo"
 
 REFERENCE           ZM_PRISON_SQ_BG
-LANG_SPANISH        "Segure^3[{+activate}]^70 para pegar o Blundergat"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para pegar o Blundergat"
 
 REFERENCE           ZM_PRISON_SQ_BS
 LANG_SPANISH        "Segure^3[{+activate}]^7para pegar Acid Gat"
@@ -144,7 +144,7 @@ REFERENCE           ZM_PRISON_TOMAHAWK_UPGRADED_PICKUP
 LANG_SPANISH        "Segure^3[{+activate}]^7para pegar o Hell's Redeemer"
 
 REFERENCE           ZM_PRISON_TOWER_TRAP
-LANG_SPANISH        "Segure^3[{+activate}]^7para ativar Tower Trap [Custo: &&1 ]"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para ativar a Armadilha de Torre [Custo: &&1 ]"
 
 REFERENCE           ZM_PRISON_WEAPON_THOMPSON
 LANG_SPANISH        "Segure^3[{+activate}]^7para comprar Tommy Gun [Custo: &&1 ]"

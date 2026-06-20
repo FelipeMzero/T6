@@ -9,16 +9,16 @@ REFERENCE           ZM_BURIED_BOOZE_G
 LANG_SPANISH        "Segure^3[{+activate}]^7para beber"
 
 REFERENCE           ZM_BURIED_BOOZE_GV
-LANG_SPANISH        "Segure^3[{+activate}]^7para dar Booze"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para dar Bebida"
 
 REFERENCE           ZM_BURIED_CANDY_B
 LANG_SPANISH        "Segure^3[{+activate}]^7para Doces [Custo: &&1 ]"
 
 REFERENCE           ZM_BURIED_CANDY_G
-LANG_SPANISH        "Segure^3[{+activate}]^7para Candy"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para Doces"
 
 REFERENCE           ZM_BURIED_CANDY_GV
-LANG_SPANISH        "Segure^3[{+activate}]^7para dar Candy"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para dar Doces"
 
 REFERENCE           ZM_BURIED_DRAW
 LANG_SPANISH        "Sacando..."
@@ -57,28 +57,28 @@ REFERENCE           ZM_BURIED_HINT_GHOST_PIANO
 LANG_SPANISH        "Segure^3[{+activate}]^7para dar gorjeta [Custo: &&1 ]"
 
 REFERENCE           ZM_BURIED_KEYS_BL
-LANG_SPANISH        "Segure^3[{+ativar}]^7para desbloquear"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para desbloquear"
 
 REFERENCE           ZM_BURIED_KEY_G
-LANG_SPANISH        "Segure^3[{+activate}]^70 para a tecla"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para a chave"
 
 REFERENCE           ZM_BURIED_PU_870MCS
-LANG_SPANISH        "Segure^39 [{+ativar}]^70 para Remington 870 MCS Chalk"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para Giz da Remington 870 MCS"
 
 REFERENCE           ZM_BURIED_PU_AK74U
-LANG_SPANISH        "Segure^3[{+ativar}]^7para AK74u Chalk"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para Giz da AK-74u"
 
 REFERENCE           ZM_BURIED_PU_AN94
-LANG_SPANISH        "Segure^3[{+ativar}]^7para Giz AN-94"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para Giz da AN-94"
 
 REFERENCE           ZM_BURIED_PU_PDW57
-LANG_SPANISH        "Segure^3[{+ativar}]^7para PDW-57 Chalk"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para Giz da PDW-57"
 
 REFERENCE           ZM_BURIED_PU_SVU
-LANG_SPANISH        "Segure^3[{+activate}]^7para SVU-AS Chalk"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para Giz da SVU-AS"
 
 REFERENCE           ZM_BURIED_PU_TAZER
-LANG_SPANISH        "Segure^3[{+activate}]^7para Galvaknuckles Chalk"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para Giz das Galvaknuckles"
 
 REFERENCE           ZM_BURIED_SQ_BUT_U
 LANG_SPANISH        "Segure^3[{+activate}]^7para usar a campainha"
@@ -114,50 +114,50 @@ REFERENCE           ZM_BURIED_UNLOCKING
 LANG_SPANISH        "Desbloqueando..."
 
 REFERENCE           ZM_BURIED_WALLBUILD
-LANG_SPANISH        "Segure^3[{+activate}]^7para Wallbuy Chalk personalizado"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para Giz de Compra de Parede personalizado"
 
 REFERENCE           ZM_BURIED_WB
-LANG_SPANISH        "Segure^3[{+ativar}]^7por &&1 Giz"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para comprar o giz por &&1"
 
 REFERENCE           ZM_BURIED_WB_870MCS
-LANG_SPANISH        "Segure^3[{+activate}]^7para sortear wallbuy Remington 870 MCS"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para comprar a Remington 870 MCS da parede"
 
 REFERENCE           ZM_BURIED_WB_AK74U
-LANG_SPANISH        "Segure^3[{+activate}]^7para comprar wallbuy AK74u"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para comprar a AK-74u da parede"
 
 REFERENCE           ZM_BURIED_WB_AN94
-LANG_SPANISH        "Segure^3[{+activate}]^7para sortear o wallbuy AN-94"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para comprar a AN-94 da parede"
 
 REFERENCE           ZM_BURIED_WB_BERETTA93R
-LANG_SPANISH        "Segure^3[{+activate}]^7para sortear wallbuy B23R"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para comprar a B23R da parede"
 
 REFERENCE           ZM_BURIED_WB_BOWIE
-LANG_SPANISH        "Segure^3[{+activate}]^7para sacar Bowie Knife wallbuy"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para comprar a Faca Bowie da parede"
 
 REFERENCE           ZM_BURIED_WB_CLAYMORE
-LANG_SPANISH        "Segure^3[{+activate}]^7para comprar Claymore wallbuy"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para comprar Claymores da parede"
 
 REFERENCE           ZM_BURIED_WB_M14
-LANG_SPANISH        "Segure^3[{+activate}]^7para sacar M14 wallbuy"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para comprar a M14 da parede"
 
 REFERENCE           ZM_BURIED_WB_M16
-LANG_SPANISH        "Segure^3[{+activate}]^7para comprar wallbuy Colt M16A1"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para comprar a M16A1 da parede"
 
 REFERENCE           ZM_BURIED_WB_MP5K
-LANG_SPANISH        "Segure^3[{+activate}]^7para sacar MP5 wallbuy"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para comprar a MP5 da parede"
 
 REFERENCE           ZM_BURIED_WB_PDW57
-LANG_SPANISH        "Segure^3[{+activate}]^7para sortear PDW-57 wallbuy"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para comprar a PDW-57 da parede"
 
 REFERENCE           ZM_BURIED_WB_STICKY
-LANG_SPANISH        "Segure^3[{+activate}]^7para desenhar Wallbuy Semtex"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para comprar Semtex da parede"
 
 REFERENCE           ZM_BURIED_WB_SVU
-LANG_SPANISH        "Segure^3[{+activate}]^7para comprar SVU-AS wallbuy"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para comprar a SVU-AS da parede"
 
 REFERENCE           ZM_BURIED_WB_TAZER
-LANG_SPANISH        "Segure^3[{+activate}]^7para comprar Wallbuy de Galvaknuckles"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para comprar Galvaknuckles da parede"
 
 REFERENCE           ZM_BURIED_WB_USRPG
-LANG_SPANISH        "Segure^3[{+activate}]^7para comprar RPG wallbuy"
+LANG_SPANISH        "Segure^3[{+activate}]^7 para comprar o RPG da parede"
 

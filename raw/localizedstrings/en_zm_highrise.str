@@ -9,7 +9,7 @@ REFERENCE           ZM_HIGHRISE_BOUGHT_SLIPGUN
 LANG_ENGLISH        "Peguei o Sliquifier"
 
 REFERENCE           ZM_HIGHRISE_BOUGHT_SPRINGPAD
-LANG_ENGLISH        "Tomou Trample Steam"
+LANG_ENGLISH        "Pegou o Atropelar Vapor"
 
 REFERENCE           ZM_HIGHRISE_BUILDING_KEYS
 LANG_ENGLISH        "Parte adicionada"
@@ -33,37 +33,37 @@ REFERENCE           ZM_HIGHRISE_EQUIP_KEYS
 LANG_ENGLISH        "Chave"
 
 REFERENCE           ZM_HIGHRISE_EQUIP_KEYS_HOWTO
-LANG_ENGLISH        "Pressione ^3[{+actionslot 1}]^7 para usar a tecla"
+LANG_ENGLISH        "Pressione^3[{+actionslot 1}]^7 para usar a chave"
 
 REFERENCE           ZM_HIGHRISE_EQUIP_KEYS_PICKUP_HINT_STRING
 LANG_ENGLISH        "Segure ^3[{+activate}]^7 para pegar a chave"
 
 REFERENCE           ZM_HIGHRISE_EQUIP_SLIPGUN
-LANG_ENGLISH        "Liquidificador"
+LANG_ENGLISH        "Sliquifier"
 
 REFERENCE           ZM_HIGHRISE_EQUIP_SLIPGUN_HOWTO
-LANG_ENGLISH        "Pressione ^3[{+actionslot 1}]^7 para usar o Sliquifier"
+LANG_ENGLISH        "Pressione^3[{+actionslot 1}]^7 para usar o Sliquifier"
 
 REFERENCE           ZM_HIGHRISE_EQUIP_SLIPGUN_PICKUP_HINT_STRING
-LANG_ENGLISH        "Segure ^3[{+activate}]^7 para pegar o Sliquifier"
+LANG_ENGLISH        "Segure^3[{+activate}]^7 para pegar o Sliquifier"
 
 REFERENCE           ZM_HIGHRISE_EQUIP_SPRINGPAD
 LANG_ENGLISH        "Atropelar Vapor"
 
 REFERENCE           ZM_HIGHRISE_EQUIP_SPRINGPAD_HOWTO
-LANG_ENGLISH        "Pressione ^3[{+actionslot 1}]^7 para usar Trample Steam"
+LANG_ENGLISH        "Pressione^3[{+actionslot 1}]^7 para usar o Atropelar Vapor"
 
 REFERENCE           ZM_HIGHRISE_EQUIP_SPRINGPAD_PICKUP_HINT_STRING
-LANG_ENGLISH        "Segure ^3[{+activate}]^7 para pegar Trample Steam"
+LANG_ENGLISH        "Segure^3[{+activate}]^7 para pegar o Atropelar Vapor"
 
 REFERENCE           ZM_HIGHRISE_GRAB_KEYS
 LANG_ENGLISH        "Segure ^3[{+activate}]^7 para pegar a chave"
 
 REFERENCE           ZM_HIGHRISE_GRAB_SLIPGUN
-LANG_ENGLISH        "Segure ^3[{+activate}]^7 para pegar o Sliquifier"
+LANG_ENGLISH        "Segure^3[{+activate}]^7 para pegar o Sliquifier"
 
 REFERENCE           ZM_HIGHRISE_GRAB_SPRINGPAD
-LANG_ENGLISH        "Segure ^39[{+activate}]^70 para pegar Trample Steam"
+LANG_ENGLISH        "Segure^3[{+activate}]^7 para pegar o Atropelar Vapor"
 
 REFERENCE           ZM_HIGHRISE_SQ_PICKUP_BALL
 LANG_ENGLISH        "Segure ^3[{+activate}]^7 para pegar a bola"

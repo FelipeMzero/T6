@@ -3645,7 +3645,7 @@ REFERENCE           MENU_DISABLE_THIRD_PERSON_SPECTATING_HINT
 LANG_SPANISH        "Desativa a capacidade de um jogador mudar para a visão de 3ª pessoa quando estiver observando outro jogador enquanto espera para reaparecer."
 
 REFERENCE           MENU_DISALLOW_AIM_SLOWDOWN
-LANG_SPANISH        "PROIBIR ASSISTÊNCIA AO ALVO"
+LANG_SPANISH        "PROIBIR ASSISTÊNCIA DE MIRA"
 
 REFERENCE           MENU_DISALLOW_PRONE
 LANG_SPANISH        "NÃO PERMITIR PRONE"
@@ -7725,7 +7725,7 @@ REFERENCE           MENU_QUICK_SAVE_CAPS
 LANG_SPANISH        "SALVAR RÁPIDO"
 
 REFERENCE           MENU_QUIT
-LANG_SPANISH        "Desistir"
+LANG_SPANISH        "SAIR"
 
 REFERENCE           MENU_QUIT_CAPS
 LANG_SPANISH        "DESISTIR"
@@ -9543,7 +9543,7 @@ REFERENCE           MENU_TANGO_CAPS
 LANG_SPANISH        "TANGO"
 
 REFERENCE           MENU_TARGET_ASSIST_CAPS
-LANG_SPANISH        "ASSISTÊNCIA AO ALVO"
+LANG_SPANISH        "ASSISTÊNCIA DE MIRA"
 
 REFERENCE           MENU_TARGET_ASSIST_DESC
 LANG_SPANISH        "Alterne a assistência ao alvo ao mirar nos inimigos."
@@ -21516,7 +21516,7 @@ REFERENCE           PLATFORM_FOLLOWSTOP
 LANG_SPANISH        "^BBUTTON_MP_TOGGLECHASECAM^ Câmera grátis"
 
 REFERENCE           PLATFORM_FOV_DESC
-LANG_SPANISH        "Adjust your Field of View to allow a wider or narrower view in game."
+LANG_SPANISH        "Ajuste seu campo de visão para permitir uma visão mais ampla ou mais estreita no jogo. Definir o FOV acima de ^165^7 pode resultar em taxa de quadros mais baixa e alguns problemas gráficos."
 
 REFERENCE           PLATFORM_FREEFALL
 LANG_SPANISH        "Use^3[{+movestick}]^7para controlar a queda livre"
@@ -21981,7 +21981,7 @@ REFERENCE           PLATFORM_QRDRONE_GAMBLER
 LANG_SPANISH        "Segure ^3&&1^7 para Dragonfire OU toque duas vezes em ^3[{+reload}]^7 para tentar novamente"
 
 REFERENCE           PLATFORM_QUIT
-LANG_SPANISH        "Desistir"
+LANG_SPANISH        "SAIR"
 
 REFERENCE           PLATFORM_QUIT_CAPS
 LANG_SPANISH        "DESISTIR"

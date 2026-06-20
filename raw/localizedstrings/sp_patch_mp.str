@@ -6387,7 +6387,7 @@ REFERENCE           PLATFORM_ES_MADRID_MADRID_LOC
 LANG_SPANISH        "Espanha"
 
 REFERENCE           PLATFORM_FOV_DESC
-LANG_SPANISH        "Ajuste seu campo de visão para permitir uma visão mais ampla ou mais estreita no jogo. Definir o FOV acima de^165^7pode resultar em taxa de quadros mais baixa e alguns problemas gráficos."
+LANG_SPANISH        "Ajuste seu campo de visão para permitir uma visão mais ampla ou mais estreita no jogo. Definir o FOV acima de ^165^7 pode resultar em taxa de quadros mais baixa e alguns problemas gráficos."
 
 REFERENCE           PLATFORM_FR_LOC
 LANG_SPANISH        "França"

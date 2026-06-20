@@ -4584,7 +4584,7 @@ REFERENCE           MENU_DISABLE_THIRD_PERSON_SPECTATING_HINT
 LANG_ENGLISH        "Desativa a capacidade de um jogador mudar para a visão de 3ª pessoa quando estiver observando outro jogador enquanto espera para reaparecer."
 
 REFERENCE           MENU_DISALLOW_AIM_SLOWDOWN
-LANG_ENGLISH        "PROIBIR ASSISTÊNCIA AO ALVO"
+LANG_ENGLISH        "PROIBIR ASSISTÊNCIA DE MIRA"
 
 REFERENCE           MENU_DISALLOW_PRONE
 LANG_ENGLISH        "NÃO PERMITIR PRONE"
@@ -9258,7 +9258,7 @@ REFERENCE           MENU_QUICK_SAVE_CAPS
 LANG_ENGLISH        "SALVAR RÁPIDO"
 
 REFERENCE           MENU_QUIT
-LANG_ENGLISH        "Desistir"
+LANG_ENGLISH        "SAIR"
 
 REFERENCE           MENU_QUIT_CAPS
 LANG_ENGLISH        "DESISTIR"
@@ -11193,7 +11193,7 @@ REFERENCE           MENU_TANGO_CAPS
 LANG_ENGLISH        "TANGO"
 
 REFERENCE           MENU_TARGET_ASSIST_CAPS
-LANG_ENGLISH        "ASSISTÊNCIA AO ALVO"
+LANG_ENGLISH        "ASSISTÊNCIA DE MIRA"
 
 REFERENCE           MENU_TARGET_ASSIST_DESC
 LANG_ENGLISH        "Alterne a assistência ao alvo ao mirar nos inimigos."
@@ -21405,7 +21405,7 @@ REFERENCE           PLATFORM_FOLLOWSTOP
 LANG_ENGLISH        "^BBUTTON_MP_TOGGLECHASECAM^ Câmera grátis"
 
 REFERENCE           PLATFORM_FOV_DESC
-LANG_ENGLISH        "Ajuste seu campo de visão para permitir uma visão mais ampla ou mais estreita no jogo. Definir o FOV acima de^165^7pode resultar em taxa de quadros mais baixa e alguns problemas gráficos."
+LANG_ENGLISH        "Ajuste seu campo de visão para permitir uma visão mais ampla ou mais estreita no jogo. Definir o FOV acima de ^165^7 pode resultar em taxa de quadros mais baixa e alguns problemas gráficos."
 
 REFERENCE           PLATFORM_FREEFALL
 LANG_ENGLISH        "Use^3[{+movestick}]^7para controlar a queda livre"
@@ -21879,7 +21879,7 @@ REFERENCE           PLATFORM_QRDRONE_GAMBLER
 LANG_ENGLISH        "Segure ^3&&1^7 para Dragonfire OU toque duas vezes em ^3[{+reload}]^7 para tentar novamente"
 
 REFERENCE           PLATFORM_QUIT
-LANG_ENGLISH        "Desistir"
+LANG_ENGLISH        "SAIR"
 
 REFERENCE           PLATFORM_QUIT_CAPS
 LANG_ENGLISH        "DESISTIR"
@@ -22080,7 +22080,7 @@ REFERENCE           PLATFORM_SHOW_GAMERCARD
 LANG_ENGLISH        "Mostrar perfil do Steam"
 
 REFERENCE           PLATFORM_SHOW_GAMERCARD_CAPS
-LANG_ENGLISH        "MOSTRAR PERFIL DE VAPOR"
+LANG_ENGLISH        "MOSTRAR PERFIL STEAM"
 
 REFERENCE           PLATFORM_SHOW_MAP
 LANG_ENGLISH        "^BBUTTON_INTERACT^ Mapa"
@@ -28962,7 +28962,7 @@ REFERENCE           XBOXLIVE_FRIENDSLISTONX
 LANG_ENGLISH        "^BBUTTON_MP_READY^ amigos"
 
 REFERENCE           XBOXLIVE_FRIENDS_CAPS
-LANG_ENGLISH        "AMIGOS DO VAPOR"
+LANG_ENGLISH        "AMIGOS DA STEAM"
 
 REFERENCE           XBOXLIVE_FRIENDS_UNAVAILABLE
 LANG_ENGLISH        "Você deve estar online e conectado ao Steam para acessar o Friends."
@@ -29118,7 +29118,7 @@ REFERENCE           XBOXLIVE_SELECTBUTTON
 LANG_ENGLISH        "^BBUTTON_SELECTCHOICE^"
 
 REFERENCE           XBOXLIVE_SERVICENAME_CAPS
-LANG_ENGLISH        "VAPOR ON-LINE"
+LANG_ENGLISH        "STEAM ON-LINE"
 
 REFERENCE           XBOXLIVE_SIGNEDINAS
 LANG_ENGLISH        "Signed in as: &&1"
@@ -29184,7 +29184,7 @@ REFERENCE           XBOXLIVE_VIEW_PROFILE
 LANG_ENGLISH        "Ver perfil do Steam"
 
 REFERENCE           XBOXLIVE_VIEW_PROFILE_CAPS
-LANG_ENGLISH        "VER PERFIL DE VAPOR"
+LANG_ENGLISH        "VER PERFIL STEAM"
 
 REFERENCE           XBOXLIVE_WRONGCLAN
 LANG_ENGLISH        "Não foi possível entrar no grupo porque o anfitrião do grupo deseja que apenas os membros do seu clã participem do grupo."

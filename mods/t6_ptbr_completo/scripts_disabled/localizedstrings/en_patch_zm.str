@@ -3660,7 +3660,7 @@ REFERENCE           PLATFORM_ES_MADRID_MADRID_LOC
 LANG_ENGLISH        "Espanha"
 
 REFERENCE           PLATFORM_FOV_DESC
-LANG_ENGLISH        "Ajuste seu campo de visão para permitir uma visão mais ampla ou mais estreita no jogo. Definir o FOV acima de^165^7pode resultar em taxa de quadros mais baixa e alguns problemas gráficos."
+LANG_ENGLISH        "Ajuste seu campo de visão para permitir uma visão mais ampla ou mais estreita no jogo. Definir o FOV acima de ^165^7 pode resultar em taxa de quadros mais baixa e alguns problemas gráficos."
 
 REFERENCE           PLATFORM_FR_LOC
 LANG_ENGLISH        "França"
@@ -5346,7 +5346,7 @@ REFERENCE           ZMWEAPON_SCAR_UPGRADED
 LANG_ENGLISH        "Ceifador de Agartha"
 
 REFERENCE           ZMWEAPON_SLIPGUN
-LANG_ENGLISH        "Liquidificador"
+LANG_ENGLISH        "Sliquifier"
 
 REFERENCE           ZMWEAPON_SLIPGUN_UPGRADED
 LANG_ENGLISH        "Sl1qu1f13r"
@@ -5997,7 +5997,7 @@ REFERENCE           ZOMBIE_EQUIP_GASMASK_HOWTO
 LANG_ENGLISH        "Pressione^3[{+actionslot 1}]^7para ativar P.E.S."
 
 REFERENCE           ZOMBIE_EQUIP_GASMASK_PICKUP_HINT_STRING
-LANG_ENGLISH        "Segure^3[{+activate}]^70 para trocar equipamentos por P.E.S."
+LANG_ENGLISH        "Segure^3[{+activate}]^7 para trocar equipamentos por P.E.S."
 
 REFERENCE           ZOMBIE_EQUIP_HACKER
 LANG_ENGLISH        "Hacker"
@@ -6576,7 +6576,7 @@ REFERENCE           ZOMBIE_TELEPORT_COOLDOWN
 LANG_ENGLISH        "Teleporter esfriando..."
 
 REFERENCE           ZOMBIE_TELEPORT_TO_CORE
-LANG_ENGLISH        "Segure^79 [{+activate}]^30 para se teletransportar para o mainframe [Custo: 1500]"
+LANG_ENGLISH        "Segure^7[{+activate}]^3 para se teletransportar para o mainframe [Custo: 1500]"
 
 REFERENCE           ZOMBIE_TELLER_GIVE_MONEY
 LANG_ENGLISH        "Segure ^3[{+activate}]^7 para adicionar 1000 pontos [Custo: &&1]"
@@ -6621,7 +6621,7 @@ REFERENCE           ZOMBIE_TRAP_COOLDOWN
 LANG_ENGLISH        "A armadilha está recarregando."
 
 REFERENCE           ZOMBIE_TRAP_DOOR
-LANG_ENGLISH        "Segure^3[{+activate}]^70 para ativar o alçapão [Custo: 1000]"
+LANG_ENGLISH        "Segure^3[{+activate}]^7 para ativar o alçapão [Custo: 1000]"
 
 REFERENCE           ZOMBIE_TURRET_NOT_AVAILABLE
 LANG_ENGLISH        "Torre indisponível"
