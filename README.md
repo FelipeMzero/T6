@@ -1,8 +1,8 @@
-# T6 - Tradução PT-BR para Call of Duty: Black Ops II
+# T6 - Tradução PT-BR + Scripts Custom para Call of Duty: Black Ops II
 
-Mod de tradução completa em Português Brasileiro para Call of Duty: Black Ops II via Plutonium.
+Mod de tradução completa em Português Brasileiro + scripts custom (armas completas, Pack-a-Punch melhorado) para Call of Duty: Black Ops II via Plutonium.
 
-**Versão:** 2.3
+**Versão:** 2.4
 
 ## O que está traduzido
 
@@ -46,8 +46,51 @@ mods/
     ├── mod.json              ← identificação do mod
     ├── mod.all.sabl          ← strings compiladas (arquivo principal)
     ├── localizedstrings/     ← 84 arquivos .str com todas as traduções
-    └── scripts/              ← scripts do mod (ZM e MP)
+    └── scripts/
+        └── zm/
+            ├── armas_completas.gsc   ← TODAS as armas DLC na caixa + parede (cajados, paralyzer, etc.)
+            ├── pap_melhorado.gsc     ← Pack-a-Punch com repack ilimitado e preço reduzido
+            └── ... (demais scripts)
+raw/
+└── scripts/
+    └── zm/
+        ├── armas_completas.gsc   ← mesma versão para usar SEM o mod
+        └── pap_melhorado.gsc     ← mesma versão para usar SEM o mod
 ```
+
+## 📋 Scripts Custom (armas_completas.gsc + pap_melhorado.gsc)
+
+### armas_completas.gsc
+- **Caixa Misteriosa unificada** — todas as armas de todas as fases disponíveis desde o round 1
+- **Todas as Wonder Weapons DLC**: Jet Gun, Sliquifier, Blundergat, Acid Gat, Paralyzer, Ray Gun Mark II, One Inch Punch, Tomahawk
+- **Cajados de Origins** (Gelo, Fogo, Vento, Raio) + versões upgraded em qualquer mapa
+- **Novas armas na parede** com preços personalizados
+
+### pap_melhorado.gsc
+- **Repack Ilimitado** — use o Pack-a-Punch quantas vezes quiser na mesma arma
+- Cada nível: +35% dano, +15 balas no carregador, +100 munição total
+- **Preço reduzido**: 2500 ao invés de 5000
+- Todas as armas funcionam no PaP (incluindo wonder weapons)
+
+## ⚠️ Atenção: Preciso das Pastas `mods` e `raw`
+
+Os scripts funcionam de **duas formas**:
+
+### 1️⃣ Usando o Mod (recomendado)
+Copie a pasta `mods\t6_ptbr_completo` para:
+```
+%localappdata%\Plutonium\storage\t6\mods\
+```
+Carregue o mod "t6_ptbr_completo" na tela de Mods do Plutonium.
+
+### 2️⃣ Sem o Mod (raw)
+Copie o conteúdo de `raw\scripts\` para:
+```
+%localappdata%\Plutonium\storage\t6\raw\scripts\
+```
+Isso faz os scripts carregarem automaticamente sem precisar ativar o mod.
+
+**Você PRECISA de AMBAS as pastas se quiser usar o mod + scripts juntos.**
 
 ## Observações
 
