@@ -3,40 +3,40 @@ CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           ANGOLA_ABANDON_FAIL
-LANG_ENGLISH        "Você abandonou o comboio."
+LANG_ENGLISH        "VOCÊ ABANDONOU O COMBOIO."
 
 REFERENCE           ANGOLA_BOARD_BUFFEL_HINT
-LANG_ENGLISH        "Pressione ^3[{+activate}]^7 para montar Buffel"
+LANG_ENGLISH        "PRESSIONE ^3[{+activate}]^7 PARA MONTAR BUFFEL"
 
 REFERENCE           ANGOLA_BREAK_LOCK
-LANG_ENGLISH        "Pressione ^3[{+activate}] ^7para quebrar o bloqueio"
+LANG_ENGLISH        "PRESSIONE ^3[{+activate}] ^7PARA QUEBRAR O BLOQUEIO"
 
 REFERENCE           ANGOLA_BUFFEL_FAIL
-LANG_ENGLISH        "O comboio foi destruído, você precisa liderar o ataque."
+LANG_ENGLISH        "O COMBOIO FOI DESTRUÍDO, VOCÊ PRECISA LIDERAR O ATAQUE."
 
 REFERENCE           ANGOLA_CALL_FAIL
-LANG_ENGLISH        "O comboio foi destruído, você precisa falar com Hudson."
+LANG_ENGLISH        "O COMBOIO FOI DESTRUÍDO, VOCÊ PRECISA FALAR COM HUDSON."
 
 REFERENCE           ANGOLA_CONVOY_FAIL
-LANG_ENGLISH        "Você estava muito exposto para ficar mais perto do comboio."
+LANG_ENGLISH        "VOCÊ ESTAVA MUITO EXPOSTO PARA FICAR MAIS PERTO DO COMBOIO."
 
 REFERENCE           ANGOLA_CONVOY_WARNING
-LANG_ENGLISH        "Você está saindo da zona de combate."
+LANG_ENGLISH        "VOCÊ ESTÁ SAINDO DA ZONA DE COMBATE."
 
 REFERENCE           ANGOLA_HELI_AIM
-LANG_ENGLISH        "Use ^3[{+lookstick}]^7 para mirar"
+LANG_ENGLISH        "USE ^3[{+lookstick}]^7 PARA MIRAR"
 
 REFERENCE           ANGOLA_HELI_MG
-LANG_ENGLISH        "Pressione ^3[{+attack}]^7 para disparar a metralhadora"
+LANG_ENGLISH        "PRESSIONE ^3[{+attack}]^7 PARA DISPARAR A METRALHADORA"
 
 REFERENCE           ANGOLA_HELI_ROCKET
-LANG_ENGLISH        "Pressione ^3[{+speed_throw}]^7 para disparar foguetes"
+LANG_ENGLISH        "PRESSIONE ^3[{+speed_throw}]^7 PARA DISPARAR FOGUETES"
 
 REFERENCE           ANGOLA_HELI_STRAFE
-LANG_ENGLISH        "Use ^3[{+movestick}]^7 para metralhar"
+LANG_ENGLISH        "USE ^3[{+movestick}]^7 PARA METRALHAR"
 
 REFERENCE           ANGOLA_HINT_MORTAR_PICKUP
-LANG_ENGLISH        "Pressione ^3[{+activate}]^7 para pegar morteiros"
+LANG_ENGLISH        "PRESSIONE ^3[{+activate}]^7 PARA PEGAR MORTEIROS"
 
 REFERENCE           ANGOLA_INTROSCREEN_LINE_1
 LANG_ENGLISH        "^L\PYRRHIC VICTORY\^L"
@@ -51,365 +51,365 @@ REFERENCE           ANGOLA_INTROSCREEN_LINE_4
 LANG_ENGLISH        "^LCIA^L SPECIAL ACTIVITIES DIVISION"
 
 REFERENCE           ANGOLA_INTROSCREEN_LINE_5
-LANG_ENGLISH        "JULY 2nd, ^L1986^L"
+LANG_ENGLISH        "JULY 2ND, ^L1986^L"
 
 REFERENCE           ANGOLA_MORTAR_TUTORIAL
-LANG_ENGLISH        "Pressione ^3[{+actionslot 4}]^7 para selecionar argamassas."
+LANG_ENGLISH        "PRESSIONE ^3[{+actionslot 4}]^7 PARA SELECIONAR ARGAMASSAS."
 
 REFERENCE           ANGOLA_OBJ_DESTROY_FINAL_WAVE
-LANG_ENGLISH        "Destrua a onda final usando o helicóptero de Hudson [&&1 de 3]"
+LANG_ENGLISH        "DESTRUA A ONDA FINAL USANDO O HELICÓPTERO DE HUDSON [&&1 DE 3]"
 
 REFERENCE           ANGOLA_OBJ_DESTROY_FIRST_WAVE
-LANG_ENGLISH        "Destrua a primeira onda de tanques"
+LANG_ENGLISH        "DESTRUA A PRIMEIRA ONDA DE TANQUES"
 
 REFERENCE           ANGOLA_OBJ_DESTROY_MORTAR
-LANG_ENGLISH        "Elimine as equipes de morteiros"
+LANG_ENGLISH        "ELIMINE AS EQUIPES DE MORTEIROS"
 
 REFERENCE           ANGOLA_OBJ_DESTROY_RPGS
-LANG_ENGLISH        "Adie o ataque de RPG."
+LANG_ENGLISH        "ADIE O ATAQUE DE RPG."
 
 REFERENCE           ANGOLA_OBJ_DESTROY_SECOND_WAVE
-LANG_ENGLISH        "Destrua a segunda onda de tanques"
+LANG_ENGLISH        "DESTRUA A SEGUNDA ONDA DE TANQUES"
 
 REFERENCE           ANGOLA_OBJ_DESTROY_TANKS
-LANG_ENGLISH        "Destrua a primeira onda de tanques"
+LANG_ENGLISH        "DESTRUA A PRIMEIRA ONDA DE TANQUES"
 
 REFERENCE           ANGOLA_OBJ_DESTROY_TECHNICAL
-LANG_ENGLISH        "Elimine os artilheiros montados"
+LANG_ENGLISH        "ELIMINE OS ARTILHEIROS MONTADOS"
 
 REFERENCE           ANGOLA_OBJ_FOLLOW_BUFFEL
-LANG_ENGLISH        "Avance com o comboio"
+LANG_ENGLISH        "AVANCE COM O COMBOIO"
 
 REFERENCE           ANGOLA_OBJ_GET_TO_BUFFEL
-LANG_ENGLISH        "Monte o Buffel para liderar o empurrão final"
+LANG_ENGLISH        "MONTE O BUFFEL PARA LIDERAR O EMPURRÃO FINAL"
 
 REFERENCE           ANGOLA_OBJ_START
-LANG_ENGLISH        "Prepare-se para o ataque do MPLA"
+LANG_ENGLISH        "PREPARE-SE PARA O ATAQUE DO MPLA"
 
 REFERENCE           ANGOLA_STRAFE_FAIL
-LANG_ENGLISH        "O comboio foi destruído, mais tanques devem ser destruídos."
+LANG_ENGLISH        "O COMBOIO FOI DESTRUÍDO, MAIS TANQUES DEVEM SER DESTRUÍDOS."
 
 REFERENCE           ANGOLA_STRAFE_HINT
-LANG_ENGLISH        "Pressione ^3[{+actionslot 1}]^7 para ligar para o suporte aéreo"
+LANG_ENGLISH        "PRESSIONE ^3[{+actionslot 1}]^7 PARA LIGAR PARA O SUPORTE AÉREO"
 
 REFERENCE           ANGOLA_TANK_FAIL
-LANG_ENGLISH        "A linha foi quebrada, não foram destruídos tanques suficientes."
+LANG_ENGLISH        "A LINHA FOI QUEBRADA, NÃO FORAM DESTRUÍDOS TANQUES SUFICIENTES."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_1_01_001A_MASO_D
-LANG_ENGLISH        "^1Mason: ^7No!!!"
+LANG_ENGLISH        "^1MASON: ^7NO!!!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_001A_MASO_D
-LANG_ENGLISH        "^1Mason: ^7Hold on!"
+LANG_ENGLISH        "^1MASON: ^7HOLD ON!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_002A_MASO_D
-LANG_ENGLISH        "^1Mason: ^7I need help over here!"
+LANG_ENGLISH        "^1MASON: ^7I NEED HELP OVER HERE!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_003A_MASO_M
-LANG_ENGLISH        "^1Mason: ^7Break, dammit!"
+LANG_ENGLISH        "^1MASON: ^7BREAK, DAMMIT!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_003A_MASO_S
-LANG_ENGLISH        "^1Mason: ^7Break!"
+LANG_ENGLISH        "^1MASON: ^7BREAK!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_004A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7Mason!"
+LANG_ENGLISH        "^1SAVIMBI: ^7MASON!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_005A_MASO_D
-LANG_ENGLISH        "^1Mason: ^7Savimbi, you gotta help..."
+LANG_ENGLISH        "^1MASON: ^7SAVIMBI, YOU GOTTA HELP..."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_006A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7The fire finished him."
+LANG_ENGLISH        "^1SAVIMBI: ^7THE FIRE FINISHED HIM."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_009A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7We must move out, before we join him in death."
+LANG_ENGLISH        "^1SAVIMBI: ^7WE MUST MOVE OUT, BEFORE WE JOIN HIM IN DEATH."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_010A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7The mortar fire means the MPLA is readying for attack."
+LANG_ENGLISH        "^1SAVIMBI: ^7THE MORTAR FIRE MEANS THE MPLA IS READYING FOR ATTACK."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_011A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7If they want a fight, we'll give them a fight!"
+LANG_ENGLISH        "^1SAVIMBI: ^7IF THEY WANT A FIGHT, WE'LL GIVE THEM A FIGHT!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_012A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7MOVE OUT!"
+LANG_ENGLISH        "^1SAVIMBI: ^7MOVE OUT!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_015A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7You should stay with the vehicles."
+LANG_ENGLISH        "^1SAVIMBI: ^7YOU SHOULD STAY WITH THE VEHICLES."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_016A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7Where are you going, Mason?"
+LANG_ENGLISH        "^1SAVIMBI: ^7WHERE ARE YOU GOING, MASON?"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_017A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7You cannot leave the convoy!"
+LANG_ENGLISH        "^1SAVIMBI: ^7YOU CANNOT LEAVE THE CONVOY!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_018A_HUDS_D
-LANG_ENGLISH        "^1Hudson: ^7Mason, you copy?"
+LANG_ENGLISH        "^1HUDSON: ^7MASON, YOU COPY?"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_019A_MASO_D
-LANG_ENGLISH        "^1Mason: ^7Go ahead, Hudson."
+LANG_ENGLISH        "^1MASON: ^7GO AHEAD, HUDSON."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_021A_MASO_D
-LANG_ENGLISH        "^1Mason: ^7We know.  Savimbi's leading a counter charge."
+LANG_ENGLISH        "^1MASON: ^7WE KNOW.  SAVIMBI'S LEADING A COUNTER CHARGE."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_022A_HUDS_M
-LANG_ENGLISH        "^1Hudson: ^7He's got balls.  I'll give him that."
+LANG_ENGLISH        "^1HUDSON: ^7HE'S GOT BALLS.  I'LL GIVE HIM THAT."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_022A_HUDS_S
-LANG_ENGLISH        "^1Hudson: ^7He's got...  I'll give him that."
+LANG_ENGLISH        "^1HUDSON: ^7HE'S GOT...  I'LL GIVE HIM THAT."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_023A_MASO_D
-LANG_ENGLISH        "^1Mason: ^7What about Woods?  Do we have confirmation on his location?"
+LANG_ENGLISH        "^1MASON: ^7WHAT ABOUT WOODS?  DO WE HAVE CONFIRMATION ON HIS LOCATION?"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_024A_HUDS_D
-LANG_ENGLISH        "^1Hudson: ^7They've been moving him from one location to another."
+LANG_ENGLISH        "^1HUDSON: ^7THEY'VE BEEN MOVING HIM FROM ONE LOCATION TO ANOTHER."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_025A_HUDS_D
-LANG_ENGLISH        "^1Hudson: ^7We expect Savimbi's men to report back soon."
+LANG_ENGLISH        "^1HUDSON: ^7WE EXPECT SAVIMBI'S MEN TO REPORT BACK SOON."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_030A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7Stay close!  Protect the convoy!"
+LANG_ENGLISH        "^1SAVIMBI: ^7STAY CLOSE!  PROTECT THE CONVOY!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_032A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7You must stay close to the convoy!"
+LANG_ENGLISH        "^1SAVIMBI: ^7YOU MUST STAY CLOSE TO THE CONVOY!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_033A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7There is strength in numbers, Mason.  Stay close!"
+LANG_ENGLISH        "^1SAVIMBI: ^7THERE IS STRENGTH IN NUMBERS, MASON.  STAY CLOSE!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_034A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7Do not abandon the convoy!"
+LANG_ENGLISH        "^1SAVIMBI: ^7DO NOT ABANDON THE CONVOY!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_035A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7You are too far from the convoy!"
+LANG_ENGLISH        "^1SAVIMBI: ^7YOU ARE TOO FAR FROM THE CONVOY!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_036A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7Sometimes it's too late to save a man."
+LANG_ENGLISH        "^1SAVIMBI: ^7SOMETIMES IT'S TOO LATE TO SAVE A MAN."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_037A_HUDS_D
-LANG_ENGLISH        "^1Hudson: ^7MPLA forces advancing on your position, about one klick north."
+LANG_ENGLISH        "^1HUDSON: ^7MPLA FORCES ADVANCING ON YOUR POSITION, ABOUT ONE KLICK NORTH."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_001A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7The mortars have stopped..."
+LANG_ENGLISH        "^1SAVIMBI: ^7THE MORTARS HAVE STOPPED..."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_002A_MASO_D
-LANG_ENGLISH        "^1Mason: ^7They're ready to charge."
+LANG_ENGLISH        "^1MASON: ^7THEY'RE READY TO CHARGE."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_003A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7Here they come!!  Here they come, my brothers!!"
+LANG_ENGLISH        "^1SAVIMBI: ^7HERE THEY COME!!  HERE THEY COME, MY BROTHERS!!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_004A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7Fight my brothers!!"
+LANG_ENGLISH        "^1SAVIMBI: ^7FIGHT MY BROTHERS!!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_007A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7Mason!  Target the mortar crews!!"
+LANG_ENGLISH        "^1SAVIMBI: ^7MASON!  TARGET THE MORTAR CREWS!!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_008A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7They are behind the rocks!"
+LANG_ENGLISH        "^1SAVIMBI: ^7THEY ARE BEHIND THE ROCKS!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_012A_HUDS_D
-LANG_ENGLISH        "^1Hudson: ^7Mason, I'll provide air support on your word."
+LANG_ENGLISH        "^1HUDSON: ^7MASON, I'LL PROVIDE AIR SUPPORT ON YOUR WORD."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_013A_HUDS_D
-LANG_ENGLISH        "^1Hudson: ^7Waiting on your go, Mason."
+LANG_ENGLISH        "^1HUDSON: ^7WAITING ON YOUR GO, MASON."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_014A_MASO_D
-LANG_ENGLISH        "^1Mason: ^7Take out the tanks, Hudson!"
+LANG_ENGLISH        "^1MASON: ^7TAKE OUT THE TANKS, HUDSON!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_015A_MASO_D
-LANG_ENGLISH        "^1Mason: ^7The mortar crews are down!"
+LANG_ENGLISH        "^1MASON: ^7THE MORTAR CREWS ARE DOWN!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_001A_MASO_M
-LANG_ENGLISH        "^1Mason: ^7Dammit, Hudson!  They got T-62 tanks in support."
+LANG_ENGLISH        "^1MASON: ^7DAMMIT, HUDSON!  THEY GOT T-62 TANKS IN SUPPORT."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_001A_MASO_S
-LANG_ENGLISH        "^1Mason: ^7Hudson, they got T-62 tanks in support."
+LANG_ENGLISH        "^1MASON: ^7HUDSON, THEY GOT T-62 TANKS IN SUPPORT."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_002A_MASO_D
-LANG_ENGLISH        "^1Mason: ^7We need you to take the heat off."
+LANG_ENGLISH        "^1MASON: ^7WE NEED YOU TO TAKE THE HEAT OFF."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_003A_HUDS_D
-LANG_ENGLISH        "^1Hudson: ^7Beginning strafing run."
+LANG_ENGLISH        "^1HUDSON: ^7BEGINNING STRAFING RUN."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_004A_MASO_D
-LANG_ENGLISH        "^1Mason: ^7Nice work, Hudson."
+LANG_ENGLISH        "^1MASON: ^7NICE WORK, HUDSON."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_005A_MASO_D
-LANG_ENGLISH        "^1Mason: ^7There's heavy armor still out there."
+LANG_ENGLISH        "^1MASON: ^7THERE'S HEAVY ARMOR STILL OUT THERE."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_008A_HUDS_D
-LANG_ENGLISH        "^1Hudson: ^7Okay, coming around again."
+LANG_ENGLISH        "^1HUDSON: ^7OKAY, COMING AROUND AGAIN."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_010A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7Come, my friend."
+LANG_ENGLISH        "^1SAVIMBI: ^7COME, MY FRIEND."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_011A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7They are weak!  We must finish them!"
+LANG_ENGLISH        "^1SAVIMBI: ^7THEY ARE WEAK!  WE MUST FINISH THEM!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_015A_HUDS_M
-LANG_ENGLISH        "^1Hudson: ^7Dammit!  I'm taking fire from ground!"
+LANG_ENGLISH        "^1HUDSON: ^7DAMMIT!  I'M TAKING FIRE FROM GROUND!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_015A_HUDS_S
-LANG_ENGLISH        "^1Hudson: ^7I'm taking fire from ground!"
+LANG_ENGLISH        "^1HUDSON: ^7I'M TAKING FIRE FROM GROUND!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_016A_HUDS_D
-LANG_ENGLISH        "^1Hudson: ^7Sooner or later, one of them is going to get lucky!"
+LANG_ENGLISH        "^1HUDSON: ^7SOONER OR LATER, ONE OF THEM IS GOING TO GET LUCKY!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_017A_MASO_D
-LANG_ENGLISH        "^1Mason: ^7There's a couple of MG trucks targeting you!"
+LANG_ENGLISH        "^1MASON: ^7THERE'S A COUPLE OF MG TRUCKS TARGETING YOU!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_018A_HUDS_D
-LANG_ENGLISH        "^1Hudson: ^7I can't make another pass till you take out those MG trucks!"
+LANG_ENGLISH        "^1HUDSON: ^7I CAN'T MAKE ANOTHER PASS TILL YOU TAKE OUT THOSE MG TRUCKS!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_019A_MASO_D
-LANG_ENGLISH        "^1Mason: ^7I'll deal with them!"
+LANG_ENGLISH        "^1MASON: ^7I'LL DEAL WITH THEM!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_020A_MASO_D
-LANG_ENGLISH        "^1Mason: ^7MG trucks are down.  You're clear, Hudson!"
+LANG_ENGLISH        "^1MASON: ^7MG TRUCKS ARE DOWN.  YOU'RE CLEAR, HUDSON!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_021A_HUDS_M
-LANG_ENGLISH        "^1Hudson: ^7Shit, Mason!  Stray fire took out the chopper guns!"
+LANG_ENGLISH        "^1HUDSON: ^7SHIT, MASON!  STRAY FIRE TOOK OUT THE CHOPPER GUNS!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_021A_HUDS_S
-LANG_ENGLISH        "^1Hudson: ^7Stray fire took out the chopper guns!"
+LANG_ENGLISH        "^1HUDSON: ^7STRAY FIRE TOOK OUT THE CHOPPER GUNS!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_022A_HUDS_D
-LANG_ENGLISH        "^1Hudson: ^7I can't make another run!"
+LANG_ENGLISH        "^1HUDSON: ^7I CAN'T MAKE ANOTHER RUN!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_023A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7Climb aboard, Mason!"
+LANG_ENGLISH        "^1SAVIMBI: ^7CLIMB ABOARD, MASON!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_024A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7Mason, get on the buffel!"
+LANG_ENGLISH        "^1SAVIMBI: ^7MASON, GET ON THE BUFFEL!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_025A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7We're ready to move.  Get on the side, Mason!"
+LANG_ENGLISH        "^1SAVIMBI: ^7WE'RE READY TO MOVE.  GET ON THE SIDE, MASON!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_001A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7Death to the MPLA!"
+LANG_ENGLISH        "^1SAVIMBI: ^7DEATH TO THE MPLA!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_002A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7Find and kill what is left of them!"
+LANG_ENGLISH        "^1SAVIMBI: ^7FIND AND KILL WHAT IS LEFT OF THEM!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_003A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7Our journey to victory has begun!"
+LANG_ENGLISH        "^1SAVIMBI: ^7OUR JOURNEY TO VICTORY HAS BEGUN!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_004A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7My friend from above!"
+LANG_ENGLISH        "^1SAVIMBI: ^7MY FRIEND FROM ABOVE!"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_005A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7You killed many men today, eh?"
+LANG_ENGLISH        "^1SAVIMBI: ^7YOU KILLED MANY MEN TODAY, EH?"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_006A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7Yes... We all did."
+LANG_ENGLISH        "^1SAVIMBI: ^7YES... WE ALL DID."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_007A_HUDS_D
-LANG_ENGLISH        "^1Hudson: ^7Where is Woods?"
+LANG_ENGLISH        "^1HUDSON: ^7WHERE IS WOODS?"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_008A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7The MPLA is not yet defeated."
+LANG_ENGLISH        "^1SAVIMBI: ^7THE MPLA IS NOT YET DEFEATED."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_009A_MASO_D
-LANG_ENGLISH        "^1Mason: ^7Where is he?"
+LANG_ENGLISH        "^1MASON: ^7WHERE IS HE?"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_010A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7He is being held captive by a Nicaraguan gun runner.  A very dangerous man."
+LANG_ENGLISH        "^1SAVIMBI: ^7HE IS BEING HELD CAPTIVE BY A NICARAGUAN GUN RUNNER.  A VERY DANGEROUS MAN."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_011A_MASO_D
-LANG_ENGLISH        "^1Mason: ^7Where?"
+LANG_ENGLISH        "^1MASON: ^7WHERE?"
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_012A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7About two miles north.  He's on a transport barge, on the Cubango river."
+LANG_ENGLISH        "^1SAVIMBI: ^7ABOUT TWO MILES NORTH.  HE'S ON A TRANSPORT BARGE, ON THE CUBANGO RIVER."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_013A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7He may already be dead."
+LANG_ENGLISH        "^1SAVIMBI: ^7HE MAY ALREADY BE DEAD."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_014A_MASO_D
-LANG_ENGLISH        "^1Mason: ^7Let's go, Hudson."
+LANG_ENGLISH        "^1MASON: ^7LET'S GO, HUDSON."
 
 REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_058A_SAVI_D
-LANG_ENGLISH        "^1Savimbi: ^7That's a very dangerous rescue, my friends."
+LANG_ENGLISH        "^1SAVIMBI: ^7THAT'S A VERY DANGEROUS RESCUE, MY FRIENDS."
 
 REFERENCE           SP_OBJECTIVES_AMMO
-LANG_ENGLISH        "Ammo"
+LANG_ENGLISH        "AMMO"
 
 REFERENCE           SP_OBJECTIVES_BREACH
-LANG_ENGLISH        "Breach"
+LANG_ENGLISH        "BREACH"
 
 REFERENCE           SP_OBJECTIVES_CLEAR
-LANG_ENGLISH        "Clear"
+LANG_ENGLISH        "CLEAR"
 
 REFERENCE           SP_OBJECTIVES_CLIMB
-LANG_ENGLISH        "Climb"
+LANG_ENGLISH        "CLIMB"
 
 REFERENCE           SP_OBJECTIVES_DEFEND
-LANG_ENGLISH        "Defend"
+LANG_ENGLISH        "DEFEND"
 
 REFERENCE           SP_OBJECTIVES_DESTROY
-LANG_ENGLISH        "Destroy"
+LANG_ENGLISH        "DESTROY"
 
 REFERENCE           SP_OBJECTIVES_DETONATE
-LANG_ENGLISH        "Detonate"
+LANG_ENGLISH        "DETONATE"
 
 REFERENCE           SP_OBJECTIVES_DISABLE
-LANG_ENGLISH        "Disable"
+LANG_ENGLISH        "DISABLE"
 
 REFERENCE           SP_OBJECTIVES_ENTER
-LANG_ENGLISH        "Enter"
+LANG_ENGLISH        "ENTER"
 
 REFERENCE           SP_OBJECTIVES_ESCORT
-LANG_ENGLISH        "Escort"
+LANG_ENGLISH        "ESCORT"
 
 REFERENCE           SP_OBJECTIVES_FOLLOW
-LANG_ENGLISH        "Follow"
+LANG_ENGLISH        "FOLLOW"
 
 REFERENCE           SP_OBJECTIVES_HELP
-LANG_ENGLISH        "Help"
+LANG_ENGLISH        "HELP"
 
 REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
-LANG_ENGLISH        "Incoming (helos)"
+LANG_ENGLISH        "INCOMING (HELOS)"
 
 REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
-LANG_ENGLISH        "Incoming (tanks)"
+LANG_ENGLISH        "INCOMING (TANKS)"
 
 REFERENCE           SP_OBJECTIVES_INTERACT
-LANG_ENGLISH        "Access"
+LANG_ENGLISH        "ACCESS"
 
 REFERENCE           SP_OBJECTIVES_JUMP
-LANG_ENGLISH        "Jump"
+LANG_ENGLISH        "JUMP"
 
 REFERENCE           SP_OBJECTIVES_KILL
-LANG_ENGLISH        "Kill"
+LANG_ENGLISH        "KILL"
 
 REFERENCE           SP_OBJECTIVES_MELEE
-LANG_ENGLISH        "Melee"
+LANG_ENGLISH        "MELEE"
 
 REFERENCE           SP_OBJECTIVES_PICKUP
-LANG_ENGLISH        "Pick Up"
+LANG_ENGLISH        "PICK UP"
 
 REFERENCE           SP_OBJECTIVES_PROTECT
-LANG_ENGLISH        "Protect"
+LANG_ENGLISH        "PROTECT"
 
 REFERENCE           SP_OBJECTIVES_RAPPEL
-LANG_ENGLISH        "Rappel"
+LANG_ENGLISH        "RAPPEL"
 
 REFERENCE           SP_OBJECTIVES_REGROUP
-LANG_ENGLISH        "Regroup"
+LANG_ENGLISH        "REGROUP"
 
 REFERENCE           SP_OBJECTIVES_SEARCH
-LANG_ENGLISH        "Search"
+LANG_ENGLISH        "SEARCH"
 
 REFERENCE           SP_OBJECTIVES_SHOOT
-LANG_ENGLISH        "Shoot"
+LANG_ENGLISH        "SHOOT"
 
 REFERENCE           SP_OBJECTIVES_SUPPORT
-LANG_ENGLISH        "Support"
+LANG_ENGLISH        "SUPPORT"
 
 REFERENCE           SP_OBJECTIVES_SWEEP
-LANG_ENGLISH        "Sweep"
+LANG_ENGLISH        "SWEEP"
 
 REFERENCE           SP_OBJECTIVES_TARGET
-LANG_ENGLISH        "Target"
+LANG_ENGLISH        "TARGET"
 
 REFERENCE           SP_OBJECTIVES_USE
-LANG_ENGLISH        "Use"
+LANG_ENGLISH        "USE"
 
 REFERENCE           SP_OBJECTIVES_WEAPONS
-LANG_ENGLISH        "Weapons"
+LANG_ENGLISH        "WEAPONS"
 

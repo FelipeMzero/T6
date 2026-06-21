@@ -3,988 +3,988 @@ CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_001A_SECT_D
-LANG_SPANISH        "^1Section: ^7You need to stay Calm!"
+LANG_SPANISH        "^1SECTION: ^7YOU NEED TO STAY CALM!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_002A_SECT_D
-LANG_SPANISH        "^1Section: ^7Sir, I can't help you unless you calm down!"
+LANG_SPANISH        "^1SECTION: ^7SIR, I CAN'T HELP YOU UNLESS YOU CALM DOWN!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_003A_SECT_D
-LANG_SPANISH        "^1Section: ^7I'm giving you something for the pain!"
+LANG_SPANISH        "^1SECTION: ^7I'M GIVING YOU SOMETHING FOR THE PAIN!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_005A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7NORAD scrambled two hundred FA38s.  They're less than five minutes out."
+LANG_SPANISH        "^1SAMUELS: ^7NORAD SCRAMBLED TWO HUNDRED FA38S.  THEY'RE LESS THAN FIVE MINUTES OUT."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_006A_JONE_D
-LANG_SPANISH        "^1Jones: ^7It looks as though the G20 leaders are being specifically targeted."
+LANG_SPANISH        "^1JONES: ^7IT LOOKS AS THOUGH THE G20 LEADERS ARE BEING SPECIFICALLY TARGETED."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_007A_JONE_D
-LANG_SPANISH        "^1Jones: ^7We're getting word that both the president of Mexico and the Turkish Prime Minister have been killed."
+LANG_SPANISH        "^1JONES: ^7WE'RE GETTING WORD THAT BOTH THE PRESIDENT OF MEXICO AND THE TURKISH PRIME MINISTER HAVE BEEN KILLED."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_009A_JACO_D
-LANG_SPANISH        "^1Jacobs: ^7Green Route is compromised.  I repeat, Green Route is compromised."
+LANG_SPANISH        "^1JACOBS: ^7GREEN ROUTE IS COMPROMISED.  I REPEAT, GREEN ROUTE IS COMPROMISED."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_010A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7Get the President to cover!"
+LANG_SPANISH        "^1SAMUELS: ^7GET THE PRESIDENT TO COVER!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_011A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7We need to move! The drones are all over us!"
+LANG_SPANISH        "^1SAMUELS: ^7WE NEED TO MOVE! THE DRONES ARE ALL OVER US!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_012A_SAMU_M
-LANG_SPANISH        "^1Samuels: ^7What the hell are we going to do?"
+LANG_SPANISH        "^1SAMUELS: ^7WHAT THE HELL ARE WE GOING TO DO?"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_012A_SAMU_S
-LANG_SPANISH        "^1Samuels: ^7What are we going to do?"
+LANG_SPANISH        "^1SAMUELS: ^7WHAT ARE WE GOING TO DO?"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_013A_SECT_D
-LANG_SPANISH        "^1Section: ^7I'll get on the stingers and knock out some of those drones!"
+LANG_SPANISH        "^1SECTION: ^7I'LL GET ON THE STINGERS AND KNOCK OUT SOME OF THOSE DRONES!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_014A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7Here they come, Section!"
+LANG_SPANISH        "^1SAMUELS: ^7HERE THEY COME, SECTION!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_015A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Right, Section.  Right."
+LANG_SPANISH        "^1HARPER: ^7RIGHT, SECTION.  RIGHT."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_016A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Left side.  Left side!"
+LANG_SPANISH        "^1HARPER: ^7LEFT SIDE.  LEFT SIDE!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_017A_SECT_D
-LANG_SPANISH        "^1Section: ^7Tracking multiple groups."
+LANG_SPANISH        "^1SECTION: ^7TRACKING MULTIPLE GROUPS."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_018A_SECT_D
-LANG_SPANISH        "^1Section: ^7RADAR contact right!"
+LANG_SPANISH        "^1SECTION: ^7RADAR CONTACT RIGHT!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_019A_SECT_D
-LANG_SPANISH        "^1Section: ^7RADAR contact left!"
+LANG_SPANISH        "^1SECTION: ^7RADAR CONTACT LEFT!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_020A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Lock multiple targets, Section."
+LANG_SPANISH        "^1HARPER: ^7LOCK MULTIPLE TARGETS, SECTION."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_021A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Wait for it..."
+LANG_SPANISH        "^1HARPER: ^7WAIT FOR IT..."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_022A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Hit 'em now!!"
+LANG_SPANISH        "^1HARPER: ^7HIT 'EM NOW!!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_023A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Hell yeah!"
+LANG_SPANISH        "^1HARPER: ^7HELL YEAH!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_023A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Yeah!"
+LANG_SPANISH        "^1HARPER: ^7YEAH!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_024A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Tear into 'em, Section."
+LANG_SPANISH        "^1HARPER: ^7TEAR INTO 'EM, SECTION."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_025A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Nice fuckin' shootin', brother!"
+LANG_SPANISH        "^1HARPER: ^7NICE FUCKIN' SHOOTIN', BROTHER!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_025A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Nice shootin', brother!"
+LANG_SPANISH        "^1HARPER: ^7NICE SHOOTIN', BROTHER!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_026A_SECT_D
-LANG_SPANISH        "^1Section: ^7Come on!"
+LANG_SPANISH        "^1SECTION: ^7COME ON!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_027A_SECT_D
-LANG_SPANISH        "^1Section: ^7That's a hit!"
+LANG_SPANISH        "^1SECTION: ^7THAT'S A HIT!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_028A_SECT_D
-LANG_SPANISH        "^1Section: ^7Get DOWN!"
+LANG_SPANISH        "^1SECTION: ^7GET DOWN!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_029A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Dammit, Section!  They're all over us!"
+LANG_SPANISH        "^1HARPER: ^7DAMMIT, SECTION!  THEY'RE ALL OVER US!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_029A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Section, they're all over us!"
+LANG_SPANISH        "^1HARPER: ^7SECTION, THEY'RE ALL OVER US!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_030A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7They're all over us, Section!"
+LANG_SPANISH        "^1SAMUELS: ^7THEY'RE ALL OVER US, SECTION!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_031A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7You have to take down those drones!"
+LANG_SPANISH        "^1SAMUELS: ^7YOU HAVE TO TAKE DOWN THOSE DRONES!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_032A_HARP_D
-LANG_SPANISH        "^1Harper: ^7They're starting to zero in on your position!"
+LANG_SPANISH        "^1HARPER: ^7THEY'RE STARTING TO ZERO IN ON YOUR POSITION!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_033A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7Section!  They're zeroing in on you!"
+LANG_SPANISH        "^1SAMUELS: ^7SECTION!  THEY'RE ZEROING IN ON YOU!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_034A_SECT_D
-LANG_SPANISH        "^1Section: ^7Go!  Go!!  NOW!!"
+LANG_SPANISH        "^1SECTION: ^7GO!  GO!!  NOW!!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_035A_ANDE_D
-LANG_SPANISH        "^1Anderson: ^7Section, this is Anderson, responding to your mayday call.  Standing by for tasking."
+LANG_SPANISH        "^1ANDERSON: ^7SECTION, THIS IS ANDERSON, RESPONDING TO YOUR MAYDAY CALL.  STANDING BY FOR TASKING."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_036A_SECT_D
-LANG_SPANISH        "^1Section: ^7Anderson, we are en route to Prom Night with the President.  Request establish overhead.  Provide armed overwatch."
+LANG_SPANISH        "^1SECTION: ^7ANDERSON, WE ARE EN ROUTE TO PROM NIGHT WITH THE PRESIDENT.  REQUEST ESTABLISH OVERHEAD.  PROVIDE ARMED OVERWATCH."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_037A_ANDE_D
-LANG_SPANISH        "^1Anderson: ^7WILCO.  Be advised, I'm all you got.  The bulk of my squadron is down or engaging drones."
+LANG_SPANISH        "^1ANDERSON: ^7WILCO.  BE ADVISED, I'M ALL YOU GOT.  THE BULK OF MY SQUADRON IS DOWN OR ENGAGING DRONES."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_038A_SECT_D
-LANG_SPANISH        "^1Section: ^7Understood.  We'll make it work."
+LANG_SPANISH        "^1SECTION: ^7UNDERSTOOD.  WE'LL MAKE IT WORK."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_039A_SECT_D
-LANG_SPANISH        "^1Section: ^7Harper, sitrep!"
+LANG_SPANISH        "^1SECTION: ^7HARPER, SITREP!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_040A_HARP_D
-LANG_SPANISH        "^1Harper: ^7We got mercs all around the freeway!"
+LANG_SPANISH        "^1HARPER: ^7WE GOT MERCS ALL AROUND THE FREEWAY!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_041A_HARP_D
-LANG_SPANISH        "^1Harper: ^7They've got RPGs targeting another G20 convoy.  Dead ahead, lower level."
+LANG_SPANISH        "^1HARPER: ^7THEY'VE GOT RPGS TARGETING ANOTHER G20 CONVOY.  DEAD AHEAD, LOWER LEVEL."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_042A_HARP_D
-LANG_SPANISH        "^1Harper: ^7LAPD is trying to defend, but they're heavily outgunned."
+LANG_SPANISH        "^1HARPER: ^7LAPD IS TRYING TO DEFEND, BUT THEY'RE HEAVILY OUTGUNNED."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_043A_SECT_D
-LANG_SPANISH        "^1Section: ^7Agent Samuels, are the other G20 vehicles functional?"
+LANG_SPANISH        "^1SECTION: ^7AGENT SAMUELS, ARE THE OTHER G20 VEHICLES FUNCTIONAL?"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_044A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7They're pinned on the lower level."
+LANG_SPANISH        "^1SAMUELS: ^7THEY'RE PINNED ON THE LOWER LEVEL."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_045A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7I don't know if we can reach them.  There's armed PCMs everywhere!"
+LANG_SPANISH        "^1SAMUELS: ^7I DON'T KNOW IF WE CAN REACH THEM.  THERE'S ARMED PCMS EVERYWHERE!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_046A_HARP_D
-LANG_SPANISH        "^1Harper: ^7What's the call, Section?"
+LANG_SPANISH        "^1HARPER: ^7WHAT'S THE CALL, SECTION?"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_047A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7What do we do?"
+LANG_SPANISH        "^1SAMUELS: ^7WHAT DO WE DO?"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_048A_SECT_D
-LANG_SPANISH        "^1Section: ^7We need those vehicles to get to Prom night!"
+LANG_SPANISH        "^1SECTION: ^7WE NEED THOSE VEHICLES TO GET TO PROM NIGHT!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_049A_SECT_D
-LANG_SPANISH        "^1Section: ^7We gotta make quick or the folks inside are dead meat."
+LANG_SPANISH        "^1SECTION: ^7WE GOTTA MAKE QUICK OR THE FOLKS INSIDE ARE DEAD MEAT."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_050A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Come on.  Come on.  Go!  Go!"
+LANG_SPANISH        "^1HARPER: ^7COME ON.  COME ON.  GO!  GO!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_051A_HARP_D
-LANG_SPANISH        "^1Harper: ^7We're on ground.  Full head count."
+LANG_SPANISH        "^1HARPER: ^7WE'RE ON GROUND.  FULL HEAD COUNT."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_052A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Moving to cover by the big rig."
+LANG_SPANISH        "^1HARPER: ^7MOVING TO COVER BY THE BIG RIG."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_053A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Several mercs inside the big rig trailer.  Lower freeway, right side."
+LANG_SPANISH        "^1HARPER: ^7SEVERAL MERCS INSIDE THE BIG RIG TRAILER.  LOWER FREEWAY, RIGHT SIDE."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_054A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Mercs inside the big rig container, directly in front of us.  Right side, lower freeway."
+LANG_SPANISH        "^1HARPER: ^7MERCS INSIDE THE BIG RIG CONTAINER, DIRECTLY IN FRONT OF US.  RIGHT SIDE, LOWER FREEWAY."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_055A_HARP_D
-LANG_SPANISH        "^1Harper: ^7We're taking heavy fire from all directions."
+LANG_SPANISH        "^1HARPER: ^7WE'RE TAKING HEAVY FIRE FROM ALL DIRECTIONS."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_056A_SECT_D
-LANG_SPANISH        "^1Section: ^7Stay in cover!  I'll direct you to move when you're clear!"
+LANG_SPANISH        "^1SECTION: ^7STAY IN COVER!  I'LL DIRECT YOU TO MOVE WHEN YOU'RE CLEAR!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_057A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Left side!  Enemies rappeling in!"
+LANG_SPANISH        "^1HARPER: ^7LEFT SIDE!  ENEMIES RAPPELING IN!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_058A_SECT_D
-LANG_SPANISH        "^1Section: ^7I see 'em."
+LANG_SPANISH        "^1SECTION: ^7I SEE 'EM."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_059A_HARP_D
-LANG_SPANISH        "^1Harper: ^7They're right on us, Section.  Behind the support columns."
+LANG_SPANISH        "^1HARPER: ^7THEY'RE RIGHT ON US, SECTION.  BEHIND THE SUPPORT COLUMNS."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_060A_SECT_D
-LANG_SPANISH        "^1Section: ^7They're down."
+LANG_SPANISH        "^1SECTION: ^7THEY'RE DOWN."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_061A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Enemy big rig dropping infantry at our front!"
+LANG_SPANISH        "^1HARPER: ^7ENEMY BIG RIG DROPPING INFANTRY AT OUR FRONT!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_062A_SECT_D
-LANG_SPANISH        "^1Section: ^7Harper!  There's too many of them!"
+LANG_SPANISH        "^1SECTION: ^7HARPER!  THERE'S TOO MANY OF THEM!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_063A_SECT_D
-LANG_SPANISH        "^1Section: ^7Hold position!"
+LANG_SPANISH        "^1SECTION: ^7HOLD POSITION!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_064A_SECT_D
-LANG_SPANISH        "^1Section: ^7They're closing on you."
+LANG_SPANISH        "^1SECTION: ^7THEY'RE CLOSING ON YOU."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_065A_HARP_D
-LANG_SPANISH        "^1Harper: ^7They're right on us.  By the bus!"
+LANG_SPANISH        "^1HARPER: ^7THEY'RE RIGHT ON US.  BY THE BUS!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_066A_HARP_D
-LANG_SPANISH        "^1Harper: ^7They're advancing!  Behind the pillars!"
+LANG_SPANISH        "^1HARPER: ^7THEY'RE ADVANCING!  BEHIND THE PILLARS!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_067A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Use your scope, Section!"
+LANG_SPANISH        "^1HARPER: ^7USE YOUR SCOPE, SECTION!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_068A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Charge each round and shoot right through!"
+LANG_SPANISH        "^1HARPER: ^7CHARGE EACH ROUND AND SHOOT RIGHT THROUGH!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_069A_HARP_D
-LANG_SPANISH        "^1Harper: ^7RPG!  On top of the bus."
+LANG_SPANISH        "^1HARPER: ^7RPG!  ON TOP OF THE BUS."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_070A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Dammit, man!  Keep them off us!"
+LANG_SPANISH        "^1HARPER: ^7DAMMIT, MAN!  KEEP THEM OFF US!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_070A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Keep them off us!"
+LANG_SPANISH        "^1HARPER: ^7KEEP THEM OFF US!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_073A_SNIP_D
-LANG_SPANISH        "^1sniper rifle computer: ^7Clear to fire."
+LANG_SPANISH        "^1SNIPER RIFLE COMPUTER: ^7CLEAR TO FIRE."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_076A_SECT_D
-LANG_SPANISH        "^1Section: ^7You're clear.  You're clear.  Move!"
+LANG_SPANISH        "^1SECTION: ^7YOU'RE CLEAR.  YOU'RE CLEAR.  MOVE!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_077A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Moving."
+LANG_SPANISH        "^1HARPER: ^7MOVING."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_078A_HARP_D
-LANG_SPANISH        "^1Harper: ^7More MG trucks advancing on the right."
+LANG_SPANISH        "^1HARPER: ^7MORE MG TRUCKS ADVANCING ON THE RIGHT."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_079A_SECT_D
-LANG_SPANISH        "^1Section: ^7I'm on it."
+LANG_SPANISH        "^1SECTION: ^7I'M ON IT."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_080A_HARP_D
-LANG_SPANISH        "^1Harper: ^7There's a few stragglers.  Pick 'em off."
+LANG_SPANISH        "^1HARPER: ^7THERE'S A FEW STRAGGLERS.  PICK 'EM OFF."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_081A_SECT_D
-LANG_SPANISH        "^1Section: ^7They're down.  Move up."
+LANG_SPANISH        "^1SECTION: ^7THEY'RE DOWN.  MOVE UP."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_082A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Moving."
+LANG_SPANISH        "^1HARPER: ^7MOVING."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_083A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Dammit!  We're taking fire from high!"
+LANG_SPANISH        "^1HARPER: ^7DAMMIT!  WE'RE TAKING FIRE FROM HIGH!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_083A_HARP_S
-LANG_SPANISH        "^1Harper: ^7We're taking fire from high!"
+LANG_SPANISH        "^1HARPER: ^7WE'RE TAKING FIRE FROM HIGH!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_084A_HARP_M
-LANG_SPANISH        "^1Harper: ^7They've got fucking snipers on the overpass."
+LANG_SPANISH        "^1HARPER: ^7THEY'VE GOT FUCKING SNIPERS ON THE OVERPASS."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_084A_HARP_S
-LANG_SPANISH        "^1Harper: ^7They've got snipers on the overpass."
+LANG_SPANISH        "^1HARPER: ^7THEY'VE GOT SNIPERS ON THE OVERPASS."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_085A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Behind the signs!"
+LANG_SPANISH        "^1HARPER: ^7BEHIND THE SIGNS!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_086A_SECT_D
-LANG_SPANISH        "^1Section: ^7Clear.  Get to the vehicles!"
+LANG_SPANISH        "^1SECTION: ^7CLEAR.  GET TO THE VEHICLES!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_087A_SECT_D
-LANG_SPANISH        "^1Section: ^7Don't move until I tell you."
+LANG_SPANISH        "^1SECTION: ^7DON'T MOVE UNTIL I TELL YOU."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_088A_SECT_D
-LANG_SPANISH        "^1Section: ^7Okay, Jones!  Move now!"
+LANG_SPANISH        "^1SECTION: ^7OKAY, JONES!  MOVE NOW!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_089A_SECT_D
-LANG_SPANISH        "^1Section: ^7Go!"
+LANG_SPANISH        "^1SECTION: ^7GO!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_090A_SECT_D
-LANG_SPANISH        "^1Section: ^7Push through!  The G20 leaders in that vehicle are running out of time."
+LANG_SPANISH        "^1SECTION: ^7PUSH THROUGH!  THE G20 LEADERS IN THAT VEHICLE ARE RUNNING OUT OF TIME."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_091A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Get the hell outta there, Section!  The freeway's coming down!"
+LANG_SPANISH        "^1HARPER: ^7GET THE HELL OUTTA THERE, SECTION!  THE FREEWAY'S COMING DOWN!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_091A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Get outta there, Section!  The freeway's coming down!"
+LANG_SPANISH        "^1HARPER: ^7GET OUTTA THERE, SECTION!  THE FREEWAY'S COMING DOWN!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_092A_SECT_M
-LANG_SPANISH        "^1Section: ^7SHIT!!!"
+LANG_SPANISH        "^1SECTION: ^7SHIT!!!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_093A_SECT_D
-LANG_SPANISH        "^1Section: ^7Get on the radio and find the status of the other convoys!"
+LANG_SPANISH        "^1SECTION: ^7GET ON THE RADIO AND FIND THE STATUS OF THE OTHER CONVOYS!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_094A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7We have to go, now!"
+LANG_SPANISH        "^1SAMUELS: ^7WE HAVE TO GO, NOW!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_095A_SECT_D
-LANG_SPANISH        "^1Section: ^7Get to the trucks!  We're leaving!"
+LANG_SPANISH        "^1SECTION: ^7GET TO THE TRUCKS!  WE'RE LEAVING!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_096A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7Blue route is go.  I say again, Blue route is go."
+LANG_SPANISH        "^1SAMUELS: ^7BLUE ROUTE IS GO.  I SAY AGAIN, BLUE ROUTE IS GO."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_097A_SECT_D
-LANG_SPANISH        "^1Section: ^7On my lead!  110 Northbound.  GO! GO! GO!"
+LANG_SPANISH        "^1SECTION: ^7ON MY LEAD!  110 NORTHBOUND.  GO! GO! GO!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_098A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Punch it, Section!!"
+LANG_SPANISH        "^1HARPER: ^7PUNCH IT, SECTION!!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_01_099A_SECT_D
-LANG_SPANISH        "^1Section: ^7They're trying to block our exit!"
+LANG_SPANISH        "^1SECTION: ^7THEY'RE TRYING TO BLOCK OUR EXIT!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_001A_SECT_D
-LANG_SPANISH        "^1Section: ^7Push through 'em!"
+LANG_SPANISH        "^1SECTION: ^7PUSH THROUGH 'EM!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_002A_SECT_D
-LANG_SPANISH        "^1Section: ^7Ram anything in your way!"
+LANG_SPANISH        "^1SECTION: ^7RAM ANYTHING IN YOUR WAY!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_003A_SECT_M
-LANG_SPANISH        "^1Section: ^7Get the fuck out!"
+LANG_SPANISH        "^1SECTION: ^7GET THE FUCK OUT!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_004A_HARP_D
-LANG_SPANISH        "^1Harper: ^7There.  Right, Section!  Right!"
+LANG_SPANISH        "^1HARPER: ^7THERE.  RIGHT, SECTION!  RIGHT!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_005A_ANDE_D
-LANG_SPANISH        "^1Anderson: ^7Section, the drones are breaking into several smaller groups."
+LANG_SPANISH        "^1ANDERSON: ^7SECTION, THE DRONES ARE BREAKING INTO SEVERAL SMALLER GROUPS."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_006A_ANDE_D
-LANG_SPANISH        "^1Anderson: ^7They're focusing on downtown."
+LANG_SPANISH        "^1ANDERSON: ^7THEY'RE FOCUSING ON DOWNTOWN."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_007A_SECT_D
-LANG_SPANISH        "^1Section: ^7They're targeting the G20 convoys.  Menendez wants them all dead."
+LANG_SPANISH        "^1SECTION: ^7THEY'RE TARGETING THE G20 CONVOYS.  MENENDEZ WANTS THEM ALL DEAD."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_008A_ANDE_D
-LANG_SPANISH        "^1Anderson: ^7Section, you've got a drone turning in on your convoy!"
+LANG_SPANISH        "^1ANDERSON: ^7SECTION, YOU'VE GOT A DRONE TURNING IN ON YOUR CONVOY!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_009A_SECT_D
-LANG_SPANISH        "^1Section: ^7Engage!"
+LANG_SPANISH        "^1SECTION: ^7ENGAGE!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_010A_ANDE_D
-LANG_SPANISH        "^1Anderson: ^7I have lock... Firing!"
+LANG_SPANISH        "^1ANDERSON: ^7I HAVE LOCK... FIRING!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_011A_ANDE_D
-LANG_SPANISH        "^1Anderson: ^7Right, Section!  The overpass is coming down!"
+LANG_SPANISH        "^1ANDERSON: ^7RIGHT, SECTION!  THE OVERPASS IS COMING DOWN!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_012A_SECT_D
-LANG_SPANISH        "^1Section: ^7Anderson, how badly hit is downtown?"
+LANG_SPANISH        "^1SECTION: ^7ANDERSON, HOW BADLY HIT IS DOWNTOWN?"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_013A_ANDE_D
-LANG_SPANISH        "^1Anderson: ^7It's bad, Section.  Most of the city's now a full blown warzone."
+LANG_SPANISH        "^1ANDERSON: ^7IT'S BAD, SECTION.  MOST OF THE CITY'S NOW A FULL BLOWN WARZONE."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_014A_ANDE_D
-LANG_SPANISH        "^1Anderson: ^7I don't know how you're gonna make it through downtown."
+LANG_SPANISH        "^1ANDERSON: ^7I DON'T KNOW HOW YOU'RE GONNA MAKE IT THROUGH DOWNTOWN."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_015A_SECT_D
-LANG_SPANISH        "^1Section: ^7We have to reach the safe house.  We can't stay on the freeways."
+LANG_SPANISH        "^1SECTION: ^7WE HAVE TO REACH THE SAFE HOUSE.  WE CAN'T STAY ON THE FREEWAYS."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_016A_ANDE_D
-LANG_SPANISH        "^1Anderson: ^7Okay.  Let's do it."
+LANG_SPANISH        "^1ANDERSON: ^7OKAY.  LET'S DO IT."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_017A_ANDE_D
-LANG_SPANISH        "^1Anderson: ^7Good luck, Section.  Anderson out."
+LANG_SPANISH        "^1ANDERSON: ^7GOOD LUCK, SECTION.  ANDERSON OUT."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_018A_HARP_M
-LANG_SPANISH        "^1Harper: ^7How the hell do we come back from this, Section?"
+LANG_SPANISH        "^1HARPER: ^7HOW THE HELL DO WE COME BACK FROM THIS, SECTION?"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_018A_HARP_S
-LANG_SPANISH        "^1Harper: ^7How do we come back from this, Section?"
+LANG_SPANISH        "^1HARPER: ^7HOW DO WE COME BACK FROM THIS, SECTION?"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_019A_ANDE_D
-LANG_SPANISH        "^1Anderson: ^7Section, I'm seeing vehicles converging on the streets ahead."
+LANG_SPANISH        "^1ANDERSON: ^7SECTION, I'M SEEING VEHICLES CONVERGING ON THE STREETS AHEAD."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_020A_ANDE_D
-LANG_SPANISH        "^1Anderson: ^7On your right!"
+LANG_SPANISH        "^1ANDERSON: ^7ON YOUR RIGHT!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_064A_HARP_D
-LANG_SPANISH        "^1Harper: ^7PMCs are setting up a barricade, dead ahead!"
+LANG_SPANISH        "^1HARPER: ^7PMCS ARE SETTING UP A BARRICADE, DEAD AHEAD!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_065A_SECT_D
-LANG_SPANISH        "^1Section: ^7Clear 'em out!"
+LANG_SPANISH        "^1SECTION: ^7CLEAR 'EM OUT!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_066A_SECT_D
-LANG_SPANISH        "^1Section: ^7We need to get this convoy moving.  Get the President into the middle vehicle!"
+LANG_SPANISH        "^1SECTION: ^7WE NEED TO GET THIS CONVOY MOVING.  GET THE PRESIDENT INTO THE MIDDLE VEHICLE!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_067A_SECT_D
-LANG_SPANISH        "^1Section: ^7Update all.  Blue route is go."
+LANG_SPANISH        "^1SECTION: ^7UPDATE ALL.  BLUE ROUTE IS GO."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_068A_SECT_D
-LANG_SPANISH        "^1Section: ^7I'll take the lead vehicle with Harper."
+LANG_SPANISH        "^1SECTION: ^7I'LL TAKE THE LEAD VEHICLE WITH HARPER."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_069A_SECT_D
-LANG_SPANISH        "^1Section: ^7I'll take the lead vehicle."
+LANG_SPANISH        "^1SECTION: ^7I'LL TAKE THE LEAD VEHICLE."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_070A_SECT_D
-LANG_SPANISH        "^1Section: ^7We're gonna be fighting every inch of the way."
+LANG_SPANISH        "^1SECTION: ^7WE'RE GONNA BE FIGHTING EVERY INCH OF THE WAY."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_072A_SECT_D
-LANG_SPANISH        "^1Section: ^7Take cover behind the bus!"
+LANG_SPANISH        "^1SECTION: ^7TAKE COVER BEHIND THE BUS!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_073A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Dead ahead!  We got another MG truck dropping infantry!"
+LANG_SPANISH        "^1HARPER: ^7DEAD AHEAD!  WE GOT ANOTHER MG TRUCK DROPPING INFANTRY!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_074A_JONE_D
-LANG_SPANISH        "^1Jones: ^7The rear vehicles diverted as soon as we were hit!"
+LANG_SPANISH        "^1JONES: ^7THE REAR VEHICLES DIVERTED AS SOON AS WE WERE HIT!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_02_075A_JONE_D
-LANG_SPANISH        "^1Jones: ^7SECDEF Petraeus is secure!"
+LANG_SPANISH        "^1JONES: ^7SECDEF PETRAEUS IS SECURE!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_04_029A_HARP_D
-LANG_SPANISH        "^1Harper: ^7RPG!  Left side, high!"
+LANG_SPANISH        "^1HARPER: ^7RPG!  LEFT SIDE, HIGH!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_04_085A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7Roger that."
+LANG_SPANISH        "^1SAMUELS: ^7ROGER THAT."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_04_088A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7We got enemies dead ahead, Section."
+LANG_SPANISH        "^1SAMUELS: ^7WE GOT ENEMIES DEAD AHEAD, SECTION."
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_04_092A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7We've got ground troops all around!"
+LANG_SPANISH        "^1SAMUELS: ^7WE'VE GOT GROUND TROOPS ALL AROUND!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_04_095A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7You gotta keep them off us!"
+LANG_SPANISH        "^1SAMUELS: ^7YOU GOTTA KEEP THEM OFF US!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_11_05_003A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7We're taking fire from all sides!"
+LANG_SPANISH        "^1SAMUELS: ^7WE'RE TAKING FIRE FROM ALL SIDES!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_01_002A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Calm down!"
+LANG_SPANISH        "^1HARPER: ^7CALM DOWN!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_01_003A_HARP_D
-LANG_SPANISH        "^1Harper: ^7The bullet went through clean.  You're gonna be fine!"
+LANG_SPANISH        "^1HARPER: ^7THE BULLET WENT THROUGH CLEAN.  YOU'RE GONNA BE FINE!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_01_005A_HARP_D
-LANG_SPANISH        "^1Harper: ^7I'm gonna give you something for the pain."
+LANG_SPANISH        "^1HARPER: ^7I'M GONNA GIVE YOU SOMETHING FOR THE PAIN."
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_01_007A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Son of a bitch..."
+LANG_SPANISH        "^1HARPER: ^7SON OF A BITCH..."
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_01_007A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Son of a..."
+LANG_SPANISH        "^1HARPER: ^7SON OF A..."
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_01_008A_JOHN_D
-LANG_SPANISH        "^1Johnson: ^7Madame President! The drones took out Air Force One and Marine One! We cannot extract you by air!"
+LANG_SPANISH        "^1JOHNSON: ^7MADAME PRESIDENT! THE DRONES TOOK OUT AIR FORCE ONE AND MARINE ONE! WE CANNOT EXTRACT YOU BY AIR!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_01_009A_PRES_D
-LANG_SPANISH        "^1President: ^7Jones, what's the status of the other convoys?"
+LANG_SPANISH        "^1PRESIDENT: ^7JONES, WHAT'S THE STATUS OF THE OTHER CONVOYS?"
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_01_010A_JONE_D
-LANG_SPANISH        "^1Jones: ^7LAPD reports surface streets are compromised!  Hundreds of heavily armed Mercenaries have struck LA simultaneously!"
+LANG_SPANISH        "^1JONES: ^7LAPD REPORTS SURFACE STREETS ARE COMPROMISED!  HUNDREDS OF HEAVILY ARMED MERCENARIES HAVE STRUCK LA SIMULTANEOUSLY!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_01_011A_PRES_D
-LANG_SPANISH        "^1President: ^7Any word on casualties?"
+LANG_SPANISH        "^1PRESIDENT: ^7ANY WORD ON CASUALTIES?"
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_01_012A_JOHN_D
-LANG_SPANISH        "^1Johnson: ^7Downtown LA evacuated.  Preliminary reports are below expectations."
+LANG_SPANISH        "^1JOHNSON: ^7DOWNTOWN LA EVACUATED.  PRELIMINARY REPORTS ARE BELOW EXPECTATIONS."
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_01_013A_PRES_M
-LANG_SPANISH        "^1President: ^7Thank God."
+LANG_SPANISH        "^1PRESIDENT: ^7THANK GOD."
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_01_013A_PRES_S
-LANG_SPANISH        "^1President: ^7That's good."
+LANG_SPANISH        "^1PRESIDENT: ^7THAT'S GOOD."
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_01_014A_PRES_D
-LANG_SPANISH        "^1President: ^7Mason, what's our next move?"
+LANG_SPANISH        "^1PRESIDENT: ^7MASON, WHAT'S OUR NEXT MOVE?"
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_01_015A_SECT_D
-LANG_SPANISH        "^1Section: ^7Madame President, we're taking you to the Prom Night shelter under the Bonaventure Hotel in Downtown."
+LANG_SPANISH        "^1SECTION: ^7MADAME PRESIDENT, WE'RE TAKING YOU TO THE PROM NIGHT SHELTER UNDER THE BONAVENTURE HOTEL IN DOWNTOWN."
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_01_016A_PRES_D
-LANG_SPANISH        "^1President: ^7Johnson, I want troops in the street and these drones dealt with."
+LANG_SPANISH        "^1PRESIDENT: ^7JOHNSON, I WANT TROOPS IN THE STREET AND THESE DRONES DEALT WITH."
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_01_019A_SECT_D
-LANG_SPANISH        "^1Section: ^7This is what Menendez planned all along.  Taking out the G20 leaders will cripple capitalist governments across the world."
+LANG_SPANISH        "^1SECTION: ^7THIS IS WHAT MENENDEZ PLANNED ALL ALONG.  TAKING OUT THE G20 LEADERS WILL CRIPPLE CAPITALIST GOVERNMENTS ACROSS THE WORLD."
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_02_007A_JACO_M
-LANG_SPANISH        "^1Jacobs: ^7Holy shit!  Need an update on the AIRFORCE response..."
+LANG_SPANISH        "^1JACOBS: ^7HOLY SHIT!  NEED AN UPDATE ON THE AIRFORCE RESPONSE..."
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_02_007A_JACO_S
-LANG_SPANISH        "^1Jacobs: ^7Need an update on the AIRFORCE response..."
+LANG_SPANISH        "^1JACOBS: ^7NEED AN UPDATE ON THE AIRFORCE RESPONSE..."
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_02_009A_JACO_D
-LANG_SPANISH        "^1Jacobs: ^7ETA?"
+LANG_SPANISH        "^1JACOBS: ^7ETA?"
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_02_013A_JACO_D
-LANG_SPANISH        "^1Jacobs: ^7Say again?"
+LANG_SPANISH        "^1JACOBS: ^7SAY AGAIN?"
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_02_014A_ANDE_D
-LANG_SPANISH        "^1Anderson: ^758th wing, Anderson.  Inbound."
+LANG_SPANISH        "^1ANDERSON: ^758TH WING, ANDERSON.  INBOUND."
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_02_015A_JACO_D
-LANG_SPANISH        "^1Jacobs: ^7G-One is hit."
+LANG_SPANISH        "^1JACOBS: ^7G-ONE IS HIT."
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_02_016A_JACO_D
-LANG_SPANISH        "^1Jacobs: ^7I repeat G-One is hit."
+LANG_SPANISH        "^1JACOBS: ^7I REPEAT G-ONE IS HIT."
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_02_017A_JACO_D
-LANG_SPANISH        "^1Jacobs: ^7Major structural damage around the 10-110 interchange."
+LANG_SPANISH        "^1JACOBS: ^7MAJOR STRUCTURAL DAMAGE AROUND THE 10-110 INTERCHANGE."
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_02_018A_JACO_D
-LANG_SPANISH        "^1Jacobs: ^7The 110 and 10 are blocked."
+LANG_SPANISH        "^1JACOBS: ^7THE 110 AND 10 ARE BLOCKED."
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_02_019A_JACO_D
-LANG_SPANISH        "^1Jacobs: ^7All G-Convoys need to get off the freeways."
+LANG_SPANISH        "^1JACOBS: ^7ALL G-CONVOYS NEED TO GET OFF THE FREEWAYS."
 
 REFERENCE           LA_1_VOX_VOX_LA1_1_02_020A_JACO_D
-LANG_SPANISH        "^1Jacobs: ^7Please advise!"
+LANG_SPANISH        "^1JACOBS: ^7PLEASE ADVISE!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_01_001A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Madame President!! Are you hurt?"
+LANG_SPANISH        "^1HARPER: ^7MADAME PRESIDENT!! ARE YOU HURT?"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_01_003A_PRES_D
-LANG_SPANISH        "^1President: ^7Just make sure we divert the other convoys!"
+LANG_SPANISH        "^1PRESIDENT: ^7JUST MAKE SURE WE DIVERT THE OTHER CONVOYS!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_01_004A_JONE_D
-LANG_SPANISH        "^1Jones: ^7We're on it, Ma'am!"
+LANG_SPANISH        "^1JONES: ^7WE'RE ON IT, MA'AM!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_01_005A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Agent Jones, get her to cover!"
+LANG_SPANISH        "^1HARPER: ^7AGENT JONES, GET HER TO COVER!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_01_008A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Come on, Section! The drones got us zeroed!"
+LANG_SPANISH        "^1HARPER: ^7COME ON, SECTION! THE DRONES GOT US ZEROED!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_01_010A_HARP_D
-LANG_SPANISH        "^1Harper: ^7The stingers are our only chance!"
+LANG_SPANISH        "^1HARPER: ^7THE STINGERS ARE OUR ONLY CHANCE!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_01_013A_SECT_D
-LANG_SPANISH        "^1Section: ^7Be ready to move!"
+LANG_SPANISH        "^1SECTION: ^7BE READY TO MOVE!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_03_001A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Tracking multiple groups.  I'll call 'em as I see 'em!"
+LANG_SPANISH        "^1HARPER: ^7TRACKING MULTIPLE GROUPS.  I'LL CALL 'EM AS I SEE 'EM!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_03_002A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Here they come!"
+LANG_SPANISH        "^1HARPER: ^7HERE THEY COME!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_03_003A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Dead ahead!  Engage!"
+LANG_SPANISH        "^1HARPER: ^7DEAD AHEAD!  ENGAGE!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_03_004A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Fire!"
+LANG_SPANISH        "^1HARPER: ^7FIRE!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_03_005A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Hit 'em!!"
+LANG_SPANISH        "^1HARPER: ^7HIT 'EM!!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_03_006A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Good shot!"
+LANG_SPANISH        "^1HARPER: ^7GOOD SHOT!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_03_007A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Don't let them get through!"
+LANG_SPANISH        "^1HARPER: ^7DON'T LET THEM GET THROUGH!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_03_008A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Watch your flank!"
+LANG_SPANISH        "^1HARPER: ^7WATCH YOUR FLANK!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_03_009A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Come around 90 degrees."
+LANG_SPANISH        "^1HARPER: ^7COME AROUND 90 DEGREES."
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_03_010A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Take 'em out before they target the president!"
+LANG_SPANISH        "^1HARPER: ^7TAKE 'EM OUT BEFORE THEY TARGET THE PRESIDENT!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_03_012A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Keep 'em off us!!!"
+LANG_SPANISH        "^1HARPER: ^7KEEP 'EM OFF US!!!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_03_013A_HARP_D
-LANG_SPANISH        "^1Harper: ^7More drones moving in from the north!"
+LANG_SPANISH        "^1HARPER: ^7MORE DRONES MOVING IN FROM THE NORTH!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_03_015A_SECT_D
-LANG_SPANISH        "^1Section: ^7That's your window!  Get the president out of there!"
+LANG_SPANISH        "^1SECTION: ^7THAT'S YOUR WINDOW!  GET THE PRESIDENT OUT OF THERE!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_03_016A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Go!!  NOW!!"
+LANG_SPANISH        "^1HARPER: ^7GO!!  NOW!!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_04_001A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Get the hell out of there!"
+LANG_SPANISH        "^1HARPER: ^7GET THE HELL OUT OF THERE!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_04_001A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Get the outta there!"
+LANG_SPANISH        "^1HARPER: ^7GET THE OUTTA THERE!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_05_001A_ANDE_D
-LANG_SPANISH        "^1Anderson: ^7This is Captain Anderson, 58th Fighter Wing.  Do you copy?"
+LANG_SPANISH        "^1ANDERSON: ^7THIS IS CAPTAIN ANDERSON, 58TH FIGHTER WING.  DO YOU COPY?"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_05_002A_SECT_D
-LANG_SPANISH        "^1Section: ^7Anderson, we are en route to Prom Night with the President.  We need you to provide overwatch and recon alternate routes."
+LANG_SPANISH        "^1SECTION: ^7ANDERSON, WE ARE EN ROUTE TO PROM NIGHT WITH THE PRESIDENT.  WE NEED YOU TO PROVIDE OVERWATCH AND RECON ALTERNATE ROUTES."
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_05_003A_ANDE_D
-LANG_SPANISH        "^1Anderson: ^7Our squadron's been torn apart, but I'll do what I can, Mason."
+LANG_SPANISH        "^1ANDERSON: ^7OUR SQUADRON'S BEEN TORN APART, BUT I'LL DO WHAT I CAN, MASON."
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_05_006A_SECT_D
-LANG_SPANISH        "^1Section: ^7Good Luck.  Stay in contact."
+LANG_SPANISH        "^1SECTION: ^7GOOD LUCK.  STAY IN CONTACT."
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_07_001A_SECT_D
-LANG_SPANISH        "^1Section: ^7Harper, sitrep?"
+LANG_SPANISH        "^1SECTION: ^7HARPER, SITREP?"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_07_002A_HARP_D
-LANG_SPANISH        "^1Harper: ^7The president is secure."
+LANG_SPANISH        "^1HARPER: ^7THE PRESIDENT IS SECURE."
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_07_004A_HARP_D
-LANG_SPANISH        "^1Harper: ^7That may be a problem.  More G20 leaders are pinned down on the lower level of the freeway."
+LANG_SPANISH        "^1HARPER: ^7THAT MAY BE A PROBLEM.  MORE G20 LEADERS ARE PINNED DOWN ON THE LOWER LEVEL OF THE FREEWAY."
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_08_002A_SECT_D
-LANG_SPANISH        "^1Section: ^7We need those vehicles to get to Prom night!"
+LANG_SPANISH        "^1SECTION: ^7WE NEED THOSE VEHICLES TO GET TO PROM NIGHT!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_08_004A_SECT_D
-LANG_SPANISH        "^1Section: ^7Get the president down there while I provide cover fire."
+LANG_SPANISH        "^1SECTION: ^7GET THE PRESIDENT DOWN THERE WHILE I PROVIDE COVER FIRE."
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_001A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Section, take out the snipers!"
+LANG_SPANISH        "^1HARPER: ^7SECTION, TAKE OUT THE SNIPERS!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_002A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Neutralize those snipers now!"
+LANG_SPANISH        "^1HARPER: ^7NEUTRALIZE THOSE SNIPERS NOW!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_003A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Put down their marksmen!"
+LANG_SPANISH        "^1HARPER: ^7PUT DOWN THEIR MARKSMEN!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_004A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Target their riflemen on the overpasses!"
+LANG_SPANISH        "^1HARPER: ^7TARGET THEIR RIFLEMEN ON THE OVERPASSES!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_005A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Section, we need cover fire, NOW!"
+LANG_SPANISH        "^1HARPER: ^7SECTION, WE NEED COVER FIRE, NOW!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_006A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Section!  Come on, man!  We need fire support here!"
+LANG_SPANISH        "^1HARPER: ^7SECTION!  COME ON, MAN!  WE NEED FIRE SUPPORT HERE!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_007A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Use your rifle, Section!"
+LANG_SPANISH        "^1HARPER: ^7USE YOUR RIFLE, SECTION!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_008A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Target the snipers!"
+LANG_SPANISH        "^1HARPER: ^7TARGET THE SNIPERS!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_009A_HARP_D
-LANG_SPANISH        "^1Harper: ^7We just lost a G20 convoy vehicle!  We cannot get the president to Prom Night if we lose another!"
+LANG_SPANISH        "^1HARPER: ^7WE JUST LOST A G20 CONVOY VEHICLE!  WE CANNOT GET THE PRESIDENT TO PROM NIGHT IF WE LOSE ANOTHER!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_010A_HARP_D
-LANG_SPANISH        "^1Harper: ^7There are two armored vehicles down here.  We can take the first one.  President will take the second."
+LANG_SPANISH        "^1HARPER: ^7THERE ARE TWO ARMORED VEHICLES DOWN HERE.  WE CAN TAKE THE FIRST ONE.  PRESIDENT WILL TAKE THE SECOND."
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_011A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Section, get over here now!"
+LANG_SPANISH        "^1HARPER: ^7SECTION, GET OVER HERE NOW!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_012A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Move up to the lead vehicle!"
+LANG_SPANISH        "^1HARPER: ^7MOVE UP TO THE LEAD VEHICLE!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_013A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7Section, take out the snipers!"
+LANG_SPANISH        "^1SAMUELS: ^7SECTION, TAKE OUT THE SNIPERS!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_014A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7Neutralize those snipers now!"
+LANG_SPANISH        "^1SAMUELS: ^7NEUTRALIZE THOSE SNIPERS NOW!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_015A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7Put down their marksmen!"
+LANG_SPANISH        "^1SAMUELS: ^7PUT DOWN THEIR MARKSMEN!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_016A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7Target their riflemen on the overpasses!"
+LANG_SPANISH        "^1SAMUELS: ^7TARGET THEIR RIFLEMEN ON THE OVERPASSES!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_017A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7Section, we need covering fire, NOW!"
+LANG_SPANISH        "^1SAMUELS: ^7SECTION, WE NEED COVERING FIRE, NOW!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_018A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7Come on, man!  We need fire support here!"
+LANG_SPANISH        "^1SAMUELS: ^7COME ON, MAN!  WE NEED FIRE SUPPORT HERE!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_019A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7Use the rifle, Section!"
+LANG_SPANISH        "^1SAMUELS: ^7USE THE RIFLE, SECTION!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_020A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7Target the snipers!"
+LANG_SPANISH        "^1SAMUELS: ^7TARGET THE SNIPERS!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_021A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7We just lost a G20 convoy vehicle!  We can't get the president to Prom Night if we lose another!"
+LANG_SPANISH        "^1SAMUELS: ^7WE JUST LOST A G20 CONVOY VEHICLE!  WE CAN'T GET THE PRESIDENT TO PROM NIGHT IF WE LOSE ANOTHER!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_022A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7There are two armored vehicles down here.  We'll take the first one.  President can go in the second."
+LANG_SPANISH        "^1SAMUELS: ^7THERE ARE TWO ARMORED VEHICLES DOWN HERE.  WE'LL TAKE THE FIRST ONE.  PRESIDENT CAN GO IN THE SECOND."
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_023A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7Section, get over here now!"
+LANG_SPANISH        "^1SAMUELS: ^7SECTION, GET OVER HERE NOW!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_024A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7Move up to the lead vehicle!"
+LANG_SPANISH        "^1SAMUELS: ^7MOVE UP TO THE LEAD VEHICLE!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_025A_HARP_D
-LANG_SPANISH        "^1Harper: ^7The president will be dead in ten seconds if you don't kill the snipers on the overpass!"
+LANG_SPANISH        "^1HARPER: ^7THE PRESIDENT WILL BE DEAD IN TEN SECONDS IF YOU DON'T KILL THE SNIPERS ON THE OVERPASS!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_025A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7The president will be dead in ten seconds if you don't kill the snipers on the overpass!"
+LANG_SPANISH        "^1SAMUELS: ^7THE PRESIDENT WILL BE DEAD IN TEN SECONDS IF YOU DON'T KILL THE SNIPERS ON THE OVERPASS!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_026A_HARP_D
-LANG_SPANISH        "^1Harper: ^7We're taking fire from the snipers on the overpass!"
+LANG_SPANISH        "^1HARPER: ^7WE'RE TAKING FIRE FROM THE SNIPERS ON THE OVERPASS!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_026A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7Taking fire from snipers on the overpass!"
+LANG_SPANISH        "^1SAMUELS: ^7TAKING FIRE FROM SNIPERS ON THE OVERPASS!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_027A_HARP_D
-LANG_SPANISH        "^1Harper: ^7We won't last ten seconds unless you take them down."
+LANG_SPANISH        "^1HARPER: ^7WE WON'T LAST TEN SECONDS UNLESS YOU TAKE THEM DOWN."
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_027A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7We won't last ten seconds unless you take 'em down."
+LANG_SPANISH        "^1SAMUELS: ^7WE WON'T LAST TEN SECONDS UNLESS YOU TAKE 'EM DOWN."
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_028A_HARP_D
-LANG_SPANISH        "^1Harper: ^7We're gonna be dead if you don't take out those snipers on the overpass!"
+LANG_SPANISH        "^1HARPER: ^7WE'RE GONNA BE DEAD IF YOU DON'T TAKE OUT THOSE SNIPERS ON THE OVERPASS!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_09_028A_SAMU_D
-LANG_SPANISH        "^1Samuels: ^7We're dead if you don't take out those snipers on the overpass!"
+LANG_SPANISH        "^1SAMUELS: ^7WE'RE DEAD IF YOU DON'T TAKE OUT THOSE SNIPERS ON THE OVERPASS!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_10_001A_SECT_D
-LANG_SPANISH        "^1Section: ^7Rappel down.  Go!"
+LANG_SPANISH        "^1SECTION: ^7RAPPEL DOWN.  GO!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_11_001A_SECT_D
-LANG_SPANISH        "^1Section: ^7Protect the president!"
+LANG_SPANISH        "^1SECTION: ^7PROTECT THE PRESIDENT!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_11_002A_SECT_D
-LANG_SPANISH        "^1Section: ^7Keep covering the president!"
+LANG_SPANISH        "^1SECTION: ^7KEEP COVERING THE PRESIDENT!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_11_003A_SECT_D
-LANG_SPANISH        "^1Section: ^7Stay in cover!"
+LANG_SPANISH        "^1SECTION: ^7STAY IN COVER!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_11_004A_HARP_D
-LANG_SPANISH        "^1Harper: ^7We got RPGs on the right!"
+LANG_SPANISH        "^1HARPER: ^7WE GOT RPGS ON THE RIGHT!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_11_005A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Take out those damn RPGs!"
+LANG_SPANISH        "^1HARPER: ^7TAKE OUT THOSE DAMN RPGS!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_11_005A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Take out those RPGs!"
+LANG_SPANISH        "^1HARPER: ^7TAKE OUT THOSE RPGS!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_11_006A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Snipers!  Twelve o'clock, on the overpass!"
+LANG_SPANISH        "^1HARPER: ^7SNIPERS!  TWELVE O'CLOCK, ON THE OVERPASS!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_11_007A_SECT_D
-LANG_SPANISH        "^1Section: ^7Clear!"
+LANG_SPANISH        "^1SECTION: ^7CLEAR!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_11_008A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Jones, you ready to move?"
+LANG_SPANISH        "^1HARPER: ^7JONES, YOU READY TO MOVE?"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_11_009A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Okay!  Go!"
+LANG_SPANISH        "^1HARPER: ^7OKAY!  GO!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_11_010A_HARP_D
-LANG_SPANISH        "^1Harper: ^7More up ahead!"
+LANG_SPANISH        "^1HARPER: ^7MORE UP AHEAD!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_11_011A_SECT_D
-LANG_SPANISH        "^1Section: ^7Take cover by the vehicle!"
+LANG_SPANISH        "^1SECTION: ^7TAKE COVER BY THE VEHICLE!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_11_012A_SECT_D
-LANG_SPANISH        "^1Section: ^7Stay down!"
+LANG_SPANISH        "^1SECTION: ^7STAY DOWN!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_11_013A_SECT_D
-LANG_SPANISH        "^1Section: ^7Good work, people!"
+LANG_SPANISH        "^1SECTION: ^7GOOD WORK, PEOPLE!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_11_014A_SECT_D
-LANG_SPANISH        "^1Section: ^7Everyone, get to the IAV!"
+LANG_SPANISH        "^1SECTION: ^7EVERYONE, GET TO THE IAV!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_11_015A_SECT_D
-LANG_SPANISH        "^1Section: ^7Push through!  They're running out of time."
+LANG_SPANISH        "^1SECTION: ^7PUSH THROUGH!  THEY'RE RUNNING OUT OF TIME."
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_11_016A_SECT_D
-LANG_SPANISH        "^1Section: ^7Pick it up!  They can't hold out!"
+LANG_SPANISH        "^1SECTION: ^7PICK IT UP!  THEY CAN'T HOLD OUT!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_11_017A_SECT_M
-LANG_SPANISH        "^1Section: ^7Dammit!  We need covering fire!"
+LANG_SPANISH        "^1SECTION: ^7DAMMIT!  WE NEED COVERING FIRE!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_11_017A_SECT_S
-LANG_SPANISH        "^1Section: ^7We need covering fire!"
+LANG_SPANISH        "^1SECTION: ^7WE NEED COVERING FIRE!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_11_018A_SECT_D
-LANG_SPANISH        "^1Section: ^7Keep them off the convoy!!"
+LANG_SPANISH        "^1SECTION: ^7KEEP THEM OFF THE CONVOY!!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_11_019A_SECT_D
-LANG_SPANISH        "^1Section: ^7We're too late.  They're gone."
+LANG_SPANISH        "^1SECTION: ^7WE'RE TOO LATE.  THEY'RE GONE."
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_11_020A_JONE_D
-LANG_SPANISH        "^1Jones: ^7Sniper fire's drawing the PMCs away from the G20 vehicles!"
+LANG_SPANISH        "^1JONES: ^7SNIPER FIRE'S DRAWING THE PMCS AWAY FROM THE G20 VEHICLES!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_11_021A_JONE_D
-LANG_SPANISH        "^1Jones: ^7The tide may be turning, Section!"
+LANG_SPANISH        "^1JONES: ^7THE TIDE MAY BE TURNING, SECTION!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_11_022A_JONE_D
-LANG_SPANISH        "^1Jones: ^7We're too late!  They're gone."
+LANG_SPANISH        "^1JONES: ^7WE'RE TOO LATE!  THEY'RE GONE."
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_12_001A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Get on the radio.  Find the status of the other convoys."
+LANG_SPANISH        "^1HARPER: ^7GET ON THE RADIO.  FIND THE STATUS OF THE OTHER CONVOYS."
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_12_002A_JONE_D
-LANG_SPANISH        "^1Jones: ^7Copy that!"
+LANG_SPANISH        "^1JONES: ^7COPY THAT!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_12_003A_HARP_D
-LANG_SPANISH        "^1Harper: ^7We're gonna be fighting every inch of the way."
+LANG_SPANISH        "^1HARPER: ^7WE'RE GONNA BE FIGHTING EVERY INCH OF THE WAY."
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_12_004A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Shit!  Reinforcements!"
+LANG_SPANISH        "^1HARPER: ^7SHIT!  REINFORCEMENTS!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_12_004A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Reinforcements!"
+LANG_SPANISH        "^1HARPER: ^7REINFORCEMENTS!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_12_005A_HARP_D
-LANG_SPANISH        "^1Harper: ^7We gotta go NOW!!"
+LANG_SPANISH        "^1HARPER: ^7WE GOTTA GO NOW!!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_3_12_006A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Everyone, get in the trucks!  Go!  Move, move!"
+LANG_SPANISH        "^1HARPER: ^7EVERYONE, GET IN THE TRUCKS!  GO!  MOVE, MOVE!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_01_001A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Move out!"
+LANG_SPANISH        "^1HARPER: ^7MOVE OUT!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_01_002A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Everyone, on my lead!  110 Northbound.  Single file convoy."
+LANG_SPANISH        "^1HARPER: ^7EVERYONE, ON MY LEAD!  110 NORTHBOUND.  SINGLE FILE CONVOY."
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_01_005A_ANDE_D
-LANG_SPANISH        "^1Anderson: ^7The drones are breaking into several smaller groups."
+LANG_SPANISH        "^1ANDERSON: ^7THE DRONES ARE BREAKING INTO SEVERAL SMALLER GROUPS."
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_01_006A_SECT_D
-LANG_SPANISH        "^1Section: ^7They're moving onto secondary targets."
+LANG_SPANISH        "^1SECTION: ^7THEY'RE MOVING ONTO SECONDARY TARGETS."
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_01_007A_ANDE_D
-LANG_SPANISH        "^1Anderson: ^7Well, I think you're one of them.  We have about twenty drones moving on your position."
+LANG_SPANISH        "^1ANDERSON: ^7WELL, I THINK YOU'RE ONE OF THEM.  WE HAVE ABOUT TWENTY DRONES MOVING ON YOUR POSITION."
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_01_008A_SECT_M
-LANG_SPANISH        "^1Section: ^7Shit!"
+LANG_SPANISH        "^1SECTION: ^7SHIT!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_01_009A_ANDE_D
-LANG_SPANISH        "^1Anderson: ^7I'll be there as soon as I can.  Anderson out."
+LANG_SPANISH        "^1ANDERSON: ^7I'LL BE THERE AS SOON AS I CAN.  ANDERSON OUT."
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_01_011A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Faster!  Ram 'em outta the way!"
+LANG_SPANISH        "^1HARPER: ^7FASTER!  RAM 'EM OUTTA THE WAY!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_01_012A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Run 'em down!"
+LANG_SPANISH        "^1HARPER: ^7RUN 'EM DOWN!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_01_013A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Get outta the fucking way!"
+LANG_SPANISH        "^1HARPER: ^7GET OUTTA THE FUCKING WAY!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_01_013A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Get outta the way!"
+LANG_SPANISH        "^1HARPER: ^7GET OUTTA THE WAY!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_01_014A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Turn left!"
+LANG_SPANISH        "^1HARPER: ^7TURN LEFT!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_01_015A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Left!  Left, man!!"
+LANG_SPANISH        "^1HARPER: ^7LEFT!  LEFT, MAN!!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_01_016A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Turn right!"
+LANG_SPANISH        "^1HARPER: ^7TURN RIGHT!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_01_018A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Damn!!"
+LANG_SPANISH        "^1HARPER: ^7DAMN!!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_01_018A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Hey!!"
+LANG_SPANISH        "^1HARPER: ^7HEY!!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_01_019A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Shit!!!"
+LANG_SPANISH        "^1HARPER: ^7SHIT!!!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_01_019A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Whoa!!"
+LANG_SPANISH        "^1HARPER: ^7WHOA!!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_01_021A_SECT_D
-LANG_SPANISH        "^1Section: ^7Get to the trucks!  We're leaving!"
+LANG_SPANISH        "^1SECTION: ^7GET TO THE TRUCKS!  WE'RE LEAVING!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_02_001A_HARP_D
-LANG_SPANISH        "^1Harper: ^7We've got company!"
+LANG_SPANISH        "^1HARPER: ^7WE'VE GOT COMPANY!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_02_002A_SECT_M
-LANG_SPANISH        "^1Section: ^7Dammit!!"
+LANG_SPANISH        "^1SECTION: ^7DAMMIT!!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_02_003A_ANDE_D
-LANG_SPANISH        "^1Anderson: ^7This one's mine."
+LANG_SPANISH        "^1ANDERSON: ^7THIS ONE'S MINE."
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_02_004A_SECT_D
-LANG_SPANISH        "^1Section: ^7Nice save, Anderson."
+LANG_SPANISH        "^1SECTION: ^7NICE SAVE, ANDERSON."
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_02_005A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Look out!!!"
+LANG_SPANISH        "^1HARPER: ^7LOOK OUT!!!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_02_006A_HARP_D
-LANG_SPANISH        "^1Harper: ^7The whole freeway's coming down!"
+LANG_SPANISH        "^1HARPER: ^7THE WHOLE FREEWAY'S COMING DOWN!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_02_007A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Hard right!  Hard right!"
+LANG_SPANISH        "^1HARPER: ^7HARD RIGHT!  HARD RIGHT!"
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_02_008A_SECT_D
-LANG_SPANISH        "^1Section: ^7How badly hit is downtown?"
+LANG_SPANISH        "^1SECTION: ^7HOW BADLY HIT IS DOWNTOWN?"
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_02_010A_ANDE_D
-LANG_SPANISH        "^1Anderson: ^7I don't know.  If there's even a chance you could get..."
+LANG_SPANISH        "^1ANDERSON: ^7I DON'T KNOW.  IF THERE'S EVEN A CHANCE YOU COULD GET..."
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_02_011A_SECT_D
-LANG_SPANISH        "^1Section: ^7It's our only chance, Anderson."
+LANG_SPANISH        "^1SECTION: ^7IT'S OUR ONLY CHANCE, ANDERSON."
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_02_012A_ANDE_D
-LANG_SPANISH        "^1Anderson: ^7Let's do it.  I'll provide escort the rest of the way."
+LANG_SPANISH        "^1ANDERSON: ^7LET'S DO IT.  I'LL PROVIDE ESCORT THE REST OF THE WAY."
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_03_001A_HARP_D
-LANG_SPANISH        "^1Harper: ^7I can't believe this is happening, on our own soil."
+LANG_SPANISH        "^1HARPER: ^7I CAN'T BELIEVE THIS IS HAPPENING, ON OUR OWN SOIL."
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_03_003A_SECT_D
-LANG_SPANISH        "^1Section: ^7I don't know yet... but we will."
+LANG_SPANISH        "^1SECTION: ^7I DON'T KNOW YET... BUT WE WILL."
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_04_001A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Menendez knew exactly what he was doing.  Hitting the Pentagon, Washington, Wall Street, all on the same day... using our own aircraft."
+LANG_SPANISH        "^1HARPER: ^7MENENDEZ KNEW EXACTLY WHAT HE WAS DOING.  HITTING THE PENTAGON, WASHINGTON, WALL STREET, ALL ON THE SAME DAY... USING OUR OWN AIRCRAFT."
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_04_002A_SECT_D
-LANG_SPANISH        "^1Section: ^7I think we've heard this song before."
+LANG_SPANISH        "^1SECTION: ^7I THINK WE'VE HEARD THIS SONG BEFORE."
 
 REFERENCE           LA_1_VOX_VOX_LA1_4_04_025A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Oh, shit!"
+LANG_SPANISH        "^1HARPER: ^7OH, SHIT!"
 
 REFERENCE           LA_SHARED_ARGUS_HARPER
-LANG_SPANISH        "Harper"
+LANG_SPANISH        "HARPER"
 
 REFERENCE           LA_SHARED_ARGUS_HARPER_INFO
-LANG_SPANISH        "He's Harper"
+LANG_SPANISH        "HE'S HARPER"
 
 REFERENCE           LA_SHARED_ARGUS_JONES
-LANG_SPANISH        "Angent Jones"
+LANG_SPANISH        "ANGENT JONES"
 
 REFERENCE           LA_SHARED_ARGUS_JONES_INFO
-LANG_SPANISH        "He's a secret service agent"
+LANG_SPANISH        "HE'S A SECRET SERVICE AGENT"
 
 REFERENCE           LA_SHARED_ARGUS_POTUS
-LANG_SPANISH        "Hillary Clinton"
+LANG_SPANISH        "HILLARY CLINTON"
 
 REFERENCE           LA_SHARED_ARGUS_POTUS_INFO
-LANG_SPANISH        "Presidente dos Estados Unidos da América (POTUS)"
+LANG_SPANISH        "PRESIDENTE DOS ESTADOS UNIDOS DA AMÉRICA (POTUS)"
 
 REFERENCE           LA_SHARED_ARGUS_SAM
-LANG_SPANISH        "Sam"
+LANG_SPANISH        "SAM"
 
 REFERENCE           LA_SHARED_ARGUS_SAM_INFO
-LANG_SPANISH        "Bad Ass Mother Fucker"
+LANG_SPANISH        "BAD ASS MOTHER FUCKER"
 
 REFERENCE           LA_SHARED_ARGUS_SS1
-LANG_SPANISH        "Random Secrect Service Agent"
+LANG_SPANISH        "RANDOM SECRECT SERVICE AGENT"
 
 REFERENCE           LA_SHARED_ARGUS_SS1_INFO
-LANG_SPANISH        "Ele é o melhor"
+LANG_SPANISH        "ELE É O MELHOR"
 
 REFERENCE           LA_SHARED_COUGAR_BRAKE
-LANG_SPANISH        "Segure ^3[{+reverse}]^7 para frear/reverter"
+LANG_SPANISH        "SEGURE ^3[{+reverse}]^7 PARA FREAR/REVERTER"
 
 REFERENCE           LA_SHARED_COUGAR_GAS
-LANG_SPANISH        "Pressione ^3[{+gas}]^7 para acelerar"
+LANG_SPANISH        "PRESSIONE ^3[{+gas}]^7 PARA ACELERAR"
 
 REFERENCE           LA_SHARED_COUGAR_STEER
-LANG_SPANISH        "Use ^3[{+strafestick}]^7 para dirigir"
+LANG_SPANISH        "USE ^3[{+strafestick}]^7 PARA DIRIGIR"
 
 REFERENCE           LA_SHARED_F35_DEAD
-LANG_SPANISH        "FA-38 destroyed"
+LANG_SPANISH        "FA-38 DESTROYED"
 
 REFERENCE           LA_SHARED_F35_DEAD_CRANE
-LANG_SPANISH        "Você foi morto pela queda de um guindaste"
+LANG_SPANISH        "VOCÊ FOI MORTO PELA QUEDA DE UM GUINDASTE"
 
 REFERENCE           LA_SHARED_FAIL_ABANDON
-LANG_SPANISH        "Você abandonou sua missão."
+LANG_SPANISH        "VOCÊ ABANDONOU SUA MISSÃO."
 
 REFERENCE           LA_SHARED_FLIGHT_CONTROL_GUN
-LANG_SPANISH        "Pressione [{+attack}] para disparar canhões"
+LANG_SPANISH        "PRESSIONE [{+attack}] PARA DISPARAR CANHÕES"
 
 REFERENCE           LA_SHARED_FLIGHT_CONTROL_HOVER_DOWN
-LANG_SPANISH        "Pressione [{+smoke}] para passar o mouse para baixo"
+LANG_SPANISH        "PRESSIONE [{+smoke}] PARA PASSAR O MOUSE PARA BAIXO"
 
 REFERENCE           LA_SHARED_FLIGHT_CONTROL_HOVER_UP
-LANG_SPANISH        "Pressione [{+frag}] para passar o mouse para cima"
+LANG_SPANISH        "PRESSIONE [{+frag}] PARA PASSAR O MOUSE PARA CIMA"
 
 REFERENCE           LA_SHARED_FLIGHT_CONTROL_LOOK
-LANG_SPANISH        "Use [{+lookstick}] para olhar"
+LANG_SPANISH        "USE [{+lookstick}] PARA OLHAR"
 
 REFERENCE           LA_SHARED_FLIGHT_CONTROL_MISSILE
-LANG_SPANISH        "Pressione [{+speed_throw}] para disparar mísseis"
+LANG_SPANISH        "PRESSIONE [{+speed_throw}] PARA DISPARAR MÍSSEIS"
 
 REFERENCE           LA_SHARED_FLIGHT_CONTROL_MISSILE_BARRAGE
-LANG_SPANISH        "Pressione [{+activate}] para ativar a barragem de mísseis"
+LANG_SPANISH        "PRESSIONE [{+activate}] PARA ATIVAR A BARRAGEM DE MÍSSEIS"
 
 REFERENCE           LA_SHARED_FLIGHT_CONTROL_MOVE
-LANG_SPANISH        "Use [{+movestick}] para mover"
+LANG_SPANISH        "USE [{+movestick}] PARA MOVER"
 
 REFERENCE           LA_SHARED_HINT_ADS
-LANG_SPANISH        "Pressione [{+melee}] para ampliar"
+LANG_SPANISH        "PRESSIONE [{+melee}] PARA AMPLIAR"
 
 REFERENCE           LA_SHARED_HINT_CHARGE_WEAPON
-LANG_SPANISH        "Segure [{+attack}] para penetrar nas paredes"
+LANG_SPANISH        "SEGURE [{+attack}] PARA PENETRAR NAS PAREDES"
 
 REFERENCE           LA_SHARED_HINT_DEATHBLOSSOM
-LANG_SPANISH        "Bloqueie e pressione [{+gostand}] para usar Death Blossom"
+LANG_SPANISH        "BLOQUEIE E PRESSIONE [{+gostand}] PARA USAR DEATH BLOSSOM"
 
 REFERENCE           LA_SHARED_HINT_MISSILE_BUILDINGS
-LANG_SPANISH        "Fly between buildings to avoid missiles"
+LANG_SPANISH        "FLY BETWEEN BUILDINGS TO AVOID MISSILES"
 
 REFERENCE           LA_SHARED_HINT_MISSILE_DODGE
-LANG_SPANISH        "Use [{+lookstick}] para desviar de mísseis"
+LANG_SPANISH        "USE [{+lookstick}] PARA DESVIAR DE MÍSSEIS"
 
 REFERENCE           LA_SHARED_HINT_MODE_PLANE
-LANG_SPANISH        "Pressione [{+activate}] para usar o modo de voo convencional"
+LANG_SPANISH        "PRESSIONE [{+activate}] PARA USAR O MODO DE VOO CONVENCIONAL"
 
 REFERENCE           LA_SHARED_HINT_MODE_VTOL
-LANG_SPANISH        "Pressione [{+activate}] para usar o modo VTOL"
+LANG_SPANISH        "PRESSIONE [{+activate}] PARA USAR O MODO VTOL"
 
 REFERENCE           LA_SHARED_HINT_THROTTLE
-LANG_SPANISH        "[{+movestick}] changes throttle position"
+LANG_SPANISH        "[{+movestick}] CHANGES THROTTLE POSITION"
 
 REFERENCE           LA_SHARED_INTROSCREEN_LINE_1
 LANG_SPANISH        "^L\CORDIS DIE\^L"
@@ -999,221 +999,221 @@ REFERENCE           LA_SHARED_INTROSCREEN_LINE_4
 LANG_SPANISH        "^LJSOC^L COUNTER TERRORIST FORCE"
 
 REFERENCE           LA_SHARED_INTROSCREEN_LINE_5
-LANG_SPANISH        "JUNE 19th, ^L2025^L"
+LANG_SPANISH        "JUNE 19TH, ^L2025^L"
 
 REFERENCE           LA_SHARED_LEAVING_COMBAT
-LANG_SPANISH        "Você está saindo da zona de combate."
+LANG_SPANISH        "VOCÊ ESTÁ SAINDO DA ZONA DE COMBATE."
 
 REFERENCE           LA_SHARED_LEFT_COMBAT
-LANG_SPANISH        "Você saiu da zona de combate"
+LANG_SPANISH        "VOCÊ SAIU DA ZONA DE COMBATE"
 
 REFERENCE           LA_SHARED_OBJ_ANDERSON
-LANG_SPANISH        "Save Anderson"
+LANG_SPANISH        "SAVE ANDERSON"
 
 REFERENCE           LA_SHARED_OBJ_ARENA
-LANG_SPANISH        "Save Anderson"
+LANG_SPANISH        "SAVE ANDERSON"
 
 REFERENCE           LA_SHARED_OBJ_BIG_DOGS
-LANG_SPANISH        "Destrua os C.L.A.W.s [&&1 de 2 destruídos]"
+LANG_SPANISH        "DESTRUA OS C.L.A.W.S [&&1 DE 2 DESTRUÍDOS]"
 
 REFERENCE           LA_SHARED_OBJ_BIG_DOGS_NOHARPER
-LANG_SPANISH        "Destrua os C.L.A.W.s [&&1 de 3 destruídos]"
+LANG_SPANISH        "DESTRUA OS C.L.A.W.S [&&1 DE 3 DESTRUÍDOS]"
 
 REFERENCE           LA_SHARED_OBJ_DESTROY_DRONES
-LANG_SPANISH        "Destrua os drones"
+LANG_SPANISH        "DESTRUA OS DRONES"
 
 REFERENCE           LA_SHARED_OBJ_DOGFIGHTS
-LANG_SPANISH        "Destrua aeronaves inimigas. Restante:"
+LANG_SPANISH        "DESTRUA AERONAVES INIMIGAS. RESTANTE:"
 
 REFERENCE           LA_SHARED_OBJ_DRIVE
-LANG_SPANISH        "Drive"
+LANG_SPANISH        "DRIVE"
 
 REFERENCE           LA_SHARED_OBJ_DRIVE_TEXT
-LANG_SPANISH        "Vá para o bunker da 'Noite do Baile'"
+LANG_SPANISH        "VÁ PARA O BUNKER DA 'NOITE DO BAILE'"
 
 REFERENCE           LA_SHARED_OBJ_FLY
-LANG_SPANISH        "Vá para a FA-38"
+LANG_SPANISH        "VÁ PARA A FA-38"
 
 REFERENCE           LA_SHARED_OBJ_FOLLOW_AMBULANCE
-LANG_SPANISH        "Follow Anderson's ambulance"
+LANG_SPANISH        "FOLLOW ANDERSON'S AMBULANCE"
 
 REFERENCE           LA_SHARED_OBJ_FOLLOW_VAN
-LANG_SPANISH        "Follow Harper's van"
+LANG_SPANISH        "FOLLOW HARPER'S VAN"
 
 REFERENCE           LA_SHARED_OBJ_G20_COUGAR
-LANG_SPANISH        "Salve todos os 3 MRAPS"
+LANG_SPANISH        "SALVE TODOS OS 3 MRAPS"
 
 REFERENCE           LA_SHARED_OBJ_G20_STREET
-LANG_SPANISH        "Save G20 leader"
+LANG_SPANISH        "SAVE G20 LEADER"
 
 REFERENCE           LA_SHARED_OBJ_HIGHWAY
-LANG_SPANISH        "Acesse os veículos MRAP"
+LANG_SPANISH        "ACESSE OS VEÍCULOS MRAP"
 
 REFERENCE           LA_SHARED_OBJ_POTUS_TEXT
-LANG_SPANISH        "Protect POTUS"
+LANG_SPANISH        "PROTECT POTUS"
 
 REFERENCE           LA_SHARED_OBJ_PROM_NIGHT
-LANG_SPANISH        "Leve o POTUS para o bunker da 'Noite do Baile'"
+LANG_SPANISH        "LEVE O POTUS PARA O BUNKER DA 'NOITE DO BAILE'"
 
 REFERENCE           LA_SHARED_OBJ_PROTECT
-LANG_SPANISH        "Proteja o veículo do presidente"
+LANG_SPANISH        "PROTEJA O VEÍCULO DO PRESIDENTE"
 
 REFERENCE           LA_SHARED_OBJ_PROTECT_FAIL
-LANG_SPANISH        "Você falhou em proteger o presidente."
+LANG_SPANISH        "VOCÊ FALHOU EM PROTEGER O PRESIDENTE."
 
 REFERENCE           LA_SHARED_OBJ_RAPPEL
 LANG_SPANISH        "CHOOSE\n RAPPEL"
 
 REFERENCE           LA_SHARED_OBJ_RAPPEL2
-LANG_SPANISH        "Desça de rapel e encontre-se com o grupo"
+LANG_SPANISH        "DESÇA DE RAPEL E ENCONTRE-SE COM O GRUPO"
 
 REFERENCE           LA_SHARED_OBJ_RAPPEL_3D
-LANG_SPANISH        "Rappel"
+LANG_SPANISH        "RAPPEL"
 
 REFERENCE           LA_SHARED_OBJ_RAPPEL_TEXT
-LANG_SPANISH        "Escolha fazer rapel com o grupo"
+LANG_SPANISH        "ESCOLHA FAZER RAPEL COM O GRUPO"
 
 REFERENCE           LA_SHARED_OBJ_REGROUP
-LANG_SPANISH        "Reagrupar com detalhes de proteção"
+LANG_SPANISH        "REAGRUPAR COM DETALHES DE PROTEÇÃO"
 
 REFERENCE           LA_SHARED_OBJ_ROADBLOCK
-LANG_SPANISH        "Destrua alvos inimigos"
+LANG_SPANISH        "DESTRUA ALVOS INIMIGOS"
 
 REFERENCE           LA_SHARED_OBJ_ROOFTOPS
-LANG_SPANISH        "Destrua alvos inimigos"
+LANG_SPANISH        "DESTRUA ALVOS INIMIGOS"
 
 REFERENCE           LA_SHARED_OBJ_SHOOT_DRONES
-LANG_SPANISH        "Use a torre SAM para abater os drones"
+LANG_SPANISH        "USE A TORRE SAM PARA ABATER OS DRONES"
 
 REFERENCE           LA_SHARED_OBJ_SNIPE
 LANG_SPANISH        "CHOOSE\n SNIPER"
 
 REFERENCE           LA_SHARED_OBJ_SNIPE_TEXT
-LANG_SPANISH        "Choose to provide sniper overwatch"
+LANG_SPANISH        "CHOOSE TO PROVIDE SNIPER OVERWATCH"
 
 REFERENCE           LA_SHARED_OBJ_STREET
-LANG_SPANISH        "Limpe a rua"
+LANG_SPANISH        "LIMPE A RUA"
 
 REFERENCE           LA_SHARED_OBJ_STREET_REGROUP
-LANG_SPANISH        "Reagrupar com POTUS"
+LANG_SPANISH        "REAGRUPAR COM POTUS"
 
 REFERENCE           LA_SHARED_OBJ_TRENCHRUN
-LANG_SPANISH        "Impedir que UAVs voem para o comboio"
+LANG_SPANISH        "IMPEDIR QUE UAVS VOEM PARA O COMBOIO"
 
 REFERENCE           LA_SHARED_OVERWATCH_FAIL
-LANG_SPANISH        "You failed to provide sniper protection to POTUS"
+LANG_SPANISH        "YOU FAILED TO PROVIDE SNIPER PROTECTION TO POTUS"
 
 REFERENCE           LA_SHARED_PROTECT_FAIL
-LANG_SPANISH        "Você falhou em proteger o presidente."
+LANG_SPANISH        "VOCÊ FALHOU EM PROTEGER O PRESIDENTE."
 
 REFERENCE           LA_SHARED_PROTECT_FAIL_VEHICLE
-LANG_SPANISH        "Você falhou em proteger o presidente."
+LANG_SPANISH        "VOCÊ FALHOU EM PROTEGER O PRESIDENTE."
 
 REFERENCE           LA_SHARED_RAPPEL
 LANG_SPANISH        "RAPPEL"
 
 REFERENCE           LA_SHARED_REQUIRED_VEHICLE_DEAD
-LANG_SPANISH        "You destroyed a mission critical vehicle"
+LANG_SPANISH        "YOU DESTROYED A MISSION CRITICAL VEHICLE"
 
 REFERENCE           LA_SHARED_SAM_HINT_ADS
-LANG_SPANISH        "Segure [{+speed_throw}] para travar"
+LANG_SPANISH        "SEGURE [{+speed_throw}] PARA TRAVAR"
 
 REFERENCE           LA_SHARED_SAM_HINT_FIRE
-LANG_SPANISH        "Pressione [{+attack}] para disparar"
+LANG_SPANISH        "PRESSIONE [{+attack}] PARA DISPARAR"
 
 REFERENCE           LA_SHARED_SAM_HINT_TRACK
-LANG_SPANISH        "Use [{+lookstick}] para guiar os mísseis até um drone"
+LANG_SPANISH        "USE [{+lookstick}] PARA GUIAR OS MÍSSEIS ATÉ UM DRONE"
 
 REFERENCE           LA_SHARED_SAM_TURRET_FIRE
-LANG_SPANISH        "Pressione [{+attack}] para disparar"
+LANG_SPANISH        "PRESSIONE [{+attack}] PARA DISPARAR"
 
 REFERENCE           LA_SHARED_SAM_TURRET_LOCK
-LANG_SPANISH        "Track targets to lock on"
+LANG_SPANISH        "TRACK TARGETS TO LOCK ON"
 
 REFERENCE           SP_OBJECTIVES_AMMO
-LANG_SPANISH        "Ammo"
+LANG_SPANISH        "AMMO"
 
 REFERENCE           SP_OBJECTIVES_BREACH
-LANG_SPANISH        "Breach"
+LANG_SPANISH        "BREACH"
 
 REFERENCE           SP_OBJECTIVES_CLEAR
-LANG_SPANISH        "Clear"
+LANG_SPANISH        "CLEAR"
 
 REFERENCE           SP_OBJECTIVES_CLIMB
-LANG_SPANISH        "Climb"
+LANG_SPANISH        "CLIMB"
 
 REFERENCE           SP_OBJECTIVES_DEFEND
-LANG_SPANISH        "Defend"
+LANG_SPANISH        "DEFEND"
 
 REFERENCE           SP_OBJECTIVES_DESTROY
-LANG_SPANISH        "Destroy"
+LANG_SPANISH        "DESTROY"
 
 REFERENCE           SP_OBJECTIVES_DETONATE
-LANG_SPANISH        "Detonate"
+LANG_SPANISH        "DETONATE"
 
 REFERENCE           SP_OBJECTIVES_DISABLE
-LANG_SPANISH        "Disable"
+LANG_SPANISH        "DISABLE"
 
 REFERENCE           SP_OBJECTIVES_ENTER
-LANG_SPANISH        "Enter"
+LANG_SPANISH        "ENTER"
 
 REFERENCE           SP_OBJECTIVES_ESCORT
-LANG_SPANISH        "Escort"
+LANG_SPANISH        "ESCORT"
 
 REFERENCE           SP_OBJECTIVES_FOLLOW
-LANG_SPANISH        "Follow"
+LANG_SPANISH        "FOLLOW"
 
 REFERENCE           SP_OBJECTIVES_HELP
-LANG_SPANISH        "Help"
+LANG_SPANISH        "HELP"
 
 REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
-LANG_SPANISH        "Incoming (helos)"
+LANG_SPANISH        "INCOMING (HELOS)"
 
 REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
-LANG_SPANISH        "Incoming (tanks)"
+LANG_SPANISH        "INCOMING (TANKS)"
 
 REFERENCE           SP_OBJECTIVES_INTERACT
-LANG_SPANISH        "Access"
+LANG_SPANISH        "ACCESS"
 
 REFERENCE           SP_OBJECTIVES_JUMP
-LANG_SPANISH        "Jump"
+LANG_SPANISH        "JUMP"
 
 REFERENCE           SP_OBJECTIVES_KILL
-LANG_SPANISH        "Kill"
+LANG_SPANISH        "KILL"
 
 REFERENCE           SP_OBJECTIVES_MELEE
-LANG_SPANISH        "Melee"
+LANG_SPANISH        "MELEE"
 
 REFERENCE           SP_OBJECTIVES_PICKUP
-LANG_SPANISH        "Pick Up"
+LANG_SPANISH        "PICK UP"
 
 REFERENCE           SP_OBJECTIVES_PROTECT
-LANG_SPANISH        "Protect"
+LANG_SPANISH        "PROTECT"
 
 REFERENCE           SP_OBJECTIVES_RAPPEL
-LANG_SPANISH        "Rappel"
+LANG_SPANISH        "RAPPEL"
 
 REFERENCE           SP_OBJECTIVES_REGROUP
-LANG_SPANISH        "Regroup"
+LANG_SPANISH        "REGROUP"
 
 REFERENCE           SP_OBJECTIVES_SEARCH
-LANG_SPANISH        "Search"
+LANG_SPANISH        "SEARCH"
 
 REFERENCE           SP_OBJECTIVES_SHOOT
-LANG_SPANISH        "Shoot"
+LANG_SPANISH        "SHOOT"
 
 REFERENCE           SP_OBJECTIVES_SUPPORT
-LANG_SPANISH        "Support"
+LANG_SPANISH        "SUPPORT"
 
 REFERENCE           SP_OBJECTIVES_SWEEP
-LANG_SPANISH        "Sweep"
+LANG_SPANISH        "SWEEP"
 
 REFERENCE           SP_OBJECTIVES_TARGET
-LANG_SPANISH        "Target"
+LANG_SPANISH        "TARGET"
 
 REFERENCE           SP_OBJECTIVES_USE
-LANG_SPANISH        "Use"
+LANG_SPANISH        "USE"
 
 REFERENCE           SP_OBJECTIVES_WEAPONS
-LANG_SPANISH        "Weapons"
+LANG_SPANISH        "WEAPONS"
 

@@ -3,239 +3,239 @@ CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           ZM_CRAFTABLES_CHANGE_BUILD
-LANG_SPANISH        "Pressione [{+actionslot 1}] ou [{+actionslot 2}] para alterar o item"
+LANG_SPANISH        "PRESSIONE [{+actionslot 1}] OU [{+actionslot 2}] PARA ALTERAR O ITEM"
 
 REFERENCE           ZM_CRAFTABLES_PIECE_NO_SWITCH
-LANG_SPANISH        "Já carregando um pedaço."
+LANG_SPANISH        "JÁ CARREGANDO UM PEDAÇO."
 
 REFERENCE           ZM_TOMB_BOA
-LANG_SPANISH        "Você recebeu o Cajado do Vento"
+LANG_SPANISH        "VOCÊ RECEBEU O CAJADO DO VENTO"
 
 REFERENCE           ZM_TOMB_BOF
-LANG_SPANISH        "Você recebeu o Cajado de Fogo"
+LANG_SPANISH        "VOCÊ RECEBEU O CAJADO DE FOGO"
 
 REFERENCE           ZM_TOMB_BOL
-LANG_SPANISH        "Você recebeu o Cajado Relâmpago"
+LANG_SPANISH        "VOCÊ RECEBEU O CAJADO RELÂMPAGO"
 
 REFERENCE           ZM_TOMB_BOR
-LANG_SPANISH        "Segure^3[{+activate}]^7para pegar o Pára-raios"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA PEGAR O PÁRA-RAIOS"
 
 REFERENCE           ZM_TOMB_BOW
-LANG_SPANISH        "Você recebeu o Cajado de Gelo"
+LANG_SPANISH        "VOCÊ RECEBEU O CAJADO DE GELO"
 
 REFERENCE           ZM_TOMB_CAP
-LANG_SPANISH        "Segure^3[{+activate}]^7para alimentar a área usando o gerador 115 [Custo: &&1 ]"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA ALIMENTAR A ÁREA USANDO O GERADOR 115 [CUSTO: &&1 ]"
 
 REFERENCE           ZM_TOMB_CH1
-LANG_SPANISH        "Execute 115 tiros normais na cabeça de zumbis"
+LANG_SPANISH        "EXECUTE 115 TIROS NORMAIS NA CABEÇA DE ZUMBIS"
 
 REFERENCE           ZM_TOMB_CH2
-LANG_SPANISH        "Capture 6 Geradores"
+LANG_SPANISH        "CAPTURE 6 GERADORES"
 
 REFERENCE           ZM_TOMB_CH3
-LANG_SPANISH        "Gaste 30.000 pontos"
+LANG_SPANISH        "GASTE 30.000 PONTOS"
 
 REFERENCE           ZM_TOMB_CHT
-LANG_SPANISH        "Encha 4 baús até a capacidade máxima"
+LANG_SPANISH        "ENCHA 4 BAÚS ATÉ A CAPACIDADE MÁXIMA"
 
 REFERENCE           ZM_TOMB_CH_G
-LANG_SPANISH        "Segure^3[{+activate}]^7para receber a recompensa"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA RECEBER A RECOMPENSA"
 
 REFERENCE           ZM_TOMB_CH_O
-LANG_SPANISH        "Segure^3[{+activate}]^7para abrir a caixa"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA ABRIR A CAIXA"
 
 REFERENCE           ZM_TOMB_CH_S
-LANG_SPANISH        "Segure^3[{+activate}]^7para selecionar esta recompensa"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA SELECIONAR ESTA RECOMPENSA"
 
 REFERENCE           ZM_TOMB_CH_V
-LANG_SPANISH        "Veja a medalha para ver o desafio"
+LANG_SPANISH        "VEJA A MEDALHA PARA VER O DESAFIO"
 
 REFERENCE           ZM_TOMB_CRA
-LANG_SPANISH        "Segure^3[{+activate}]^7para criar o Cajado do Vento"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA CRIAR O CAJADO DO VENTO"
 
 REFERENCE           ZM_TOMB_CRB
-LANG_SPANISH        "Segure^3[{+activate}]^7para fabricar o Farol de Artilharia"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA FABRICAR O FAROL DE ARTILHARIA"
 
 REFERENCE           ZM_TOMB_CRF
-LANG_SPANISH        "Segure^3[{+activate}]^7para criar o Cajado de Fogo"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA CRIAR O CAJADO DE FOGO"
 
 REFERENCE           ZM_TOMB_CRL
-LANG_SPANISH        "Segure^3[{+activate}]^7para criar o Cajado Relâmpago"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA CRIAR O CAJADO RELÂMPAGO"
 
 REFERENCE           ZM_TOMB_CRQ
-LANG_SPANISH        "Segure^3[{+activate}]^7para fabricar o Maxis Drone"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA FABRICAR O MAXIS DRONE"
 
 REFERENCE           ZM_TOMB_CRRI
-LANG_SPANISH        "Segure^3[{+activate}]^7para criar o Escudo Zumbi"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA CRIAR O ESCUDO ZUMBI"
 
 REFERENCE           ZM_TOMB_CRRO
-LANG_SPANISH        "Segure^3[{+activate}]^7para fabricar o Pára-raios"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA FABRICAR O PÁRA-RAIOS"
 
 REFERENCE           ZM_TOMB_CRS
-LANG_SPANISH        "Segure^3[{+activate}]^7para criar o Cajado"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA CRIAR O CAJADO"
 
 REFERENCE           ZM_TOMB_CRW
-LANG_SPANISH        "Segure^3[{+activate}]^7para criar o Cajado de Gelo"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA CRIAR O CAJADO DE GELO"
 
 REFERENCE           ZM_TOMB_DIHO
-LANG_SPANISH        "Pressione^3[{+actionslot 1}]^7para usar o Maxis Drone"
+LANG_SPANISH        "PRESSIONE^3[{+actionslot 1}]^7PARA USAR O MAXIS DRONE"
 
 REFERENCE           ZM_TOMB_DIHS
-LANG_SPANISH        "Segure^7[{+activate}]^3 para pegar o Maxis Drone"
+LANG_SPANISH        "SEGURE^7[{+activate}]^3 PARA PEGAR O MAXIS DRONE"
 
 REFERENCE           ZM_TOMB_EHT
-LANG_SPANISH        "Pressione^3[{+activate}]^7 para sair da Cabeça do Robô"
+LANG_SPANISH        "PRESSIONE^3[{+activate}]^7 PARA SAIR DA CABEÇA DO ROBÔ"
 
 REFERENCE           ZM_TOMB_EQUIPMENT
-LANG_SPANISH        "Partes Musicais"
+LANG_SPANISH        "PARTES MUSICAIS"
 
 REFERENCE           ZM_TOMB_GREL
-LANG_SPANISH        "Gramofone é colocado em outro lugar"
+LANG_SPANISH        "GRAMOFONE É COLOCADO EM OUTRO LUGAR"
 
 REFERENCE           ZM_TOMB_INAS
-LANG_SPANISH        "Segure^3[{+activate}]^7para inserir o Cajado do Vento"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA INSERIR O CAJADO DO VENTO"
 
 REFERENCE           ZM_TOMB_INFS
-LANG_SPANISH        "Segure^3[{+activate}]^7para inserir o Cajado de Fogo"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA INSERIR O CAJADO DE FOGO"
 
 REFERENCE           ZM_TOMB_INLS
-LANG_SPANISH        "Segure^3[{+activate}]^7para inserir o Cajado Relâmpago"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA INSERIR O CAJADO RELÂMPAGO"
 
 REFERENCE           ZM_TOMB_INS
-LANG_SPANISH        "Segure^3[{+activate}]^7para inserir o Cristal Elemental"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA INSERIR O CRISTAL ELEMENTAL"
 
 REFERENCE           ZM_TOMB_INWS
-LANG_SPANISH        "Segure^3[{+activate}]^7para inserir o Cajado de Gelo"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA INSERIR O CAJADO DE GELO"
 
 REFERENCE           ZM_TOMB_MAXIS_AUDIOLOG
-LANG_SPANISH        "Segure^3[{+activate}]^7para reproduzir o registro de áudio"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA REPRODUZIR O REGISTRO DE ÁUDIO"
 
 REFERENCE           ZM_TOMB_NS
-LANG_SPANISH        "Precisa de uma pá para cavar"
+LANG_SPANISH        "PRECISA DE UMA PÁ PARA CAVAR"
 
 REFERENCE           ZM_TOMB_OSO
-LANG_SPANISH        "Você só pode carregar um cajado"
+LANG_SPANISH        "VOCÊ SÓ PODE CARREGAR UM CAJADO"
 
 REFERENCE           ZM_TOMB_PERK_ONEINCH
-LANG_SPANISH        "Segure^3[{+activate}]^7para comprar One Inch Punch [Custo: &&1 ]"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA COMPRAR ONE INCH PUNCH [CUSTO: &&1 ]"
 
 REFERENCE           ZM_TOMB_PLAY_RECORD
-LANG_SPANISH        "Segure^3[{+activate}]^7para reproduzir a gravação"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA REPRODUZIR A GRAVAÇÃO"
 
 REFERENCE           ZM_TOMB_PLBT
-LANG_SPANISH        "Segure^3[{+activate}]^7para colocar o Tablet"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA COLOCAR O TABLET"
 
 REFERENCE           ZM_TOMB_PLCT
-LANG_SPANISH        "Segure^3[{+activate}]^7para colocar o Tablet"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA COLOCAR O TABLET"
 
 REFERENCE           ZM_TOMB_PLGR
-LANG_SPANISH        "Segure^3[{+activate}]^7para colocar o Gramofone"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA COLOCAR O GRAMOFONE"
 
 REFERENCE           ZM_TOMB_PRESS_X_TO_TELEPORT
-LANG_SPANISH        "Segure^3[{+activate}]^7para ejetar"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA EJETAR"
 
 REFERENCE           ZM_TOMB_PUAS
-LANG_SPANISH        "Segure^3[{+activate}]^7 para trocar por Cajado do Vento"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7 PARA TROCAR POR CAJADO DO VENTO"
 
 REFERENCE           ZM_TOMB_PUBT
-LANG_SPANISH        "Segure^3[{+activate}]^7para pegar o Tablet\n"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA PEGAR O TABLET\n"
 
 REFERENCE           ZM_TOMB_PUCT
-LANG_SPANISH        "Segure^3[{+activate}]^7para pegar o Tablet"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA PEGAR O TABLET"
 
 REFERENCE           ZM_TOMB_PUFS
-LANG_SPANISH        "Segure^3[{+activate}]^7 para trocar por Cajado de Fogo"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7 PARA TROCAR POR CAJADO DE FOGO"
 
 REFERENCE           ZM_TOMB_PUGR
-LANG_SPANISH        "Segure^3[{+activate}]^7para pegar o gramofone"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA PEGAR O GRAMOFONE"
 
 REFERENCE           ZM_TOMB_PUIS
-LANG_SPANISH        "Segure^3[{+activate}]^7 para trocar por Cajado de Gelo"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7 PARA TROCAR POR CAJADO DE GELO"
 
 REFERENCE           ZM_TOMB_PULS
-LANG_SPANISH        "Segure^7[{+activate}]^3 para trocar por Cajado Relâmpago"
+LANG_SPANISH        "SEGURE^7[{+activate}]^3 PARA TROCAR POR CAJADO RELÂMPAGO"
 
 REFERENCE           ZM_TOMB_QUADROTOR
-LANG_SPANISH        "Drone Maxis"
+LANG_SPANISH        "DRONE MAXIS"
 
 REFERENCE           ZM_TOMB_QUADROTOR_IN_USE
-LANG_SPANISH        "Drone Maxis em uso"
+LANG_SPANISH        "DRONE MAXIS EM USO"
 
 REFERENCE           ZM_TOMB_RECAPTURE_LOCK
-LANG_SPANISH        "Defenda os geradores do ataque"
+LANG_SPANISH        "DEFENDA OS GERADORES DO ATAQUE"
 
 REFERENCE           ZM_TOMB_RPB
-LANG_SPANISH        "Segure^3[{+activate}]^7para comprar Perk-a-Cola [Custo: &&1 ]"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA COMPRAR PERK-A-COLA [CUSTO: &&1 ]"
 
 REFERENCE           ZM_TOMB_RPE
-LANG_SPANISH        "Wunderfizz Orb está atualmente em outro local"
+LANG_SPANISH        "WUNDERFIZZ ORB ESTÁ ATUALMENTE EM OUTRO LOCAL"
 
 REFERENCE           ZM_TOMB_RPP
-LANG_SPANISH        "Segure^3[{+activate}]^7para beber Perk-a-Cola"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA BEBER PERK-A-COLA"
 
 REFERENCE           ZM_TOMB_RPT
-LANG_SPANISH        "Você só pode ter &&1 benefícios"
+LANG_SPANISH        "VOCÊ SÓ PODE TER &&1 BENEFÍCIOS"
 
 REFERENCE           ZM_TOMB_RPU
-LANG_SPANISH        "A energia deve estar ligada"
+LANG_SPANISH        "A ENERGIA DEVE ESTAR LIGADA"
 
 REFERENCE           ZM_TOMB_RU
-LANG_SPANISH        "Registro correto indisponível"
+LANG_SPANISH        "REGISTRO CORRETO INDISPONÍVEL"
 
 REFERENCE           ZM_TOMB_SHAG
-LANG_SPANISH        "Você só pode carregar uma pá"
+LANG_SPANISH        "VOCÊ SÓ PODE CARREGAR UMA PÁ"
 
 REFERENCE           ZM_TOMB_SHPU
-LANG_SPANISH        "Segure^3[{+activate}]^7para pegar a pá"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA PEGAR A PÁ"
 
 REFERENCE           ZM_TOMB_STAFF_PARTS
-LANG_SPANISH        "Peças de pessoal"
+LANG_SPANISH        "PEÇAS DE PESSOAL"
 
 REFERENCE           ZM_TOMB_TAKE_BEACON
-LANG_SPANISH        "Segure^3[{+activate}]^7para pegar o Sinalizador de Artilharia"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA PEGAR O SINALIZADOR DE ARTILHARIA"
 
 REFERENCE           ZM_TOMB_TELE
-LANG_SPANISH        "Segure^3[{+activate}]^7para acessar o Teletransportador"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA ACESSAR O TELETRANSPORTADOR"
 
 REFERENCE           ZM_TOMB_TELEPORT_BUY
-LANG_SPANISH        "Segure^3[{+activate}]^7para acessar o Teletransportador [Custo: &&1 ]"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA ACESSAR O TELETRANSPORTADOR [CUSTO: &&1 ]"
 
 REFERENCE           ZM_TOMB_TNKC
-LANG_SPANISH        "Motor do tanque esfriando"
+LANG_SPANISH        "MOTOR DO TANQUE ESFRIANDO"
 
 REFERENCE           ZM_TOMB_TNKM
-LANG_SPANISH        "O tanque está em movimento"
+LANG_SPANISH        "O TANQUE ESTÁ EM MOVIMENTO"
 
 REFERENCE           ZM_TOMB_TQ
-LANG_SPANISH        "Segure^3[{+activate}]^7para pegar o Maxis Drone"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA PEGAR O MAXIS DRONE"
 
 REFERENCE           ZM_TOMB_X2AT
-LANG_SPANISH        "Segure^3[{+activate}]^7para ativar o Tanque [Custo: &&1 ]"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA ATIVAR O TANQUE [CUSTO: &&1 ]"
 
 REFERENCE           ZM_TOMB_X2ATF
-LANG_SPANISH        "Segure^3[{+activate}]^7para ativar o Tanque"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA ATIVAR O TANQUE"
 
 REFERENCE           ZM_TOMB_X2CT
-LANG_SPANISH        "Segure^3[{+activate}]^7para chamar o tanque [Custo: &&1 ]"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA CHAMAR O TANQUE [CUSTO: &&1 ]"
 
 REFERENCE           ZM_TOMB_X2D
-LANG_SPANISH        "Segure^3[{+activate}]^7para cavar"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA CAVAR"
 
 REFERENCE           ZM_TOMB_X2PU
-LANG_SPANISH        "Segure^3[{+activate}]^7 por &&1"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7 POR &&1"
 
 REFERENCE           ZM_TOMB_ZC
-LANG_SPANISH        "A energia deve estar ligada"
+LANG_SPANISH        "A ENERGIA DEVE ESTAR LIGADA"
 
 REFERENCE           ZM_TOMB_ZCIP
-LANG_SPANISH        "Um gerador de conversão 115 está sendo ligado"
+LANG_SPANISH        "UM GERADOR DE CONVERSÃO 115 ESTÁ SENDO LIGADO"
 
 REFERENCE           ZM_TOMB_ZOMBIE_SHIELD
-LANG_SPANISH        "Escudo Zumbi"
+LANG_SPANISH        "ESCUDO ZUMBI"
 
 REFERENCE           ZM_TOMB_ZOMBIE_STAFF_PICKUP
-LANG_SPANISH        "Segure^3[{+activate}]^7para a equipe"
+LANG_SPANISH        "SEGURE^3[{+activate}]^7PARA A EQUIPE"
 
 REFERENCE           ZM_TOMB_ZONE_RECAPTURE_IN_PROGRESS
-LANG_SPANISH        "Um gerador de conversão 115 está sendo atacado"
+LANG_SPANISH        "UM GERADOR DE CONVERSÃO 115 ESTÁ SENDO ATACADO"
 

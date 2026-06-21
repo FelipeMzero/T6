@@ -3,436 +3,436 @@ CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_05_003A_HARP_D
-LANG_SPANISH        "^1Harper: ^7The rooftops will give us a better vantage point to locate Menendez."
+LANG_SPANISH        "^1HARPER: ^7THE ROOFTOPS WILL GIVE US A BETTER VANTAGE POINT TO LOCATE MENENDEZ."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_05_010A_SECT_D
-LANG_SPANISH        "^1Section: ^7Secure ropes."
+LANG_SPANISH        "^1SECTION: ^7SECURE ROPES."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_05_011A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Okay, Section... Ready with the scanner?"
+LANG_SPANISH        "^1HARPER: ^7OKAY, SECTION... READY WITH THE SCANNER?"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_05_012A_HARP_D
-LANG_SPANISH        "^1Harper: ^7No shortage of suspects."
+LANG_SPANISH        "^1HARPER: ^7NO SHORTAGE OF SUSPECTS."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_05_013A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Scan the entire area until you get a positive ID on Menendez."
+LANG_SPANISH        "^1HARPER: ^7SCAN THE ENTIRE AREA UNTIL YOU GET A POSITIVE ID ON MENENDEZ."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_05_014A_SECT_D
-LANG_SPANISH        "^1Section: ^7ID Confirmed.  That's him."
+LANG_SPANISH        "^1SECTION: ^7ID CONFIRMED.  THAT'S HIM."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_05_029A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Take the one on the right.  On your go..."
+LANG_SPANISH        "^1HARPER: ^7TAKE THE ONE ON THE RIGHT.  ON YOUR GO..."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_05_038A_HARP_D
-LANG_SPANISH        "^1Harper: ^7We know he's here somewhere."
+LANG_SPANISH        "^1HARPER: ^7WE KNOW HE'S HERE SOMEWHERE."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_05_039A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Keep looking 'til you find him."
+LANG_SPANISH        "^1HARPER: ^7KEEP LOOKING 'TIL YOU FIND HIM."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_001A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Activity's ahead.  Looks like we're on the right track.  Let's go."
+LANG_SPANISH        "^1HARPER: ^7ACTIVITY'S AHEAD.  LOOKS LIKE WE'RE ON THE RIGHT TRACK.  LET'S GO."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_004A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Dammit, Section!  We've been made!"
+LANG_SPANISH        "^1HARPER: ^7DAMMIT, SECTION!  WE'VE BEEN MADE!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_004A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Section!  We've been made!"
+LANG_SPANISH        "^1HARPER: ^7SECTION!  WE'VE BEEN MADE!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_005A_HARP_D
-LANG_SPANISH        "^1Harper: ^7You've alerted the base."
+LANG_SPANISH        "^1HARPER: ^7YOU'VE ALERTED THE BASE."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_011A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Come on.  We'll find a better vantage point."
+LANG_SPANISH        "^1HARPER: ^7COME ON.  WE'LL FIND A BETTER VANTAGE POINT."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_019A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Hey!  That's it!  It's him!"
+LANG_SPANISH        "^1HARPER: ^7HEY!  THAT'S IT!  IT'S HIM!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_020A_SECT_D
-LANG_SPANISH        "^1Section: ^7Defalco."
+LANG_SPANISH        "^1SECTION: ^7DEFALCO."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_029A_HARP_D
-LANG_SPANISH        "^1Harper: ^7These drones are really... me off."
+LANG_SPANISH        "^1HARPER: ^7THESE DRONES ARE REALLY... ME OFF."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_030A_HARP_D
-LANG_SPANISH        "^1Harper: ^7In here!"
+LANG_SPANISH        "^1HARPER: ^7IN HERE!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_031A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Let's go, now!  We can't lose Menendez!"
+LANG_SPANISH        "^1HARPER: ^7LET'S GO, NOW!  WE CAN'T LOSE MENENDEZ!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_032A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Let it pass."
+LANG_SPANISH        "^1HARPER: ^7LET IT PASS."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_032A_SECT_D
-LANG_SPANISH        "^1Section: ^7Can't get a clear signal."
+LANG_SPANISH        "^1SECTION: ^7CAN'T GET A CLEAR SIGNAL."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_033A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Let's get going.  Come on."
+LANG_SPANISH        "^1HARPER: ^7LET'S GET GOING.  COME ON."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_034A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Looks like Intel was right.  Menendez is in bed with the ISI."
+LANG_SPANISH        "^1HARPER: ^7LOOKS LIKE INTEL WAS RIGHT.  MENENDEZ IS IN BED WITH THE ISI."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_035A_SECT_D
-LANG_SPANISH        "^1Section: ^7They're moving out of range."
+LANG_SPANISH        "^1SECTION: ^7THEY'RE MOVING OUT OF RANGE."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_036A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Here they come.  Better get low."
+LANG_SPANISH        "^1HARPER: ^7HERE THEY COME.  BETTER GET LOW."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_037A_SECT_D
-LANG_SPANISH        "^1Section: ^7You getting any of this, Harper?"
+LANG_SPANISH        "^1SECTION: ^7YOU GETTING ANY OF THIS, HARPER?"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_038A_HARP_D
-LANG_SPANISH        "^1Harper: ^7They're talking about the downed drone."
+LANG_SPANISH        "^1HARPER: ^7THEY'RE TALKING ABOUT THE DOWNED DRONE."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_039A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Can't make out much else."
+LANG_SPANISH        "^1HARPER: ^7CAN'T MAKE OUT MUCH ELSE."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_040A_HARP_D
-LANG_SPANISH        "^1Harper: ^7We'll run a full translation analysis when we get back to the Obama."
+LANG_SPANISH        "^1HARPER: ^7WE'LL RUN A FULL TRANSLATION ANALYSIS WHEN WE GET BACK TO THE OBAMA."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_041A_SECT_M
-LANG_SPANISH        "^1Section: ^7Dammit... They're moving out of range again."
+LANG_SPANISH        "^1SECTION: ^7DAMMIT... THEY'RE MOVING OUT OF RANGE AGAIN."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_041A_SECT_S
-LANG_SPANISH        "^1Section: ^7They're moving out of range again."
+LANG_SPANISH        "^1SECTION: ^7THEY'RE MOVING OUT OF RANGE AGAIN."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_042A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Let's go."
+LANG_SPANISH        "^1HARPER: ^7LET'S GO."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_043A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Get down, man."
+LANG_SPANISH        "^1HARPER: ^7GET DOWN, MAN."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_044A_HARP_D
-LANG_SPANISH        "^1Harper: ^7You're gonna give away our position."
+LANG_SPANISH        "^1HARPER: ^7YOU'RE GONNA GIVE AWAY OUR POSITION."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_045A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Keep the scanner on them."
+LANG_SPANISH        "^1HARPER: ^7KEEP THE SCANNER ON THEM."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_046A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Come on, Section.  Stay on them."
+LANG_SPANISH        "^1HARPER: ^7COME ON, SECTION.  STAY ON THEM."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_047A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Here comes Menendez."
+LANG_SPANISH        "^1HARPER: ^7HERE COMES MENENDEZ."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_048A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Yeah.  Looks like he's meeting someone else."
+LANG_SPANISH        "^1HARPER: ^7YEAH.  LOOKS LIKE HE'S MEETING SOMEONE ELSE."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_050A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Ah, dammit!  Where the fuck did he go?"
+LANG_SPANISH        "^1HARPER: ^7AH, DAMMIT!  WHERE THE FUCK DID HE GO?"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_050A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Ah...  Where did he go?"
+LANG_SPANISH        "^1HARPER: ^7AH...  WHERE DID HE GO?"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_051A_SECT_D
-LANG_SPANISH        "^1Section: ^7Salazar, we've lost Menendez near your position.  Can you eyeball him?"
+LANG_SPANISH        "^1SECTION: ^7SALAZAR, WE'VE LOST MENENDEZ NEAR YOUR POSITION.  CAN YOU EYEBALL HIM?"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_052A_SALA_D
-LANG_SPANISH        "^1Salazar: ^7Got him.  He's entering the train yard, south side."
+LANG_SPANISH        "^1SALAZAR: ^7GOT HIM.  HE'S ENTERING THE TRAIN YARD, SOUTH SIDE."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_053A_SECT_D
-LANG_SPANISH        "^1Section: ^7Did you secure transport for evac?"
+LANG_SPANISH        "^1SECTION: ^7DID YOU SECURE TRANSPORT FOR EVAC?"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_054A_SALA_D
-LANG_SPANISH        "^1Salazar: ^7Not yet.  Area's a little too hot."
+LANG_SPANISH        "^1SALAZAR: ^7NOT YET.  AREA'S A LITTLE TOO HOT."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_055A_SECT_D
-LANG_SPANISH        "^1Section: ^7Stay on it."
+LANG_SPANISH        "^1SECTION: ^7STAY ON IT."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_056A_HARP_D
-LANG_SPANISH        "^1Harper: ^7These guys are in our way."
+LANG_SPANISH        "^1HARPER: ^7THESE GUYS ARE IN OUR WAY."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_057A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Come on.  Train yard's this way.  Let's go."
+LANG_SPANISH        "^1HARPER: ^7COME ON.  TRAIN YARD'S THIS WAY.  LET'S GO."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_059A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Wait up.  Drone's coming around again."
+LANG_SPANISH        "^1HARPER: ^7WAIT UP.  DRONE'S COMING AROUND AGAIN."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_2_06_060A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Stay out of the spotlight, man."
+LANG_SPANISH        "^1HARPER: ^7STAY OUT OF THE SPOTLIGHT, MAN."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_001A_ISI3_D
-LANG_SPANISH        "^1ISI Leader: ^7The drone itself is very different from the older models."
+LANG_SPANISH        "^1ISI LEADER: ^7THE DRONE ITSELF IS VERY DIFFERENT FROM THE OLDER MODELS."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_002A_ISI3_D
-LANG_SPANISH        "^1ISI Leader: ^7Extracting the central computer is not a simple task."
+LANG_SPANISH        "^1ISI LEADER: ^7EXTRACTING THE CENTRAL COMPUTER IS NOT A SIMPLE TASK."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_003A_ISI3_D
-LANG_SPANISH        "^1ISI Leader: ^7A series of security barriers are directly linked to the unit's self destruct mechanism."
+LANG_SPANISH        "^1ISI LEADER: ^7A SERIES OF SECURITY BARRIERS ARE DIRECTLY LINKED TO THE UNIT'S SELF DESTRUCT MECHANISM."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_004A_MENE_D
-LANG_SPANISH        "^1Menendez: ^7Such things are not a concern."
+LANG_SPANISH        "^1MENENDEZ: ^7SUCH THINGS ARE NOT A CONCERN."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_005A_MENE_D
-LANG_SPANISH        "^1Menendez: ^7The meeting on June 17th will resolve any remaining barriers to our success."
+LANG_SPANISH        "^1MENENDEZ: ^7THE MEETING ON JUNE 17TH WILL RESOLVE ANY REMAINING BARRIERS TO OUR SUCCESS."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_010A_HARP_D
-LANG_SPANISH        "^1Harper: ^7At one time the CIA had interrogation rooms like this all over the world."
+LANG_SPANISH        "^1HARPER: ^7AT ONE TIME THE CIA HAD INTERROGATION ROOMS LIKE THIS ALL OVER THE WORLD."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_011A_HARP_D
-LANG_SPANISH        "^1Harper: ^7All of 'em was geared towards some sort of psychological manipulation."
+LANG_SPANISH        "^1HARPER: ^7ALL OF 'EM WAS GEARED TOWARDS SOME SORT OF PSYCHOLOGICAL MANIPULATION."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_012A_HARP_M
-LANG_SPANISH        "^1Harper: ^7God knows the kinda shit that went down back then."
+LANG_SPANISH        "^1HARPER: ^7GOD KNOWS THE KINDA SHIT THAT WENT DOWN BACK THEN."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_012A_HARP_S
-LANG_SPANISH        "^1Harper: ^7The kinda... that went down back then."
+LANG_SPANISH        "^1HARPER: ^7THE KINDA... THAT WENT DOWN BACK THEN."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_014A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Looks like we got to get wet again."
+LANG_SPANISH        "^1HARPER: ^7LOOKS LIKE WE GOT TO GET WET AGAIN."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_015A_HARP_D
-LANG_SPANISH        "^1Harper: ^7They should be right above us."
+LANG_SPANISH        "^1HARPER: ^7THEY SHOULD BE RIGHT ABOVE US."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_016A_SECT_D
-LANG_SPANISH        "^1Section: ^7Okay... Let's try this again."
+LANG_SPANISH        "^1SECTION: ^7OKAY... LET'S TRY THIS AGAIN."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_017A_MENE_D
-LANG_SPANISH        "^1Menendez: ^7Of course.  Not only am I aware of the infiltration..."
+LANG_SPANISH        "^1MENENDEZ: ^7OF COURSE.  NOT ONLY AM I AWARE OF THE INFILTRATION..."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_018A_MENE_D
-LANG_SPANISH        "^1Menendez: ^7...I engineered it."
+LANG_SPANISH        "^1MENENDEZ: ^7...I ENGINEERED IT."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_019A_HARP_M
-LANG_SPANISH        "^1Harper: ^7DAMN!"
+LANG_SPANISH        "^1HARPER: ^7DAMN!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_021A_HARP_D
-LANG_SPANISH        "^1Harper: ^7He's on to us, Section!"
+LANG_SPANISH        "^1HARPER: ^7HE'S ON TO US, SECTION!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_022A_SALA_D
-LANG_SPANISH        "^1Salazar: ^7CLAWs in position.  Maximus is on the roof.  Brutus in the street."
+LANG_SPANISH        "^1SALAZAR: ^7CLAWS IN POSITION.  MAXIMUS IS ON THE ROOF.  BRUTUS IN THE STREET."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_025A_SECT_D
-LANG_SPANISH        "^1Section: ^7What about the vehicles for evac?"
+LANG_SPANISH        "^1SECTION: ^7WHAT ABOUT THE VEHICLES FOR EVAC?"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_026A_SECT_D
-LANG_SPANISH        "^1Section: ^7You're a miracle worker, Salazar."
+LANG_SPANISH        "^1SECTION: ^7YOU'RE A MIRACLE WORKER, SALAZAR."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_027A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Shit!  Half of fuckin' Pakistan's outside that damn door!"
+LANG_SPANISH        "^1HARPER: ^7SHIT!  HALF OF FUCKIN' PAKISTAN'S OUTSIDE THAT DAMN DOOR!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_027A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Half of Pakistan's outside that door!"
+LANG_SPANISH        "^1HARPER: ^7HALF OF PAKISTAN'S OUTSIDE THAT DOOR!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_028A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Gonna need Brutus and Maximus to keep the heat off!"
+LANG_SPANISH        "^1HARPER: ^7GONNA NEED BRUTUS AND MAXIMUS TO KEEP THE HEAT OFF!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_029A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Open up the mini-gun and cut 'em down."
+LANG_SPANISH        "^1HARPER: ^7OPEN UP THE MINI-GUN AND CUT 'EM DOWN."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_030A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Hit 'em with some grenades!"
+LANG_SPANISH        "^1HARPER: ^7HIT 'EM WITH SOME GRENADES!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_031A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Turn the flamethrower loose!  Fry the son of a bitches!"
+LANG_SPANISH        "^1HARPER: ^7TURN THE FLAMETHROWER LOOSE!  FRY THE SON OF A BITCHES!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_031A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Turn the flamethrower loose!  Fry the son of a..."
+LANG_SPANISH        "^1HARPER: ^7TURN THE FLAMETHROWER LOOSE!  FRY THE SON OF A..."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_032A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Yeah!"
+LANG_SPANISH        "^1HARPER: ^7YEAH!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_033A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Maximus POV shows a drone right above us."
+LANG_SPANISH        "^1HARPER: ^7MAXIMUS POV SHOWS A DRONE RIGHT ABOVE US."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_035A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Switch control and take it down!"
+LANG_SPANISH        "^1HARPER: ^7SWITCH CONTROL AND TAKE IT DOWN!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_039A_HARP_D
-LANG_SPANISH        "^1Harper: ^7It's now or never, man!"
+LANG_SPANISH        "^1HARPER: ^7IT'S NOW OR NEVER, MAN!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_043A_SECT_D
-LANG_SPANISH        "^1Section: ^7Salazar!"
+LANG_SPANISH        "^1SECTION: ^7SALAZAR!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_044A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Ain't you a sight for sore eyes!  Where you been?"
+LANG_SPANISH        "^1HARPER: ^7AIN'T YOU A SIGHT FOR SORE EYES!  WHERE YOU BEEN?"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_045A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Alright..."
+LANG_SPANISH        "^1HARPER: ^7ALRIGHT..."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_046A_HARP_D
-LANG_SPANISH        "^1Harper: ^7You ready to put that hacked drone to good use, Section?"
+LANG_SPANISH        "^1HARPER: ^7YOU READY TO PUT THAT HACKED DRONE TO GOOD USE, SECTION?"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_058A_SALA_D
-LANG_SPANISH        "^1Salazar: ^7Secured.  I've re-programed an enemy drone to support our extraction."
+LANG_SPANISH        "^1SALAZAR: ^7SECURED.  I'VE RE-PROGRAMED AN ENEMY DRONE TO SUPPORT OUR EXTRACTION."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_060A_SECT_D
-LANG_SPANISH        "^1Section: ^7Salazar!  Where are you?"
+LANG_SPANISH        "^1SECTION: ^7SALAZAR!  WHERE ARE YOU?"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_061A_SALA_D
-LANG_SPANISH        "^1Salazar: ^730 seconds out."
+LANG_SPANISH        "^1SALAZAR: ^730 SECONDS OUT."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_064A_HARP_D
-LANG_SPANISH        "^1Harper: ^7The drone's hammering Brutus!"
+LANG_SPANISH        "^1HARPER: ^7THE DRONE'S HAMMERING BRUTUS!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_065A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Use Maximus!  Take it out from the roof!  Go!"
+LANG_SPANISH        "^1HARPER: ^7USE MAXIMUS!  TAKE IT OUT FROM THE ROOF!  GO!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_067A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Come on, man!  Shoot that fucking drone!"
+LANG_SPANISH        "^1HARPER: ^7COME ON, MAN!  SHOOT THAT FUCKING DRONE!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_067A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Come on, man!  Shoot that drone!"
+LANG_SPANISH        "^1HARPER: ^7COME ON, MAN!  SHOOT THAT DRONE!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_068A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Good.  He was really startin' to... me off."
+LANG_SPANISH        "^1HARPER: ^7GOOD.  HE WAS REALLY STARTIN' TO... ME OFF."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_069A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Watch out!  Got RPGs on the rooftops."
+LANG_SPANISH        "^1HARPER: ^7WATCH OUT!  GOT RPGS ON THE ROOFTOPS."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_070A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Clear the streets!"
+LANG_SPANISH        "^1HARPER: ^7CLEAR THE STREETS!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_071A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Keep an eye on the video feed!"
+LANG_SPANISH        "^1HARPER: ^7KEEP AN EYE ON THE VIDEO FEED!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_073A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Section, switch!"
+LANG_SPANISH        "^1HARPER: ^7SECTION, SWITCH!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_074A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Maximus is in fucking pieces!"
+LANG_SPANISH        "^1HARPER: ^7MAXIMUS IS IN FUCKING PIECES!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_074A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Maximus is in pieces!"
+LANG_SPANISH        "^1HARPER: ^7MAXIMUS IS IN PIECES!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_076A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Brutus just got fucking owned!"
+LANG_SPANISH        "^1HARPER: ^7BRUTUS JUST GOT FUCKING OWNED!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_076A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Brutus just got owned!"
+LANG_SPANISH        "^1HARPER: ^7BRUTUS JUST GOT OWNED!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_077A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Fuck, man!  We're surrounded!"
+LANG_SPANISH        "^1HARPER: ^7FUCK, MAN!  WE'RE SURROUNDED!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_077A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Man, we're surrounded!"
+LANG_SPANISH        "^1HARPER: ^7MAN, WE'RE SURROUNDED!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_078A_HARP_D
-LANG_SPANISH        "^1Harper: ^7We got more coming through the back!"
+LANG_SPANISH        "^1HARPER: ^7WE GOT MORE COMING THROUGH THE BACK!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_079A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Drones have turned the street into a killzone."
+LANG_SPANISH        "^1HARPER: ^7DRONES HAVE TURNED THE STREET INTO A KILLZONE."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_080A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Watch yourself!  We'll be torn to shreds as soon as we step outside!"
+LANG_SPANISH        "^1HARPER: ^7WATCH YOURSELF!  WE'LL BE TORN TO SHREDS AS SOON AS WE STEP OUTSIDE!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_081A_SECT_D
-LANG_SPANISH        "^1Section: ^7Admiral, we have commandeered enemy SOC-Ts. Request immediate air support and extraction."
+LANG_SPANISH        "^1SECTION: ^7ADMIRAL, WE HAVE COMMANDEERED ENEMY SOC-TS. REQUEST IMMEDIATE AIR SUPPORT AND EXTRACTION."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_082A_BRIG_M
-LANG_SPANISH        "^1Adm. Briggs: ^7Negative Commander, you got the whole fucking SDC descending on your current position."
+LANG_SPANISH        "^1ADM. BRIGGS: ^7NEGATIVE COMMANDER, YOU GOT THE WHOLE FUCKING SDC DESCENDING ON YOUR CURRENT POSITION."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_082A_BRIG_S
-LANG_SPANISH        "^1Adm. Briggs: ^7Negative Commander, you got the whole SDC descending on your current position."
+LANG_SPANISH        "^1ADM. BRIGGS: ^7NEGATIVE COMMANDER, YOU GOT THE WHOLE SDC DESCENDING ON YOUR CURRENT POSITION."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_083A_BRIG_D
-LANG_SPANISH        "^1Adm. Briggs: ^7You have multiple escape routes through the town. Your only chance is to leave the eye of the storm as fast as you can.  Use the drone to clear safe passage for the SOC-Ts."
+LANG_SPANISH        "^1ADM. BRIGGS: ^7YOU HAVE MULTIPLE ESCAPE ROUTES THROUGH THE TOWN. YOUR ONLY CHANCE IS TO LEAVE THE EYE OF THE STORM AS FAST AS YOU CAN.  USE THE DRONE TO CLEAR SAFE PASSAGE FOR THE SOC-TS."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_084A_SECT_D
-LANG_SPANISH        "^1Section: ^7What if SDC gets to us first, Admiral?"
+LANG_SPANISH        "^1SECTION: ^7WHAT IF SDC GETS TO US FIRST, ADMIRAL?"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_085A_BRIG_M
-LANG_SPANISH        "^1Adm. Briggs: ^7Just hope they're in a really fucking good mood."
+LANG_SPANISH        "^1ADM. BRIGGS: ^7JUST HOPE THEY'RE IN A REALLY FUCKING GOOD MOOD."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_085A_BRIG_S
-LANG_SPANISH        "^1Adm. Briggs: ^7Just hope they're in a really good mood."
+LANG_SPANISH        "^1ADM. BRIGGS: ^7JUST HOPE THEY'RE IN A REALLY GOOD MOOD."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_086A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Ain't getting anything else with that train in the way.  Let's move."
+LANG_SPANISH        "^1HARPER: ^7AIN'T GETTING ANYTHING ELSE WITH THAT TRAIN IN THE WAY.  LET'S MOVE."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_087A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Look out!  GRENADE!"
+LANG_SPANISH        "^1HARPER: ^7LOOK OUT!  GRENADE!"
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_01_089A_SALA_D
-LANG_SPANISH        "^1Salazar: ^7Section, they're closing in on you."
+LANG_SPANISH        "^1SALAZAR: ^7SECTION, THEY'RE CLOSING IN ON YOU."
 
 REFERENCE           PAKISTAN_2_VOX_VOX_PAK_2_3_02_001A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Take control of Maximus!"
+LANG_SPANISH        "^1HARPER: ^7TAKE CONTROL OF MAXIMUS!"
 
 REFERENCE           PAKISTAN_SHARED_ANTHEM_ALERT_FAIL
-LANG_SPANISH        "Você revelou sua posição."
+LANG_SPANISH        "VOCÊ REVELOU SUA POSIÇÃO."
 
 REFERENCE           PAKISTAN_SHARED_BUS_FAIL
-LANG_SPANISH        "Saia da rua para evitar o ônibus."
+LANG_SPANISH        "SAIA DA RUA PARA EVITAR O ÔNIBUS."
 
 REFERENCE           PAKISTAN_SHARED_BUS_PUSH_F
-LANG_SPANISH        "Tap ^F^3[{+activate}]^7^F to push"
+LANG_SPANISH        "TAP ^F^3[{+ACTIVATE}]^7^F TO PUSH"
 
 REFERENCE           PAKISTAN_SHARED_BUS_RUNOVER
-LANG_SPANISH        "Evite o ônibus."
+LANG_SPANISH        "EVITE O ÔNIBUS."
 
 REFERENCE           PAKISTAN_SHARED_CHOOSE_VEHICLE_TO_FINISH_LEVEL
-LANG_SPANISH        "Pressione ^3[{+activate}]^7 para SOC-T\nPressione ^3[{+stance}]^7 para drone"
+LANG_SPANISH        "PRESSIONE ^3[{+ACTIVATE}]^7 PARA SOC-T\NPRESSIONE ^3[{+STANCE}]^7 PARA DRONE"
 
 REFERENCE           PAKISTAN_SHARED_CHOOSE_VEHICLE_TO_FINISH_LEVEL_KEYBOARD
-LANG_SPANISH        "Pressione ^3[{+activate}]^7 para continuar no SOC-T.\nPressione ^3[{+reload}]^7 para continuar no Drone."
+LANG_SPANISH        "PRESSIONE ^3[{+ACTIVATE}]^7 PARA CONTINUAR NO SOC-T.\NPRESSIONE ^3[{+RELOAD}]^7 PARA CONTINUAR NO DRONE."
 
 REFERENCE           PAKISTAN_SHARED_CLAW_HINT_FLAMETHROWER
-LANG_SPANISH        "Pressione ^3[{+speed_throw}]^7 para disparar o lança-chamas"
+LANG_SPANISH        "PRESSIONE ^3[{+SPEED_THROW}]^7 PARA DISPARAR O LANÇA-CHAMAS"
 
 REFERENCE           PAKISTAN_SHARED_CLAW_HINT_GRENADE
-LANG_SPANISH        "Pressione ^3[{+frag}]^7 para disparar o lançador de granadas."
+LANG_SPANISH        "PRESSIONE ^3[{+FRAG}]^7 PARA DISPARAR O LANÇADOR DE GRANADAS."
 
 REFERENCE           PAKISTAN_SHARED_CLAW_HINT_MINIGUN
-LANG_SPANISH        "Pressione ^3[{+attack}]^7 para disparar a minigun\nPressione ^3[{+frag}]^7 para disparar o lançador de granadas"
+LANG_SPANISH        "PRESSIONE ^3[{+ATTACK}]^7 PARA DISPARAR A MINIGUN\NPRESSIONE ^3[{+FRAG}]^7 PARA DISPARAR O LANÇADOR DE GRANADAS"
 
 REFERENCE           PAKISTAN_SHARED_CLAW_HINT_MOVEMENT
-LANG_SPANISH        "Use ^3[{+movestick}]^7 para mover e ^3[{+lookstick}]^7 para mirar a torre."
+LANG_SPANISH        "USE ^3[{+MOVESTICK}]^7 PARA MOVER E ^3[{+LOOKSTICK}]^7 PARA MIRAR A TORRE."
 
 REFERENCE           PAKISTAN_SHARED_CLAW_HINT_SWITCH
-LANG_SPANISH        "Pressione ^3[{+switchseat}]^7 para mudar qual CLAW você controla a qualquer momento."
+LANG_SPANISH        "PRESSIONE ^3[{+SWITCHSEAT}]^7 PARA MUDAR QUAL CLAW VOCÊ CONTROLA A QUALQUER MOMENTO."
 
 REFERENCE           PAKISTAN_SHARED_CLAW_ONLINE
 LANG_SPANISH        "CLAW: MAXIMUS ONLINE"
 
 REFERENCE           PAKISTAN_SHARED_CLAW_SWITCH_TO
-LANG_SPANISH        "Pressione ^3[{+switchseat}]^7 para mudar para o CLAW"
+LANG_SPANISH        "PRESSIONE ^3[{+SWITCHSEAT}]^7 PARA MUDAR PARA O CLAW"
 
 REFERENCE           PAKISTAN_SHARED_COMMS
 LANG_SPANISH        "COMM LINK OPEN"
 
 REFERENCE           PAKISTAN_SHARED_COURTYARD_WARNING
-LANG_SPANISH        "Você está saindo da área de batalha!"
+LANG_SPANISH        "VOCÊ ESTÁ SAINDO DA ÁREA DE BATALHA!"
 
 REFERENCE           PAKISTAN_SHARED_DIRECT_CLAW_FIRE
-LANG_SPANISH        "Pressione ^3[{+actionslot 1}]^7 para direcionar o fogo da CLAW"
+LANG_SPANISH        "PRESSIONE ^3[{+ACTIONSLOT 1}]^7 PARA DIRECIONAR O FOGO DA CLAW"
 
 REFERENCE           PAKISTAN_SHARED_DRONE_FAIL_SIGHT
-LANG_SPANISH        "Você alertou o drone. \nFique fora dos holofotes."
+LANG_SPANISH        "VOCÊ ALERTOU O DRONE. \NFIQUE FORA DOS HOLOFOTES."
 
 REFERENCE           PAKISTAN_SHARED_DRONE_FAIL_SOUND
-LANG_SPANISH        "Você alertou o drone. \nSons altos chamarão sua atenção."
+LANG_SPANISH        "VOCÊ ALERTOU O DRONE. \NSONS ALTOS CHAMARÃO SUA ATENÇÃO."
 
 REFERENCE           PAKISTAN_SHARED_DRONE_HINT_MISSILE
-LANG_SPANISH        "Pressione ^3[{+speed_throw}]^7 para disparar mísseis"
+LANG_SPANISH        "PRESSIONE ^3[{+SPEED_THROW}]^7 PARA DISPARAR MÍSSEIS"
 
 REFERENCE           PAKISTAN_SHARED_DRONE_HINT_SWITCH
-LANG_SPANISH        "Pressione ^3[{+switchseat}]^7 para acionar o SOC-T"
+LANG_SPANISH        "PRESSIONE ^3[{+SWITCHSEAT}]^7 PARA ACIONAR O SOC-T"
 
 REFERENCE           PAKISTAN_SHARED_DRONE_HINT_TURRET
-LANG_SPANISH        "Pressione ^3[{+attack}]^7 para disparar metralhadora\nPressione ^3[{+speed_throw}]^7 para disparar foguetes"
+LANG_SPANISH        "PRESSIONE ^3[{+ATTACK}]^7 PARA DISPARAR METRALHADORA\NPRESSIONE ^3[{+SPEED_THROW}]^7 PARA DISPARAR FOGUETES"
 
 REFERENCE           PAKISTAN_SHARED_DRONE_MISSILE_LOCK_HELPER
-LANG_SPANISH        "Pressione ^3[{+speed_throw}]^7 para disparar mísseis teleguiados contra alvos"
+LANG_SPANISH        "PRESSIONE ^3[{+SPEED_THROW}]^7 PARA DISPARAR MÍSSEIS TELEGUIADOS CONTRA ALVOS"
 
 REFERENCE           PAKISTAN_SHARED_FAILURE_LOST_SCOT_CONTROL
-LANG_SPANISH        "Falha na missão: Perdeu o controle direcional do SOC-T."
+LANG_SPANISH        "FALHA NA MISSÃO: PERDEU O CONTROLE DIRECIONAL DO SOC-T."
 
 REFERENCE           PAKISTAN_SHARED_FAIL_ID
-LANG_SPANISH        "Você não conseguiu localizar e vigiar Menendez."
+LANG_SPANISH        "VOCÊ NÃO CONSEGUIU LOCALIZAR E VIGIAR MENENDEZ."
 
 REFERENCE           PAKISTAN_SHARED_FAIL_ID_MENENDEZ
-LANG_SPANISH        "You must ID Menendez."
+LANG_SPANISH        "YOU MUST ID MENENDEZ."
 
 REFERENCE           PAKISTAN_SHARED_FAIL_SURVEILLANCE
-LANG_SPANISH        "Failed to record conversation."
+LANG_SPANISH        "FAILED TO RECORD CONVERSATION."
 
 REFERENCE           PAKISTAN_SHARED_FLAMETHROWER_ENABLED
-LANG_SPANISH        "CLAW flamethrower enabled"
+LANG_SPANISH        "CLAW FLAMETHROWER ENABLED"
 
 REFERENCE           PAKISTAN_SHARED_FROGGER_FAIL
-LANG_SPANISH        "You were killed by debris. \nLarge objects do damage on contact."
+LANG_SPANISH        "YOU WERE KILLED BY DEBRIS. \NLARGE OBJECTS DO DAMAGE ON CONTACT."
 
 REFERENCE           PAKISTAN_SHARED_GATE_PUSH_FAIL
-LANG_SPANISH        "Ajude Harper a abrir o portão."
+LANG_SPANISH        "AJUDE HARPER A ABRIR O PORTÃO."
 
 REFERENCE           PAKISTAN_SHARED_GCM_OFFLINE
 LANG_SPANISH        "GCM OFFLINE"
@@ -456,31 +456,31 @@ REFERENCE           PAKISTAN_SHARED_GRAPPLE_STANDBY
 LANG_SPANISH        "STANDING BY..."
 
 REFERENCE           PAKISTAN_SHARED_GRENADE_GRAPPLE
-LANG_SPANISH        "Segure ^3[{+frag}]^7 para mirar"
+LANG_SPANISH        "SEGURE ^3[{+FRAG}]^7 PARA MIRAR"
 
 REFERENCE           PAKISTAN_SHARED_HINT_PRONE
-LANG_SPANISH        "Segure ^3[{+stance}]^7 para propenso"
+LANG_SPANISH        "SEGURE ^3[{+STANCE}]^7 PARA PROPENSO"
 
 REFERENCE           PAKISTAN_SHARED_HINT_PRONE_KEYBOARD
-LANG_SPANISH        "Pressione ^3[{toggleprone}]^7 para inclinar"
+LANG_SPANISH        "PRESSIONE ^3[{TOGGLEPRONE}]^7 PARA INCLINAR"
 
 REFERENCE           PAKISTAN_SHARED_INFO1
-LANG_SPANISH        "First mission critical info recorded"
+LANG_SPANISH        "FIRST MISSION CRITICAL INFO RECORDED"
 
 REFERENCE           PAKISTAN_SHARED_INFO2
-LANG_SPANISH        "Second mission critical info recorded"
+LANG_SPANISH        "SECOND MISSION CRITICAL INFO RECORDED"
 
 REFERENCE           PAKISTAN_SHARED_INFO3
-LANG_SPANISH        "Third mission critical info recorded"
+LANG_SPANISH        "THIRD MISSION CRITICAL INFO RECORDED"
 
 REFERENCE           PAKISTAN_SHARED_INFO_COMPLETE
-LANG_SPANISH        "Record mission critical info: Complete (3 of 3)"
+LANG_SPANISH        "RECORD MISSION CRITICAL INFO: COMPLETE (3 OF 3)"
 
 REFERENCE           PAKISTAN_SHARED_INFO_INCOMPLETE1
-LANG_SPANISH        "Record mission critical info: Incomplete (1 of 3)"
+LANG_SPANISH        "RECORD MISSION CRITICAL INFO: INCOMPLETE (1 OF 3)"
 
 REFERENCE           PAKISTAN_SHARED_INFO_INCOMPLETE2
-LANG_SPANISH        "Record mission critical info: Incomplete (2 of 3)"
+LANG_SPANISH        "RECORD MISSION CRITICAL INFO: INCOMPLETE (2 OF 3)"
 
 REFERENCE           PAKISTAN_SHARED_INTROSCREEN_LINE_1
 LANG_SPANISH        "^L\"FALLEN ANGEL\"^L"
@@ -495,13 +495,13 @@ REFERENCE           PAKISTAN_SHARED_INTROSCREEN_LINE_4
 LANG_SPANISH        "^LJSOC^L FORÇA ANTITERRORISMO"
 
 REFERENCE           PAKISTAN_SHARED_INTROSCREEN_LINE_5
-LANG_SPANISH        "MAY 29th, ^L2025^L"
+LANG_SPANISH        "MAY 29TH, ^L2025^L"
 
 REFERENCE           PAKISTAN_SHARED_KILLED_BY_DRONE
-LANG_SPANISH        "Você foi morto por um drone MQ"
+LANG_SPANISH        "VOCÊ FOI MORTO POR UM DRONE MQ"
 
 REFERENCE           PAKISTAN_SHARED_MELEE_HINT
-LANG_SPANISH        "Pressione^3[{+melee}]^7para corpo a corpo"
+LANG_SPANISH        "PRESSIONE^3[{+MELEE}]^7PARA CORPO A CORPO"
 
 REFERENCE           PAKISTAN_SHARED_MILLIBAR_ZOOM_2X
 LANG_SPANISH        "ZOOM LEVEL: 2X"
@@ -510,133 +510,133 @@ REFERENCE           PAKISTAN_SHARED_MILLIBAR_ZOOM_6X
 LANG_SPANISH        "ZOOM LEVEL: 6X"
 
 REFERENCE           PAKISTAN_SHARED_MOUNT_SOCT_TRIGGER_HINT
-LANG_SPANISH        "Pressione ^3[{+activate}]^7 para entrar no SOC-T."
+LANG_SPANISH        "PRESSIONE ^3[{+ACTIVATE}]^7 PARA ENTRAR NO SOC-T."
 
 REFERENCE           PAKISTAN_SHARED_NON_SUPER_SOCT_FAIL
-LANG_SPANISH        "Seu SOC-T não tem força para passar. Encontre outro caminho."
+LANG_SPANISH        "SEU SOC-T NÃO TEM FORÇA PARA PASSAR. ENCONTRE OUTRO CAMINHO."
 
 REFERENCE           PAKISTAN_SHARED_OBJ_AVOID_DRONES
-LANG_SPANISH        "Evite ser avistado por drones MQ"
+LANG_SPANISH        "EVITE SER AVISTADO POR DRONES MQ"
 
 REFERENCE           PAKISTAN_SHARED_OBJ_BLOCKADE
-LANG_SPANISH        "Destrua o bloqueio"
+LANG_SPANISH        "DESTRUA O BLOQUEIO"
 
 REFERENCE           PAKISTAN_SHARED_OBJ_BUS_ESCAPE
-LANG_SPANISH        "Escape"
+LANG_SPANISH        "ESCAPE"
 
 REFERENCE           PAKISTAN_SHARED_OBJ_CLEAR_RAILYARD
-LANG_SPANISH        "Limpe o pátio ferroviário"
+LANG_SPANISH        "LIMPE O PÁTIO FERROVIÁRIO"
 
 REFERENCE           PAKISTAN_SHARED_OBJ_ESCAPE
-LANG_SPANISH        "Escape Anthem"
+LANG_SPANISH        "ESCAPE ANTHEM"
 
 REFERENCE           PAKISTAN_SHARED_OBJ_EVAC
-LANG_SPANISH        "Vá para o ponto de extração."
+LANG_SPANISH        "VÁ PARA O PONTO DE EXTRAÇÃO."
 
 REFERENCE           PAKISTAN_SHARED_OBJ_GET_TO_BASE
-LANG_SPANISH        "Gain access to Anthem"
+LANG_SPANISH        "GAIN ACCESS TO ANTHEM"
 
 REFERENCE           PAKISTAN_SHARED_OBJ_GET_TO_EXTRACTION_POINT
-LANG_SPANISH        "Chegue ao ponto de extração"
+LANG_SPANISH        "CHEGUE AO PONTO DE EXTRAÇÃO"
 
 REFERENCE           PAKISTAN_SHARED_OBJ_GRAPPLE
-LANG_SPANISH        "Get to observation point"
+LANG_SPANISH        "GET TO OBSERVATION POINT"
 
 REFERENCE           PAKISTAN_SHARED_OBJ_ID_MENENDEZ
-LANG_SPANISH        "Identify Menendez"
+LANG_SPANISH        "IDENTIFY MENENDEZ"
 
 REFERENCE           PAKISTAN_SHARED_OBJ_REACQUIRE
-LANG_SPANISH        "Reacquire Menendez"
+LANG_SPANISH        "REACQUIRE MENENDEZ"
 
 REFERENCE           PAKISTAN_SHARED_OBJ_REACQUIRE_AGAIN
-LANG_SPANISH        "Reacquire Menendez"
+LANG_SPANISH        "REACQUIRE MENENDEZ"
 
 REFERENCE           PAKISTAN_SHARED_OBJ_RECORD_MENENDEZ
-LANG_SPANISH        "Record Menendez's conversation"
+LANG_SPANISH        "RECORD MENENDEZ'S CONVERSATION"
 
 REFERENCE           PAKISTAN_SHARED_OBJ_SALAZAR
-LANG_SPANISH        "Encontro com Salazar"
+LANG_SPANISH        "ENCONTRO COM SALAZAR"
 
 REFERENCE           PAKISTAN_SHARED_OBJ_SURVEIL_MENENDEZ
-LANG_SPANISH        "Surveil Menendez"
+LANG_SPANISH        "SURVEIL MENENDEZ"
 
 REFERENCE           PAKISTAN_SHARED_PERK_CLAW_SUPPORT
-LANG_SPANISH        "Pressione ^3[{+activate}]^7 para remover o bloqueio"
+LANG_SPANISH        "PRESSIONE ^3[{+ACTIVATE}]^7 PARA REMOVER O BLOQUEIO"
 
 REFERENCE           PAKISTAN_SHARED_PERK_GET_FLAMETHROWER
-LANG_SPANISH        "Segure ^3[{+activate}]^7 para hackear o lança-chamas CLAW"
+LANG_SPANISH        "SEGURE ^3[{+ACTIVATE}]^7 PARA HACKEAR O LANÇA-CHAMAS CLAW"
 
 REFERENCE           PAKISTAN_SHARED_PERK_INTRUDER_SOCT
-LANG_SPANISH        "Segure ^3[{+activate}]^7 para cortar"
+LANG_SPANISH        "SEGURE ^3[{+ACTIVATE}]^7 PARA CORTAR"
 
 REFERENCE           PAKISTAN_SHARED_PIPE_FAIL
-LANG_SPANISH        "Desvie dos canos que os chefes estão jogando sobre você."
+LANG_SPANISH        "DESVIE DOS CANOS QUE OS CHEFES ESTÃO JOGANDO SOBRE VOCÊ."
 
 REFERENCE           PAKISTAN_SHARED_PIPE_MELEE_INTERACT_TRIGGER_HINT
-LANG_SPANISH        "Pressione ^3[{+activate}]^7 para descer."
+LANG_SPANISH        "PRESSIONE ^3[{+ACTIVATE}]^7 PARA DESCER."
 
 REFERENCE           PAKISTAN_SHARED_PLAYER_DRONE_DESTROYED
-LANG_SPANISH        "Drone Destroyed"
+LANG_SPANISH        "DRONE DESTROYED"
 
 REFERENCE           PAKISTAN_SHARED_PLAYER_SWITCH
-LANG_SPANISH        "Pressione ^3[{+actionslot 2}]^7 para voltar para Mason"
+LANG_SPANISH        "PRESSIONE ^3[{+ACTIONSLOT 2}]^7 PARA VOLTAR PARA MASON"
 
 REFERENCE           PAKISTAN_SHARED_ROOFTOP_CLAW_SWITCH
-LANG_SPANISH        "Pressione ^3[{+actionslot 4}]^7 para controlar Maximus"
+LANG_SPANISH        "PRESSIONE ^3[{+ACTIONSLOT 4}]^7 PARA CONTROLAR MAXIMUS"
 
 REFERENCE           PAKISTAN_SHARED_SCOT_DESTROYED
-LANG_SPANISH        "SOC-T Destroyed"
+LANG_SPANISH        "SOC-T DESTROYED"
 
 REFERENCE           PAKISTAN_SHARED_SCOT_DISTANCE_WARNING
-LANG_SPANISH        "Fique perto de Salazar."
+LANG_SPANISH        "FIQUE PERTO DE SALAZAR."
 
 REFERENCE           PAKISTAN_SHARED_SOCT_ABANDON_FAIL
-LANG_SPANISH        "Você abandonou seu time."
+LANG_SPANISH        "VOCÊ ABANDONOU SEU TIME."
 
 REFERENCE           PAKISTAN_SHARED_SOCT_ABANDON_WARNING
-LANG_SPANISH        "Volte para o seu esquadrão."
+LANG_SPANISH        "VOLTE PARA O SEU ESQUADRÃO."
 
 REFERENCE           PAKISTAN_SHARED_SOCT_DISTANCE_FAIL
-LANG_SPANISH        "Você não conseguiu ficar com Salazar."
+LANG_SPANISH        "VOCÊ NÃO CONSEGUIU FICAR COM SALAZAR."
 
 REFERENCE           PAKISTAN_SHARED_SOCT_DISTANCE_WARNING_2
-LANG_SPANISH        "Acompanhe Salazar, você está muito longe\n"
+LANG_SPANISH        "ACOMPANHE SALAZAR, VOCÊ ESTÁ MUITO LONGE\N"
 
 REFERENCE           PAKISTAN_SHARED_SOCT_DISTANCE_WARNING_3
-LANG_SPANISH        "Aviso final, fique perto de Salazar"
+LANG_SPANISH        "AVISO FINAL, FIQUE PERTO DE SALAZAR"
 
 REFERENCE           PAKISTAN_SHARED_SOCT_HINT_BOOST
-LANG_SPANISH        "Pressione ^3[{+gostand}]^7 para aumentar"
+LANG_SPANISH        "PRESSIONE ^3[{+GOSTAND}]^7 PARA AUMENTAR"
 
 REFERENCE           PAKISTAN_SHARED_SOCT_HINT_BRAKE
-LANG_SPANISH        "Segure ^3[{+speed_throw}]^7 para frear/reverter"
+LANG_SPANISH        "SEGURE ^3[{+SPEED_THROW}]^7 PARA FREAR/REVERTER"
 
 REFERENCE           PAKISTAN_SHARED_SOCT_HINT_GAS
-LANG_SPANISH        "Pressione ^3[{+gas}]^7 para acelerar"
+LANG_SPANISH        "PRESSIONE ^3[{+GAS}]^7 PARA ACELERAR"
 
 REFERENCE           PAKISTAN_SHARED_SOCT_HINT_RAM
-LANG_SPANISH        "Pressione ^3[{+gostand}]^7 para aumentar"
+LANG_SPANISH        "PRESSIONE ^3[{+GOSTAND}]^7 PARA AUMENTAR"
 
 REFERENCE           PAKISTAN_SHARED_SOCT_HINT_STEER
-LANG_SPANISH        "Use ^3[{+strafestick}]^7 para dirigir"
+LANG_SPANISH        "USE ^3[{+STRAFESTICK}]^7 PARA DIRIGIR"
 
 REFERENCE           PAKISTAN_SHARED_SOCT_INFO
 LANG_SPANISH        "SOC-T INTEL ACQUIRED"
 
 REFERENCE           PAKISTAN_SHARED_SOCT_SPEED_FAIL
-LANG_SPANISH        "Continue andando para chegar ao local de evacuação"
+LANG_SPANISH        "CONTINUE ANDANDO PARA CHEGAR AO LOCAL DE EVACUAÇÃO"
 
 REFERENCE           PAKISTAN_SHARED_SOCT_SPEED_WARNING_1
-LANG_SPANISH        "Continue se movendo para o local de evacuação"
+LANG_SPANISH        "CONTINUE SE MOVENDO PARA O LOCAL DE EVACUAÇÃO"
 
 REFERENCE           PAKISTAN_SHARED_SOCT_SPEED_WARNING_2
-LANG_SPANISH        "Mason vá para o local de evacuação agora"
+LANG_SPANISH        "MASON VÁ PARA O LOCAL DE EVACUAÇÃO AGORA"
 
 REFERENCE           PAKISTAN_SHARED_SOCT_TO_DRONE_HINT
-LANG_SPANISH        "Pressione ^3[{+switchseat}]^7 a qualquer momento para alternar entre o SOC-T e o drone"
+LANG_SPANISH        "PRESSIONE ^3[{+SWITCHSEAT}]^7 A QUALQUER MOMENTO PARA ALTERNAR ENTRE O SOC-T E O DRONE"
 
 REFERENCE           PAKISTAN_SHARED_STREET_CLAW_SWITCH
-LANG_SPANISH        "Pressione ^3[{+actionslot 3}]^7 para controlar Brutus"
+LANG_SPANISH        "PRESSIONE ^3[{+ACTIONSLOT 3}]^7 PARA CONTROLAR BRUTUS"
 
 REFERENCE           PAKISTAN_SHARED_SURVEILLANCE_ACTIVE
 LANG_SPANISH        "SURVEILLANCE ACTIVE"
@@ -648,101 +648,101 @@ REFERENCE           PAKISTAN_SHARED_SURVEILLANCE_INITIALIZE
 LANG_SPANISH        "INITIALIZING SURVEILLANCE"
 
 REFERENCE           PAKISTAN_SHARED_SURV_ACTIVATE
-LANG_SPANISH        "Pressione ^3[{+actionslot 1}]^7 para ativar o modo de vigilância"
+LANG_SPANISH        "PRESSIONE ^3[{+ACTIONSLOT 1}]^7 PARA ATIVAR O MODO DE VIGILÂNCIA"
 
 REFERENCE           PAKISTAN_SHARED_SURV_MODE_HINT
 LANG_SPANISH        "SURVEILLANCE MODE STANDING BY"
 
 REFERENCE           PAKISTAN_SHARED_SURV_TOGGLE
-LANG_SPANISH        "Pressione ^3[{+actionslot 1}]^7 para alternar o modo de vigilância"
+LANG_SPANISH        "PRESSIONE ^3[{+ACTIONSLOT 1}]^7 PARA ALTERNAR O MODO DE VIGILÂNCIA"
 
 REFERENCE           PAKISTAN_SHARED_SURV_ZOOM
-LANG_SPANISH        "Segure ^3[{+speed_throw}]^7 para ampliar"
+LANG_SPANISH        "SEGURE ^3[{+SPEED_THROW}]^7 PARA AMPLIAR"
 
 REFERENCE           SP_OBJECTIVES_AMMO
-LANG_SPANISH        "Munição"
+LANG_SPANISH        "MUNIÇÃO"
 
 REFERENCE           SP_OBJECTIVES_BREACH
-LANG_SPANISH        "Violação"
+LANG_SPANISH        "VIOLAÇÃO"
 
 REFERENCE           SP_OBJECTIVES_CLEAR
-LANG_SPANISH        "Limpar"
+LANG_SPANISH        "LIMPAR"
 
 REFERENCE           SP_OBJECTIVES_CLIMB
-LANG_SPANISH        "Escala"
+LANG_SPANISH        "ESCALA"
 
 REFERENCE           SP_OBJECTIVES_DEFEND
-LANG_SPANISH        "defender"
+LANG_SPANISH        "DEFENDER"
 
 REFERENCE           SP_OBJECTIVES_DESTROY
-LANG_SPANISH        "destruir"
+LANG_SPANISH        "DESTRUIR"
 
 REFERENCE           SP_OBJECTIVES_DETONATE
-LANG_SPANISH        "Detonar"
+LANG_SPANISH        "DETONAR"
 
 REFERENCE           SP_OBJECTIVES_DISABLE
-LANG_SPANISH        "Inutilizável"
+LANG_SPANISH        "INUTILIZÁVEL"
 
 REFERENCE           SP_OBJECTIVES_ENTER
-LANG_SPANISH        "Digitar"
+LANG_SPANISH        "DIGITAR"
 
 REFERENCE           SP_OBJECTIVES_ESCORT
-LANG_SPANISH        "Escolta"
+LANG_SPANISH        "ESCOLTA"
 
 REFERENCE           SP_OBJECTIVES_FOLLOW
-LANG_SPANISH        "Prossiga"
+LANG_SPANISH        "PROSSIGA"
 
 REFERENCE           SP_OBJECTIVES_HELP
-LANG_SPANISH        "Ajuda"
+LANG_SPANISH        "AJUDA"
 
 REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
-LANG_SPANISH        "Eles chegam (helicópteros)"
+LANG_SPANISH        "ELES CHEGAM (HELICÓPTEROS)"
 
 REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
-LANG_SPANISH        "(tanques) chegam"
+LANG_SPANISH        "(TANQUES) CHEGAM"
 
 REFERENCE           SP_OBJECTIVES_INTERACT
-LANG_SPANISH        "Acesso"
+LANG_SPANISH        "ACESSO"
 
 REFERENCE           SP_OBJECTIVES_JUMP
-LANG_SPANISH        "Salto"
+LANG_SPANISH        "SALTO"
 
 REFERENCE           SP_OBJECTIVES_KILL
-LANG_SPANISH        "Matar"
+LANG_SPANISH        "MATAR"
 
 REFERENCE           SP_OBJECTIVES_MELEE
-LANG_SPANISH        "Corpo a corpo"
+LANG_SPANISH        "CORPO A CORPO"
 
 REFERENCE           SP_OBJECTIVES_PICKUP
-LANG_SPANISH        "Escolher"
+LANG_SPANISH        "ESCOLHER"
 
 REFERENCE           SP_OBJECTIVES_PROTECT
-LANG_SPANISH        "Proteger"
+LANG_SPANISH        "PROTEGER"
 
 REFERENCE           SP_OBJECTIVES_RAPPEL
-LANG_SPANISH        "Descer"
+LANG_SPANISH        "DESCER"
 
 REFERENCE           SP_OBJECTIVES_REGROUP
-LANG_SPANISH        "Reagrupar"
+LANG_SPANISH        "REAGRUPAR"
 
 REFERENCE           SP_OBJECTIVES_SEARCH
-LANG_SPANISH        "Procura"
+LANG_SPANISH        "PROCURA"
 
 REFERENCE           SP_OBJECTIVES_SHOOT
-LANG_SPANISH        "Atire"
+LANG_SPANISH        "ATIRE"
 
 REFERENCE           SP_OBJECTIVES_SUPPORT
-LANG_SPANISH        "Apoio"
+LANG_SPANISH        "APOIO"
 
 REFERENCE           SP_OBJECTIVES_SWEEP
-LANG_SPANISH        "Varrer"
+LANG_SPANISH        "VARRER"
 
 REFERENCE           SP_OBJECTIVES_TARGET
-LANG_SPANISH        "Branco"
+LANG_SPANISH        "BRANCO"
 
 REFERENCE           SP_OBJECTIVES_USE
-LANG_SPANISH        "Usar"
+LANG_SPANISH        "USAR"
 
 REFERENCE           SP_OBJECTIVES_WEAPONS
-LANG_SPANISH        "Armas"
+LANG_SPANISH        "ARMAS"
 

@@ -3,43 +3,43 @@ CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           MONSOON_ASD_ANOMALY
-LANG_SPANISH        "Detecting Anomaly..."
+LANG_SPANISH        "DETECTING ANOMALY..."
 
 REFERENCE           MONSOON_ASD_DETECTED
-LANG_SPANISH        "ASD Threat Detected"
+LANG_SPANISH        "ASD THREAT DETECTED"
 
 REFERENCE           MONSOON_CHUTE_DEPLOY
-LANG_SPANISH        "Pressione ^3[{+activate}]^7 para implantar o chute"
+LANG_SPANISH        "PRESSIONE ^3[{+ACTIVATE}]^7 PARA IMPLANTAR O CHUTE"
 
 REFERENCE           MONSOON_CHUTE_DEPLOYED
-LANG_SPANISH        "Chute Deployed"
+LANG_SPANISH        "CHUTE DEPLOYED"
 
 REFERENCE           MONSOON_CHUTE_FAIL
-LANG_SPANISH        "Você não conseguiu implantar seu pára-quedas a tempo"
+LANG_SPANISH        "VOCÊ NÃO CONSEGUIU IMPLANTAR SEU PÁRA-QUEDAS A TEMPO"
 
 REFERENCE           MONSOON_ERIK_CONTAINER_HINT
-LANG_SPANISH        "Segure^3[{+ativar}]^7para abrir"
+LANG_SPANISH        "SEGURE^3[{+ATIVAR}]^7PARA ABRIR"
 
 REFERENCE           MONSOON_FAIL_HARPER_SWING
-LANG_SPANISH        "You failed to support Harper."
+LANG_SPANISH        "YOU FAILED TO SUPPORT HARPER."
 
 REFERENCE           MONSOON_FAIL_PLAYER_SWING
-LANG_SPANISH        "Você não conseguiu agarrar a face da rocha."
+LANG_SPANISH        "VOCÊ NÃO CONSEGUIU AGARRAR A FACE DA ROCHA."
 
 REFERENCE           MONSOON_FLIGHT_PATH
-LANG_SPANISH        "Você se afastou muito da trajetória de vôo"
+LANG_SPANISH        "VOCÊ SE AFASTOU MUITO DA TRAJETÓRIA DE VÔO"
 
 REFERENCE           MONSOON_HACKING_CHAMBER_DOOR
-LANG_SPANISH        "Hackeando..."
+LANG_SPANISH        "HACKEANDO..."
 
 REFERENCE           MONSOON_HACKING_CHAMBER_DOOR_DONE
-LANG_SPANISH        "Buffer Overflow Complete"
+LANG_SPANISH        "BUFFER OVERFLOW COMPLETE"
 
 REFERENCE           MONSOON_HACKING_CHAMBER_DOOR_PORT
-LANG_SPANISH        "Port Redirection..."
+LANG_SPANISH        "PORT REDIRECTION..."
 
 REFERENCE           MONSOON_HELI_TURRET
-LANG_SPANISH        "Pressione ^3[{+activate}]^7 para usar a torre"
+LANG_SPANISH        "PRESSIONE ^3[{+ACTIVATE}]^7 PARA USAR A TORRE"
 
 REFERENCE           MONSOON_IDKFA
 LANG_SPANISH        "IDKFA..."
@@ -57,830 +57,830 @@ REFERENCE           MONSOON_INTROSCREEN_LINE_4
 LANG_SPANISH        "^LJSOC^L FORÇA ANTITERRORISMO"
 
 REFERENCE           MONSOON_INTROSCREEN_LINE_5
-LANG_SPANISH        "APRIL 20th, ^L2025^L"
+LANG_SPANISH        "APRIL 20TH, ^L2025^L"
 
 REFERENCE           MONSOON_JUMP_FAIL
-LANG_SPANISH        "Você não conseguiu saltar do ponto de lançamento calculado"
+LANG_SPANISH        "VOCÊ NÃO CONSEGUIU SALTAR DO PONTO DE LANÇAMENTO CALCULADO"
 
 REFERENCE           MONSOON_J_5_ACTIVATING
-LANG_SPANISH        "Activating J-5..."
+LANG_SPANISH        "ACTIVATING J-5..."
 
 REFERENCE           MONSOON_J_5_DEAD
 LANG_SPANISH        "J-5 :("
 
 REFERENCE           MONSOON_LIFT_PROMPT
-LANG_SPANISH        "Segure ^3[{+activate}]^7 para usar o elevador"
+LANG_SPANISH        "SEGURE ^3[{+ACTIVATE}]^7 PARA USAR O ELEVADOR"
 
 REFERENCE           MONSOON_NOT_WORTHY
-LANG_SPANISH        "Você não é digno"
+LANG_SPANISH        "VOCÊ NÃO É DIGNO"
 
 REFERENCE           MONSOON_OBJ_ASD_BOSSES
-LANG_SPANISH        "Destrua os ASD"
+LANG_SPANISH        "DESTRUA OS ASD"
 
 REFERENCE           MONSOON_OBJ_CELERIUM_DRIVE
-LANG_SPANISH        "Obtenha a unidade Celerium"
+LANG_SPANISH        "OBTENHA A UNIDADE CELERIUM"
 
 REFERENCE           MONSOON_OBJ_DESTROY_ASD
-LANG_SPANISH        "Destrua o ASD"
+LANG_SPANISH        "DESTRUA O ASD"
 
 REFERENCE           MONSOON_OBJ_DESTROY_DOOR
-LANG_SPANISH        "Destrua a porta do templo."
+LANG_SPANISH        "DESTRUA A PORTA DO TEMPLO."
 
 REFERENCE           MONSOON_OBJ_ESCAPE_LAB
-LANG_SPANISH        "Encontro com a equipe de extração"
+LANG_SPANISH        "ENCONTRO COM A EQUIPE DE EXTRAÇÃO"
 
 REFERENCE           MONSOON_OBJ_INFILTRATE_LAB
-LANG_SPANISH        "Infiltre-se no centro de pesquisa"
+LANG_SPANISH        "INFILTRE-SE NO CENTRO DE PESQUISA"
 
 REFERENCE           MONSOON_OBJ_INTRO_LEAP
-LANG_SPANISH        "Salte do penhasco para iniciar sua descida"
+LANG_SPANISH        "SALTE DO PENHASCO PARA INICIAR SUA DESCIDA"
 
 REFERENCE           MONSOON_OBJ_LAB_DEFEND
-LANG_SPANISH        "Defenda a área"
+LANG_SPANISH        "DEFENDA A ÁREA"
 
 REFERENCE           MONSOON_OBJ_LOWER_LABS
-LANG_SPANISH        "Infiltre-se nos laboratórios inferiores"
+LANG_SPANISH        "INFILTRE-SE NOS LABORATÓRIOS INFERIORES"
 
 REFERENCE           MONSOON_OBJ_OBTAIN_CELERIUM
-LANG_SPANISH        "Obtenha o aipo"
+LANG_SPANISH        "OBTENHA O AIPO"
 
 REFERENCE           MONSOON_OBJ_OPEN_CONTAINER
-LANG_SPANISH        "Abrir contêiner"
+LANG_SPANISH        "ABRIR CONTÊINER"
 
 REFERENCE           MONSOON_OBJ_OPEN_VAULT
-LANG_SPANISH        "Cofre aberto"
+LANG_SPANISH        "COFRE ABERTO"
 
 REFERENCE           MONSOON_OBJ_REACH_LAB
-LANG_SPANISH        "Investigue a base"
+LANG_SPANISH        "INVESTIGUE A BASE"
 
 REFERENCE           MONSOON_OBJ_SALAZAR_CROSBY
-LANG_SPANISH        "Encontro com Salazar e Crosby"
+LANG_SPANISH        "ENCONTRO COM SALAZAR E CROSBY"
 
 REFERENCE           MONSOON_OBJ_WINGSUIT_LAND
-LANG_SPANISH        "Alcance o LZ"
+LANG_SPANISH        "ALCANCE O LZ"
 
 REFERENCE           MONSOON_PLAYER_ASD_HINT
-LANG_SPANISH        "Segure ^3[{+activate}]^7 para forçar abertura"
+LANG_SPANISH        "SEGURE ^3[{+ACTIVATE}]^7 PARA FORÇAR ABERTURA"
 
 REFERENCE           MONSOON_PLAYER_SHIELD_HINT
-LANG_SPANISH        "Segure ^3[{+activate}]^7 para escudo"
+LANG_SPANISH        "SEGURE ^3[{+ACTIVATE}]^7 PARA ESCUDO"
 
 REFERENCE           MONSOON_POI_HELI
-LANG_SPANISH        "Drone Heli Class"
+LANG_SPANISH        "DRONE HELI CLASS"
 
 REFERENCE           MONSOON_POI_HOSTILES
-LANG_SPANISH        "Multiple Hostiles"
+LANG_SPANISH        "MULTIPLE HOSTILES"
 
 REFERENCE           MONSOON_POI_LIFT
-LANG_SPANISH        "Operational Lift"
+LANG_SPANISH        "OPERATIONAL LIFT"
 
 REFERENCE           MONSOON_POI_SCANNING
-LANG_SPANISH        "Scanning..."
+LANG_SPANISH        "SCANNING..."
 
 REFERENCE           MONSOON_POI_SENTRY
-LANG_SPANISH        "Automated Sentry Gun"
+LANG_SPANISH        "AUTOMATED SENTRY GUN"
 
 REFERENCE           MONSOON_PROMPT_GLOVES_ON
-LANG_SPANISH        "Pressione ^3[{+speed_throw}]^7 e ^3[{+attack}]^7 para anexar"
+LANG_SPANISH        "PRESSIONE ^3[{+SPEED_THROW}]^7 E ^3[{+ATTACK}]^7 PARA ANEXAR"
 
 REFERENCE           MONSOON_PROMPT_GOGGLES_LOOK
-LANG_SPANISH        "Use ^3[{+lookstick}]^7 para olhar ao redor."
+LANG_SPANISH        "USE ^3[{+LOOKSTICK}]^7 PARA OLHAR AO REDOR."
 
 REFERENCE           MONSOON_PROMPT_HARPER_FALL
-LANG_SPANISH        "Pressione ^3[{+speed_throw}]^7 para sinalizar Harper"
+LANG_SPANISH        "PRESSIONE ^3[{+SPEED_THROW}]^7 PARA SINALIZAR HARPER"
 
 REFERENCE           MONSOON_PROMPT_PLAYER_FALL
-LANG_SPANISH        "Pressione ^3[{+gostand}]^7 para balançar"
+LANG_SPANISH        "PRESSIONE ^3[{+GOSTAND}]^7 PARA BALANÇAR"
 
 REFERENCE           MONSOON_PROMPT_SWING
-LANG_SPANISH        "^3[{+lsleft}]^7 to swing fulcrum"
+LANG_SPANISH        "^3[{+LSLEFT}]^7 TO SWING FULCRUM"
 
 REFERENCE           MONSOON_PROMPT_WINGS
-LANG_SPANISH        "Pressione ^3[{+speed_throw}]^7 e ^3[{+attack}]^7 para implantar o wingsuit"
+LANG_SPANISH        "PRESSIONE ^3[{+SPEED_THROW}]^7 E ^3[{+ATTACK}]^7 PARA IMPLANTAR O WINGSUIT"
 
 REFERENCE           MONSOON_RIOTSHIELD_HINT
-LANG_SPANISH        "Pressione ^3[{+attack}]^7 para plantar"
+LANG_SPANISH        "PRESSIONE ^3[{+ATTACK}]^7 PARA PLANTAR"
 
 REFERENCE           MONSOON_TEMPLE_TUTORIAL
-LANG_SPANISH        "Use rodadas explosivas para destruir a porta"
+LANG_SPANISH        "USE RODADAS EXPLOSIVAS PARA DESTRUIR A PORTA"
 
 REFERENCE           MONSOON_TUTORIAL_TITUS
-LANG_SPANISH        "Pressione ^3[{+actionslot 3}]^7 para selecionar flechas de retorno"
+LANG_SPANISH        "PRESSIONE ^3[{+ACTIONSLOT 3}]^7 PARA SELECIONAR FLECHAS DE RETORNO"
 
 REFERENCE           MONSOON_TUTORIAL_WINGSUIT
-LANG_SPANISH        "Use ^3[{+lookstick}]^7 para dirigir"
+LANG_SPANISH        "USE ^3[{+LOOKSTICK}]^7 PARA DIRIGIR"
 
 REFERENCE           MONSOON_TUTORIAL_WINGSUIT_LEGACY
-LANG_SPANISH        "Use ^3[{+movestick}]^7 para dirigir"
+LANG_SPANISH        "USE ^3[{+MOVESTICK}]^7 PARA DIRIGIR"
 
 REFERENCE           MONSOON_TUTORIAL_WINGSUIT_PC
-LANG_SPANISH        "Segure ^3[{+breath_sprint}]^7 enquanto usa ^3[{+lookstick}]^7 para ajudar com o ângulo de direção."
+LANG_SPANISH        "SEGURE ^3[{+BREATH_SPRINT}]^7 ENQUANTO USA ^3[{+LOOKSTICK}]^7 PARA AJUDAR COM O ÂNGULO DE DIREÇÃO."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_01_001A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Well look at that.  Menendez got a whole private fucking army hidden out there."
+LANG_SPANISH        "^1HARPER: ^7WELL LOOK AT THAT.  MENENDEZ GOT A WHOLE PRIVATE FUCKING ARMY HIDDEN OUT THERE."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_01_001A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Well look at that.  Menendez got a whole private... army hidden out there."
+LANG_SPANISH        "^1HARPER: ^7WELL LOOK AT THAT.  MENENDEZ GOT A WHOLE PRIVATE... ARMY HIDDEN OUT THERE."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_01_001A_SECT_D
-LANG_SPANISH        "^1Section: ^7Cubans.  Elite rank.  State of the art tech."
+LANG_SPANISH        "^1SECTION: ^7CUBANS.  ELITE RANK.  STATE OF THE ART TECH."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_01_002A_HARP_D
-LANG_SPANISH        "^1Harper: ^7How many followers does Cordis Die have right now?  What, a billion people?"
+LANG_SPANISH        "^1HARPER: ^7HOW MANY FOLLOWERS DOES CORDIS DIE HAVE RIGHT NOW?  WHAT, A BILLION PEOPLE?"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_01_003A_SECT_D
-LANG_SPANISH        "^1Section: ^7Try two billion, who'll never believe their leader's a terrorist.  They think Menendez is their savior."
+LANG_SPANISH        "^1SECTION: ^7TRY TWO BILLION, WHO'LL NEVER BELIEVE THEIR LEADER'S A TERRORIST.  THEY THINK MENENDEZ IS THEIR SAVIOR."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_01_004A_HARP_M
-LANG_SPANISH        "^1Harper: ^7They've got a hell of a disappointment coming.  That's all I could say."
+LANG_SPANISH        "^1HARPER: ^7THEY'VE GOT A HELL OF A DISAPPOINTMENT COMING.  THAT'S ALL I COULD SAY."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_01_004A_HARP_S
-LANG_SPANISH        "^1Harper: ^7They've got... a disappointment coming.  That's all I could say."
+LANG_SPANISH        "^1HARPER: ^7THEY'VE GOT... A DISAPPOINTMENT COMING.  THAT'S ALL I COULD SAY."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_01_005A_SECT_D
-LANG_SPANISH        "^1Section: ^7Time to go see what Menendez has got hidden down there."
+LANG_SPANISH        "^1SECTION: ^7TIME TO GO SEE WHAT MENENDEZ HAS GOT HIDDEN DOWN THERE."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_01_007A_SECT_D
-LANG_SPANISH        "^1Section: ^7You ready, Harper?"
+LANG_SPANISH        "^1SECTION: ^7YOU READY, HARPER?"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_01_008A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Keep momentum on your swing."
+LANG_SPANISH        "^1HARPER: ^7KEEP MOMENTUM ON YOUR SWING."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_01_009A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Don't wanna be left hangin'."
+LANG_SPANISH        "^1HARPER: ^7DON'T WANNA BE LEFT HANGIN'."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_01_010A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Surface is a little uneven.  Jam hard with the nano gloves."
+LANG_SPANISH        "^1HARPER: ^7SURFACE IS A LITTLE UNEVEN.  JAM HARD WITH THE NANO GLOVES."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_01_011A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Okay, hotshot.  Your turn."
+LANG_SPANISH        "^1HARPER: ^7OKAY, HOTSHOT.  YOUR TURN."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_01_012A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Ready?"
+LANG_SPANISH        "^1HARPER: ^7READY?"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_01_013A_SECT_D
-LANG_SPANISH        "^1Section: ^7You set?"
+LANG_SPANISH        "^1SECTION: ^7YOU SET?"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_01_014A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Waitin' on you, sugar."
+LANG_SPANISH        "^1HARPER: ^7WAITIN' ON YOU, SUGAR."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_01_015A_SECT_D
-LANG_SPANISH        "^1Section: ^7So far so good."
+LANG_SPANISH        "^1SECTION: ^7SO FAR SO GOOD."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_01_016A_SECT_D
-LANG_SPANISH        "^1Section: ^7One more time.  Let's go!"
+LANG_SPANISH        "^1SECTION: ^7ONE MORE TIME.  LET'S GO!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_01_017A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Come on, brother.  We got shit to do."
+LANG_SPANISH        "^1HARPER: ^7COME ON, BROTHER.  WE GOT SHIT TO DO."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_01_017A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Come on, brother.  We got things to do."
+LANG_SPANISH        "^1HARPER: ^7COME ON, BROTHER.  WE GOT THINGS TO DO."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_02_001A_SALA_D
-LANG_SPANISH        "^1Salazar: ^7Cut it!"
+LANG_SPANISH        "^1SALAZAR: ^7CUT IT!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_02_002A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Wide open.  Little more than a skeleton crew.  Walk in the park, baby."
+LANG_SPANISH        "^1HARPER: ^7WIDE OPEN.  LITTLE MORE THAN A SKELETON CREW.  WALK IN THE PARK, BABY."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_02_002A_SECT_D
-LANG_SPANISH        "^1Section: ^7That's what Menendez wants his followers to believe.  Trust me... It isn't."
+LANG_SPANISH        "^1SECTION: ^7THAT'S WHAT MENENDEZ WANTS HIS FOLLOWERS TO BELIEVE.  TRUST ME... IT ISN'T."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_02_003A_SALA_D
-LANG_SPANISH        "^1Salazar: ^7No seas idiota.  Do not underestimate Raul Menendez."
+LANG_SPANISH        "^1SALAZAR: ^7NO SEAS IDIOTA.  DO NOT UNDERESTIMATE RAUL MENENDEZ."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_02_003A_SECT_D
-LANG_SPANISH        "^1Section: ^7Crosby, you're up."
+LANG_SPANISH        "^1SECTION: ^7CROSBY, YOU'RE UP."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_02_004A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Ladies first."
+LANG_SPANISH        "^1HARPER: ^7LADIES FIRST."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_02_005A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Alright.  Let's go, bitch."
+LANG_SPANISH        "^1HARPER: ^7ALRIGHT.  LET'S GO, BITCH."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_02_005A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Alright.  Let's go, brotha."
+LANG_SPANISH        "^1HARPER: ^7ALRIGHT.  LET'S GO, BROTHA."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_02_006A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Come on."
+LANG_SPANISH        "^1HARPER: ^7COME ON."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_02_007A_SALA_D
-LANG_SPANISH        "^1Salazar: ^7You okay?"
+LANG_SPANISH        "^1SALAZAR: ^7YOU OKAY?"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_02_008A_CROS_D
-LANG_SPANISH        "^1Crosby: ^7His followers sure did.  And what does Cordis Die mean, exactly?"
+LANG_SPANISH        "^1CROSBY: ^7HIS FOLLOWERS SURE DID.  AND WHAT DOES CORDIS DIE MEAN, EXACTLY?"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_02_009A_CROS_D
-LANG_SPANISH        "^1Crosby: ^7Sounds like something noble."
+LANG_SPANISH        "^1CROSBY: ^7SOUNDS LIKE SOMETHING NOBLE."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_02_010A_HARP_M
-LANG_SPANISH        "^1Harper: ^7It's Latin.  'Heart Day'... some shit like that."
+LANG_SPANISH        "^1HARPER: ^7IT'S LATIN.  'HEART DAY'... SOME SHIT LIKE THAT."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_02_010A_HARP_S
-LANG_SPANISH        "^1Harper: ^7It's Latin.  'Heart Day'... or something like that."
+LANG_SPANISH        "^1HARPER: ^7IT'S LATIN.  'HEART DAY'... OR SOMETHING LIKE THAT."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_02_013A_SECT_D
-LANG_SPANISH        "^1Section: ^7Yeah.  We're okay... thanks to you."
+LANG_SPANISH        "^1SECTION: ^7YEAH.  WE'RE OKAY... THANKS TO YOU."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_02_018A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Come on.  Let's get to it."
+LANG_SPANISH        "^1HARPER: ^7COME ON.  LET'S GET TO IT."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_03_001A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Easy does it."
+LANG_SPANISH        "^1HARPER: ^7EASY DOES IT."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_03_002A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Hey!  You're drifting off course, Section!"
+LANG_SPANISH        "^1HARPER: ^7HEY!  YOU'RE DRIFTING OFF COURSE, SECTION!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_03_003A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Right, man."
+LANG_SPANISH        "^1HARPER: ^7RIGHT, MAN."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_03_005A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Watch the trees!"
+LANG_SPANISH        "^1HARPER: ^7WATCH THE TREES!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_03_006A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Dammit, man!"
+LANG_SPANISH        "^1HARPER: ^7DAMMIT, MAN!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_03_006A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Come on, man!"
+LANG_SPANISH        "^1HARPER: ^7COME ON, MAN!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_03_007A_HARP_D
-LANG_SPANISH        "^1Harper: ^7I've seen Thanksgiving turkeys fly better than you!"
+LANG_SPANISH        "^1HARPER: ^7I'VE SEEN THANKSGIVING TURKEYS FLY BETTER THAN YOU!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_03_008A_HARP_D
-LANG_SPANISH        "^1Harper: ^7There!  The gap in the mountain!"
+LANG_SPANISH        "^1HARPER: ^7THERE!  THE GAP IN THE MOUNTAIN!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_03_010A_HARP_D
-LANG_SPANISH        "^1Harper: ^7You good?"
+LANG_SPANISH        "^1HARPER: ^7YOU GOOD?"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_03_011A_SECT_D
-LANG_SPANISH        "^1Section: ^7I'm good."
+LANG_SPANISH        "^1SECTION: ^7I'M GOOD."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_03_012A_SECT_D
-LANG_SPANISH        "^1Section: ^7Salazar.  Crosby.  You got the left side?"
+LANG_SPANISH        "^1SECTION: ^7SALAZAR.  CROSBY.  YOU GOT THE LEFT SIDE?"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_03_013A_SALA_D
-LANG_SPANISH        "^1Salazar: ^7Covered.  Ready on your go."
+LANG_SPANISH        "^1SALAZAR: ^7COVERED.  READY ON YOUR GO."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_03_014A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Deploying chute."
+LANG_SPANISH        "^1HARPER: ^7DEPLOYING CHUTE."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_03_015A_SECT_D
-LANG_SPANISH        "^1Section: ^7Deploying chute."
+LANG_SPANISH        "^1SECTION: ^7DEPLOYING CHUTE."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_03_016A_SALA_D
-LANG_SPANISH        "^1Salazar: ^7Deploying chute."
+LANG_SPANISH        "^1SALAZAR: ^7DEPLOYING CHUTE."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_03_017A_CROS_D
-LANG_SPANISH        "^1Crosby: ^7Deploying chute."
+LANG_SPANISH        "^1CROSBY: ^7DEPLOYING CHUTE."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_03_019A_HARP_D
-LANG_SPANISH        "^1Harper: ^7We gotta move, Section."
+LANG_SPANISH        "^1HARPER: ^7WE GOTTA MOVE, SECTION."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_001A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Kraken, this is Harper.  Come in.  Enemy is preparing to leave location.  Advise."
+LANG_SPANISH        "^1HARPER: ^7KRAKEN, THIS IS HARPER.  COME IN.  ENEMY IS PREPARING TO LEAVE LOCATION.  ADVISE."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_002A_BRIG_D
-LANG_SPANISH        "^1Adm. Briggs: ^7We need firm intel on their capabilities.  You are cleared to engage."
+LANG_SPANISH        "^1ADM. BRIGGS: ^7WE NEED FIRM INTEL ON THEIR CAPABILITIES.  YOU ARE CLEARED TO ENGAGE."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_003A_SECT_D
-LANG_SPANISH        "^1Section: ^7Take it nice and slow."
+LANG_SPANISH        "^1SECTION: ^7TAKE IT NICE AND SLOW."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_004A_SECT_D
-LANG_SPANISH        "^1Section: ^7Hold.  Enemy has optical camouflage."
+LANG_SPANISH        "^1SECTION: ^7HOLD.  ENEMY HAS OPTICAL CAMOUFLAGE."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_005A_SECT_D
-LANG_SPANISH        "^1Section: ^7An EMP grenade will fry their cloaking systems."
+LANG_SPANISH        "^1SECTION: ^7AN EMP GRENADE WILL FRY THEIR CLOAKING SYSTEMS."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_006A_SECT_D
-LANG_SPANISH        "^1Section: ^7Shh!"
+LANG_SPANISH        "^1SECTION: ^7SHH!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_007A_SALA_D
-LANG_SPANISH        "^1Salazar: ^7Section, you seeing this?"
+LANG_SPANISH        "^1SALAZAR: ^7SECTION, YOU SEEING THIS?"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_008A_SECT_D
-LANG_SPANISH        "^1Section: ^7Yeah.  Be ready to move on my kill."
+LANG_SPANISH        "^1SECTION: ^7YEAH.  BE READY TO MOVE ON MY KILL."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_009A_HARP_D
-LANG_SPANISH        "^1Harper: ^7We going hot?"
+LANG_SPANISH        "^1HARPER: ^7WE GOING HOT?"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_010A_SECT_D
-LANG_SPANISH        "^1Section: ^7Not unless we have to."
+LANG_SPANISH        "^1SECTION: ^7NOT UNLESS WE HAVE TO."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_011A_SALA_D
-LANG_SPANISH        "^1Salazar: ^7Something triggered the alarm!"
+LANG_SPANISH        "^1SALAZAR: ^7SOMETHING TRIGGERED THE ALARM!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_012A_SECT_D
-LANG_SPANISH        "^1Section: ^7The PMCs must have biosensors.  They know they're losing men."
+LANG_SPANISH        "^1SECTION: ^7THE PMCS MUST HAVE BIOSENSORS.  THEY KNOW THEY'RE LOSING MEN."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_013A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Dead ahead!  Drone taking off!"
+LANG_SPANISH        "^1HARPER: ^7DEAD AHEAD!  DRONE TAKING OFF!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_014A_SECT_M
-LANG_SPANISH        "^1Section: ^7We don't want that bastard airborne!"
+LANG_SPANISH        "^1SECTION: ^7WE DON'T WANT THAT BASTARD AIRBORNE!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_014A_SECT_S
-LANG_SPANISH        "^1Section: ^7We don't want that thing airborne!"
+LANG_SPANISH        "^1SECTION: ^7WE DON'T WANT THAT THING AIRBORNE!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_015A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Salazar!  Take it out!"
+LANG_SPANISH        "^1HARPER: ^7SALAZAR!  TAKE IT OUT!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_016A_SALA_D
-LANG_SPANISH        "^1Salazar: ^7On it!"
+LANG_SPANISH        "^1SALAZAR: ^7ON IT!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_017A_SALA_D
-LANG_SPANISH        "^1Salazar: ^7Drone's down!"
+LANG_SPANISH        "^1SALAZAR: ^7DRONE'S DOWN!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_018A_SECT_D
-LANG_SPANISH        "^1Section: ^7Okay.  Let's get moving!"
+LANG_SPANISH        "^1SECTION: ^7OKAY.  LET'S GET MOVING!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_019A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Shit!  Fucking turrets got the area locked down."
+LANG_SPANISH        "^1HARPER: ^7SHIT!  FUCKING TURRETS GOT THE AREA LOCKED DOWN."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_019A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Turrets got the area locked down!"
+LANG_SPANISH        "^1HARPER: ^7TURRETS GOT THE AREA LOCKED DOWN!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_020A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Hurry up, brother."
+LANG_SPANISH        "^1HARPER: ^7HURRY UP, BROTHER."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_022A_HARP_D
-LANG_SPANISH        "^1Harper: ^7You gotta hit those turrets with an EMP, Section!"
+LANG_SPANISH        "^1HARPER: ^7YOU GOTTA HIT THOSE TURRETS WITH AN EMP, SECTION!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_023A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Section, knock out their camo suits with EMPs!"
+LANG_SPANISH        "^1HARPER: ^7SECTION, KNOCK OUT THEIR CAMO SUITS WITH EMPS!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_024A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Hit 'em with an EMP, Section!"
+LANG_SPANISH        "^1HARPER: ^7HIT 'EM WITH AN EMP, SECTION!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_026A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Section!  Hack the weapons systems on that grounded bird."
+LANG_SPANISH        "^1HARPER: ^7SECTION!  HACK THE WEAPONS SYSTEMS ON THAT GROUNDED BIRD."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_027A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Give these bastards a taste of their own medicine."
+LANG_SPANISH        "^1HARPER: ^7GIVE THESE BASTARDS A TASTE OF THEIR OWN MEDICINE."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_027A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Give these guys a taste of their own medicine."
+LANG_SPANISH        "^1HARPER: ^7GIVE THESE GUYS A TASTE OF THEIR OWN MEDICINE."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_028A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Good kill."
+LANG_SPANISH        "^1HARPER: ^7GOOD KILL."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_029A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Other one's mine."
+LANG_SPANISH        "^1HARPER: ^7OTHER ONE'S MINE."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_030A_SALA_D
-LANG_SPANISH        "^1Salazar: ^7Well done, Section."
+LANG_SPANISH        "^1SALAZAR: ^7WELL DONE, SECTION."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_031A_SALA_D
-LANG_SPANISH        "^1Salazar: ^7I'll take the other."
+LANG_SPANISH        "^1SALAZAR: ^7I'LL TAKE THE OTHER."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_032A_SALA_D
-LANG_SPANISH        "^1Salazar: ^7Elevator descending.  Hostiles inside."
+LANG_SPANISH        "^1SALAZAR: ^7ELEVATOR DESCENDING.  HOSTILES INSIDE."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_033A_SALA_D
-LANG_SPANISH        "^1Salazar: ^7Enemies in the elevator!"
+LANG_SPANISH        "^1SALAZAR: ^7ENEMIES IN THE ELEVATOR!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_034A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Push forward!  Don't let 'em breathe!"
+LANG_SPANISH        "^1HARPER: ^7PUSH FORWARD!  DON'T LET 'EM BREATHE!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_035A_SECT_D
-LANG_SPANISH        "^1Section: ^7Go!  Go!  Go!"
+LANG_SPANISH        "^1SECTION: ^7GO!  GO!  GO!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_036A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Move in!  Clear 'em out!"
+LANG_SPANISH        "^1HARPER: ^7MOVE IN!  CLEAR 'EM OUT!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_037A_SALA_D
-LANG_SPANISH        "^1Salazar: ^7They're falling back!"
+LANG_SPANISH        "^1SALAZAR: ^7THEY'RE FALLING BACK!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_038A_SALA_D
-LANG_SPANISH        "^1Salazar: ^7Moving in!"
+LANG_SPANISH        "^1SALAZAR: ^7MOVING IN!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_039A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Come on!  We got 'em on the run!"
+LANG_SPANISH        "^1HARPER: ^7COME ON!  WE GOT 'EM ON THE RUN!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_040A_CROS_D
-LANG_SPANISH        "^1Crosby: ^7Engaging!"
+LANG_SPANISH        "^1CROSBY: ^7ENGAGING!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_041A_HARP_D
-LANG_SPANISH        "^1Harper: ^7EMPs will fry 'em!"
+LANG_SPANISH        "^1HARPER: ^7EMPS WILL FRY 'EM!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_042A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Go on!  Use EMPs on the bastards!"
+LANG_SPANISH        "^1HARPER: ^7GO ON!  USE EMPS ON THE BASTARDS!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_043A_SECT_D
-LANG_SPANISH        "^1Section: ^7Turret's down!"
+LANG_SPANISH        "^1SECTION: ^7TURRET'S DOWN!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_044A_HARP_D
-LANG_SPANISH        "^1Harper: ^7We still got one more!"
+LANG_SPANISH        "^1HARPER: ^7WE STILL GOT ONE MORE!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_045A_SECT_D
-LANG_SPANISH        "^1Section: ^7Done!  Both turrets are down!"
+LANG_SPANISH        "^1SECTION: ^7DONE!  BOTH TURRETS ARE DOWN!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_046A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Hell, yeah!"
+LANG_SPANISH        "^1HARPER: ^7HELL, YEAH!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_046A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Yeah!"
+LANG_SPANISH        "^1HARPER: ^7YEAH!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_047A_HARP_M
-LANG_SPANISH        "^1Harper: ^7You fried his ass, Section!"
+LANG_SPANISH        "^1HARPER: ^7YOU FRIED HIS ASS, SECTION!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_047A_HARP_S
-LANG_SPANISH        "^1Harper: ^7You fried him, Section!"
+LANG_SPANISH        "^1HARPER: ^7YOU FRIED HIM, SECTION!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_048A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Nice going, man!"
+LANG_SPANISH        "^1HARPER: ^7NICE GOING, MAN!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_04_050A_HARP_D
-LANG_SPANISH        "^1Harper: ^7The Titus can't target enemies with optical camo!"
+LANG_SPANISH        "^1HARPER: ^7THE TITUS CAN'T TARGET ENEMIES WITH OPTICAL CAMO!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_05_001A_HARP_D
-LANG_SPANISH        "^1Harper: ^7There's gotta be more to this facility underground."
+LANG_SPANISH        "^1HARPER: ^7THERE'S GOTTA BE MORE TO THIS FACILITY UNDERGROUND."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_05_002A_SECT_D
-LANG_SPANISH        "^1Section: ^7Kraken, this is Section.  Surface installation is neutralized.  Moving to investigate secondary structure."
+LANG_SPANISH        "^1SECTION: ^7KRAKEN, THIS IS SECTION.  SURFACE INSTALLATION IS NEUTRALIZED.  MOVING TO INVESTIGATE SECONDARY STRUCTURE."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_05_003A_SECT_D
-LANG_SPANISH        "^1Section: ^7Everyone... clear!"
+LANG_SPANISH        "^1SECTION: ^7EVERYONE... CLEAR!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_05_004A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Let's blow it."
+LANG_SPANISH        "^1HARPER: ^7LET'S BLOW IT."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_05_005A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Stand back."
+LANG_SPANISH        "^1HARPER: ^7STAND BACK."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_05_021A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Let's get going."
+LANG_SPANISH        "^1HARPER: ^7LET'S GET GOING."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_06_001A_SECT_D
-LANG_SPANISH        "^1Section: ^7Watch your step.  Flood waters may have weakened the structure."
+LANG_SPANISH        "^1SECTION: ^7WATCH YOUR STEP.  FLOOD WATERS MAY HAVE WEAKENED THE STRUCTURE."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_06_002A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Yeah.  Ain't no turning back now, huh?"
+LANG_SPANISH        "^1HARPER: ^7YEAH.  AIN'T NO TURNING BACK NOW, HUH?"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_06_003A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Holy shit.  Look at this."
+LANG_SPANISH        "^1HARPER: ^7HOLY SHIT.  LOOK AT THIS."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_06_003A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Yeah.  Look at this."
+LANG_SPANISH        "^1HARPER: ^7YEAH.  LOOK AT THIS."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_06_004A_SECT_D
-LANG_SPANISH        "^1Section: ^7What we saw up top was just a front."
+LANG_SPANISH        "^1SECTION: ^7WHAT WE SAW UP TOP WAS JUST A FRONT."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_06_005A_SALA_D
-LANG_SPANISH        "^1Salazar: ^7Walls are several meters thick.  We'll lose comms inside."
+LANG_SPANISH        "^1SALAZAR: ^7WALLS ARE SEVERAL METERS THICK.  WE'LL LOSE COMMS INSIDE."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_06_006A_SECT_D
-LANG_SPANISH        "^1Section: ^7Update Briggs.  Tell him we're moving in."
+LANG_SPANISH        "^1SECTION: ^7UPDATE BRIGGS.  TELL HIM WE'RE MOVING IN."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_06_007A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Kraken, this is Harper.  Confirming sci-tech installation beneath the temple..."
+LANG_SPANISH        "^1HARPER: ^7KRAKEN, THIS IS HARPER.  CONFIRMING SCI-TECH INSTALLATION BENEATH THE TEMPLE..."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_06_008A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Requesting immediate clean up and containment unit to our location.  Be advised, we will lose comms as soon as we make our entry."
+LANG_SPANISH        "^1HARPER: ^7REQUESTING IMMEDIATE CLEAN UP AND CONTAINMENT UNIT TO OUR LOCATION.  BE ADVISED, WE WILL LOSE COMMS AS SOON AS WE MAKE OUR ENTRY."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_06_009A_BRIG_D
-LANG_SPANISH        "^1Adm. Briggs: ^7Kraken confims.  Ground team moving for immediate insertion.  Stand by for ETA."
+LANG_SPANISH        "^1ADM. BRIGGS: ^7KRAKEN CONFIMS.  GROUND TEAM MOVING FOR IMMEDIATE INSERTION.  STAND BY FOR ETA."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_06_022A_HARP_D
-LANG_SPANISH        "^1Harper: ^7What are you waiting for, man?"
+LANG_SPANISH        "^1HARPER: ^7WHAT ARE YOU WAITING FOR, MAN?"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_07_002A_SECT_D
-LANG_SPANISH        "^1Section: ^7Enemy's optic systems.  We need to get our techs working on analysis."
+LANG_SPANISH        "^1SECTION: ^7ENEMY'S OPTIC SYSTEMS.  WE NEED TO GET OUR TECHS WORKING ON ANALYSIS."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_07_003A_SECT_D
-LANG_SPANISH        "^1Section: ^7Salazar, get it open."
+LANG_SPANISH        "^1SECTION: ^7SALAZAR, GET IT OPEN."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_07_004A_SECT_D
-LANG_SPANISH        "^1Section: ^7Alright.  On me."
+LANG_SPANISH        "^1SECTION: ^7ALRIGHT.  ON ME."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_07_023A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Let's do it, Section."
+LANG_SPANISH        "^1HARPER: ^7LET'S DO IT, SECTION."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_07_024A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Maybe you should suit up.  They'll barely see you."
+LANG_SPANISH        "^1HARPER: ^7MAYBE YOU SHOULD SUIT UP.  THEY'LL BARELY SEE YOU."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_08_001A_SALA_D
-LANG_SPANISH        "^1Salazar: ^7It looks deserted."
+LANG_SPANISH        "^1SALAZAR: ^7IT LOOKS DESERTED."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_08_002A_SECT_D
-LANG_SPANISH        "^1Section: ^7They may have abandoned it as soon as we attacked."
+LANG_SPANISH        "^1SECTION: ^7THEY MAY HAVE ABANDONED IT AS SOON AS WE ATTACKED."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_08_004A_HARP_D
-LANG_SPANISH        "^1Harper: ^7They got an ASD!!"
+LANG_SPANISH        "^1HARPER: ^7THEY GOT AN ASD!!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_08_005A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Son of a bitch!"
+LANG_SPANISH        "^1HARPER: ^7SON OF A BITCH!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_08_005A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Son of a..."
+LANG_SPANISH        "^1HARPER: ^7SON OF A..."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_08_006A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Its front is too tough!"
+LANG_SPANISH        "^1HARPER: ^7ITS FRONT IS TOO TOUGH!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_08_007A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Flank around!  Its weakest point's in the rear!"
+LANG_SPANISH        "^1HARPER: ^7FLANK AROUND!  ITS WEAKEST POINT'S IN THE REAR!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_08_014A_SECT_D
-LANG_SPANISH        "^1Section: ^7Spread out!  Clear the area!"
+LANG_SPANISH        "^1SECTION: ^7SPREAD OUT!  CLEAR THE AREA!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_08_015A_SECT_D
-LANG_SPANISH        "^1Section: ^7Keep pushing!"
+LANG_SPANISH        "^1SECTION: ^7KEEP PUSHING!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_08_016A_SECT_D
-LANG_SPANISH        "^1Section: ^7Upstairs!  Go!"
+LANG_SPANISH        "^1SECTION: ^7UPSTAIRS!  GO!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_08_017A_HARP_M
-LANG_SPANISH        "^1Harper: ^7They sure as hell don't want us in here."
+LANG_SPANISH        "^1HARPER: ^7THEY SURE AS HELL DON'T WANT US IN HERE."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_08_017A_HARP_S
-LANG_SPANISH        "^1Harper: ^7They definitely don't want us in here."
+LANG_SPANISH        "^1HARPER: ^7THEY DEFINITELY DON'T WANT US IN HERE."
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_08_018A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Come on, man!"
+LANG_SPANISH        "^1HARPER: ^7COME ON, MAN!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_08_019A_HARP_D
-LANG_SPANISH        "^1Harper: ^7You wanna push the button?"
+LANG_SPANISH        "^1HARPER: ^7YOU WANNA PUSH THE BUTTON?"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_08_020A_CROS_D
-LANG_SPANISH        "^1Crosby: ^7Section... Short for Section 8, right?"
+LANG_SPANISH        "^1CROSBY: ^7SECTION... SHORT FOR SECTION 8, RIGHT?"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_08_021A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Come on, Noob.  Does he look crazy to you?"
+LANG_SPANISH        "^1HARPER: ^7COME ON, NOOB.  DOES HE LOOK CRAZY TO YOU?"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_08_022A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Son of a bitch!  Another ASD!"
+LANG_SPANISH        "^1HARPER: ^7SON OF A BITCH!  ANOTHER ASD!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_08_022A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Heads up!  Another ASD!"
+LANG_SPANISH        "^1HARPER: ^7HEADS UP!  ANOTHER ASD!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_08_024A_HARP_D
-LANG_SPANISH        "^1Harper: ^7They got more auto turrets!"
+LANG_SPANISH        "^1HARPER: ^7THEY GOT MORE AUTO TURRETS!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_08_024A_SECT_D
-LANG_SPANISH        "^1Section: ^7Brace yourself, Harper!"
+LANG_SPANISH        "^1SECTION: ^7BRACE YOURSELF, HARPER!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_08_025A_SECT_D
-LANG_SPANISH        "^1Section: ^7Push through 'em!"
+LANG_SPANISH        "^1SECTION: ^7PUSH THROUGH 'EM!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_08_026A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Moving left!"
+LANG_SPANISH        "^1HARPER: ^7MOVING LEFT!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_08_027A_SALA_D
-LANG_SPANISH        "^1Salazar: ^7Target the nitrogen tanks!"
+LANG_SPANISH        "^1SALAZAR: ^7TARGET THE NITROGEN TANKS!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_08_028A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Smart thinking, Salazar.  That shit blows up real good!"
+LANG_SPANISH        "^1HARPER: ^7SMART THINKING, SALAZAR.  THAT SHIT BLOWS UP REAL GOOD!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_08_028A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Smart thinking, Salazar.  That stuff blows up really good!"
+LANG_SPANISH        "^1HARPER: ^7SMART THINKING, SALAZAR.  THAT STUFF BLOWS UP REALLY GOOD!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_3_08_029A_SECT_D
-LANG_SPANISH        "^1Section: ^7Okay.  We're clear."
+LANG_SPANISH        "^1SECTION: ^7OKAY.  WE'RE CLEAR."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_01_001A_HARP_D
-LANG_SPANISH        "^1Harper: ^7This is 3D Fabrication tech... Weapon components, armor... Menendez is arming himself for war."
+LANG_SPANISH        "^1HARPER: ^7THIS IS 3D FABRICATION TECH... WEAPON COMPONENTS, ARMOR... MENENDEZ IS ARMING HIMSELF FOR WAR."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_01_002A_SECT_D
-LANG_SPANISH        "^1Section: ^7Woods told us how much wealth Menendez built over the years."
+LANG_SPANISH        "^1SECTION: ^7WOODS TOLD US HOW MUCH WEALTH MENENDEZ BUILT OVER THE YEARS."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_01_003A_SECT_D
-LANG_SPANISH        "^1Section: ^7He's been investing it in weapons tech."
+LANG_SPANISH        "^1SECTION: ^7HE'S BEEN INVESTING IT IN WEAPONS TECH."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_01_004A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Somebody's here."
+LANG_SPANISH        "^1HARPER: ^7SOMEBODY'S HERE."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_01_005A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Yeah?  And what is, uh... Menendez's interest in you, buddy?"
+LANG_SPANISH        "^1HARPER: ^7YEAH?  AND WHAT IS, UH... MENENDEZ'S INTEREST IN YOU, BUDDY?"
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_01_006A_ISAA_D
-LANG_SPANISH        "^1Erik: ^7They brought me here to process the Celerium.  It's a new rare earth element that will render all existing microchip technologies obsolete."
+LANG_SPANISH        "^1ERIK: ^7THEY BROUGHT ME HERE TO PROCESS THE CELERIUM.  IT'S A NEW RARE EARTH ELEMENT THAT WILL RENDER ALL EXISTING MICROCHIP TECHNOLOGIES OBSOLETE."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_01_007A_ISAA_D
-LANG_SPANISH        "^1Erik: ^7They're coming!  Get me out of here alive!  I'll give you everything!"
+LANG_SPANISH        "^1ERIK: ^7THEY'RE COMING!  GET ME OUT OF HERE ALIVE!  I'LL GIVE YOU EVERYTHING!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_01_008A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Get the fuck down.  Get down!"
+LANG_SPANISH        "^1HARPER: ^7GET THE FUCK DOWN.  GET DOWN!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_01_008A_HARP_S
-LANG_SPANISH        "^1Harper: ^7Get down.  Get down!"
+LANG_SPANISH        "^1HARPER: ^7GET DOWN.  GET DOWN!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_01_009A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Okay.  Come on out!"
+LANG_SPANISH        "^1HARPER: ^7OKAY.  COME ON OUT!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_01_010A_ISAA_D
-LANG_SPANISH        "^1Erik: ^7Please!  Don't hurt me!"
+LANG_SPANISH        "^1ERIK: ^7PLEASE!  DON'T HURT ME!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_01_012A_ISAA_D
-LANG_SPANISH        "^1Erik: ^7My name is Erik Breighner.  I'm a Magnetometrist."
+LANG_SPANISH        "^1ERIK: ^7MY NAME IS ERIK BREIGHNER.  I'M A MAGNETOMETRIST."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_01_013A_SECT_M
-LANG_SPANISH        "^1Section: ^7Alright, you little bastard...  You work for Uncle Sam now."
+LANG_SPANISH        "^1SECTION: ^7ALRIGHT, YOU LITTLE BASTARD...  YOU WORK FOR UNCLE SAM NOW."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_01_013A_SECT_S
-LANG_SPANISH        "^1Section: ^7Alright, you little box of bolts...  You work for Uncle Sam now."
+LANG_SPANISH        "^1SECTION: ^7ALRIGHT, YOU LITTLE BOX OF BOLTS...  YOU WORK FOR UNCLE SAM NOW."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_01_014A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Let's see what we've got hidden in here..."
+LANG_SPANISH        "^1HARPER: ^7LET'S SEE WHAT WE'VE GOT HIDDEN IN HERE..."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_01_015A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Open it, Section."
+LANG_SPANISH        "^1HARPER: ^7OPEN IT, SECTION."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_01_016A_HARP_D
-LANG_SPANISH        "^1Harper: ^7This lab is linked to a known terrorist.  You start talking, or I WILL hurt you."
+LANG_SPANISH        "^1HARPER: ^7THIS LAB IS LINKED TO A KNOWN TERRORIST.  YOU START TALKING, OR I WILL HURT YOU."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_01_017A_ISAA_D
-LANG_SPANISH        "^1Erik: ^7This way.  The locking mechanism requires two operators."
+LANG_SPANISH        "^1ERIK: ^7THIS WAY.  THE LOCKING MECHANISM REQUIRES TWO OPERATORS."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_01_018A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Let's get to it, Section."
+LANG_SPANISH        "^1HARPER: ^7LET'S GET TO IT, SECTION."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_01_019A_ISAA_D
-LANG_SPANISH        "^1Erik: ^7On your go."
+LANG_SPANISH        "^1ERIK: ^7ON YOUR GO."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_01_020A_ISAA_D
-LANG_SPANISH        "^1Erik: ^7Follow me."
+LANG_SPANISH        "^1ERIK: ^7FOLLOW ME."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_01_021A_ISAA_D
-LANG_SPANISH        "^1Erik: ^7We have to hurry!"
+LANG_SPANISH        "^1ERIK: ^7WE HAVE TO HURRY!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_02_003A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Now, where's the Celerium?"
+LANG_SPANISH        "^1HARPER: ^7NOW, WHERE'S THE CELERIUM?"
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_02_004A_ISAA_D
-LANG_SPANISH        "^1Erik: ^7Rumors around the lab were that Menendez plans to use it as a basis for a massive cyber attack."
+LANG_SPANISH        "^1ERIK: ^7RUMORS AROUND THE LAB WERE THAT MENENDEZ PLANS TO USE IT AS A BASIS FOR A MASSIVE CYBER ATTACK."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_02_005A_ISAA_D
-LANG_SPANISH        "^1Erik: ^7I heard talk of something called 'Karma'... It may be the name for the cyber weapon."
+LANG_SPANISH        "^1ERIK: ^7I HEARD TALK OF SOMETHING CALLED 'KARMA'... IT MAY BE THE NAME FOR THE CYBER WEAPON."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_02_006A_ISAA_D
-LANG_SPANISH        "^1Erik: ^7If Menendez uses a Celerium worm to initiate an attack, there will be nothing anyone can do to stop it... I couldn't stop it."
+LANG_SPANISH        "^1ERIK: ^7IF MENENDEZ USES A CELERIUM WORM TO INITIATE AN ATTACK, THERE WILL BE NOTHING ANYONE CAN DO TO STOP IT... I COULDN'T STOP IT."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_02_007A_SECT_D
-LANG_SPANISH        "^1Section: ^7Harper, get a sitrep on the support team!"
+LANG_SPANISH        "^1SECTION: ^7HARPER, GET A SITREP ON THE SUPPORT TEAM!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_02_008A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Kraken!  Harper requesting confirmation on extraction team's ETA!"
+LANG_SPANISH        "^1HARPER: ^7KRAKEN!  HARPER REQUESTING CONFIRMATION ON EXTRACTION TEAM'S ETA!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_02_009A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Kraken, come in!"
+LANG_SPANISH        "^1HARPER: ^7KRAKEN, COME IN!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_02_010A_HARP_M
-LANG_SPANISH        "^1Harper: ^7Dammit.  No response!"
+LANG_SPANISH        "^1HARPER: ^7DAMMIT.  NO RESPONSE!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_02_010A_HARP_S
-LANG_SPANISH        "^1Harper: ^7No response!"
+LANG_SPANISH        "^1HARPER: ^7NO RESPONSE!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_02_011A_SECT_D
-LANG_SPANISH        "^1Section: ^7We'll fight our way out, with or without support."
+LANG_SPANISH        "^1SECTION: ^7WE'LL FIGHT OUR WAY OUT, WITH OR WITHOUT SUPPORT."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_02_012A_ISAA_D
-LANG_SPANISH        "^1Erik: ^7Quantum entanglement. This single device has more processing power than your entire military infrastructure."
+LANG_SPANISH        "^1ERIK: ^7QUANTUM ENTANGLEMENT. THIS SINGLE DEVICE HAS MORE PROCESSING POWER THAN YOUR ENTIRE MILITARY INFRASTRUCTURE."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_02_012A_SECT_D
-LANG_SPANISH        "^1Section: ^7Come on!  Push through!"
+LANG_SPANISH        "^1SECTION: ^7COME ON!  PUSH THROUGH!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_02_013A_SALA_D
-LANG_SPANISH        "^1Salazar: ^7Enemy PMC rappelling in!"
+LANG_SPANISH        "^1SALAZAR: ^7ENEMY PMC RAPPELLING IN!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_02_014A_HARP_M
-LANG_SPANISH        "^1Harper: ^7These fuckers mean business!"
+LANG_SPANISH        "^1HARPER: ^7THESE FUCKERS MEAN BUSINESS!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_02_014A_HARP_S
-LANG_SPANISH        "^1Harper: ^7These soldiers mean business!"
+LANG_SPANISH        "^1HARPER: ^7THESE SOLDIERS MEAN BUSINESS!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_02_015A_SECT_D
-LANG_SPANISH        "^1Section: ^7Grab some of these shields!"
+LANG_SPANISH        "^1SECTION: ^7GRAB SOME OF THESE SHIELDS!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_02_016A_SECT_D
-LANG_SPANISH        "^1Section: ^7Set 'em down as cover!"
+LANG_SPANISH        "^1SECTION: ^7SET 'EM DOWN AS COVER!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_02_017A_SECT_D
-LANG_SPANISH        "^1Section: ^7Hold the line!"
+LANG_SPANISH        "^1SECTION: ^7HOLD THE LINE!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_02_018A_SALA_D
-LANG_SPANISH        "^1Salazar: ^7We're clear."
+LANG_SPANISH        "^1SALAZAR: ^7WE'RE CLEAR."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_02_020A_HARP_D
-LANG_SPANISH        "^1Harper: ^7Behind us!  We got incoming!"
+LANG_SPANISH        "^1HARPER: ^7BEHIND US!  WE GOT INCOMING!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_03_001A_SECT_D
-LANG_SPANISH        "^1Section: ^7This ain't over yet!"
+LANG_SPANISH        "^1SECTION: ^7THIS AIN'T OVER YET!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_03_002A_SECT_D
-LANG_SPANISH        "^1Section: ^7Defensive positions!"
+LANG_SPANISH        "^1SECTION: ^7DEFENSIVE POSITIONS!"
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_03_003A_BRIG_D
-LANG_SPANISH        "^1Adm. Briggs: ^7I guess we can call this mission accomplished."
+LANG_SPANISH        "^1ADM. BRIGGS: ^7I GUESS WE CAN CALL THIS MISSION ACCOMPLISHED."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_03_004A_SECT_D
-LANG_SPANISH        "^1Section: ^7Admiral Briggs.  Good to see you."
+LANG_SPANISH        "^1SECTION: ^7ADMIRAL BRIGGS.  GOOD TO SEE YOU."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_03_005A_BRIG_D
-LANG_SPANISH        "^1Adm. Briggs: ^7You too, Section."
+LANG_SPANISH        "^1ADM. BRIGGS: ^7YOU TOO, SECTION."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_03_006A_SECT_D
-LANG_SPANISH        "^1Section: ^7Whatever Menendez is planning, Celerium is key to it."
+LANG_SPANISH        "^1SECTION: ^7WHATEVER MENENDEZ IS PLANNING, CELERIUM IS KEY TO IT."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_03_007A_BRIG_M
-LANG_SPANISH        "^1Adm. Briggs: ^7Well, we finally got one over on this cocksucker."
+LANG_SPANISH        "^1ADM. BRIGGS: ^7WELL, WE FINALLY GOT ONE OVER ON THIS COCKSUCKER."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_03_007A_BRIG_S
-LANG_SPANISH        "^1Adm. Briggs: ^7Well, we finally got one over on this..."
+LANG_SPANISH        "^1ADM. BRIGGS: ^7WELL, WE FINALLY GOT ONE OVER ON THIS..."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_03_008A_HARP_D
-LANG_SPANISH        "^1Harper: ^7He's just a man, Admiral.  He'd like you to think he's something more... but he ain't nothin' but a sad, old, pitiful excuse of a man."
+LANG_SPANISH        "^1HARPER: ^7HE'S JUST A MAN, ADMIRAL.  HE'D LIKE YOU TO THINK HE'S SOMETHING MORE... BUT HE AIN'T NOTHIN' BUT A SAD, OLD, PITIFUL EXCUSE OF A MAN."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_03_010A_BRIG_D
-LANG_SPANISH        "^1Adm. Briggs: ^7Section, your team can stand down."
+LANG_SPANISH        "^1ADM. BRIGGS: ^7SECTION, YOUR TEAM CAN STAND DOWN."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_03_011A_SECT_D
-LANG_SPANISH        "^1Section: ^7It's Briggs."
+LANG_SPANISH        "^1SECTION: ^7IT'S BRIGGS."
 
 REFERENCE           MONSOON_VOX_VOX_MON_4_03_013A_SECT_D
-LANG_SPANISH        "^1Section: ^7Stand down!  It's the extraction team!  Boy, are you a sight for sore eyes."
+LANG_SPANISH        "^1SECTION: ^7STAND DOWN!  IT'S THE EXTRACTION TEAM!  BOY, ARE YOU A SIGHT FOR SORE EYES."
 
 REFERENCE           SP_OBJECTIVES_AMMO
-LANG_SPANISH        "Munição"
+LANG_SPANISH        "MUNIÇÃO"
 
 REFERENCE           SP_OBJECTIVES_BREACH
-LANG_SPANISH        "Violação"
+LANG_SPANISH        "VIOLAÇÃO"
 
 REFERENCE           SP_OBJECTIVES_CLEAR
-LANG_SPANISH        "Limpar"
+LANG_SPANISH        "LIMPAR"
 
 REFERENCE           SP_OBJECTIVES_CLIMB
-LANG_SPANISH        "Escala"
+LANG_SPANISH        "ESCALA"
 
 REFERENCE           SP_OBJECTIVES_DEFEND
-LANG_SPANISH        "defender"
+LANG_SPANISH        "DEFENDER"
 
 REFERENCE           SP_OBJECTIVES_DESTROY
-LANG_SPANISH        "destruir"
+LANG_SPANISH        "DESTRUIR"
 
 REFERENCE           SP_OBJECTIVES_DETONATE
-LANG_SPANISH        "Detonar"
+LANG_SPANISH        "DETONAR"
 
 REFERENCE           SP_OBJECTIVES_DISABLE
-LANG_SPANISH        "Inutilizável"
+LANG_SPANISH        "INUTILIZÁVEL"
 
 REFERENCE           SP_OBJECTIVES_ENTER
-LANG_SPANISH        "Digitar"
+LANG_SPANISH        "DIGITAR"
 
 REFERENCE           SP_OBJECTIVES_ESCORT
-LANG_SPANISH        "Escolta"
+LANG_SPANISH        "ESCOLTA"
 
 REFERENCE           SP_OBJECTIVES_FOLLOW
-LANG_SPANISH        "Prossiga"
+LANG_SPANISH        "PROSSIGA"
 
 REFERENCE           SP_OBJECTIVES_HELP
-LANG_SPANISH        "Ajuda"
+LANG_SPANISH        "AJUDA"
 
 REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
-LANG_SPANISH        "Eles chegam (helicópteros)"
+LANG_SPANISH        "ELES CHEGAM (HELICÓPTEROS)"
 
 REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
-LANG_SPANISH        "(tanques) chegam"
+LANG_SPANISH        "(TANQUES) CHEGAM"
 
 REFERENCE           SP_OBJECTIVES_INTERACT
-LANG_SPANISH        "Acesso"
+LANG_SPANISH        "ACESSO"
 
 REFERENCE           SP_OBJECTIVES_JUMP
-LANG_SPANISH        "Salto"
+LANG_SPANISH        "SALTO"
 
 REFERENCE           SP_OBJECTIVES_KILL
-LANG_SPANISH        "Matar"
+LANG_SPANISH        "MATAR"
 
 REFERENCE           SP_OBJECTIVES_MELEE
-LANG_SPANISH        "Corpo a corpo"
+LANG_SPANISH        "CORPO A CORPO"
 
 REFERENCE           SP_OBJECTIVES_PICKUP
-LANG_SPANISH        "Escolher"
+LANG_SPANISH        "ESCOLHER"
 
 REFERENCE           SP_OBJECTIVES_PROTECT
-LANG_SPANISH        "Proteger"
+LANG_SPANISH        "PROTEGER"
 
 REFERENCE           SP_OBJECTIVES_RAPPEL
-LANG_SPANISH        "Descer"
+LANG_SPANISH        "DESCER"
 
 REFERENCE           SP_OBJECTIVES_REGROUP
-LANG_SPANISH        "Reagrupar"
+LANG_SPANISH        "REAGRUPAR"
 
 REFERENCE           SP_OBJECTIVES_SEARCH
-LANG_SPANISH        "Procura"
+LANG_SPANISH        "PROCURA"
 
 REFERENCE           SP_OBJECTIVES_SHOOT
-LANG_SPANISH        "Atire"
+LANG_SPANISH        "ATIRE"
 
 REFERENCE           SP_OBJECTIVES_SUPPORT
-LANG_SPANISH        "Apoio"
+LANG_SPANISH        "APOIO"
 
 REFERENCE           SP_OBJECTIVES_SWEEP
-LANG_SPANISH        "Varrer"
+LANG_SPANISH        "VARRER"
 
 REFERENCE           SP_OBJECTIVES_TARGET
-LANG_SPANISH        "Branco"
+LANG_SPANISH        "BRANCO"
 
 REFERENCE           SP_OBJECTIVES_USE
-LANG_SPANISH        "Usar"
+LANG_SPANISH        "USAR"
 
 REFERENCE           SP_OBJECTIVES_WEAPONS
-LANG_SPANISH        "Armas"
+LANG_SPANISH        "ARMAS"
 

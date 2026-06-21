@@ -3,793 +3,793 @@ CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           LA_2_ALT_BOOTUP
-LANG_ENGLISH        "Adquirindo satélites...\nCalculando deslocamento do nível do mar...\nAltímetro OK"
+LANG_ENGLISH        "ADQUIRINDO SATÃ©LITES...\NCALCULANDO DESLOCAMENTO DO NÃ­VEL DO MAR...\NALTÃ­METRO OK"
 
 REFERENCE           LA_2_DISTANCE_FAIL
-LANG_ENGLISH        "Você falhou em proteger o veículo do presidente"
+LANG_ENGLISH        "VOCÃª FALHOU EM PROTEGER O VEÃ­CULO DO PRESIDENTE"
 
 REFERENCE           LA_2_F35_DEAD
-LANG_ENGLISH        "FA-38 destroyed"
+LANG_ENGLISH        "FA-38 DESTROYED"
 
 REFERENCE           LA_2_F35_DEAD_CRANE
-LANG_ENGLISH        "Você foi morto pela queda de um guindaste"
+LANG_ENGLISH        "VOCÃª FOI MORTO PELA QUEDA DE UM GUINDASTE"
 
 REFERENCE           LA_2_FLIGHT_CONTROL_GUN
-LANG_ENGLISH        "Pressione ^3[{+attack}]^7 para disparar canhões"
+LANG_ENGLISH        "PRESSIONE ^3[{+ATTACK}]^7 PARA DISPARAR CANHÃ?ES"
 
 REFERENCE           LA_2_FLIGHT_CONTROL_HOVER_DOWN
-LANG_ENGLISH        "Pressione ^3[{+smoke}]^7 para passar o mouse para baixo"
+LANG_ENGLISH        "PRESSIONE ^3[{+SMOKE}]^7 PARA PASSAR O MOUSE PARA BAIXO"
 
 REFERENCE           LA_2_FLIGHT_CONTROL_HOVER_UP
-LANG_ENGLISH        "Pressione ^3[{+frag}]^7 para passar o mouse para cima"
+LANG_ENGLISH        "PRESSIONE ^3[{+FRAG}]^7 PARA PASSAR O MOUSE PARA CIMA"
 
 REFERENCE           LA_2_FLIGHT_CONTROL_LOOK
-LANG_ENGLISH        "Use ^3[{+lookstick}]^7 para mirar"
+LANG_ENGLISH        "USE ^3[{+LOOKSTICK}]^7 PARA MIRAR"
 
 REFERENCE           LA_2_FLIGHT_CONTROL_LOOK_LEGACY
-LANG_ENGLISH        "Use ^3[{+lookstick}]^7 para olhar/metralhar"
+LANG_ENGLISH        "USE ^3[{+LOOKSTICK}]^7 PARA OLHAR/METRALHAR"
 
 REFERENCE           LA_2_FLIGHT_CONTROL_MISSILE
-LANG_ENGLISH        "Pressione ^3[{+speed_throw}]^7 para disparar mísseis"
+LANG_ENGLISH        "PRESSIONE ^3[{+SPEED_THROW}]^7 PARA DISPARAR MÃ­SSEIS"
 
 REFERENCE           LA_2_FLIGHT_CONTROL_MISSILE_BARRAGE
-LANG_ENGLISH        "Pressione ^3[{+activate}]^7 para ativar a barragem de mísseis"
+LANG_ENGLISH        "PRESSIONE ^3[{+ACTIVATE}]^7 PARA ATIVAR A BARRAGEM DE MÃ­SSEIS"
 
 REFERENCE           LA_2_FLIGHT_CONTROL_MOVE
-LANG_ENGLISH        "Use ^3[{+movestick}]^7 para mover/metralhar"
+LANG_ENGLISH        "USE ^3[{+MOVESTICK}]^7 PARA MOVER/METRALHAR"
 
 REFERENCE           LA_2_FLIGHT_CONTROL_MOVE_LEGACY
-LANG_ENGLISH        "Use ^3[{+movestick}]^7 para mover/girar"
+LANG_ENGLISH        "USE ^3[{+MOVESTICK}]^7 PARA MOVER/GIRAR"
 
 REFERENCE           LA_2_FLT_BOOTUP
-LANG_ENGLISH        "Balancing fuel mixture...\nScanning surroundings...\nVTOL OK"
+LANG_ENGLISH        "BALANCING FUEL MIXTURE...\NSCANNING SURROUNDINGS...\NVTOL OK"
 
 REFERENCE           LA_2_HINT_ADS
-LANG_ENGLISH        "Pressione ^3[{+melee}]^7 para ampliar"
+LANG_ENGLISH        "PRESSIONE ^3[{+MELEE}]^7 PARA AMPLIAR"
 
 REFERENCE           LA_2_HINT_CTOL_TRANSITION
-LANG_ENGLISH        "Pressione ^3[{+breath_sprint}]^7 para ativar o modo voo"
+LANG_ENGLISH        "PRESSIONE ^3[{+BREATH_SPRINT}]^7 PARA ATIVAR O MODO VOO"
 
 REFERENCE           LA_2_HINT_DEATHBLOSSOM
-LANG_ENGLISH        "Bloqueie e pressione ^3[{+smoke}]^7 para usar mísseis Sky Buster"
+LANG_ENGLISH        "BLOQUEIE E PRESSIONE ^3[{+SMOKE}]^7 PARA USAR MÃ­SSEIS SKY BUSTER"
 
 REFERENCE           LA_2_HINT_MISSILE_BUILDINGS
-LANG_ENGLISH        "Fly between buildings to avoid missiles"
+LANG_ENGLISH        "FLY BETWEEN BUILDINGS TO AVOID MISSILES"
 
 REFERENCE           LA_2_HINT_MISSILE_DODGE
-LANG_ENGLISH        "Use ^3[{+lookstick}]^7 para desviar de mísseis"
+LANG_ENGLISH        "USE ^3[{+LOOKSTICK}]^7 PARA DESVIAR DE MÃ­SSEIS"
 
 REFERENCE           LA_2_HINT_MODE_PLANE
-LANG_ENGLISH        "Pressione ^3[{+activate}]^7 para usar o modo de voo convencional"
+LANG_ENGLISH        "PRESSIONE ^3[{+ACTIVATE}]^7 PARA USAR O MODO DE VOO CONVENCIONAL"
 
 REFERENCE           LA_2_HINT_MODE_VTOL
-LANG_ENGLISH        "Pressione ^3[{+activate}]^7 para usar o modo VTOL"
+LANG_ENGLISH        "PRESSIONE ^3[{+ACTIVATE}]^7 PARA USAR O MODO VTOL"
 
 REFERENCE           LA_2_HINT_SPEED_BOOST
-LANG_ENGLISH        "Pressione ^3[{+breath_sprint}]^7 para pós-combustão"
+LANG_ENGLISH        "PRESSIONE ^3[{+BREATH_SPRINT}]^7 PARA PÃ³S-COMBUSTÃ£O"
 
 REFERENCE           LA_2_HINT_THROTTLE
-LANG_ENGLISH        "^3[{+movestick}]^7 changes throttle position"
+LANG_ENGLISH        "^3[{+MOVESTICK}]^7 CHANGES THROTTLE POSITION"
 
 REFERENCE           LA_2_LINK_LOST
 LANG_ENGLISH        "[CONNECTION TO FA-38 LOST]"
 
 REFERENCE           LA_2_OBJ_DOGFIGHTS
-LANG_ENGLISH        "Destrua aeronaves inimigas. Restante:"
+LANG_ENGLISH        "DESTRUA AERONAVES INIMIGAS. RESTANTE:"
 
 REFERENCE           LA_2_OBJ_FLY
-LANG_ENGLISH        "Entre no FA-38"
+LANG_ENGLISH        "ENTRE NO FA-38"
 
 REFERENCE           LA_2_OBJ_FOLLOW_VAN
-LANG_ENGLISH        "Follow Harper's van"
+LANG_ENGLISH        "FOLLOW HARPER'S VAN"
 
 REFERENCE           LA_2_OBJ_PROTECT
-LANG_ENGLISH        "Proteja o veículo do presidente"
+LANG_ENGLISH        "PROTEJA O VEÃ­CULO DO PRESIDENTE"
 
 REFERENCE           LA_2_OBJ_PROTECT_FAIL
-LANG_ENGLISH        "Você falhou em proteger o veículo do presidente"
+LANG_ENGLISH        "VOCÃª FALHOU EM PROTEGER O VEÃ­CULO DO PRESIDENTE"
 
 REFERENCE           LA_2_OBJ_ROADBLOCK
-LANG_ENGLISH        "Destrua alvos inimigos"
+LANG_ENGLISH        "DESTRUA ALVOS INIMIGOS"
 
 REFERENCE           LA_2_OBJ_ROOFTOPS
-LANG_ENGLISH        "Destrua alvos inimigos"
+LANG_ENGLISH        "DESTRUA ALVOS INIMIGOS"
 
 REFERENCE           LA_2_OBJ_TRENCHRUN
-LANG_ENGLISH        "Impedir que UAVs voem para o comboio"
+LANG_ENGLISH        "IMPEDIR QUE UAVS VOEM PARA O COMBOIO"
 
 REFERENCE           LA_2_REQUIRED_VEHICLE_DEAD
-LANG_ENGLISH        "You destroyed a mission critical vehicle"
+LANG_ENGLISH        "YOU DESTROYED A MISSION CRITICAL VEHICLE"
 
 REFERENCE           LA_2_SKY_BUSTERS_ONLINE
-LANG_ENGLISH        "^3[{+smoke}]^7 SKY BUSTER MISSILES ONLINE"
+LANG_ENGLISH        "^3[{+SMOKE}]^7 SKY BUSTER MISSILES ONLINE"
 
 REFERENCE           LA_2_SPD_BOOTUP
-LANG_ENGLISH        "Resetting accelerometer reference frames...\nUnbiasing gyroscopes...\nInertial navigation system OK"
+LANG_ENGLISH        "RESETTING ACCELEROMETER REFERENCE FRAMES...\NUNBIASING GYROSCOPES...\NINERTIAL NAVIGATION SYSTEM OK"
 
 REFERENCE           LA_2_SYS_BOOTUP
-LANG_ENGLISH        "Performing pre-flight...\nCalibrating hull sensors...\nRun-up OK"
+LANG_ENGLISH        "PERFORMING PRE-FLIGHT...\NCALIBRATING HULL SENSORS...\NRUN-UP OK"
 
 REFERENCE           LA_2_VOX_LA2_11_05_089A_ANDE_D
-LANG_ENGLISH        "^1anderson: ^7Section, I'm remotely activating your F38's Sky Buster Missiles. Use them to take outmultiple targets with each shot."
+LANG_ENGLISH        "^1ANDERSON: ^7SECTION, I'M REMOTELY ACTIVATING YOUR F38'S SKY BUSTER MISSILES. USE THEM TO TAKE OUTMULTIPLE TARGETS WITH EACH SHOT."
 
 REFERENCE           LA_2_VOX_LA2_11_05_090A_ANDE_D
-LANG_ENGLISH        "^1anderson: ^7Section, thanks for saving my life. I'm remotely activating your F38's Sky Buster Missiles now. Sky Buster missiles can destroy multiple aircraft each time you fire them."
+LANG_ENGLISH        "^1ANDERSON: ^7SECTION, THANKS FOR SAVING MY LIFE. I'M REMOTELY ACTIVATING YOUR F38'S SKY BUSTER MISSILES NOW. SKY BUSTER MISSILES CAN DESTROY MULTIPLE AIRCRAFT EACH TIME YOU FIRE THEM."
 
 REFERENCE           LA_2_VOX_VOX_LA2_10_00_002A_SECT_M
-LANG_ENGLISH        "^1Section: ^7Shit!!"
+LANG_ENGLISH        "^1SECTION: ^7SHIT!!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_10_01_012A_SECT_M
-LANG_ENGLISH        "^1Section: ^7SHIT!!!"
+LANG_ENGLISH        "^1SECTION: ^7SHIT!!!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_10_01_014A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Stay with us, Section!  We need you to thin out the drones!"
+LANG_ENGLISH        "^1HARPER: ^7STAY WITH US, SECTION!  WE NEED YOU TO THIN OUT THE DRONES!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_10_01_016A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Plane's in rough shape.  I don't know how much she can take."
+LANG_ENGLISH        "^1SECTION: ^7PLANE'S IN ROUGH SHAPE.  I DON'T KNOW HOW MUCH SHE CAN TAKE."
 
 REFERENCE           LA_2_VOX_VOX_LA2_10_01_018A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7You're trailing dark smoke, Section.  You okay?"
+LANG_ENGLISH        "^1HARPER: ^7YOU'RE TRAILING DARK SMOKE, SECTION.  YOU OKAY?"
 
 REFERENCE           LA_2_VOX_VOX_LA2_10_01_020A_SECT_D
-LANG_ENGLISH        "^1Section: ^7I can hold her!"
+LANG_ENGLISH        "^1SECTION: ^7I CAN HOLD HER!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_10_01_022A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Your FA38's on fire, Section!  Finish off those drones!"
+LANG_ENGLISH        "^1HARPER: ^7YOUR FA38'S ON FIRE, SECTION!  FINISH OFF THOSE DRONES!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_10_01_024A_SECT_D
-LANG_ENGLISH        "^1Section: ^7She's coming apart!  I'm losing it!"
+LANG_ENGLISH        "^1SECTION: ^7SHE'S COMING APART!  I'M LOSING IT!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_10_01_025A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Another second!"
+LANG_ENGLISH        "^1SECTION: ^7ANOTHER SECOND!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_10_01_026A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Eject, Section!  DO IT!"
+LANG_ENGLISH        "^1HARPER: ^7EJECT, SECTION!  DO IT!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_10_02_001A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Mason?"
+LANG_ENGLISH        "^1HARPER: ^7MASON?"
 
 REFERENCE           LA_2_VOX_VOX_LA2_10_02_002A_HARP_M
-LANG_ENGLISH        "^1Harper: ^7You are one crazy bastard.  You know that, right?"
+LANG_ENGLISH        "^1HARPER: ^7YOU ARE ONE CRAZY BASTARD.  YOU KNOW THAT, RIGHT?"
 
 REFERENCE           LA_2_VOX_VOX_LA2_10_02_002A_HARP_S
-LANG_ENGLISH        "^1Harper: ^7You are crazy.  You know that, right?"
+LANG_ENGLISH        "^1HARPER: ^7YOU ARE CRAZY.  YOU KNOW THAT, RIGHT?"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_069A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Section!"
+LANG_ENGLISH        "^1HARPER: ^7SECTION!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_070A_SECT_M
-LANG_ENGLISH        "^1Section: ^7Shit... Anderson!  She took a hit before.  Don't know how bad."
+LANG_ENGLISH        "^1SECTION: ^7SHIT... ANDERSON!  SHE TOOK A HIT BEFORE.  DON'T KNOW HOW BAD."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_070A_SECT_S
-LANG_ENGLISH        "^1Section: ^7Anderson!  She took a hit before.  Don't know how bad."
+LANG_ENGLISH        "^1SECTION: ^7ANDERSON!  SHE TOOK A HIT BEFORE.  DON'T KNOW HOW BAD."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_071A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Least she's still in one piece."
+LANG_ENGLISH        "^1HARPER: ^7LEAST SHE'S STILL IN ONE PIECE."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_073A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Get her to safety.  Make sure she lives!"
+LANG_ENGLISH        "^1SECTION: ^7GET HER TO SAFETY.  MAKE SURE SHE LIVES!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_074A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Ever fly one of these things, Section?"
+LANG_ENGLISH        "^1HARPER: ^7EVER FLY ONE OF THESE THINGS, SECTION?"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_075A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Well you're gonna fly one now, buddy."
+LANG_ENGLISH        "^1HARPER: ^7WELL YOU'RE GONNA FLY ONE NOW, BUDDY."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_076A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Don't sweat it, Section.  It's separate from our defense network.  Menendez can't touch you."
+LANG_ENGLISH        "^1HARPER: ^7DON'T SWEAT IT, SECTION.  IT'S SEPARATE FROM OUR DEFENSE NETWORK.  MENENDEZ CAN'T TOUCH YOU."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_077A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7I'll take the ambulance with Anderson."
+LANG_ENGLISH        "^1HARPER: ^7I'LL TAKE THE AMBULANCE WITH ANDERSON."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_078A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Stay on me and we'll try to regroup with the presidential convoy."
+LANG_ENGLISH        "^1HARPER: ^7STAY ON ME AND WE'LL TRY TO REGROUP WITH THE PRESIDENTIAL CONVOY."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_081A_SAMU_M
-LANG_ENGLISH        "^1Samuels: ^7The PMCs are flooding every damn intersection!  The LAPD are overwhelmed.  We're not gonna make it!"
+LANG_ENGLISH        "^1SAMUELS: ^7THE PMCS ARE FLOODING EVERY DAMN INTERSECTION!  THE LAPD ARE OVERWHELMED.  WE'RE NOT GONNA MAKE IT!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_081A_SAMU_S
-LANG_ENGLISH        "^1Samuels: ^7The PMCs are flooding every intersection!  The LAPD are overwhelmed.  We're not gonna make it!"
+LANG_ENGLISH        "^1SAMUELS: ^7THE PMCS ARE FLOODING EVERY INTERSECTION!  THE LAPD ARE OVERWHELMED.  WE'RE NOT GONNA MAKE IT!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_082A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Samuels, I've secured an FA38 to provide air support."
+LANG_ENGLISH        "^1SECTION: ^7SAMUELS, I'VE SECURED AN FA38 TO PROVIDE AIR SUPPORT."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_083A_SECT_D
-LANG_ENGLISH        "^1Section: ^7I'm tracking your location now.  Just hang in there."
+LANG_ENGLISH        "^1SECTION: ^7I'M TRACKING YOUR LOCATION NOW.  JUST HANG IN THERE."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_084A_PRES_D
-LANG_ENGLISH        "^1President: ^7Good Luck, Mason."
+LANG_ENGLISH        "^1PRESIDENT: ^7GOOD LUCK, MASON."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_086A_SAMU_M
-LANG_ENGLISH        "^1Samuels: ^7The attack devastated much of the area.  Dammit."
+LANG_ENGLISH        "^1SAMUELS: ^7THE ATTACK DEVASTATED MUCH OF THE AREA.  DAMMIT."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_086A_SAMU_S
-LANG_ENGLISH        "^1Samuels: ^7The attack devastated much of the area."
+LANG_ENGLISH        "^1SAMUELS: ^7THE ATTACK DEVASTATED MUCH OF THE AREA."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_087A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Looks like more trouble up ahead, Section."
+LANG_ENGLISH        "^1HARPER: ^7LOOKS LIKE MORE TROUBLE UP AHEAD, SECTION."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_089A_SAMU_D
-LANG_ENGLISH        "^1Samuels: ^7Which way, Section?"
+LANG_ENGLISH        "^1SAMUELS: ^7WHICH WAY, SECTION?"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_090A_SAMU_D
-LANG_ENGLISH        "^1Samuels: ^7Enemy trucks!"
+LANG_ENGLISH        "^1SAMUELS: ^7ENEMY TRUCKS!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_091A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Mercs moving in!"
+LANG_ENGLISH        "^1HARPER: ^7MERCS MOVING IN!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_093A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7They're tearing into the cops!"
+LANG_ENGLISH        "^1HARPER: ^7THEY'RE TEARING INTO THE COPS!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_094A_HARP_M
-LANG_ENGLISH        "^1Harper: ^7Those fucking bastards are all over the streets!"
+LANG_ENGLISH        "^1HARPER: ^7THOSE FUCKING BASTARDS ARE ALL OVER THE STREETS!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_094A_HARP_S
-LANG_ENGLISH        "^1Harper: ^7They're are all over the streets!"
+LANG_ENGLISH        "^1HARPER: ^7THEY'RE ARE ALL OVER THE STREETS!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_096A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Hit 'em, Section!"
+LANG_ENGLISH        "^1HARPER: ^7HIT 'EM, SECTION!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_097A_SAMU_D
-LANG_ENGLISH        "^1Samuels: ^7Section, the presidential convoy is pinned down by infantry fire."
+LANG_ENGLISH        "^1SAMUELS: ^7SECTION, THE PRESIDENTIAL CONVOY IS PINNED DOWN BY INFANTRY FIRE."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_098A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Come on, Section!!"
+LANG_ENGLISH        "^1HARPER: ^7COME ON, SECTION!!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_04_099A_SAMU_D
-LANG_ENGLISH        "^1Samuels: ^7You gotta clear us a path!"
+LANG_ENGLISH        "^1SAMUELS: ^7YOU GOTTA CLEAR US A PATH!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_001A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Nice work, bro!  Nice work."
+LANG_ENGLISH        "^1HARPER: ^7NICE WORK, BRO!  NICE WORK."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_002A_HARP_M
-LANG_ENGLISH        "^1Harper: ^7Goddammit, man!  It's ambush alley down here!"
+LANG_ENGLISH        "^1HARPER: ^7GODDAMMIT, MAN!  IT'S AMBUSH ALLEY DOWN HERE!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_002A_HARP_S
-LANG_ENGLISH        "^1Harper: ^7It's ambush alley down here!"
+LANG_ENGLISH        "^1HARPER: ^7IT'S AMBUSH ALLEY DOWN HERE!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_006A_SAMU_D
-LANG_ENGLISH        "^1Samuels: ^7Enemy big rigs!  End of the street!"
+LANG_ENGLISH        "^1SAMUELS: ^7ENEMY BIG RIGS!  END OF THE STREET!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_008A_SAMU_D
-LANG_ENGLISH        "^1Samuels: ^7Section, we're tracking another wave of drones advancing on our position!"
+LANG_ENGLISH        "^1SAMUELS: ^7SECTION, WE'RE TRACKING ANOTHER WAVE OF DRONES ADVANCING ON OUR POSITION!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_009A_SAMU_D
-LANG_ENGLISH        "^1Samuels: ^7NORAD's FA38s are still three minutes out!"
+LANG_ENGLISH        "^1SAMUELS: ^7NORAD'S FA38S ARE STILL THREE MINUTES OUT!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_010A_SECT_D
-LANG_ENGLISH        "^1Section: ^7I'll handle the drones.  Just get the president to Prom Night!"
+LANG_ENGLISH        "^1SECTION: ^7I'LL HANDLE THE DRONES.  JUST GET THE PRESIDENT TO PROM NIGHT!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_011A_SAMU_D
-LANG_ENGLISH        "^1Samuels: ^7The drones are targeting the convoy!  You've gotta keep them off us, Section!"
+LANG_ENGLISH        "^1SAMUELS: ^7THE DRONES ARE TARGETING THE CONVOY!  YOU'VE GOTTA KEEP THEM OFF US, SECTION!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_012A_SAMU_M
-LANG_ENGLISH        "^1Samuels: ^7Dammit!!  Section, we just took a direct hit!"
+LANG_ENGLISH        "^1SAMUELS: ^7DAMMIT!!  SECTION, WE JUST TOOK A DIRECT HIT!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_012A_SAMU_S
-LANG_ENGLISH        "^1Samuels: ^7Section, we just took a direct hit!"
+LANG_ENGLISH        "^1SAMUELS: ^7SECTION, WE JUST TOOK A DIRECT HIT!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_013A_SAMU_M
-LANG_ENGLISH        "^1Samuels: ^7Dammit, Section!  One more of those and we're dead meat!"
+LANG_ENGLISH        "^1SAMUELS: ^7DAMMIT, SECTION!  ONE MORE OF THOSE AND WE'RE DEAD MEAT!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_013A_SAMU_S
-LANG_ENGLISH        "^1Samuels: ^7One more of those and we're dead meat!"
+LANG_ENGLISH        "^1SAMUELS: ^7ONE MORE OF THOSE AND WE'RE DEAD MEAT!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_017A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Put Anderson on comms!"
+LANG_ENGLISH        "^1SECTION: ^7PUT ANDERSON ON COMMS!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_018A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Anderson.  I need to unlock the sky buster missiles."
+LANG_ENGLISH        "^1SECTION: ^7ANDERSON.  I NEED TO UNLOCK THE SKY BUSTER MISSILES."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_021A_SAMU_D
-LANG_ENGLISH        "^1Samuels: ^7I'm sorry, Section.  She didn't make it."
+LANG_ENGLISH        "^1SAMUELS: ^7I'M SORRY, SECTION.  SHE DIDN'T MAKE IT."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_022A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Good luck, Section."
+LANG_ENGLISH        "^1HARPER: ^7GOOD LUCK, SECTION."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_023A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Nice work, Section."
+LANG_ENGLISH        "^1HARPER: ^7NICE WORK, SECTION."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_026A_HARP_M
-LANG_ENGLISH        "^1Harper: ^7Section, the goddamn drones are all over us!"
+LANG_ENGLISH        "^1HARPER: ^7SECTION, THE GODDAMN DRONES ARE ALL OVER US!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_026A_HARP_S
-LANG_ENGLISH        "^1Harper: ^7Section, the drones are all over us!"
+LANG_ENGLISH        "^1HARPER: ^7SECTION, THE DRONES ARE ALL OVER US!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_027A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Where are you, Section?!  We're taking damage here, man!"
+LANG_ENGLISH        "^1HARPER: ^7WHERE ARE YOU, SECTION?!  WE'RE TAKING DAMAGE HERE, MAN!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_028A_HARP_M
-LANG_ENGLISH        "^1Harper: ^7C'mon, brother!  Where the hell are ya?!"
+LANG_ENGLISH        "^1HARPER: ^7C'MON, BROTHER!  WHERE THE HELL ARE YA?!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_028A_HARP_S
-LANG_ENGLISH        "^1Harper: ^7C'mon, brother!  Where are ya?!"
+LANG_ENGLISH        "^1HARPER: ^7C'MON, BROTHER!  WHERE ARE YA?!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_031A_SAMU_D
-LANG_ENGLISH        "^1Samuels: ^7We're taking damage here!"
+LANG_ENGLISH        "^1SAMUELS: ^7WE'RE TAKING DAMAGE HERE!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_033A_SAMU_M
-LANG_ENGLISH        "^1Samuels: ^7Oh, dammit!  We're under fire!!!"
+LANG_ENGLISH        "^1SAMUELS: ^7OH, DAMMIT!  WE'RE UNDER FIRE!!!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_033A_SAMU_S
-LANG_ENGLISH        "^1Samuels: ^7We're under fire!!!"
+LANG_ENGLISH        "^1SAMUELS: ^7WE'RE UNDER FIRE!!!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_034A_SAMU_D
-LANG_ENGLISH        "^1Samuels: ^7Keep them off us!"
+LANG_ENGLISH        "^1SAMUELS: ^7KEEP THEM OFF US!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_035A_SAMU_D
-LANG_ENGLISH        "^1Samuels: ^7Where are you, Section?"
+LANG_ENGLISH        "^1SAMUELS: ^7WHERE ARE YOU, SECTION?"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_036A_SAMU_D
-LANG_ENGLISH        "^1Samuels: ^7We need you with the convoy!"
+LANG_ENGLISH        "^1SAMUELS: ^7WE NEED YOU WITH THE CONVOY!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_043A_HARP_M
-LANG_ENGLISH        "^1Harper: ^7Dammit, Section!  They've got a lock on you!"
+LANG_ENGLISH        "^1HARPER: ^7DAMMIT, SECTION!  THEY'VE GOT A LOCK ON YOU!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_043A_HARP_S
-LANG_ENGLISH        "^1Harper: ^7Section, they've got a lock on you!"
+LANG_ENGLISH        "^1HARPER: ^7SECTION, THEY'VE GOT A LOCK ON YOU!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_074A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7What are you doing, Section?"
+LANG_ENGLISH        "^1HARPER: ^7WHAT ARE YOU DOING, SECTION?"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_075A_SAMU_D
-LANG_ENGLISH        "^1Samuels: ^7Section!  What are you doing?"
+LANG_ENGLISH        "^1SAMUELS: ^7SECTION!  WHAT ARE YOU DOING?"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_076A_SECT_D
-LANG_ENGLISH        "^1Section: ^7I'm gonna hit him head on."
+LANG_ENGLISH        "^1SECTION: ^7I'M GONNA HIT HIM HEAD ON."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_078A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7It's suicide!!"
+LANG_ENGLISH        "^1HARPER: ^7IT'S SUICIDE!!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_079A_SAMU_D
-LANG_ENGLISH        "^1Samuels: ^7I hope you're sure about this..."
+LANG_ENGLISH        "^1SAMUELS: ^7I HOPE YOU'RE SURE ABOUT THIS..."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_080A_SAMU_M
-LANG_ENGLISH        "^1Samuels: ^7Damn..."
+LANG_ENGLISH        "^1SAMUELS: ^7DAMN..."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_081A_SAMU_D
-LANG_ENGLISH        "^1Samuels: ^7That was pretty ballsy moves up there soldier."
+LANG_ENGLISH        "^1SAMUELS: ^7THAT WAS PRETTY BALLSY MOVES UP THERE SOLDIER."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_086A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7Okay... Uploading the Skybuster codes to you."
+LANG_ENGLISH        "^1ANDERSON: ^7OKAY... UPLOADING THE SKYBUSTER CODES TO YOU."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_087A_SAMU_D
-LANG_ENGLISH        "^1Samuels: ^7Section, the LAPD vehicles will guide you right to us.  Stay with them."
+LANG_ENGLISH        "^1SAMUELS: ^7SECTION, THE LAPD VEHICLES WILL GUIDE YOU RIGHT TO US.  STAY WITH THEM."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_088A_SAMU_D
-LANG_ENGLISH        "^1Samuels: ^7Section, stay with the LAPD vehicles.  They'll guide you right to our location."
+LANG_ENGLISH        "^1SAMUELS: ^7SECTION, STAY WITH THE LAPD VEHICLES.  THEY'LL GUIDE YOU RIGHT TO OUR LOCATION."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_089A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7Section, I'm remotely activating your F-38's Skybuster missiles.  Use them to take out multiple targets with each shot."
+LANG_ENGLISH        "^1ANDERSON: ^7SECTION, I'M REMOTELY ACTIVATING YOUR F-38'S SKYBUSTER MISSILES.  USE THEM TO TAKE OUT MULTIPLE TARGETS WITH EACH SHOT."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_090A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7Section, thanks for saving my life."
+LANG_ENGLISH        "^1ANDERSON: ^7SECTION, THANKS FOR SAVING MY LIFE."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_092A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7Section, quad rotor support available."
+LANG_ENGLISH        "^1ANDERSON: ^7SECTION, QUAD ROTOR SUPPORT AVAILABLE."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_093A_SAMU_D
-LANG_ENGLISH        "^1Samuels: ^7Stay with us, Section!  We need you to thin out the drones!"
+LANG_ENGLISH        "^1SAMUELS: ^7STAY WITH US, SECTION!  WE NEED YOU TO THIN OUT THE DRONES!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_094A_SAMU_D
-LANG_ENGLISH        "^1Samuels: ^7You're trailing dark smoke, Section.  You okay?"
+LANG_ENGLISH        "^1SAMUELS: ^7YOU'RE TRAILING DARK SMOKE, SECTION.  YOU OKAY?"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_095A_SAMU_D
-LANG_ENGLISH        "^1Samuels: ^7Your F-38's on fire, Section.  Finish off the drones!"
+LANG_ENGLISH        "^1SAMUELS: ^7YOUR F-38'S ON FIRE, SECTION.  FINISH OFF THE DRONES!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_05_096A_SAMU_D
-LANG_ENGLISH        "^1Samuels: ^7Section, Eject!"
+LANG_ENGLISH        "^1SAMUELS: ^7SECTION, EJECT!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_006A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7I'm uploading the Skybuster codes to you now."
+LANG_ENGLISH        "^1ANDERSON: ^7I'M UPLOADING THE SKYBUSTER CODES TO YOU NOW."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_008A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7Skybuster missles can destroy multiple aircraft each you fire them."
+LANG_ENGLISH        "^1ANDERSON: ^7SKYBUSTER MISSLES CAN DESTROY MULTIPLE AIRCRAFT EACH YOU FIRE THEM."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_009A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7Section, there is a SAM launcher on the plaza roof."
+LANG_ENGLISH        "^1ANDERSON: ^7SECTION, THERE IS A SAM LAUNCHER ON THE PLAZA ROOF."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_010A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7Section, can you get to the SAM launcher on the plaza mall roof?"
+LANG_ENGLISH        "^1ANDERSON: ^7SECTION, CAN YOU GET TO THE SAM LAUNCHER ON THE PLAZA MALL ROOF?"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_011A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7Section, take out some drones with the SAM launcher on the plaza mall roof!"
+LANG_ENGLISH        "^1ANDERSON: ^7SECTION, TAKE OUT SOME DRONES WITH THE SAM LAUNCHER ON THE PLAZA MALL ROOF!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_012A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7Use the SAMs to take out the enemy aircraft."
+LANG_ENGLISH        "^1ANDERSON: ^7USE THE SAMS TO TAKE OUT THE ENEMY AIRCRAFT."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_013A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7Section, the drones are killing us! You need to shoot them down!"
+LANG_ENGLISH        "^1ANDERSON: ^7SECTION, THE DRONES ARE KILLING US! YOU NEED TO SHOOT THEM DOWN!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_014A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7Section, we need help with the drones!"
+LANG_ENGLISH        "^1ANDERSON: ^7SECTION, WE NEED HELP WITH THE DRONES!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_015A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7Shoot them down with the SAM launcher on the roof!"
+LANG_ENGLISH        "^1ANDERSON: ^7SHOOT THEM DOWN WITH THE SAM LAUNCHER ON THE ROOF!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_016A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7The SAM launcher is on the building to your right!"
+LANG_ENGLISH        "^1ANDERSON: ^7THE SAM LAUNCHER IS ON THE BUILDING TO YOUR RIGHT!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_017A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7The SAM launcher is on top of the building to your left!"
+LANG_ENGLISH        "^1ANDERSON: ^7THE SAM LAUNCHER IS ON TOP OF THE BUILDING TO YOUR LEFT!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_018A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7The SAM launcher is on top of the building up the street!"
+LANG_ENGLISH        "^1ANDERSON: ^7THE SAM LAUNCHER IS ON TOP OF THE BUILDING UP THE STREET!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_019A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7Through the mall!"
+LANG_ENGLISH        "^1ANDERSON: ^7THROUGH THE MALL!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_020A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7Building on your left!"
+LANG_ENGLISH        "^1ANDERSON: ^7BUILDING ON YOUR LEFT!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_021A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7Building on your right!"
+LANG_ENGLISH        "^1ANDERSON: ^7BUILDING ON YOUR RIGHT!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_022A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7Up the stairs."
+LANG_ENGLISH        "^1ANDERSON: ^7UP THE STAIRS."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_023A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7Directly ahead."
+LANG_ENGLISH        "^1ANDERSON: ^7DIRECTLY AHEAD."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_024A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7On the corner."
+LANG_ENGLISH        "^1ANDERSON: ^7ON THE CORNER."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_025A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7Across the street."
+LANG_ENGLISH        "^1ANDERSON: ^7ACROSS THE STREET."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_026A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7SAM launcher is on the roof."
+LANG_ENGLISH        "^1ANDERSON: ^7SAM LAUNCHER IS ON THE ROOF."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_027A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7Hurry, Section."
+LANG_ENGLISH        "^1ANDERSON: ^7HURRY, SECTION."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_028A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7Way to go!"
+LANG_ENGLISH        "^1ANDERSON: ^7WAY TO GO!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_029A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7Keep it up!"
+LANG_ENGLISH        "^1ANDERSON: ^7KEEP IT UP!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_030A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7Try to take the heat off!"
+LANG_ENGLISH        "^1ANDERSON: ^7TRY TO TAKE THE HEAT OFF!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_031A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7Nice shooting."
+LANG_ENGLISH        "^1ANDERSON: ^7NICE SHOOTING."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_032A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7One down."
+LANG_ENGLISH        "^1ANDERSON: ^7ONE DOWN."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_033A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7That's two."
+LANG_ENGLISH        "^1ANDERSON: ^7THAT'S TWO."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_034A_ANDE_D
-LANG_ENGLISH        "^1Anderson: ^7Watch it, Section!  Multiple drones inbound!"
+LANG_ENGLISH        "^1ANDERSON: ^7WATCH IT, SECTION!  MULTIPLE DRONES INBOUND!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_038A_SECT_M
-LANG_ENGLISH        "^1Section: ^7Holy shit..."
+LANG_ENGLISH        "^1SECTION: ^7HOLY SHIT..."
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_039A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Anderson, you still with me?  Anderson?"
+LANG_ENGLISH        "^1SECTION: ^7ANDERSON, YOU STILL WITH ME?  ANDERSON?"
 
 REFERENCE           LA_2_VOX_VOX_LA2_11_06_040A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Samuels.  Anderson's FA38 went down.  I'm moving to the crash site.  Her aircraft may still be viable."
+LANG_ENGLISH        "^1SECTION: ^7SAMUELS.  ANDERSON'S FA38 WENT DOWN.  I'M MOVING TO THE CRASH SITE.  HER AIRCRAFT MAY STILL BE VIABLE."
 
 REFERENCE           LA_2_VOX_VOX_LA2_8_02_001A_HARP_M
-LANG_ENGLISH        "^1Harper: ^7Holy Shit..."
+LANG_ENGLISH        "^1HARPER: ^7HOLY SHIT..."
 
 REFERENCE           LA_2_VOX_VOX_LA2_8_02_002A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7You okay?"
+LANG_ENGLISH        "^1HARPER: ^7YOU OKAY?"
 
 REFERENCE           LA_2_VOX_VOX_LA2_8_02_003A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Yeah."
+LANG_ENGLISH        "^1SECTION: ^7YEAH."
 
 REFERENCE           LA_2_VOX_VOX_LA2_8_02_004A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Anderson's FA38 may still be viable."
+LANG_ENGLISH        "^1HARPER: ^7ANDERSON'S FA38 MAY STILL BE VIABLE."
 
 REFERENCE           LA_2_VOX_VOX_LA2_8_02_005A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Anderson!"
+LANG_ENGLISH        "^1SECTION: ^7ANDERSON!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_8_02_009A_SECT_D
-LANG_ENGLISH        "^1Section: ^7No."
+LANG_ENGLISH        "^1SECTION: ^7NO."
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_01_002A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7The flight computer should handle most of the work."
+LANG_ENGLISH        "^1HARPER: ^7THE FLIGHT COMPUTER SHOULD HANDLE MOST OF THE WORK."
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_01_003A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Are we sure it's not compromised?"
+LANG_ENGLISH        "^1SECTION: ^7ARE WE SURE IT'S NOT COMPROMISED?"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_01_009A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Do what you can to provide air cover."
+LANG_ENGLISH        "^1HARPER: ^7DO WHAT YOU CAN TO PROVIDE AIR COVER."
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_01_010A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Good luck, Harper.  See you at Prom Night."
+LANG_ENGLISH        "^1SECTION: ^7GOOD LUCK, HARPER.  SEE YOU AT PROM NIGHT."
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_01_016A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Engines on..."
+LANG_ENGLISH        "^1SECTION: ^7ENGINES ON..."
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_02_006A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Harper, road's clear!  Move up!"
+LANG_ENGLISH        "^1SECTION: ^7HARPER, ROAD'S CLEAR!  MOVE UP!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_02_008A_SECT_D
-LANG_ENGLISH        "^1Section: ^7How's Anderson?"
+LANG_ENGLISH        "^1SECTION: ^7HOW'S ANDERSON?"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_02_009A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7She'll make it.  She's one tough lady."
+LANG_ENGLISH        "^1HARPER: ^7SHE'LL MAKE IT.  SHE'S ONE TOUGH LADY."
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_02_010A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Glad to hear it, Harper.  Keep her safe."
+LANG_ENGLISH        "^1SECTION: ^7GLAD TO HEAR IT, HARPER.  KEEP HER SAFE."
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_02_012A_SECT_M
-LANG_ENGLISH        "^1Section: ^7Damn."
+LANG_ENGLISH        "^1SECTION: ^7DAMN."
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_02_013A_PRES_D
-LANG_ENGLISH        "^1President: ^7Agent Mason, what's the plan?"
+LANG_ENGLISH        "^1PRESIDENT: ^7AGENT MASON, WHAT'S THE PLAN?"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_02_014A_SECT_D
-LANG_ENGLISH        "^1Section: ^7The LAPD will try to keep the roads clear, but with so many insurgents, we'll be under constant attack."
+LANG_ENGLISH        "^1SECTION: ^7THE LAPD WILL TRY TO KEEP THE ROADS CLEAR, BUT WITH SO MANY INSURGENTS, WE'LL BE UNDER CONSTANT ATTACK."
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_02_015A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Flight computer will track the convoy's location.  I'll provide overwatch and draw attacks away from you."
+LANG_ENGLISH        "^1SECTION: ^7FLIGHT COMPUTER WILL TRACK THE CONVOY'S LOCATION.  I'LL PROVIDE OVERWATCH AND DRAW ATTACKS AWAY FROM YOU."
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_02_017A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Harper, make a left on 9th."
+LANG_ENGLISH        "^1SECTION: ^7HARPER, MAKE A LEFT ON 9TH."
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_02_018A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Got it..."
+LANG_ENGLISH        "^1HARPER: ^7GOT IT..."
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_02_019A_HARP_M
-LANG_ENGLISH        "^1Harper: ^7Shit... It's a fucking mess.  They really hit us hard."
+LANG_ENGLISH        "^1HARPER: ^7SHIT... IT'S A FUCKING MESS.  THEY REALLY HIT US HARD."
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_02_019A_HARP_S
-LANG_ENGLISH        "^1Harper: ^7It's a mess.  They really hit us hard."
+LANG_ENGLISH        "^1HARPER: ^7IT'S A MESS.  THEY REALLY HIT US HARD."
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_02_020A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Wait..."
+LANG_ENGLISH        "^1SECTION: ^7WAIT..."
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_02_021A_SECT_M
-LANG_ENGLISH        "^1Section: ^7Shit!  Enemy trucks crashing the Hope Street blockade!"
+LANG_ENGLISH        "^1SECTION: ^7SHIT!  ENEMY TRUCKS CRASHING THE HOPE STREET BLOCKADE!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_02_021A_SECT_S
-LANG_ENGLISH        "^1Section: ^7Enemy trucks crashing the Hope Street blockade!"
+LANG_ENGLISH        "^1SECTION: ^7ENEMY TRUCKS CRASHING THE HOPE STREET BLOCKADE!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_02_022A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Keep moving!  Go!"
+LANG_ENGLISH        "^1SECTION: ^7KEEP MOVING!  GO!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_03_003A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Left!  Go left!!"
+LANG_ENGLISH        "^1SECTION: ^7LEFT!  GO LEFT!!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_03_004A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Enemy trucks!"
+LANG_ENGLISH        "^1HARPER: ^7ENEMY TRUCKS!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_03_005A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7We got more trucks headed right for us!"
+LANG_ENGLISH        "^1HARPER: ^7WE GOT MORE TRUCKS HEADED RIGHT FOR US!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_03_009A_HARP_M
-LANG_ENGLISH        "^1Harper: ^7Bastards are everywhere!"
+LANG_ENGLISH        "^1HARPER: ^7BASTARDS ARE EVERYWHERE!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_03_009A_HARP_S
-LANG_ENGLISH        "^1Harper: ^7They're everywhere!"
+LANG_ENGLISH        "^1HARPER: ^7THEY'RE EVERYWHERE!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_03_010A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7The cops are getting hammered!"
+LANG_ENGLISH        "^1HARPER: ^7THE COPS ARE GETTING HAMMERED!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_04_005A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7We're taking fire from all sides!"
+LANG_ENGLISH        "^1HARPER: ^7WE'RE TAKING FIRE FROM ALL SIDES!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_04_006A_SECT_M
-LANG_ENGLISH        "^1Section: ^7Shit!  They've got more claws!"
+LANG_ENGLISH        "^1SECTION: ^7SHIT!  THEY'VE GOT MORE CLAWS!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_04_006A_SECT_S
-LANG_ENGLISH        "^1Section: ^7They've got more claws!"
+LANG_ENGLISH        "^1SECTION: ^7THEY'VE GOT MORE CLAWS!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_04_007A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Get off 9th!  Turn north onto Flower!"
+LANG_ENGLISH        "^1SECTION: ^7GET OFF 9TH!  TURN NORTH ONTO FLOWER!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_04_009A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Helicopter above the parking structure!"
+LANG_ENGLISH        "^1HARPER: ^7HELICOPTER ABOVE THE PARKING STRUCTURE!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_04_011A_HARP_M
-LANG_ENGLISH        "^1Harper: ^7Fuck!  The big rigs are blocking out path!"
+LANG_ENGLISH        "^1HARPER: ^7FUCK!  THE BIG RIGS ARE BLOCKING OUT PATH!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_04_011A_HARP_S
-LANG_ENGLISH        "^1Harper: ^7The big rigs are blocking out path!"
+LANG_ENGLISH        "^1HARPER: ^7THE BIG RIGS ARE BLOCKING OUT PATH!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_04_015A_SECT_D
-LANG_ENGLISH        "^1Section: ^7We got enemy gunships!"
+LANG_ENGLISH        "^1SECTION: ^7WE GOT ENEMY GUNSHIPS!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_04_016A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Keep moving!"
+LANG_ENGLISH        "^1SECTION: ^7KEEP MOVING!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_04_017A_SECT_D
-LANG_ENGLISH        "^1Section: ^7It's too hot!  Turn right on 5th!"
+LANG_ENGLISH        "^1SECTION: ^7IT'S TOO HOT!  TURN RIGHT ON 5TH!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_04_022A_HARP_M
-LANG_ENGLISH        "^1Harper: ^7Bastards tried to drop a whole fucking building on us!"
+LANG_ENGLISH        "^1HARPER: ^7BASTARDS TRIED TO DROP A WHOLE FUCKING BUILDING ON US!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_04_022A_HARP_S
-LANG_ENGLISH        "^1Harper: ^7They tried to drop a whole building on us!"
+LANG_ENGLISH        "^1HARPER: ^7THEY TRIED TO DROP A WHOLE BUILDING ON US!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_04_024A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7The convoy vehicles are still operational, but we need some time to clear the debris."
+LANG_ENGLISH        "^1HARPER: ^7THE CONVOY VEHICLES ARE STILL OPERATIONAL, BUT WE NEED SOME TIME TO CLEAR THE DEBRIS."
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_05_003A_SECT_M
-LANG_ENGLISH        "^1Section: ^7Shit!  Harper!  Got multiple drones incoming!"
+LANG_ENGLISH        "^1SECTION: ^7SHIT!  HARPER!  GOT MULTIPLE DRONES INCOMING!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_05_003A_SECT_S
-LANG_ENGLISH        "^1Section: ^7Harper!  Got multiple drones incoming!"
+LANG_ENGLISH        "^1SECTION: ^7HARPER!  GOT MULTIPLE DRONES INCOMING!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_05_011A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Take the heat off the convoy!"
+LANG_ENGLISH        "^1HARPER: ^7TAKE THE HEAT OFF THE CONVOY!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_05_014A_HARP_M
-LANG_ENGLISH        "^1Harper: ^7Dammit, man!  We're taking fire!"
+LANG_ENGLISH        "^1HARPER: ^7DAMMIT, MAN!  WE'RE TAKING FIRE!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_05_014A_HARP_S
-LANG_ENGLISH        "^1Harper: ^7We're taking fire!"
+LANG_ENGLISH        "^1HARPER: ^7WE'RE TAKING FIRE!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_05_015A_HARP_M
-LANG_ENGLISH        "^1Harper: ^7Goddammit!!  Keep them off us, man!"
+LANG_ENGLISH        "^1HARPER: ^7GODDAMMIT!!  KEEP THEM OFF US, MAN!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_05_015A_HARP_S
-LANG_ENGLISH        "^1Harper: ^7Keep them off us, man!"
+LANG_ENGLISH        "^1HARPER: ^7KEEP THEM OFF US, MAN!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_05_019A_SECT_M
-LANG_ENGLISH        "^1Section: ^7Shit!  They're all over me!"
+LANG_ENGLISH        "^1SECTION: ^7SHIT!  THEY'RE ALL OVER ME!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_05_019A_SECT_S
-LANG_ENGLISH        "^1Section: ^7They're all over me!"
+LANG_ENGLISH        "^1SECTION: ^7THEY'RE ALL OVER ME!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_05_020A_SECT_M
-LANG_ENGLISH        "^1Section: ^7Damn!  I can't shake 'em!"
+LANG_ENGLISH        "^1SECTION: ^7DAMN!  I CAN'T SHAKE 'EM!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_05_020A_SECT_S
-LANG_ENGLISH        "^1Section: ^7I can't shake 'em!"
+LANG_ENGLISH        "^1SECTION: ^7I CAN'T SHAKE 'EM!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_05_022A_SECT_M
-LANG_ENGLISH        "^1Section: ^7Come on, you bastard!"
+LANG_ENGLISH        "^1SECTION: ^7COME ON, YOU BASTARD!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_05_022A_SECT_S
-LANG_ENGLISH        "^1Section: ^7Come on!"
+LANG_ENGLISH        "^1SECTION: ^7COME ON!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_05_023A_SECT_D
-LANG_ENGLISH        "^1Section: ^7I've got you now!"
+LANG_ENGLISH        "^1SECTION: ^7I'VE GOT YOU NOW!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_05_024A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Got him!"
+LANG_ENGLISH        "^1SECTION: ^7GOT HIM!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_05_025A_SECT_D
-LANG_ENGLISH        "^1Section: ^7That's a hit."
+LANG_ENGLISH        "^1SECTION: ^7THAT'S A HIT."
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_05_047A_HARP_M
-LANG_ENGLISH        "^1Harper: ^7The missiles are right on your ass!"
+LANG_ENGLISH        "^1HARPER: ^7THE MISSILES ARE RIGHT ON YOUR ASS!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_05_047A_HARP_S
-LANG_ENGLISH        "^1Harper: ^7The missiles are right on your six!"
+LANG_ENGLISH        "^1HARPER: ^7THE MISSILES ARE RIGHT ON YOUR SIX!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_05_051A_RICH_D
-LANG_ENGLISH        "^1Richards: ^7The drones are targeting the convoy!  You've gotta take them out!"
+LANG_ENGLISH        "^1RICHARDS: ^7THE DRONES ARE TARGETING THE CONVOY!  YOU'VE GOTTA TAKE THEM OUT!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_05_052A_RICH_D
-LANG_ENGLISH        "^1Richards: ^7We just took a direct hit!"
+LANG_ENGLISH        "^1RICHARDS: ^7WE JUST TOOK A DIRECT HIT!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_06_001A_SECT_D
-LANG_ENGLISH        "^1Section: ^7We have more incoming!"
+LANG_ENGLISH        "^1SECTION: ^7WE HAVE MORE INCOMING!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_06_002A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Why are they coming in so low?"
+LANG_ENGLISH        "^1HARPER: ^7WHY ARE THEY COMING IN SO LOW?"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_06_003A_SECT_M
-LANG_ENGLISH        "^1Section: ^7Fuck!!!  They're through being subtle.  Bastards are flying straight for you!"
+LANG_ENGLISH        "^1SECTION: ^7FUCK!!!  THEY'RE THROUGH BEING SUBTLE.  BASTARDS ARE FLYING STRAIGHT FOR YOU!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_06_003A_SECT_S
-LANG_ENGLISH        "^1Section: ^7They're through being subtle.  They're flying straight for you!"
+LANG_ENGLISH        "^1SECTION: ^7THEY'RE THROUGH BEING SUBTLE.  THEY'RE FLYING STRAIGHT FOR YOU!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_06_005A_SECT_M
-LANG_ENGLISH        "^1Section: ^7Shit they're fast!"
+LANG_ENGLISH        "^1SECTION: ^7SHIT THEY'RE FAST!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_06_005A_SECT_S
-LANG_ENGLISH        "^1Section: ^7They're fast!"
+LANG_ENGLISH        "^1SECTION: ^7THEY'RE FAST!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_06_006A_SECT_M
-LANG_ENGLISH        "^1Section: ^7Damn!! That was too close!"
+LANG_ENGLISH        "^1SECTION: ^7DAMN!! THAT WAS TOO CLOSE!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_06_006A_SECT_S
-LANG_ENGLISH        "^1Section: ^7That was too close!"
+LANG_ENGLISH        "^1SECTION: ^7THAT WAS TOO CLOSE!"
 
 REFERENCE           LA_2_VOX_VOX_LA2_9_06_007A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Keep them off us!  We can't take much more!"
+LANG_ENGLISH        "^1HARPER: ^7KEEP THEM OFF US!  WE CAN'T TAKE MUCH MORE!"
 
 REFERENCE           LA_SHARED_ARGUS_HARPER
-LANG_ENGLISH        "Harper"
+LANG_ENGLISH        "HARPER"
 
 REFERENCE           LA_SHARED_ARGUS_HARPER_INFO
-LANG_ENGLISH        "He's Harper"
+LANG_ENGLISH        "HE'S HARPER"
 
 REFERENCE           LA_SHARED_ARGUS_JONES
-LANG_ENGLISH        "Angent Jones"
+LANG_ENGLISH        "ANGENT JONES"
 
 REFERENCE           LA_SHARED_ARGUS_JONES_INFO
-LANG_ENGLISH        "He's a secret service agent"
+LANG_ENGLISH        "HE'S A SECRET SERVICE AGENT"
 
 REFERENCE           LA_SHARED_ARGUS_POTUS
-LANG_ENGLISH        "Hillary Clinton"
+LANG_ENGLISH        "HILLARY CLINTON"
 
 REFERENCE           LA_SHARED_ARGUS_POTUS_INFO
-LANG_ENGLISH        "Presidente dos Estados Unidos da América (POTUS)"
+LANG_ENGLISH        "PRESIDENTE DOS ESTADOS UNIDOS DA AMÃ©RICA (POTUS)"
 
 REFERENCE           LA_SHARED_ARGUS_SAM
-LANG_ENGLISH        "Sam"
+LANG_ENGLISH        "SAM"
 
 REFERENCE           LA_SHARED_ARGUS_SAM_INFO
-LANG_ENGLISH        "Bad Ass Mother Fucker"
+LANG_ENGLISH        "BAD ASS MOTHER FUCKER"
 
 REFERENCE           LA_SHARED_ARGUS_SS1
-LANG_ENGLISH        "Random Secrect Service Agent"
+LANG_ENGLISH        "RANDOM SECRECT SERVICE AGENT"
 
 REFERENCE           LA_SHARED_ARGUS_SS1_INFO
-LANG_ENGLISH        "Ele é o melhor"
+LANG_ENGLISH        "ELE Ã© O MELHOR"
 
 REFERENCE           LA_SHARED_COUGAR_BRAKE
-LANG_ENGLISH        "Segure ^3[{+reverse}]^7 para frear/reverter"
+LANG_ENGLISH        "SEGURE ^3[{+REVERSE}]^7 PARA FREAR/REVERTER"
 
 REFERENCE           LA_SHARED_COUGAR_GAS
-LANG_ENGLISH        "Pressione ^3[{+gas}]^7 para acelerar"
+LANG_ENGLISH        "PRESSIONE ^3[{+GAS}]^7 PARA ACELERAR"
 
 REFERENCE           LA_SHARED_COUGAR_STEER
-LANG_ENGLISH        "Use ^3[{+strafestick}]^7 para dirigir"
+LANG_ENGLISH        "USE ^3[{+STRAFESTICK}]^7 PARA DIRIGIR"
 
 REFERENCE           LA_SHARED_F35_DEAD
-LANG_ENGLISH        "FA-38 destroyed"
+LANG_ENGLISH        "FA-38 DESTROYED"
 
 REFERENCE           LA_SHARED_F35_DEAD_CRANE
-LANG_ENGLISH        "Você foi morto pela queda de um guindaste"
+LANG_ENGLISH        "VOCÃª FOI MORTO PELA QUEDA DE UM GUINDASTE"
 
 REFERENCE           LA_SHARED_FAIL_ABANDON
-LANG_ENGLISH        "Você abandonou sua missão."
+LANG_ENGLISH        "VOCÃª ABANDONOU SUA MISSÃ£O."
 
 REFERENCE           LA_SHARED_FLIGHT_CONTROL_GUN
-LANG_ENGLISH        "Pressione [{+attack}] para disparar canhões"
+LANG_ENGLISH        "PRESSIONE [{+ATTACK}] PARA DISPARAR CANHÃ?ES"
 
 REFERENCE           LA_SHARED_FLIGHT_CONTROL_HOVER_DOWN
-LANG_ENGLISH        "Pressione [{+smoke}] para passar o mouse para baixo"
+LANG_ENGLISH        "PRESSIONE [{+SMOKE}] PARA PASSAR O MOUSE PARA BAIXO"
 
 REFERENCE           LA_SHARED_FLIGHT_CONTROL_HOVER_UP
-LANG_ENGLISH        "Pressione [{+frag}] para passar o mouse para cima"
+LANG_ENGLISH        "PRESSIONE [{+FRAG}] PARA PASSAR O MOUSE PARA CIMA"
 
 REFERENCE           LA_SHARED_FLIGHT_CONTROL_LOOK
-LANG_ENGLISH        "Use [{+lookstick}] para olhar"
+LANG_ENGLISH        "USE [{+LOOKSTICK}] PARA OLHAR"
 
 REFERENCE           LA_SHARED_FLIGHT_CONTROL_MISSILE
-LANG_ENGLISH        "Pressione [{+speed_throw}] para disparar mísseis"
+LANG_ENGLISH        "PRESSIONE [{+SPEED_THROW}] PARA DISPARAR MÃ­SSEIS"
 
 REFERENCE           LA_SHARED_FLIGHT_CONTROL_MISSILE_BARRAGE
-LANG_ENGLISH        "Pressione [{+activate}] para ativar a barragem de mísseis"
+LANG_ENGLISH        "PRESSIONE [{+ACTIVATE}] PARA ATIVAR A BARRAGEM DE MÃ­SSEIS"
 
 REFERENCE           LA_SHARED_FLIGHT_CONTROL_MOVE
-LANG_ENGLISH        "Use [{+movestick}] para mover"
+LANG_ENGLISH        "USE [{+MOVESTICK}] PARA MOVER"
 
 REFERENCE           LA_SHARED_HINT_ADS
-LANG_ENGLISH        "Pressione [{+melee}] para ampliar"
+LANG_ENGLISH        "PRESSIONE [{+MELEE}] PARA AMPLIAR"
 
 REFERENCE           LA_SHARED_HINT_CHARGE_WEAPON
-LANG_ENGLISH        "Segure [{+attack}] para penetrar nas paredes"
+LANG_ENGLISH        "SEGURE [{+ATTACK}] PARA PENETRAR NAS PAREDES"
 
 REFERENCE           LA_SHARED_HINT_DEATHBLOSSOM
-LANG_ENGLISH        "Bloqueie e pressione [{+gostand}] para usar Death Blossom"
+LANG_ENGLISH        "BLOQUEIE E PRESSIONE [{+GOSTAND}] PARA USAR DEATH BLOSSOM"
 
 REFERENCE           LA_SHARED_HINT_MISSILE_BUILDINGS
-LANG_ENGLISH        "Fly between buildings to avoid missiles"
+LANG_ENGLISH        "FLY BETWEEN BUILDINGS TO AVOID MISSILES"
 
 REFERENCE           LA_SHARED_HINT_MISSILE_DODGE
-LANG_ENGLISH        "Use [{+lookstick}] para desviar de mísseis"
+LANG_ENGLISH        "USE [{+LOOKSTICK}] PARA DESVIAR DE MÃ­SSEIS"
 
 REFERENCE           LA_SHARED_HINT_MODE_PLANE
-LANG_ENGLISH        "Pressione [{+activate}] para usar o modo de voo convencional"
+LANG_ENGLISH        "PRESSIONE [{+ACTIVATE}] PARA USAR O MODO DE VOO CONVENCIONAL"
 
 REFERENCE           LA_SHARED_HINT_MODE_VTOL
-LANG_ENGLISH        "Pressione [{+activate}] para usar o modo VTOL"
+LANG_ENGLISH        "PRESSIONE [{+ACTIVATE}] PARA USAR O MODO VTOL"
 
 REFERENCE           LA_SHARED_HINT_THROTTLE
-LANG_ENGLISH        "[{+movestick}] changes throttle position"
+LANG_ENGLISH        "[{+MOVESTICK}] CHANGES THROTTLE POSITION"
 
 REFERENCE           LA_SHARED_INTROSCREEN_LINE_1
 LANG_ENGLISH        "^L\"CORDIS DIE\"^L"
@@ -798,227 +798,227 @@ REFERENCE           LA_SHARED_INTROSCREEN_LINE_2
 LANG_ENGLISH        "^LLOS ANGELES^L, UNITED STATES"
 
 REFERENCE           LA_SHARED_INTROSCREEN_LINE_3
-LANG_ENGLISH        "DAVID MASON // NOME DO CÓDIGO: ^L\"SEÇÃO\"^L"
+LANG_ENGLISH        "DAVID MASON // NOME DO CÃ“DIGO: ^L\"SEÃ‡ÃƑO\"^L"
 
 REFERENCE           LA_SHARED_INTROSCREEN_LINE_4
-LANG_ENGLISH        "^LJSOC^L FORÇA ANTITERRORISMO"
+LANG_ENGLISH        "^LJSOC^L FORÃ‡A ANTITERRORISMO"
 
 REFERENCE           LA_SHARED_INTROSCREEN_LINE_5
 LANG_ENGLISH        "19 DE JUNHO,^L2025^L"
 
 REFERENCE           LA_SHARED_LEAVING_COMBAT
-LANG_ENGLISH        "Você está saindo da zona de combate."
+LANG_ENGLISH        "VOCÃª ESTÃ¡ SAINDO DA ZONA DE COMBATE."
 
 REFERENCE           LA_SHARED_LEFT_COMBAT
-LANG_ENGLISH        "Você saiu da zona de combate"
+LANG_ENGLISH        "VOCÃª SAIU DA ZONA DE COMBATE"
 
 REFERENCE           LA_SHARED_OBJ_ANDERSON
-LANG_ENGLISH        "Save Anderson"
+LANG_ENGLISH        "SAVE ANDERSON"
 
 REFERENCE           LA_SHARED_OBJ_ARENA
-LANG_ENGLISH        "Save Anderson"
+LANG_ENGLISH        "SAVE ANDERSON"
 
 REFERENCE           LA_SHARED_OBJ_BIG_DOGS
-LANG_ENGLISH        "Destrua os C.L.A.W.s [&&1 de 2 destruídos]"
+LANG_ENGLISH        "DESTRUA OS C.L.A.W.S [&&1 DE 2 DESTRUÃ­DOS]"
 
 REFERENCE           LA_SHARED_OBJ_BIG_DOGS_NOHARPER
-LANG_ENGLISH        "Destrua os C.L.A.W.s [&&1 de 3 destruídos]"
+LANG_ENGLISH        "DESTRUA OS C.L.A.W.S [&&1 DE 3 DESTRUÃ­DOS]"
 
 REFERENCE           LA_SHARED_OBJ_DESTROY_DRONES
-LANG_ENGLISH        "Destrua os drones"
+LANG_ENGLISH        "DESTRUA OS DRONES"
 
 REFERENCE           LA_SHARED_OBJ_DOGFIGHTS
-LANG_ENGLISH        "Destrua aeronaves inimigas. Restante:"
+LANG_ENGLISH        "DESTRUA AERONAVES INIMIGAS. RESTANTE:"
 
 REFERENCE           LA_SHARED_OBJ_DRIVE
-LANG_ENGLISH        "Drive"
+LANG_ENGLISH        "DRIVE"
 
 REFERENCE           LA_SHARED_OBJ_DRIVE_TEXT
-LANG_ENGLISH        "Vá para o bunker da 'Noite do Baile'"
+LANG_ENGLISH        "VÃ¡ PARA O BUNKER DA 'NOITE DO BAILE'"
 
 REFERENCE           LA_SHARED_OBJ_FLY
-LANG_ENGLISH        "Vá para a FA-38"
+LANG_ENGLISH        "VÃ¡ PARA A FA-38"
 
 REFERENCE           LA_SHARED_OBJ_FOLLOW_AMBULANCE
-LANG_ENGLISH        "Follow Anderson's ambulance"
+LANG_ENGLISH        "FOLLOW ANDERSON'S AMBULANCE"
 
 REFERENCE           LA_SHARED_OBJ_FOLLOW_VAN
-LANG_ENGLISH        "Follow Harper's van"
+LANG_ENGLISH        "FOLLOW HARPER'S VAN"
 
 REFERENCE           LA_SHARED_OBJ_G20_COUGAR
-LANG_ENGLISH        "Salve todos os 3 MRAPS"
+LANG_ENGLISH        "SALVE TODOS OS 3 MRAPS"
 
 REFERENCE           LA_SHARED_OBJ_G20_STREET
-LANG_ENGLISH        "Save G20 leader"
+LANG_ENGLISH        "SAVE G20 LEADER"
 
 REFERENCE           LA_SHARED_OBJ_HIGHWAY
-LANG_ENGLISH        "Acesse os veículos MRAP"
+LANG_ENGLISH        "ACESSE OS VEÃ­CULOS MRAP"
 
 REFERENCE           LA_SHARED_OBJ_POTUS_TEXT
-LANG_ENGLISH        "Protect POTUS"
+LANG_ENGLISH        "PROTECT POTUS"
 
 REFERENCE           LA_SHARED_OBJ_PROM_NIGHT
-LANG_ENGLISH        "Leve o POTUS para o bunker da 'Noite do Baile'"
+LANG_ENGLISH        "LEVE O POTUS PARA O BUNKER DA 'NOITE DO BAILE'"
 
 REFERENCE           LA_SHARED_OBJ_PROTECT
-LANG_ENGLISH        "Proteja o veículo do presidente"
+LANG_ENGLISH        "PROTEJA O VEÃ­CULO DO PRESIDENTE"
 
 REFERENCE           LA_SHARED_OBJ_PROTECT_FAIL
-LANG_ENGLISH        "Você falhou em proteger o presidente."
+LANG_ENGLISH        "VOCÃª FALHOU EM PROTEGER O PRESIDENTE."
 
 REFERENCE           LA_SHARED_OBJ_RAPPEL
-LANG_ENGLISH        "CHOOSE\n RAPPEL"
+LANG_ENGLISH        "CHOOSE\N RAPPEL"
 
 REFERENCE           LA_SHARED_OBJ_RAPPEL2
-LANG_ENGLISH        "Desça de rapel e encontre-se com o grupo"
+LANG_ENGLISH        "DESÃ§A DE RAPEL E ENCONTRE-SE COM O GRUPO"
 
 REFERENCE           LA_SHARED_OBJ_RAPPEL_3D
-LANG_ENGLISH        "Descer"
+LANG_ENGLISH        "DESCER"
 
 REFERENCE           LA_SHARED_OBJ_RAPPEL_TEXT
-LANG_ENGLISH        "Escolha fazer rapel com o grupo"
+LANG_ENGLISH        "ESCOLHA FAZER RAPEL COM O GRUPO"
 
 REFERENCE           LA_SHARED_OBJ_REGROUP
-LANG_ENGLISH        "Reagrupar com detalhes de proteção"
+LANG_ENGLISH        "REAGRUPAR COM DETALHES DE PROTEÃ§Ã£O"
 
 REFERENCE           LA_SHARED_OBJ_ROADBLOCK
-LANG_ENGLISH        "Destrua alvos inimigos"
+LANG_ENGLISH        "DESTRUA ALVOS INIMIGOS"
 
 REFERENCE           LA_SHARED_OBJ_ROOFTOPS
-LANG_ENGLISH        "Destrua alvos inimigos"
+LANG_ENGLISH        "DESTRUA ALVOS INIMIGOS"
 
 REFERENCE           LA_SHARED_OBJ_SHOOT_DRONES
-LANG_ENGLISH        "Use a torre SAM para abater os drones"
+LANG_ENGLISH        "USE A TORRE SAM PARA ABATER OS DRONES"
 
 REFERENCE           LA_SHARED_OBJ_SNIPE
-LANG_ENGLISH        "CHOOSE\n SNIPER"
+LANG_ENGLISH        "CHOOSE\N SNIPER"
 
 REFERENCE           LA_SHARED_OBJ_SNIPE_TEXT
-LANG_ENGLISH        "Choose to provide sniper overwatch"
+LANG_ENGLISH        "CHOOSE TO PROVIDE SNIPER OVERWATCH"
 
 REFERENCE           LA_SHARED_OBJ_STREET
-LANG_ENGLISH        "Limpe a rua"
+LANG_ENGLISH        "LIMPE A RUA"
 
 REFERENCE           LA_SHARED_OBJ_STREET_REGROUP
-LANG_ENGLISH        "Reagrupar com POTUS"
+LANG_ENGLISH        "REAGRUPAR COM POTUS"
 
 REFERENCE           LA_SHARED_OBJ_TRENCHRUN
-LANG_ENGLISH        "Impedir que UAVs voem para o comboio"
+LANG_ENGLISH        "IMPEDIR QUE UAVS VOEM PARA O COMBOIO"
 
 REFERENCE           LA_SHARED_OVERWATCH_FAIL
-LANG_ENGLISH        "You failed to provide sniper protection to POTUS"
+LANG_ENGLISH        "YOU FAILED TO PROVIDE SNIPER PROTECTION TO POTUS"
 
 REFERENCE           LA_SHARED_PROTECT_FAIL
-LANG_ENGLISH        "Você falhou em proteger o presidente."
+LANG_ENGLISH        "VOCÃª FALHOU EM PROTEGER O PRESIDENTE."
 
 REFERENCE           LA_SHARED_PROTECT_FAIL_VEHICLE
-LANG_ENGLISH        "Você falhou em proteger o presidente."
+LANG_ENGLISH        "VOCÃª FALHOU EM PROTEGER O PRESIDENTE."
 
 REFERENCE           LA_SHARED_RAPPEL
 LANG_ENGLISH        "RAPPEL"
 
 REFERENCE           LA_SHARED_REQUIRED_VEHICLE_DEAD
-LANG_ENGLISH        "You destroyed a mission critical vehicle"
+LANG_ENGLISH        "YOU DESTROYED A MISSION CRITICAL VEHICLE"
 
 REFERENCE           LA_SHARED_SAM_HINT_ADS
-LANG_ENGLISH        "Segure [{+speed_throw}] para travar"
+LANG_ENGLISH        "SEGURE [{+SPEED_THROW}] PARA TRAVAR"
 
 REFERENCE           LA_SHARED_SAM_HINT_FIRE
-LANG_ENGLISH        "Pressione [{+attack}] para disparar"
+LANG_ENGLISH        "PRESSIONE [{+ATTACK}] PARA DISPARAR"
 
 REFERENCE           LA_SHARED_SAM_HINT_TRACK
-LANG_ENGLISH        "Use [{+lookstick}] para guiar os mísseis até um drone"
+LANG_ENGLISH        "USE [{+LOOKSTICK}] PARA GUIAR OS MÃ­SSEIS ATÃ© UM DRONE"
 
 REFERENCE           LA_SHARED_SAM_TURRET_FIRE
-LANG_ENGLISH        "Pressione [{+attack}] para disparar"
+LANG_ENGLISH        "PRESSIONE [{+ATTACK}] PARA DISPARAR"
 
 REFERENCE           LA_SHARED_SAM_TURRET_LOCK
-LANG_ENGLISH        "Track targets to lock on"
+LANG_ENGLISH        "TRACK TARGETS TO LOCK ON"
 
 REFERENCE           SP_OBJECTIVES_AMMO
-LANG_ENGLISH        "Munição"
+LANG_ENGLISH        "MUNIÃ§Ã£O"
 
 REFERENCE           SP_OBJECTIVES_BREACH
-LANG_ENGLISH        "Violação"
+LANG_ENGLISH        "VIOLAÃ§Ã£O"
 
 REFERENCE           SP_OBJECTIVES_CLEAR
-LANG_ENGLISH        "Limpar"
+LANG_ENGLISH        "LIMPAR"
 
 REFERENCE           SP_OBJECTIVES_CLIMB
-LANG_ENGLISH        "Escala"
+LANG_ENGLISH        "ESCALA"
 
 REFERENCE           SP_OBJECTIVES_DEFEND
-LANG_ENGLISH        "defender"
+LANG_ENGLISH        "DEFENDER"
 
 REFERENCE           SP_OBJECTIVES_DESTROY
-LANG_ENGLISH        "destruir"
+LANG_ENGLISH        "DESTRUIR"
 
 REFERENCE           SP_OBJECTIVES_DETONATE
-LANG_ENGLISH        "Detonar"
+LANG_ENGLISH        "DETONAR"
 
 REFERENCE           SP_OBJECTIVES_DISABLE
-LANG_ENGLISH        "Inutilizável"
+LANG_ENGLISH        "INUTILIZÃ¡VEL"
 
 REFERENCE           SP_OBJECTIVES_ENTER
-LANG_ENGLISH        "Digitar"
+LANG_ENGLISH        "DIGITAR"
 
 REFERENCE           SP_OBJECTIVES_ESCORT
-LANG_ENGLISH        "Escolta"
+LANG_ENGLISH        "ESCOLTA"
 
 REFERENCE           SP_OBJECTIVES_FOLLOW
-LANG_ENGLISH        "Prossiga"
+LANG_ENGLISH        "PROSSIGA"
 
 REFERENCE           SP_OBJECTIVES_HELP
-LANG_ENGLISH        "Ajuda"
+LANG_ENGLISH        "AJUDA"
 
 REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
-LANG_ENGLISH        "Eles chegam (helicópteros)"
+LANG_ENGLISH        "ELES CHEGAM (HELICÃ³PTEROS)"
 
 REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
-LANG_ENGLISH        "(tanques) chegam"
+LANG_ENGLISH        "(TANQUES) CHEGAM"
 
 REFERENCE           SP_OBJECTIVES_INTERACT
-LANG_ENGLISH        "Acesso"
+LANG_ENGLISH        "ACESSO"
 
 REFERENCE           SP_OBJECTIVES_JUMP
-LANG_ENGLISH        "Salto"
+LANG_ENGLISH        "SALTO"
 
 REFERENCE           SP_OBJECTIVES_KILL
-LANG_ENGLISH        "Matar"
+LANG_ENGLISH        "MATAR"
 
 REFERENCE           SP_OBJECTIVES_MELEE
-LANG_ENGLISH        "Corpo a corpo"
+LANG_ENGLISH        "CORPO A CORPO"
 
 REFERENCE           SP_OBJECTIVES_PICKUP
-LANG_ENGLISH        "Escolher"
+LANG_ENGLISH        "ESCOLHER"
 
 REFERENCE           SP_OBJECTIVES_PROTECT
-LANG_ENGLISH        "Proteger"
+LANG_ENGLISH        "PROTEGER"
 
 REFERENCE           SP_OBJECTIVES_RAPPEL
-LANG_ENGLISH        "Descer"
+LANG_ENGLISH        "DESCER"
 
 REFERENCE           SP_OBJECTIVES_REGROUP
-LANG_ENGLISH        "Reagrupar"
+LANG_ENGLISH        "REAGRUPAR"
 
 REFERENCE           SP_OBJECTIVES_SEARCH
-LANG_ENGLISH        "Procura"
+LANG_ENGLISH        "PROCURA"
 
 REFERENCE           SP_OBJECTIVES_SHOOT
-LANG_ENGLISH        "Atire"
+LANG_ENGLISH        "ATIRE"
 
 REFERENCE           SP_OBJECTIVES_SUPPORT
-LANG_ENGLISH        "Apoio"
+LANG_ENGLISH        "APOIO"
 
 REFERENCE           SP_OBJECTIVES_SWEEP
-LANG_ENGLISH        "Varrer"
+LANG_ENGLISH        "VARRER"
 
 REFERENCE           SP_OBJECTIVES_TARGET
-LANG_ENGLISH        "Branco"
+LANG_ENGLISH        "BRANCO"
 
 REFERENCE           SP_OBJECTIVES_USE
-LANG_ENGLISH        "Usar"
+LANG_ENGLISH        "USAR"
 
 REFERENCE           SP_OBJECTIVES_WEAPONS
-LANG_ENGLISH        "Armas"
+LANG_ENGLISH        "ARMAS"
 

@@ -3,746 +3,745 @@ CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           BLACKOUT_ACCESS_TERMINAL
-LANG_SPANISH        "Segure ^3[{+activate}]^7 para acessar o computador"
+LANG_SPANISH        "SEGURE ^3[{+ACTIVATE}]^7 PARA ACESSAR O COMPUTADOR"
 
 REFERENCE           BLACKOUT_BRUTE_FORCE
-LANG_SPANISH        "Segure ^3[{+activate}]^7 para forçar abertura"
+LANG_SPANISH        "SEGURE ^3[{+ACTIVATE}]^7 PARA FORÃ§AR ABERTURA"
 
 REFERENCE           BLACKOUT_COMPUTER_SERVER_PIP_USE
-LANG_SPANISH        "Pressione ^3[{+activate}]^7 para enviar a filmagem para os óculos"
+LANG_SPANISH        "PRESSIONE ^3[{+ACTIVATE}]^7 PARA ENVIAR A FILMAGEM PARA OS Ã³CULOS"
 
 REFERENCE           BLACKOUT_COMPUTER_SERVER_USE
-LANG_SPANISH        "Pressione ^3[{+activate}]^7 para usar o servidor do computador"
+LANG_SPANISH        "PRESSIONE ^3[{+ACTIVATE}]^7 PARA USAR O SERVIDOR DO COMPUTADOR"
 
 REFERENCE           BLACKOUT_EXPOSED_SIDE
-LANG_SPANISH        "Você expôs seu lado a um inimigo"
+LANG_SPANISH        "VOCÃª EXPÃ´S SEU LADO A UM INIMIGO"
 
 REFERENCE           BLACKOUT_GETUP
-LANG_SPANISH        "Pressione ^3[{+melee}]^7."
+LANG_SPANISH        "PRESSIONE ^3[{+MELEE}]^7."
 
 REFERENCE           BLACKOUT_HACK_TURRET
-LANG_SPANISH        "Pressione ^3[{+activate}]^7 para hackear a torre"
+LANG_SPANISH        "PRESSIONE ^3[{+ACTIVATE}]^7 PARA HACKEAR A TORRE"
 
 REFERENCE           BLACKOUT_INTROSCREEN_LINE_1
 LANG_SPANISH        "^L\"ULISSES\"^L"
 
 REFERENCE           BLACKOUT_INTROSCREEN_LINE_2
-LANG_SPANISH        "USS BARACK OBAMA, GOLFO DO MÉXICO"
+LANG_SPANISH        "USS BARACK OBAMA, GOLFO DO MÃ‰XICO"
 
 REFERENCE           BLACKOUT_INTROSCREEN_LINE_3
-LANG_SPANISH        "DAVID MASON // NOME DO CÓDIGO: ^L\"SEÇÃO\"^L"
+LANG_SPANISH        "DAVID MASON // NOME DO CÃ“DIGO: ^L\"SEÃ‡ÃƑO\"^L"
 
 REFERENCE           BLACKOUT_INTROSCREEN_LINE_4
-LANG_SPANISH        "^LJSOC^L FORÇA ANTITERRORISMO"
+LANG_SPANISH        "^LJSOC^L FORÃ‡A ANTITERRORISMO"
 
 REFERENCE           BLACKOUT_INTROSCREEN_LINE_5
 LANG_SPANISH        "19 DE JUNHO,^L2025^L"
 
 REFERENCE           BLACKOUT_OBJ_CLEAR
-LANG_SPANISH        "Evacuar o USS Barack Obama"
+LANG_SPANISH        "EVACUAR O USS BARACK OBAMA"
 
 REFERENCE           BLACKOUT_OBJ_EVAC
-LANG_SPANISH        "Acesse o VTOL para EVAC"
+LANG_SPANISH        "ACESSE O VTOL PARA EVAC"
 
 REFERENCE           BLACKOUT_OBJ_FIND_MENEN
-LANG_SPANISH        "Encontre Menéndez"
+LANG_SPANISH        "ENCONTRE MENÃ©NDEZ"
 
 REFERENCE           BLACKOUT_OBJ_FIND_SALAZAR
-LANG_SPANISH        "Vá para o hangar."
+LANG_SPANISH        "VÃ¡ PARA O HANGAR."
 
 REFERENCE           BLACKOUT_OBJ_GRAB_BRIGGS
-LANG_SPANISH        "Reduza o Almirante Briggs."
+LANG_SPANISH        "REDUZA O ALMIRANTE BRIGGS."
 
 REFERENCE           BLACKOUT_OBJ_HELP_SEALS
-LANG_SPANISH        "Ajude os SEALs usando um rifle de precisão"
+LANG_SPANISH        "AJUDE OS SEALS USANDO UM RIFLE DE PRECISÃ£O"
 
 REFERENCE           BLACKOUT_OBJ_INTERROGATE
-LANG_SPANISH        "Interrogar Raul Menéndez"
+LANG_SPANISH        "INTERROGAR RAUL MENÃ©NDEZ"
 
 REFERENCE           BLACKOUT_OBJ_PICKUP_GUNS
-LANG_SPANISH        "Pegue suas armas"
+LANG_SPANISH        "PEGUE SUAS ARMAS"
 
 REFERENCE           BLACKOUT_OBJ_RESTORE_CONTROL
-LANG_SPANISH        "Recupere o controle do navio"
+LANG_SPANISH        "RECUPERE O CONTROLE DO NAVIO"
 
 REFERENCE           BLACKOUT_OBJ_SERVER
-LANG_SPANISH        "Alcance a sala do servidor"
+LANG_SPANISH        "ALCANCE A SALA DO SERVIDOR"
 
 REFERENCE           BLACKOUT_OBJ_SHOOT_BRIGGS
-LANG_SPANISH        "Matar ou ferir o Almirante Briggs"
+LANG_SPANISH        "MATAR OU FERIR O ALMIRANTE BRIGGS"
 
 REFERENCE           BLACKOUT_OBJ_SNIPE
-LANG_SPANISH        "Fornece suporte."
+LANG_SPANISH        "FORNECE SUPORTE."
 
 REFERENCE           BLACKOUT_OBJ_STOP_MENEN
-LANG_SPANISH        "Impeça Menéndez de decolar"
+LANG_SPANISH        "IMPEÃ§A MENÃ©NDEZ DE DECOLAR"
 
 REFERENCE           BLACKOUT_OBJ_VIEW_CCTV
-LANG_SPANISH        "Verifique o feed do CCTV"
+LANG_SPANISH        "VERIFIQUE O FEED DO CCTV"
 
 REFERENCE           BLACKOUT_OPEN_DOOR
-LANG_SPANISH        "Segure ^3[{+activate}]^7 para abrir a porta"
+LANG_SPANISH        "SEGURE ^3[{+ACTIVATE}]^7 PARA ABRIR A PORTA"
 
 REFERENCE           BLACKOUT_PHALANX_TERMINAL
-LANG_SPANISH        "Pressione ^3[{+activate}]^7 para substituir os canhões da falange"
+LANG_SPANISH        "PRESSIONE ^3[{+ACTIVATE}]^7 PARA SUBSTITUIR OS CANHÃ?ES DA FALANGE"
 
 REFERENCE           BLACKOUT_USE_PERSONAL_EFFECTS
-LANG_SPANISH        "Pressione ^3[{+activate}]^7 para pegar objetos pessoais"
+LANG_SPANISH        "PRESSIONE ^3[{+ACTIVATE}]^7 PARA PEGAR OBJETOS PESSOAIS"
 
 REFERENCE           BLACKOUT_VISOR_INTERROGATION
-LANG_SPANISH        "Stream de vídeo recebido...\nConexão estabelecida.\nMostrando imagens remotas."
+LANG_SPANISH        "STREAM DE VÃ­DEO RECEBIDO...\NCONEXÃ£O ESTABELECIDA.\NMOSTRANDO IMAGENS REMOTAS."
 
 REFERENCE           BLACKOUT_VISOR_REBOOT_1
-LANG_SPANISH        "Sistemas de segurança reiniciando..."
+LANG_SPANISH        "SISTEMAS DE SEGURANÃ§A REINICIANDO..."
 
 REFERENCE           BLACKOUT_VISOR_REBOOT_2
-LANG_SPANISH        "Sistemas de torre desconectados..."
+LANG_SPANISH        "SISTEMAS DE TORRE DESCONECTADOS..."
 
 REFERENCE           BLACKOUT_VISOR_REBOOT_3
-LANG_SPANISH        "Controle do drone desconectado..."
+LANG_SPANISH        "CONTROLE DO DRONE DESCONECTADO..."
 
 REFERENCE           BLACKOUT_VISOR_REBOOT_4
-LANG_SPANISH        "Fechamento da porta desconectado..."
+LANG_SPANISH        "FECHAMENTO DA PORTA DESCONECTADO..."
 
 REFERENCE           BLACKOUT_VISOR_TURRET_DESTROYED
-LANG_SPANISH        "Torre de sentinela destruída.\nConexão remota perdida."
+LANG_SPANISH        "TORRE DE SENTINELA DESTRUÃ­DA.\NCONEXÃ£O REMOTA PERDIDA."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_01_001A_SALA_D
-LANG_SPANISH        "^1Salazar:^7É bom que você não fale."
+LANG_SPANISH        "^1SALAZAR:^7Ã‰ BOM QUE VOCÃª NÃ£O FALE."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_01_002A_SALA_D
-LANG_SPANISH        "^1Salazar:^7Podemos demorar."
+LANG_SPANISH        "^1SALAZAR:^7PODEMOS DEMORAR."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_01_003A_MENE_D
-LANG_SPANISH        "^1Menendez:^7Falarei apenas com David Mason."
+LANG_SPANISH        "^1MENENDEZ:^7FALAREI APENAS COM DAVID MASON."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_01_004A_MENE_D
-LANG_SPANISH        "^1Menendez:^7Traga-o para mim. Vou contar tudo a ele."
+LANG_SPANISH        "^1MENENDEZ:^7TRAGA-O PARA MIM. VOU CONTAR TUDO A ELE."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_01_005A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7David?"
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7DAVID?"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_02_003A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Faça o que puder. Estarei na ponte."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7FAÃ§A O QUE PUDER. ESTAREI NA PONTE."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_001A_SECT_D
-LANG_SPANISH        "^1Seção:^7Desta vez não sou uma criança..."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7DESTA VEZ NÃ£O SOU UMA CRIANÃ§A..."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_002A_SECT_D
-LANG_SPANISH        "^1Seção:^7...Mas você pode seguir em frente e tentar o que fez naquela época."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7...MAS VOCÃª PODE SEGUIR EM FRENTE E TENTAR O QUE FEZ NAQUELA Ã©POCA."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_003A_SECT_D
-LANG_SPANISH        "^1Seção:^7Sim. Vá em frente, Almirante Briggs."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7SIM. VÃ¡ EM FRENTE, ALMIRANTE BRIGGS."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_004A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Temos um problema. Estamos rastreando um avião de passageiros entrando no espaço aéreo de Obama..."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7TEMOS UM PROBLEMA. ESTAMOS RASTREANDO UM AVIÃ£O DE PASSAGEIROS ENTRANDO NO ESPAÃ§O AÃ©REO DE OBAMA..."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_005A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Espere... O que é isso? São pássaros?"
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ESPERE... O QUE Ã© ISSO? SÃ£O PÃ¡SSAROS?"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_006A_MENE_D
-LANG_SPANISH        "^1Menendez:^7Eu coloco e distribuo leis desiguais junto com uma raça selvagem."
+LANG_SPANISH        "^1MENENDEZ:^7EU COLOCO E DISTRIBUO LEIS DESIGUAIS JUNTO COM UMA RAÃ§A SELVAGEM."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_007A_SECT_D
-LANG_SPANISH        "^1Seção:^7Estamos sob ataque! Estamos sob ataque!!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ESTAMOS SOB ATAQUE! ESTAMOS SOB ATAQUE!!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_008A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Existem centenas deles!"
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7EXISTEM CENTENAS DELES!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_009A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Acabamos de perder a imagem da câmera da sala de interrogatório!"
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ACABAMOS DE PERDER A IMAGEM DA CÃ¢MERA DA SALA DE INTERROGATÃ³RIO!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_010A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Proteja Menendez! Encontre-me na ponte!"
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7PROTEJA MENENDEZ! ENCONTRE-ME NA PONTE!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_011A_SECT_D
-LANG_SPANISH        "^1Seção:^7Se ele se mover um centímetro, você coloca uma bala no cérebro dele! Você me pegou?"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7SE ELE SE MOVER UM CENTÃ­METRO, VOCÃª COLOCA UMA BALA NO CÃ©REBRO DELE! VOCÃª ME PEGOU?"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_012A_SECT_D
-LANG_SPANISH        "^1Seção:^7Obama está sob ataque! Certifique-se de que ninguém saia desta sala!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7OBAMA ESTÃ¡ SOB ATAQUE! CERTIFIQUE-SE DE QUE NINGUÃ©M SAIA DESTA SALA!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_013A_MENE_D
-LANG_SPANISH        "^1Menendez:^7Você sabe que não vou matar você, David. Mas se você não largar a arma, matarei seu amigo."
+LANG_SPANISH        "^1MENENDEZ:^7VOCÃª SABE QUE NÃ£O VOU MATAR VOCÃª, DAVID. MAS SE VOCÃª NÃ£O LARGAR A ARMA, MATAREI SEU AMIGO."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_014A_MENE_D
-LANG_SPANISH        "^1Menendez:^7Você tem cinco segundos para decidir."
+LANG_SPANISH        "^1MENENDEZ:^7VOCÃª TEM CINCO SEGUNDOS PARA DECIDIR."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_015A_SECT_D
-LANG_SPANISH        "^1Seção:^7Como você..."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7COMO VOCÃª..."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_016A_MENE_D
-LANG_SPANISH        "^1Menendez:^7Coloque-os... Agora vire-se."
+LANG_SPANISH        "^1MENENDEZ:^7COLOQUE-OS... AGORA VIRE-SE."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_017A_SECT_M
-LANG_SPANISH        "^1Seção:^7Que pedaço de merda auto-indulgente... Pare de falar em enigmas!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7QUE PEDAÃ§O DE MERDA AUTO-INDULGENTE... PARE DE FALAR EM ENIGMAS!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_018A_MENE_D
-LANG_SPANISH        "^1Menéndez:^7A opulência é pecaminosa e todos nós pagamos por isso."
+LANG_SPANISH        "^1MENÃ©NDEZ:^7A OPULÃªNCIA Ã© PECAMINOSA E TODOS NÃ³S PAGAMOS POR ISSO."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_019A_MENE_D
-LANG_SPANISH        "^1Menendez:^7Ela foi tirada de mim."
+LANG_SPANISH        "^1MENENDEZ:^7ELA FOI TIRADA DE MIM."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_020A_MENE_D
-LANG_SPANISH        "^1Menendez:^7Você já sabe como é isso?"
+LANG_SPANISH        "^1MENENDEZ:^7VOCÃª JÃ¡ SABE COMO Ã© ISSO?"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_021A_MENE_D
-LANG_SPANISH        "^1Menendez:^7Um americano incendiou o armazém em busca de dinheiro do seguro. 11.000 dólares. Esse foi o valor que eles atribuíram à vida dela."
+LANG_SPANISH        "^1MENENDEZ:^7UM AMERICANO INCENDIOU O ARMAZÃ©M EM BUSCA DE DINHEIRO DO SEGURO. 11.000 DÃ³LARES. ESSE FOI O VALOR QUE ELES ATRIBUÃ­RAM Ã  VIDA DELA."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_022A_MENE_D
-LANG_SPANISH        "^1Menendez:^7Ela foi a razão de eu viver. E você, Davi? O que motiva você?"
+LANG_SPANISH        "^1MENENDEZ:^7ELA FOI A RAZÃ£O DE EU VIVER. E VOCÃª, DAVI? O QUE MOTIVA VOCÃª?"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_023A_MENE_D
-LANG_SPANISH        "^1Menendez:^7Sou eu?"
+LANG_SPANISH        "^1MENENDEZ:^7SOU EU?"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_024A_MENE_D
-LANG_SPANISH        "^1Menéndez:^7Einstein disse uma vez que a anarquia econômica do capitalismo é a verdadeira fonte do mal."
+LANG_SPANISH        "^1MENÃ©NDEZ:^7EINSTEIN DISSE UMA VEZ QUE A ANARQUIA ECONÃ´MICA DO CAPITALISMO Ã© A VERDADEIRA FONTE DO MAL."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_025A_MENE_D
-LANG_SPANISH        "^1Menéndez:^7Seu pai... e seu povo... tiraram Josefina de mim."
+LANG_SPANISH        "^1MENÃ©NDEZ:^7SEU PAI... E SEU POVO... TIRARAM JOSEFINA DE MIM."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_026A_MENE_D
-LANG_SPANISH        "^1Menendez:^7Well... your dad is dead. Seu pai está morto."
+LANG_SPANISH        "^1MENENDEZ:^7WELL... YOUR DAD IS DEAD. SEU PAI ESTÃ¡ MORTO."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_027A_MENE_D
-LANG_SPANISH        "^1Menendez:^7E seu pessoal..."
+LANG_SPANISH        "^1MENENDEZ:^7E SEU PESSOAL..."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_028A_MENE_D
-LANG_SPANISH        "^1Menendez:^7Concluído!"
+LANG_SPANISH        "^1MENENDEZ:^7CONCLUÃ­DO!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_029A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Seção..."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7SEÃ§Ã£O..."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_05_001A_SALA_D
-LANG_SPANISH        "^1Salazar:^7Menéndez, você escapou!"
+LANG_SPANISH        "^1SALAZAR:^7MENÃ©NDEZ, VOCÃª ESCAPOU!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_05_002A_SECT_D
-LANG_SPANISH        "^1Seção:^7O quê?"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7O QUÃª?"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_06_001A_HARP_D
-LANG_SPANISH        "^1Harper:^7PMCs usaram Glider Wings para lançar um ataque aéreo massivo contra os Obama!"
+LANG_SPANISH        "^1HARPER:^7PMCS USARAM GLIDER WINGS PARA LANÃ§AR UM ATAQUE AÃ©REO MASSIVO CONTRA OS OBAMA!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_06_003A_HARP_D
-LANG_SPANISH        "^1Harper:^7Eles usaram tecnologia furtiva. Nossas armas atingiram apenas uma fração deles!"
+LANG_SPANISH        "^1HARPER:^7ELES USARAM TECNOLOGIA FURTIVA. NOSSAS ARMAS ATINGIRAM APENAS UMA FRAÃ§Ã£O DELES!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_06_004A_HARP_D
-LANG_SPANISH        "^1Harper:^7Eles estão destruindo este navio!"
+LANG_SPANISH        "^1HARPER:^7ELES ESTÃ£O DESTRUINDO ESTE NAVIO!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_06_005A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7PMCs lançaram um ataque de asa a jato contra nossa frota. Eles embarcaram nos Obama!"
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7PMCS LANÃ§ARAM UM ATAQUE DE ASA A JATO CONTRA NOSSA FROTA. ELES EMBARCARAM NOS OBAMA!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_06_007A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Eles usam tecnologia furtiva. As estimativas sugerem que só podemos atingir cerca de 10% deles!"
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ELES USAM TECNOLOGIA FURTIVA. AS ESTIMATIVAS SUGEREM QUE SÃ³ PODEMOS ATINGIR CERCA DE 10% DELES!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_06_008A_SALA_D
-LANG_SPANISH        "^1Salazar:^7Precisamos de poder de fogo pesado do arsenal."
+LANG_SPANISH        "^1SALAZAR:^7PRECISAMOS DE PODER DE FOGO PESADO DO ARSENAL."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_06_009A_SALA_D
-LANG_SPANISH        "^1Salazar:^7Eles mataram o segurança que guardava Menendez."
+LANG_SPANISH        "^1SALAZAR:^7ELES MATARAM O SEGURANÃ§A QUE GUARDAVA MENENDEZ."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_07_001A_SALA_D
-LANG_SPANISH        "^1Salazar:^7Pegue o que quiser."
+LANG_SPANISH        "^1SALAZAR:^7PEGUE O QUE QUISER."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_07_002A_SALA_D
-LANG_SPANISH        "^1Salazar:^7Menendez não poderia ter feito isso sozinho. Ele deve ter homens lá dentro."
+LANG_SPANISH        "^1SALAZAR:^7MENENDEZ NÃ£O PODERIA TER FEITO ISSO SOZINHO. ELE DEVE TER HOMENS LÃ¡ DENTRO."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_07_003A_SECT_D
-LANG_SPANISH        "^1Seção:^7Neste momento temos que nos concentrar em recuperar o controle dos Obama."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7NESTE MOMENTO TEMOS QUE NOS CONCENTRAR EM RECUPERAR O CONTROLE DOS OBAMA."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_07_004A_SALA_D
-LANG_SPANISH        "^1Salazar:^7Pronto?"
+LANG_SPANISH        "^1SALAZAR:^7PRONTO?"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_07_005A_SECT_D
-LANG_SPANISH        "^1Seção:^7Ir."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7IR."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_07_006A_SALA_D
-LANG_SPANISH        "^1Salazar:^7Vamos!"
+LANG_SPANISH        "^1SALAZAR:^7VAMOS!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_07_007A_SALA_D
-LANG_SPANISH        "^1Salazar:^7Mais nas escadas!"
+LANG_SPANISH        "^1SALAZAR:^7MAIS NAS ESCADAS!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_07_008A_SALA_D
-LANG_SPANISH        "^1Salazar:^7Suba!"
+LANG_SPANISH        "^1SALAZAR:^7SUBA!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_003A_HARP_D
-LANG_SPANISH        "^1Harper:^7Seção! O sistema de segurança automatizado de Obama está agora sob controlo inimigo."
+LANG_SPANISH        "^1HARPER:^7SEÃ§Ã£O! O SISTEMA DE SEGURANÃ§A AUTOMATIZADO DE OBAMA ESTÃ¡ AGORA SOB CONTROLO INIMIGO."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_004A_SECT_D
-LANG_SPANISH        "^1Seção:^7Onde está Briggs?"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ONDE ESTÃ¡ BRIGGS?"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_005A_HARP_D
-LANG_SPANISH        "^1Harper:^7A sala do servidor, andar inferior."
+LANG_SPANISH        "^1HARPER:^7A SALA DO SERVIDOR, ANDAR INFERIOR."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_006A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Seção, nossas defesas automatizadas foram comprometidas! Temos que restaurar a ordem ou perderemos o navio!"
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7SEÃ§Ã£O, NOSSAS DEFESAS AUTOMATIZADAS FORAM COMPROMETIDAS! TEMOS QUE RESTAURAR A ORDEM OU PERDEREMOS O NAVIO!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_007A_SECT_D
-LANG_SPANISH        "^1Seção:^7Onde você está, Almirante?"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ONDE VOCÃª ESTÃ¡, ALMIRANTE?"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_008A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Abaixo do convés, na sala do servidor. Os técnicos estão tentando descobrir o que diabos aconteceu!"
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ABAIXO DO CONVÃ©S, NA SALA DO SERVIDOR. OS TÃ©CNICOS ESTÃ£O TENTANDO DESCOBRIR O QUE DIABOS ACONTECEU!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_008A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Abaixo do convés, na sala do servidor. Os técnicos estão tentando descobrir o que aconteceu!"
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ABAIXO DO CONVÃ©S, NA SALA DO SERVIDOR. OS TÃ©CNICOS ESTÃ£O TENTANDO DESCOBRIR O QUE ACONTECEU!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_009A_SECT_D
-LANG_SPANISH        "^1Seção:^7Salazar, desça e proteja Briggs."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7SALAZAR, DESÃ§A E PROTEJA BRIGGS."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_010A_SECT_D
-LANG_SPANISH        "^1Seção:^7Aponte para as portas da sala do servidor. Nem um dentro ou fora."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7APONTE PARA AS PORTAS DA SALA DO SERVIDOR. NEM UM DENTRO OU FORA."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_011A_SALA_D
-LANG_SPANISH        "^1Salazar:^7Entendi."
+LANG_SPANISH        "^1SALAZAR:^7ENTENDI."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_012A_SALA_D
-LANG_SPANISH        "^1Salazar:^7Isso acabará em breve. Boa sorte, Seção."
+LANG_SPANISH        "^1SALAZAR:^7ISSO ACABARÃ¡ EM BREVE. BOA SORTE, SEÃ§Ã£O."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_013A_SECT_D
-LANG_SPANISH        "^1Seção:^7Você também, Sal."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7VOCÃª TAMBÃ©M, SAL."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_014A_SECT_D
-LANG_SPANISH        "^1Seção:^7Precisamos abrir caminho até a ponte."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7PRECISAMOS ABRIR CAMINHO ATÃ© A PONTE."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_015A_SECT_D
-LANG_SPANISH        "^1Seção:^7Por minha conta."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7POR MINHA CONTA."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_09_002A_SECT_D
-LANG_SPANISH        "^1Seção:^7É pior do que pensávamos! Os sistemas de defesa do porta-aviões não estão apenas desligados, eles estão atirando na frota!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7Ã‰ PIOR DO QUE PENSÃ¡VAMOS! OS SISTEMAS DE DEFESA DO PORTA-AVIÃ?ES NÃ£O ESTÃ£O APENAS DESLIGADOS, ELES ESTÃ£O ATIRANDO NA FROTA!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_09_003A_HARP_D
-LANG_SPANISH        "^1Harper:^7Temos outra onda de Jet Wings pousando agora! Estou tentando tirar um pouco da pressão dos nossos homens!"
+LANG_SPANISH        "^1HARPER:^7TEMOS OUTRA ONDA DE JET WINGS POUSANDO AGORA! ESTOU TENTANDO TIRAR UM POUCO DA PRESSÃ£O DOS NOSSOS HOMENS!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_09_004A_SECT_D
-LANG_SPANISH        "^1Seção:^7Continue! Estou indo para a ponte. Vou desligar os sistemas automatizados a partir daí!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7CONTINUE! ESTOU INDO PARA A PONTE. VOU DESLIGAR OS SISTEMAS AUTOMATIZADOS A PARTIR DAÃ­!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_09_005A_SECT_D
-LANG_SPANISH        "^1Seção:^7Almirante Briggs!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ALMIRANTE BRIGGS!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_09_007A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Temos outra leva de Jet Wings embarcando no navio! Temos que recuperar o controle, Seção!"
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7TEMOS OUTRA LEVA DE JET WINGS EMBARCANDO NO NAVIO! TEMOS QUE RECUPERAR O CONTROLE, SEÃ§Ã£O!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_11_09_008A_SECT_D
-LANG_SPANISH        "^1Seção:^7Estou indo para a ponte. Vou desligar os sistemas automatizados a partir daí!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ESTOU INDO PARA A PONTE. VOU DESLIGAR OS SISTEMAS AUTOMATIZADOS A PARTIR DAÃ­!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_01_001A_SECT_M
-LANG_SPANISH        "^1Seção:^7Droga!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7DROGA!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_01_002A_SECT_D
-LANG_SPANISH        "^1Seção:^7Almirante Briggs! As torres automáticas estão destruindo nossos homens!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ALMIRANTE BRIGGS! AS TORRES AUTOMÃ¡TICAS ESTÃ£O DESTRUINDO NOSSOS HOMENS!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_01_003A_SECT_D
-LANG_SPANISH        "^1Seção:^7Precisamos de uma solução... e rápida!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7PRECISAMOS DE UMA SOLUÃ§Ã£O... E RÃ¡PIDA!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_01_004A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7A equipe técnica está trabalhando nisso!"
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7A EQUIPE TÃ©CNICA ESTÃ¡ TRABALHANDO NISSO!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_01_005A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Os técnicos identificaram terminais de retransmissão locais controlando cada torre."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7OS TÃ©CNICOS IDENTIFICARAM TERMINAIS DE RETRANSMISSÃ£O LOCAIS CONTROLANDO CADA TORRE."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_01_006A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Use-os para isolar as torres da rede principal."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7USE-OS PARA ISOLAR AS TORRES DA REDE PRINCIPAL."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_01_007A_SECT_D
-LANG_SPANISH        "^1Seção:^7Entendi."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ENTENDI."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_01_009A_SECT_D
-LANG_SPANISH        "^1Seção:^7Proteja a ponte!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7PROTEJA A PONTE!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_02_007A_SECT_D
-LANG_SPANISH        "^1Seção:^7Vamos... Vamos."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7VAMOS... VAMOS."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_02_008A_SECT_D
-LANG_SPANISH        "^1Seção:^7Almirante Briggs, o terminal de controle da ponte está completamente bloqueado."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ALMIRANTE BRIGGS, O TERMINAL DE CONTROLE DA PONTE ESTÃ¡ COMPLETAMENTE BLOQUEADO."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_02_009A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Estamos tentando obter acesso da sala do servidor. Já vi revoluções irem e virem mais rápido do que essa merda."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ESTAMOS TENTANDO OBTER ACESSO DA SALA DO SERVIDOR. JÃ¡ VI REVOLUÃ§Ã?ES IREM E VIREM MAIS RÃ¡PIDO DO QUE ESSA MERDA."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_02_009A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Estamos tentando obter acesso da sala do servidor. Já vi revoluções irem e virem mais rápido do que isso."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ESTAMOS TENTANDO OBTER ACESSO DA SALA DO SERVIDOR. JÃ¡ VI REVOLUÃ§Ã?ES IREM E VIREM MAIS RÃ¡PIDO DO QUE ISSO."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_02_010A_SECT_D
-LANG_SPANISH        "^1Seção:^7Menendez... Sempre um passo à nossa frente. Precisamos encontrá-lo!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7MENENDEZ... SEMPRE UM PASSO Ã  NOSSA FRENTE. PRECISAMOS ENCONTRÃ¡-LO!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_02_011A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Vá para a sala de segurança. Os técnicos devem ter os feeds da câmera de volta em breve."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7VÃ¡ PARA A SALA DE SEGURANÃ§A. OS TÃ©CNICOS DEVEM TER OS FEEDS DA CÃ¢MERA DE VOLTA EM BREVE."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_02_012A_SECT_D
-LANG_SPANISH        "^1Seção:^7Estou a caminho."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ESTOU A CAMINHO."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_03_001A_SECT_D
-LANG_SPANISH        "^1Seção:^7Harpista! Estou preso por PMCs a caminho da sala de segurança."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7HARPISTA! ESTOU PRESO POR PMCS A CAMINHO DA SALA DE SEGURANÃ§A."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_03_002A_SECT_D
-LANG_SPANISH        "^1Seção:^7Hackeie o terminal de retransmissão. Assuma o controle manual das torres automáticas."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7HACKEIE O TERMINAL DE RETRANSMISSÃ£O. ASSUMA O CONTROLE MANUAL DAS TORRES AUTOMÃ¡TICAS."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_03_003A_HARP_D
-LANG_SPANISH        "^1Harper:^7Você acertou."
+LANG_SPANISH        "^1HARPER:^7VOCÃª ACERTOU."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_03_004A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Seção, estamos sem opções. Corremos o risco de perder toda a frota."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7SEÃ§Ã£O, ESTAMOS SEM OPÃ§Ã?ES. CORREMOS O RISCO DE PERDER TODA A FROTA."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_03_005A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Nossa única chance é reinicializar todo o sistema."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7NOSSA ÃºNICA CHANCE Ã© REINICIALIZAR TODO O SISTEMA."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_03_006A_SECT_D
-LANG_SPANISH        "^1Seção:^7Isso é suicídio."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ISSO Ã© SUICÃ­DIO."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_03_007A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Seção? Você copia?"
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7SEÃ§Ã£O? VOCÃª COPIA?"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_03_008A_SECT_D
-LANG_SPANISH        "^1Seção:^7Almirante Briggs?"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ALMIRANTE BRIGGS?"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_03_010A_SECT_M
-LANG_SPANISH        "^1Seção:^7Droga! As comunicações estão inoperantes! Ele não consegue ouvir uma palavra!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7DROGA! AS COMUNICAÃ§Ã?ES ESTÃ£O INOPERANTES! ELE NÃ£O CONSEGUE OUVIR UMA PALAVRA!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_03_010A_SECT_S
-LANG_SPANISH        "^1Seção:^7As comunicações estão inativas! Ele não consegue ouvir uma palavra!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7AS COMUNICAÃ§Ã?ES ESTÃ£O INATIVAS! ELE NÃ£O CONSEGUE OUVIR UMA PALAVRA!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_002A_SECT_D
-LANG_SPANISH        "^1Seção:^7Sinalize a porta!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7SINALIZE A PORTA!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_003A_SECT_D
-LANG_SPANISH        "^1Seção:^7Onde estamos no feed de segurança?"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ONDE ESTAMOS NO FEED DE SEGURANÃ§A?"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_004A_TEC1_D
-LANG_SPANISH        "^1Técnico:^7Devemos fazer o backup em alguns minutos."
+LANG_SPANISH        "^1TÃ©CNICO:^7DEVEMOS FAZER O BACKUP EM ALGUNS MINUTOS."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_005A_SECT_D
-LANG_SPANISH        "^1Seção:^7Preciso de uma equipe atravessando esta parede agora mesmo!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7PRECISO DE UMA EQUIPE ATRAVESSANDO ESTA PAREDE AGORA MESMO!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_006A_SECT_D
-LANG_SPANISH        "^1Seção:^7Perdi comunicações com o Almirante Briggs. Ele pode estar em perigo."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7PERDI COMUNICAÃ§Ã?ES COM O ALMIRANTE BRIGGS. ELE PODE ESTAR EM PERIGO."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_007A_TEC1_D
-LANG_SPANISH        "^1Técnico:^7Feed de segurança... Está de volta!"
+LANG_SPANISH        "^1TÃ©CNICO:^7FEED DE SEGURANÃ§A... ESTÃ¡ DE VOLTA!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_008A_SECT_D
-LANG_SPANISH        "^1Seção:^7Tudo bem, faça uma verificação de identificação facial em todo o navio. Temos que encontrar Menéndez!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7TUDO BEM, FAÃ§A UMA VERIFICAÃ§Ã£O DE IDENTIFICAÃ§Ã£O FACIAL EM TODO O NAVIO. TEMOS QUE ENCONTRAR MENÃ©NDEZ!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_009A_TEC1_D
-LANG_SPANISH        "^1Técnico:^7Pesquise... banco de dados de imagens de câmeras de segurança."
+LANG_SPANISH        "^1TÃ©CNICO:^7PESQUISE... BANCO DE DADOS DE IMAGENS DE CÃ¢MERAS DE SEGURANÃ§A."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_010A_TEC2_D
-LANG_SPANISH        "^1Técnico:^7Reiniciar todo o sistema é um risco, senhor. Não temos garantia de que ele voltará a ficar online."
+LANG_SPANISH        "^1TÃ©CNICO:^7REINICIAR TODO O SISTEMA Ã© UM RISCO, SENHOR. NÃ£O TEMOS GARANTIA DE QUE ELE VOLTARÃ¡ A FICAR ONLINE."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_011A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Melhor nenhum sistema do que um que esteja destruindo a frota. Faça isso!"
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7MELHOR NENHUM SISTEMA DO QUE UM QUE ESTEJA DESTRUINDO A FROTA. FAÃ§A ISSO!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_012A_TEC2_D
-LANG_SPANISH        "^1Técnico:^7Precisarei de sua autorização de segurança, senhor."
+LANG_SPANISH        "^1TÃ©CNICO:^7PRECISAREI DE SUA AUTORIZAÃ§Ã£O DE SEGURANÃ§A, SENHOR."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_013A_SECT_D
-LANG_SPANISH        "^1Seção:^7Briggs! Menendez está do lado de fora da sala do servidor!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7BRIGGS! MENENDEZ ESTÃ¡ DO LADO DE FORA DA SALA DO SERVIDOR!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_014A_SECT_D
-LANG_SPANISH        "^1Seção:^7NÃO desligue os sistemas!"
+LANG_SPANISH      "^1SEÃ§Ã£O:^7NÃƑO DESLIGUE OS SISTEMAS!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_015A_SECT_D
-LANG_SPANISH        "^1Seção:^7Se a segurança cair, Menendez entrará imediatamente!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7SE A SEGURANÃ§A CAIR, MENENDEZ ENTRARÃ¡ IMEDIATAMENTE!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_016A_SECT_D
-LANG_SPANISH        "^1Seção:^7Briggs!!!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7BRIGGS!!!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_05_002A_DEFA_D
-LANG_SPANISH        "^1Defalco:^7Menendez, Briggs está reiniciando seus sistemas agora, tentando recuperar o controle de suas defesas automáticas."
+LANG_SPANISH        "^1DEFALCO:^7MENENDEZ, BRIGGS ESTÃ¡ REINICIANDO SEUS SISTEMAS AGORA, TENTANDO RECUPERAR O CONTROLE DE SUAS DEFESAS AUTOMÃ¡TICAS."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_05_004A_MENE_D
-LANG_SPANISH        "^1Menéndez:^7E Salazar?"
+LANG_SPANISH        "^1MENÃ©NDEZ:^7E SALAZAR?"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_05_005A_DEFA_D
-LANG_SPANISH        "^1Defalco:^7Em posição, ao lado de Briggs."
+LANG_SPANISH        "^1DEFALCO:^7EM POSIÃ§Ã£O, AO LADO DE BRIGGS."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_06_001A_MENE_D
-LANG_SPANISH        "^1Menéndez:^7Afaste-se!"
+LANG_SPANISH        "^1MENÃ©NDEZ:^7AFASTE-SE!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_06_002A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Salazar."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7SALAZAR."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_06_003A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Atire em mim! Mate esse filho da puta!"
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ATIRE EM MIM! MATE ESSE FILHO DA PUTA!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_06_003A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Atire em mim e mate esse filho da..."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ATIRE EM MIM E MATE ESSE FILHO DA..."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_06_004A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7NÃO!!!"
+LANG_SPANISH      "^1ALMIRANTE BRIGGS:^7NÃƑO!!!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_06_008A_MENE_D
-LANG_SPANISH        "^1Menéndez:^7Almirante Briggs."
+LANG_SPANISH        "^1MENÃ©NDEZ:^7ALMIRANTE BRIGGS."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_07_001A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Seu filho da puta podre!"
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7SEU FILHO DA PUTA PODRE!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_07_001A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Seu traidor podre!"
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7SEU TRAIDOR PODRE!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_07_002A_SALA_D
-LANG_SPANISH        "^1Salazar:^7Vou me render quando terminar."
+LANG_SPANISH        "^1SALAZAR:^7VOU ME RENDER QUANDO TERMINAR."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_07_003A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Prefiro ver você morrer do que se render, garoto."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7PREFIRO VER VOCÃª MORRER DO QUE SE RENDER, GAROTO."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_07_004A_SALA_D
-LANG_SPANISH        "^1Salazar:^7Eu não culpo você."
+LANG_SPANISH        "^1SALAZAR:^7EU NÃ£O CULPO VOCÃª."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_07_005A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Por que você não deixa Salazar fazer isso?"
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7POR QUE VOCÃª NÃ£O DEIXA SALAZAR FAZER ISSO?"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_07_006A_SALA_D
-LANG_SPANISH        "^1Salazar:^7Briggs é um bom homem, Menendez. Não o mate. Atire na perna dele."
+LANG_SPANISH        "^1SALAZAR:^7BRIGGS Ã© UM BOM HOMEM, MENENDEZ. NÃ£O O MATE. ATIRE NA PERNA DELE."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_07_007A_SALA_D
-LANG_SPANISH        "^1Salazar:^7Você disse que não há mortes desnecessárias!"
+LANG_SPANISH        "^1SALAZAR:^7VOCÃª DISSE QUE NÃ£O HÃ¡ MORTES DESNECESSÃ¡RIAS!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_07_008A_MENE_D
-LANG_SPANISH        "^1Menéndez:^7Eu decido o que é necessário."
+LANG_SPANISH        "^1MENÃ©NDEZ:^7EU DECIDO O QUE Ã© NECESSÃ¡RIO."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_09_001A_SECT_D
-LANG_SPANISH        "^1Seção:^7Salazar."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7SALAZAR."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_09_002A_SECT_M
-LANG_SPANISH        "^1Seção:^7Apresse-se!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7APRESSE-SE!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_09_002A_SECT_S
-LANG_SPANISH        "^1Seção:^7Apresse-se!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7APRESSE-SE!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_09_003A_SECT_D
-LANG_SPANISH        "^1Seção:^7Harper, vá para a sala do servidor! Briggs caiu!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7HARPER, VÃ¡ PARA A SALA DO SERVIDOR! BRIGGS CAIU!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_09_004A_SALA_D
-LANG_SPANISH        "^1Salazar:^7Ele está vivo. Obrigado, Raul."
+LANG_SPANISH        "^1SALAZAR:^7ELE ESTÃ¡ VIVO. OBRIGADO, RAUL."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_12_09_005A_MENE_D
-LANG_SPANISH        "^1Menendez:^7Se realmente tivermos sucesso hoje, o almirante Briggs entenderá por que não o matei."
+LANG_SPANISH        "^1MENENDEZ:^7SE REALMENTE TIVERMOS SUCESSO HOJE, O ALMIRANTE BRIGGS ENTENDERÃ¡ POR QUE NÃ£O O MATEI."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_001A_SECT_D
-LANG_SPANISH        "^1Seção:^7Verifique os feridos!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7VERIFIQUE OS FERIDOS!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_002A_SECT_D
-LANG_SPANISH        "^1Seção:^7Este era o plano dele..."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ESTE ERA O PLANO DELE..."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_003A_SECT_D
-LANG_SPANISH        "^1Seção:^7Menendez contrabandeou um chip Celerium a bordo. Hackeou todo o nosso sistema."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7MENENDEZ CONTRABANDEOU UM CHIP CELERIUM A BORDO. HACKEOU TODO O NOSSO SISTEMA."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_004A_SECT_D
-LANG_SPANISH        "^1Seção:^7Ele agora comanda a rede de satélites que controla toda a frota de drones dos EUA."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ELE AGORA COMANDA A REDE DE SATÃ©LITES QUE CONTROLA TODA A FROTA DE DRONES DOS EUA."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_005A_SECT_D
-LANG_SPANISH        "^1Seção:^7Precisamos informar o Pentágono."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7PRECISAMOS INFORMAR O PENTÃ¡GONO."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_006A_CHLO_D
-LANG_SPANISH        "^1Chloe:^7Deixe-me tentar uma coisa..."
+LANG_SPANISH        "^1CHLOE:^7DEIXE-ME TENTAR UMA COISA..."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_007A_CHLO_D
-LANG_SPANISH        "^1Chloe:^7Para controlar nossos satélites, o sinal precisa ser retransmitido por meio de proxies. Um deles nos dará a origem da transmissão."
+LANG_SPANISH        "^1CHLOE:^7PARA CONTROLAR NOSSOS SATÃ©LITES, O SINAL PRECISA SER RETRANSMITIDO POR MEIO DE PROXIES. UM DELES NOS DARÃ¡ A ORIGEM DA TRANSMISSÃ£O."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_008A_CHLO_D
-LANG_SPANISH        "^1Chloe:^7Vai levar algum tempo."
+LANG_SPANISH        "^1CHLOE:^7VAI LEVAR ALGUM TEMPO."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_009A_SECT_D
-LANG_SPANISH        "^1Seção:^7Faça isso, Chloe."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7FAÃ§A ISSO, CHLOE."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_010A_SECT_D
-LANG_SPANISH        "^1Seção:^7Ok... Precisaremos que nossa equipe técnica trabalhe nisso o mais rápido possível. Temos que encontrar a fonte da transmissão do controle do satélite."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7OK... PRECISAREMOS QUE NOSSA EQUIPE TÃ©CNICA TRABALHE NISSO O MAIS RÃ¡PIDO POSSÃ­VEL. TEMOS QUE ENCONTRAR A FONTE DA TRANSMISSÃ£O DO CONTROLE DO SATÃ©LITE."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_011A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7É melhor você tomar cuidado. Quem quer que tenha comprometido Salazar pode chegar até você. Tenha cuidado... Boa sorte."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7Ã‰ MELHOR VOCÃª TOMAR CUIDADO. QUEM QUER QUE TENHA COMPROMETIDO SALAZAR PODE CHEGAR ATÃ© VOCÃª. TENHA CUIDADO... BOA SORTE."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_012A_SECT_D
-LANG_SPANISH        "^1Seção:^7Leve-o para a enfermaria."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7LEVE-O PARA A ENFERMARIA."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_014A_HARP_M
-LANG_SPANISH        "^1Harper:^7O que diabos aconteceu aqui, cara?"
+LANG_SPANISH        "^1HARPER:^7O QUE DIABOS ACONTECEU AQUI, CARA?"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_015A_SECT_D
-LANG_SPANISH        "^1Seção:^7Salazar... Ele jogou contra todos nós. Ele estava trabalhando com Menendez."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7SALAZAR... ELE JOGOU CONTRA TODOS NÃ³S. ELE ESTAVA TRABALHANDO COM MENENDEZ."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_016A_HARP_M
-LANG_SPANISH        "^1Harper:^7Que porra é essa? Como ele pôde fazer isso, cara? O que você está falando? Ele era um de nós!"
+LANG_SPANISH        "^1HARPER:^7QUE PORRA Ã© ESSA? COMO ELE PÃ´DE FAZER ISSO, CARA? O QUE VOCÃª ESTÃ¡ FALANDO? ELE ERA UM DE NÃ³S!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_017A_SECT_D
-LANG_SPANISH        "^1Seção:^7Atenção a todos os agentes de segurança. Comandante David Mason. O membro da equipe Seal, Salazar, está trabalhando com o inimigo."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ATENÃ§Ã£O A TODOS OS AGENTES DE SEGURANÃ§A. COMANDANTE DAVID MASON. O MEMBRO DA EQUIPE SEAL, SALAZAR, ESTÃ¡ TRABALHANDO COM O INIMIGO."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_017B_SECT_D
-LANG_SPANISH        "^1Seção:^7Atenção a todos os agentes de segurança. Comandante David Mason. O membro da equipe Seal, Salazar, está trabalhando com o inimigo."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ATENÃ§Ã£O A TODOS OS AGENTES DE SEGURANÃ§A. COMANDANTE DAVID MASON. O MEMBRO DA EQUIPE SEAL, SALAZAR, ESTÃ¡ TRABALHANDO COM O INIMIGO."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_018A_SECT_D
-LANG_SPANISH        "^1Seção:^7Quero que ele seja levado vivo."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7QUERO QUE ELE SEJA LEVADO VIVO."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_018B_SECT_D
-LANG_SPANISH        "^1Seção:^7Quero que ele seja levado vivo."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7QUERO QUE ELE SEJA LEVADO VIVO."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_019A_SECU_D
-LANG_SPANISH        "^1Segurança:^7Seção. Equipe de segurança Epsilon. Temos Salazar seguro. Ele se rendeu sem incidentes."
+LANG_SPANISH        "^1SEGURANÃ§A:^7SEÃ§Ã£O. EQUIPE DE SEGURANÃ§A EPSILON. TEMOS SALAZAR SEGURO. ELE SE RENDEU SEM INCIDENTES."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_020A_SECT_D
-LANG_SPANISH        "^1Seção:^7Onde você está?"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ONDE VOCÃª ESTÃ¡?"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_021A_SECU_D
-LANG_SPANISH        "^1Segurança:^7Hangar dois."
+LANG_SPANISH        "^1SEGURANÃ§A:^7HANGAR DOIS."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_022A_SECT_D
-LANG_SPANISH        "^1Seção:^7A caminho. E Menéndez?"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7A CAMINHO. E MENÃ©NDEZ?"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_02_001A_SECT_D
-LANG_SPANISH        "^1Seção:^7Você traiu todos nós, Salazar!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7VOCÃª TRAIU TODOS NÃ³S, SALAZAR!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_02_002A_SALA_D
-LANG_SPANISH        "^1Salazar:^7Hoje é um dia difícil, Seção."
+LANG_SPANISH        "^1SALAZAR:^7HOJE Ã© UM DIA DIFÃ­CIL, SEÃ§Ã£O."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_02_003A_SALA_D
-LANG_SPANISH        "^1Salazar:^7Mas amanhã, todos nós venceremos."
+LANG_SPANISH        "^1SALAZAR:^7MAS AMANHÃ£, TODOS NÃ³S VENCEREMOS."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_02_004A_HARP_D
-LANG_SPANISH        "^1Harper:^7Você não!"
+LANG_SPANISH        "^1HARPER:^7VOCÃª NÃ£O!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_02_005A_SECT_D
-LANG_SPANISH        "^1Seção:^7Tire-o daqui!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7TIRE-O DAQUI!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_02_006A_SECT_D
-LANG_SPANISH        "^1Seção:^7Vou atrás de Menendez."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7VOU ATRÃ¡S DE MENENDEZ."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_02_007A_SECT_D
-LANG_SPANISH        "^1Seção:^7Envie a plataforma para o convés."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ENVIE A PLATAFORMA PARA O CONVÃ©S."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_001A_SECT_D
-LANG_SPANISH        "^1Seção:^7Atenção a todos neste canal. Este é o Comandante David Mason. A nossa rede de defesa foi comprometida."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ATENÃ§Ã£O A TODOS NESTE CANAL. ESTE Ã© O COMANDANTE DAVID MASON. A NOSSA REDE DE DEFESA FOI COMPROMETIDA."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_001B_SECT_D
-LANG_SPANISH        "^1Seção:^7Atenção a todos neste canal. Este é o Comandante David Mason. A nossa rede de defesa foi comprometida."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ATENÃ§Ã£O A TODOS NESTE CANAL. ESTE Ã© O COMANDANTE DAVID MASON. A NOSSA REDE DE DEFESA FOI COMPROMETIDA."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_002A_SECT_D
-LANG_SPANISH        "^1Seção:^7Todos se preparam para evacuação. Abandonar o navio!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7TODOS SE PREPARAM PARA EVACUAÃ§Ã£O. ABANDONAR O NAVIO!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_002B_SECT_D
-LANG_SPANISH        "^1Seção:^7Todos se preparam para evacuação. Abandonar o navio!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7TODOS SE PREPARAM PARA EVACUAÃ§Ã£O. ABANDONAR O NAVIO!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_003A_SECT_D
-LANG_SPANISH        "^1Seção:^7Repito: abandone o navio!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7REPITO: ABANDONE O NAVIO!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_003B_SECT_D
-LANG_SPANISH        "^1Seção:^7Repito: abandone o navio!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7REPITO: ABANDONE O NAVIO!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_006A_SECT_D
-LANG_SPANISH        "^1Seção:^7Preciso de um VTOL preparado e pronto para uso."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7PRECISO DE UM VTOL PREPARADO E PRONTO PARA USO."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_007A_SECT_D
-LANG_SPANISH        "^1Seção:^7Comando Tático, Menendez já está no ar!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7COMANDO TÃ¡TICO, MENENDEZ JÃ¡ ESTÃ¡ NO AR!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_008A_SECT_D
-LANG_SPANISH        "^1Seção:^7Ele tem controle total sobre nossa frota de drones."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ELE TEM CONTROLE TOTAL SOBRE NOSSA FROTA DE DRONES."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_013A_HARP_D
-LANG_SPANISH        "^1Harper:^7Centenas de pessoas morreram hoje, Seção."
+LANG_SPANISH        "^1HARPER:^7CENTENAS DE PESSOAS MORRERAM HOJE, SEÃ§Ã£O."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_014A_HARP_M
-LANG_SPANISH        "^1Harper:^7Vou ver aquele filho da puta queimar pelo que fez."
+LANG_SPANISH        "^1HARPER:^7VOU VER AQUELE FILHO DA PUTA QUEIMAR PELO QUE FEZ."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_014A_HARP_S
-LANG_SPANISH        "^1Harper:^7Vou ver aquele filho da... queimar pelo que fez."
+LANG_SPANISH        "^1HARPER:^7VOU VER AQUELE FILHO DA... QUEIMAR PELO QUE FEZ."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_017A_SECT_D
-LANG_SPANISH        "^1Seção:^7Este é o fim do jogo. Ele está prestes a lançar nossos drones em cidades de todo o mundo."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ESTE Ã© O FIM DO JOGO. ELE ESTÃ¡ PRESTES A LANÃ§AR NOSSOS DRONES EM CIDADES DE TODO O MUNDO."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_018A_SECT_D
-LANG_SPANISH        "^1Seção:^7Chegamos tarde demais!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7CHEGAMOS TARDE DEMAIS!"
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_019A_NAV3_D
-LANG_SPANISH        "^1Marinheiro dos EUA:^7confirmado. As equipes de segurança agirão para proteger nossos recursos aéreos restantes."
+LANG_SPANISH        "^1MARINHEIRO DOS EUA:^7CONFIRMADO. AS EQUIPES DE SEGURANÃ§A AGIRÃ£O PARA PROTEGER NOSSOS RECURSOS AÃ©REOS RESTANTES."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_021A_SECT_D
-LANG_SPANISH        "^1Seção:^7Atenção a todos. Estou assumindo o OPCON da unidade CLAW no convés."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ATENÃ§Ã£O A TODOS. ESTOU ASSUMINDO O OPCON DA UNIDADE CLAW NO CONVÃ©S."
 
 REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_022A_SECT_D
-LANG_SPANISH        "^1Seção:^7Mantenha-se afastado."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7MANTENHA-SE AFASTADO."
 
 REFERENCE           BLACKOUT_VTOL_FAIL
-LANG_SPANISH        "Você perdeu sua evacuação"
+LANG_SPANISH        "VOCÃª PERDEU SUA EVACUAÃ§Ã£O"
 
 REFERENCE           SP_OBJECTIVES_AMMO
-LANG_SPANISH        "Munição"
+LANG_SPANISH        "MUNIÃ§Ã£O"
 
 REFERENCE           SP_OBJECTIVES_BREACH
-LANG_SPANISH        "Violação"
+LANG_SPANISH        "VIOLAÃ§Ã£O"
 
 REFERENCE           SP_OBJECTIVES_CLEAR
-LANG_SPANISH        "Limpar"
+LANG_SPANISH        "LIMPAR"
 
 REFERENCE           SP_OBJECTIVES_CLIMB
-LANG_SPANISH        "Escala"
+LANG_SPANISH        "ESCALA"
 
 REFERENCE           SP_OBJECTIVES_DEFEND
-LANG_SPANISH        "defender"
+LANG_SPANISH        "DEFENDER"
 
 REFERENCE           SP_OBJECTIVES_DESTROY
-LANG_SPANISH        "destruir"
+LANG_SPANISH        "DESTRUIR"
 
 REFERENCE           SP_OBJECTIVES_DETONATE
-LANG_SPANISH        "Detonar"
+LANG_SPANISH        "DETONAR"
 
 REFERENCE           SP_OBJECTIVES_DISABLE
-LANG_SPANISH        "Inutilizável"
+LANG_SPANISH        "INUTILIZÃ¡VEL"
 
 REFERENCE           SP_OBJECTIVES_ENTER
-LANG_SPANISH        "Digitar"
+LANG_SPANISH        "DIGITAR"
 
 REFERENCE           SP_OBJECTIVES_ESCORT
-LANG_SPANISH        "Escolta"
+LANG_SPANISH        "ESCOLTA"
 
 REFERENCE           SP_OBJECTIVES_FOLLOW
-LANG_SPANISH        "Prossiga"
+LANG_SPANISH        "PROSSIGA"
 
 REFERENCE           SP_OBJECTIVES_HELP
-LANG_SPANISH        "Ajuda"
+LANG_SPANISH        "AJUDA"
 
 REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
-LANG_SPANISH        "Eles chegam (helicópteros)"
+LANG_SPANISH        "ELES CHEGAM (HELICÃ³PTEROS)"
 
 REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
-LANG_SPANISH        "(tanques) chegam"
+LANG_SPANISH        "(TANQUES) CHEGAM"
 
 REFERENCE           SP_OBJECTIVES_INTERACT
-LANG_SPANISH        "Acesso"
+LANG_SPANISH        "ACESSO"
 
 REFERENCE           SP_OBJECTIVES_JUMP
-LANG_SPANISH        "Salto"
+LANG_SPANISH        "SALTO"
 
 REFERENCE           SP_OBJECTIVES_KILL
-LANG_SPANISH        "Matar"
+LANG_SPANISH        "MATAR"
 
 REFERENCE           SP_OBJECTIVES_MELEE
-LANG_SPANISH        "Corpo a corpo"
+LANG_SPANISH        "CORPO A CORPO"
 
 REFERENCE           SP_OBJECTIVES_PICKUP
-LANG_SPANISH        "Escolher"
+LANG_SPANISH        "ESCOLHER"
 
 REFERENCE           SP_OBJECTIVES_PROTECT
-LANG_SPANISH        "Proteger"
+LANG_SPANISH        "PROTEGER"
 
 REFERENCE           SP_OBJECTIVES_RAPPEL
-LANG_SPANISH        "Descer"
+LANG_SPANISH        "DESCER"
 
 REFERENCE           SP_OBJECTIVES_REGROUP
-LANG_SPANISH        "Reagrupar"
+LANG_SPANISH        "REAGRUPAR"
 
 REFERENCE           SP_OBJECTIVES_SEARCH
-LANG_SPANISH        "Procura"
+LANG_SPANISH        "PROCURA"
 
 REFERENCE           SP_OBJECTIVES_SHOOT
-LANG_SPANISH        "Atire"
+LANG_SPANISH        "ATIRE"
 
 REFERENCE           SP_OBJECTIVES_SUPPORT
-LANG_SPANISH        "Apoio"
+LANG_SPANISH        "APOIO"
 
 REFERENCE           SP_OBJECTIVES_SWEEP
-LANG_SPANISH        "Varrer"
+LANG_SPANISH        "VARRER"
 
 REFERENCE           SP_OBJECTIVES_TARGET
-LANG_SPANISH        "Branco"
+LANG_SPANISH        "BRANCO"
 
 REFERENCE           SP_OBJECTIVES_USE
-LANG_SPANISH        "Usar"
+LANG_SPANISH        "USAR"
 
 REFERENCE           SP_OBJECTIVES_WEAPONS
-LANG_SPANISH        "Armas"
-
+LANG_SPANISH        "ARMAS"

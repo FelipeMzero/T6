@@ -3,442 +3,442 @@ CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           FRONTEND_CYCLE_MISSIONS
-LANG_SPANISH        "Pressione ^3[{+actionslot 3}]^7 para escolher a missão."
+LANG_SPANISH        "PRESSIONE ^3[{+ACTIONSLOT 3}]^7 PARA ESCOLHER A MISSÃ£O."
 
 REFERENCE           FRONTEND_INCOMING_MESSAGE
-LANG_SPANISH        "Mensagem recebida do Almirante Briggs"
+LANG_SPANISH        "MENSAGEM RECEBIDA DO ALMIRANTE BRIGGS"
 
 REFERENCE           FRONTEND_PRESENCE_REQUESTED
-LANG_SPANISH        "David Mason, sua presença é obrigatória na Sala de Guerra."
+LANG_SPANISH        "DAVID MASON, SUA PRESENÃ§A Ã© OBRIGATÃ³RIA NA SALA DE GUERRA."
 
 REFERENCE           FRONTEND_PRESS_X_TO_SELECT
-LANG_SPANISH        "Pressione ^3[{+activate}]^7 para confirmar a escolha da missão."
+LANG_SPANISH        "PRESSIONE ^3[{+ACTIVATE}]^7 PARA CONFIRMAR A ESCOLHA DA MISSÃ£O."
 
 REFERENCE           FRONTEND_REPORT_TO_WAR_ROOM
-LANG_SPANISH        "Reporte-se à Sala de Guerra"
+LANG_SPANISH        "REPORTE-SE Ã  SALA DE GUERRA"
 
 REFERENCE           FRONTEND_SF_AFGHANISTAN
-LANG_SPANISH        "Afeganistão"
+LANG_SPANISH        "AFEGANISTÃ£O"
 
 REFERENCE           FRONTEND_SF_AT_RISK
-LANG_SPANISH        "Em Risco"
+LANG_SPANISH        "EM RISCO"
 
 REFERENCE           FRONTEND_SF_CARRIER
-LANG_SPANISH        "Porta-aviões"
+LANG_SPANISH        "PORTA-AVIÃΜES"
 
 REFERENCE           FRONTEND_SF_DRONE
-LANG_SPANISH        "Fábrica de Drones"
+LANG_SPANISH        "FÃ¡BRICA DE DRONES"
 
 REFERENCE           FRONTEND_SF_OVERFLOW
-LANG_SPANISH        "Inundação"
+LANG_SPANISH        "INUNDAÃ§Ã£O"
 
 REFERENCE           FRONTEND_SF_SINGAPORE
-LANG_SPANISH        "Docas"
+LANG_SPANISH        "DOCAS"
 
 REFERENCE           FRONTEND_SF_SOCOTRA
-LANG_SPANISH        "Socotra"
+LANG_SPANISH        "SOCOTRA"
 
 REFERENCE           FRONTEND_UNITS_REMAINING
-LANG_SPANISH        "Unidades de implantação restantes"
+LANG_SPANISH        "UNIDADES DE IMPLANTAÃ§Ã£O RESTANTES"
 
 REFERENCE           FRONTEND_USE_STRIKEFORCE
-LANG_SPANISH        "Pressione ^3[{+activate}]^7 para acessar a Força de Assalto."
+LANG_SPANISH        "PRESSIONE ^3[{+ACTIVATE}]^7 PARA ACESSAR A FORÃ§A DE ASSALTO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_001A_SECT_D
-LANG_SPANISH        "^1Seção:^7Este cargueiro está repleto de mísseis de cruzeiro hipersônicos Dong-Feng. Compatível com Mach 7. Um ataque poderia destruir qualquer um dos nossos porta-aviões, incluindo o Obama."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ESTE CARGUEIRO ESTÃ¡ REPLETO DE MÃ­SSEIS DE CRUZEIRO HIPERSÃ´NICOS DONG-FENG. COMPATÃ­VEL COM MACH 7. UM ATAQUE PODERIA DESTRUIR QUALQUER UM DOS NOSSOS PORTA-AVIÃΜES, INCLUINDO O OBAMA."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_002A_SECT_D
-LANG_SPANISH        "^1Seção:^7Os mísseis serão entregues a esses destróieres, revestidos com nanotubos de carbono, tornando-os invisíveis para nossos satélites. É por isso que Harper teve que fazer essa filmagem à moda antiga! A SDC planeia lançar estes mísseis contra o Irão."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7OS MÃ­SSEIS SERÃ£O ENTREGUES A ESSES DESTRÃ³IERES, REVESTIDOS COM NANOTUBOS DE CARBONO, TORNANDO-OS INVISÃ­VEIS PARA NOSSOS SATÃ©LITES. Ã‰ POR ISSO QUE HARPER TEVE QUE FAZER ESSA FILMAGEM Ã  MODA ANTIGA! A SDC PLANEIA LANÃ§AR ESTES MÃ­SSEIS CONTRA O IRÃ£O."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_003A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Isso mesmo, rapazes, Irã. Agora, já tenho problemas suficientes. Não preciso que a Pérsia seja a cabra da SDC."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ISSO MESMO, RAPAZES, IRÃ£. AGORA, JÃ¡ TENHO PROBLEMAS SUFICIENTES. NÃ£O PRECISO QUE A PÃ©RSIA SEJA A CABRA DA SDC."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_003A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Isso mesmo, rapazes, Irã. Já temos problemas suficientes, então não preciso que a Pérsia seja amiga do SDC."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ISSO MESMO, RAPAZES, IRÃ£. JÃ¡ TEMOS PROBLEMAS SUFICIENTES, ENTÃ£O NÃ£O PRECISO QUE A PÃ©RSIA SEJA AMIGA DO SDC."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_004A_SECT_D
-LANG_SPANISH        "^1Seção:^7A defesa primária do terminal Keppel é um único míssil Dong Feng, localizado no centro central."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7A DEFESA PRIMÃ¡RIA DO TERMINAL KEPPEL Ã© UM ÃºNICO MÃ­SSIL DONG FENG, LOCALIZADO NO CENTRO CENTRAL."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_005A_SECT_D
-LANG_SPANISH        "^1Seção:^7Você estará equipado com explosivos HPM. Explosões de microondas de alta potência para embaralhar o sistema de orientação do míssil."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7VOCÃª ESTARÃ¡ EQUIPADO COM EXPLOSIVOS HPM. EXPLOSÃΜES DE MICROONDAS DE ALTA POTÃªNCIA PARA EMBARALHAR O SISTEMA DE ORIENTAÃ§Ã£O DO MÃ­SSIL."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_006A_SECT_D
-LANG_SPANISH        "^1Seção:^7O perímetro leste e oeste é flanqueado por lasers de elétrons livres, feixes sobrecarregados capazes de destruir qualquer míssil de curto alcance. Precisamos deles para destruir o cargueiro."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7O PERÃ­METRO LESTE E OESTE Ã© FLANQUEADO POR LASERS DE ELÃ©TRONS LIVRES, FEIXES SOBRECARREGADOS CAPAZES DE DESTRUIR QUALQUER MÃ­SSIL DE CURTO ALCANCE. PRECISAMOS DELES PARA DESTRUIR O CARGUEIRO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_007A_SECT_D
-LANG_SPANISH        "^1Seção:^7Seus módulos de hackers portáteis reprogramarão seus sistemas de mira para fritá-los em seu próprio suco."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7SEUS MÃ³DULOS DE HACKERS PORTÃ¡TEIS REPROGRAMARÃ£O SEUS SISTEMAS DE MIRA PARA FRITÃ¡-LOS EM SEU PRÃ³PRIO SUCO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_008A_SECT_D
-LANG_SPANISH        "^1Seção:^7Quando as defesas deles caem, você chama o Kraken e nós atacamos o cargueiro por via aérea."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7QUANDO AS DEFESAS DELES CAEM, VOCÃª CHAMA O KRAKEN E NÃ³S ATACAMOS O CARGUEIRO POR VIA AÃ©REA."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_001A_SECT_D
-LANG_SPANISH        "^1Seção:^7Almirante no convés!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ALMIRANTE NO CONVÃ©S!"
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_002A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Obrigado, Comandante Mason."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7OBRIGADO, COMANDANTE MASON."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_003A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Confira esta beleza. “Presidente” Tian Zhao, líder das forças armadas da China. O chefe das forças armadas da coligação SDC. O desgraçado joga duro, mesmo com o governo da China. Eles têm tanto controle sobre ele quanto nós. Este gato anda sozinho."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7CONFIRA ESTA BELEZA. Â€ŒPRESIDENTEÂ€� TIAN ZHAO, LÃ­DER DAS FORÃ§AS ARMADAS DA CHINA. O CHEFE DAS FORÃ§AS ARMADAS DA COLIGAÃ§Ã£O SDC. O DESGRAÃ§ADO JOGA DURO, MESMO COM O GOVERNO DA CHINA. ELES TÃªM TANTO CONTROLE SOBRE ELE QUANTO NÃ³S. ESTE GATO ANDA SOZINHO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_003A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Confira esta beleza. “Presidente” Tian Zhao, líder das forças armadas da China. O chefe das forças armadas da coligação SDC. Ele joga duro, mesmo com o governo da China. Eles têm tanto controle sobre ele quanto nós. Este gato anda sozinho."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7CONFIRA ESTA BELEZA. Â€ŒPRESIDENTEÂ€� TIAN ZHAO, LÃ­DER DAS FORÃ§AS ARMADAS DA CHINA. O CHEFE DAS FORÃ§AS ARMADAS DA COLIGAÃ§Ã£O SDC. ELE JOGA DURO, MESMO COM O GOVERNO DA CHINA. ELES TÃªM TANTO CONTROLE SOBRE ELE QUANTO NÃ³S. ESTE GATO ANDA SOZINHO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_004A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7O presidente Zhao está apertando as bolas da Rússia, com muita força. Comandante."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7O PRESIDENTE ZHAO ESTÃ¡ APERTANDO AS BOLAS DA RÃºSSIA, COM MUITA FORÃ§A. COMANDANTE."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_004A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7O presidente Zhao está apertando a Rússia, com muita força. Comandante."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7O PRESIDENTE ZHAO ESTÃ¡ APERTANDO A RÃºSSIA, COM MUITA FORÃ§A. COMANDANTE."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_005A_SECT_D
-LANG_SPANISH        "^1Seção:^7Se a Rússia cedesse e se juntasse ao SDC, eles seriam a maior força militar do planeta. O que é precisamente o que Menendez quer, criar superpoderes para se exterminarem mutuamente."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7SE A RÃºSSIA CEDESSE E SE JUNTASSE AO SDC, ELES SERIAM A MAIOR FORÃ§A MILITAR DO PLANETA. O QUE Ã© PRECISAMENTE O QUE MENENDEZ QUER, CRIAR SUPERPODERES PARA SE EXTERMINAREM MUTUAMENTE."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_006A_SECT_D
-LANG_SPANISH        "^1Seção:^7Neste momento, o Irã e a Índia estão ambos sob ameaça. A SDC está a agir. É hora do JSOC avançar."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7NESTE MOMENTO, O IRÃ£ E A Ã�NDIA ESTÃ£O AMBOS SOB AMEAÃ§A. A SDC ESTÃ¡ A AGIR. Ã‰ HORA DO JSOC AVANÃ§AR."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_007A_SECT_D
-LANG_SPANISH        "^1Seção:^7Esses destróieres da classe Sovremenniy são revestidos com nanotubos de carbono, tornando-os invisíveis para nossos satélites. Então Harper fez essa filmagem à moda antiga!"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ESSES DESTRÃ³IERES DA CLASSE SOVREMENNIY SÃ£O REVESTIDOS COM NANOTUBOS DE CARBONO, TORNANDO-OS INVISÃ­VEIS PARA NOSSOS SATÃ©LITES. ENTÃ£O HARPER FEZ ESSA FILMAGEM Ã  MODA ANTIGA!"
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_008A_HARP_M
-LANG_SPANISH        "^1Harper:^7Seção sem merda. Nadei um pouco perto demais dos tubarões naquele dia."
+LANG_SPANISH        "^1HARPER:^7SEÃ§Ã£O SEM MERDA. NADEI UM POUCO PERTO DEMAIS DOS TUBARÃΜES NAQUELE DIA."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_008A_HARP_S
-LANG_SPANISH        "^1Harper:^7Seção sem brincadeira. Nadei um pouco perto demais dos tubarões naquele dia."
+LANG_SPANISH        "^1HARPER:^7SEÃ§Ã£O SEM BRINCADEIRA. NADEI UM POUCO PERTO DEMAIS DOS TUBARÃΜES NAQUELE DIA."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_009A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Esses tubarões carregam ASATs..."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ESSES TUBARÃΜES CARREGAM ASATS..."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_010A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7...e estamos, neste momento, cruzando o Mar Arábico com fogo suficiente para queimar metade dos satélites do mundo."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7...E ESTAMOS, NESTE MOMENTO, CRUZANDO O MAR ARÃ¡BICO COM FOGO SUFICIENTE PARA QUEIMAR METADE DOS SATÃ©LITES DO MUNDO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_011A_SECT_D
-LANG_SPANISH        "^1Seção:^7O FOB Spectre é vital para proteger a fronteira norte da Índia. Para uma resposta rápida, nossa única opção é entrar com HALO."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7O FOB SPECTRE Ã© VITAL PARA PROTEGER A FRONTEIRA NORTE DA Ã�NDIA. PARA UMA RESPOSTA RÃ¡PIDA, NOSSA ÃºNICA OPÃ§Ã£O Ã© ENTRAR COM HALO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_012A_SECT_D
-LANG_SPANISH        "^1Seção:^7Uma vez no convés, seu objetivo principal é desativar o porta-aviões."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7UMA VEZ NO CONVÃ©S, SEU OBJETIVO PRINCIPAL Ã© DESATIVAR O PORTA-AVIÃΜES."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_013A_SECT_D
-LANG_SPANISH        "^1Seção:^7Eles controlam todos os seus sistemas de defesa automatizados nesta área. Você comandará seus ASDs e, em seguida, destruirá os motores e sistemas de energia da nave."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ELES CONTROLAM TODOS OS SEUS SISTEMAS DE DEFESA AUTOMATIZADOS NESTA Ã¡REA. VOCÃª COMANDARÃ¡ SEUS ASDS E, EM SEGUIDA, DESTRUIRÃ¡ OS MOTORES E SISTEMAS DE ENERGIA DA NAVE."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_014A_SECT_D
-LANG_SPANISH        "^1Seção:^7Agora, como o Almirante indicou, não podemos colocar nossos próprios jatos no espaço aéreo deles, então... teremos que usar os deles."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7AGORA, COMO O ALMIRANTE INDICOU, NÃ£O PODEMOS COLOCAR NOSSOS PRÃ³PRIOS JATOS NO ESPAÃ§O AÃ©REO DELES, ENTÃ£O... TEREMOS QUE USAR OS DELES."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_015A_SECT_D
-LANG_SPANISH        "^1Seção:^7Você voa com esses VTOLs direto da cabine de comando. Acabar com toda a frota. Estou claro?"
+LANG_SPANISH        "^1SEÃ§Ã£O:^7VOCÃª VOA COM ESSES VTOLS DIRETO DA CABINE DE COMANDO. ACABAR COM TODA A FROTA. ESTOU CLARO?"
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_019A_SECT_D
-LANG_SPANISH        "^1Seção:^7O objetivo principal do inimigo será destruir a rede de defesa visando geradores de energia e uplinks de satélite. Se a rede cair, não há nada que os impeça de penetrar na sala de controle principal."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7O OBJETIVO PRINCIPAL DO INIMIGO SERÃ¡ DESTRUIR A REDE DE DEFESA VISANDO GERADORES DE ENERGIA E UPLINKS DE SATÃ©LITE. SE A REDE CAIR, NÃ£O HÃ¡ NADA QUE OS IMPEÃ§A DE PENETRAR NA SALA DE CONTROLE PRINCIPAL."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_020A_SECT_D
-LANG_SPANISH        "^1Seção:^7Se isso acontecer, o FOB Spectre estará fora do ar e será temporada de caça à Índia."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7SE ISSO ACONTECER, O FOB SPECTRE ESTARÃ¡ FORA DO AR E SERÃ¡ TEMPORADA DE CAÃ§A Ã  Ã�NDIA."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_001A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Tenente Comandante Mason, apresente-se na sala de guerra."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7TENENTE COMANDANTE MASON, APRESENTE-SE NA SALA DE GUERRA."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_002A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Mason, estamos esperando por você na sala de guerra."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7MASON, ESTAMOS ESPERANDO POR VOCÃª NA SALA DE GUERRA."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_003A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Tenente Comandante Mason, apresente-se na sala de guerra agora."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7TENENTE COMANDANTE MASON, APRESENTE-SE NA SALA DE GUERRA AGORA."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_004A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Sua equipe está preparada e pronta para o briefing, Mason."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7SUA EQUIPE ESTÃ¡ PREPARADA E PRONTA PARA O BRIEFING, MASON."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_005A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Pare de perder tempo, Mason. Vá para a sala de guerra imediatamente."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7PARE DE PERDER TEMPO, MASON. VÃ¡ PARA A SALA DE GUERRA IMEDIATAMENTE."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_006A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Reporte-se à sala de guerra agora, comandante. Isso é uma ordem."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7REPORTE-SE Ã  SALA DE GUERRA AGORA, COMANDANTE. ISSO Ã© UMA ORDEM."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_007A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Mason! Pare de brincar e vá para a sala de guerra."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7MASON! PARE DE BRINCAR E VÃ¡ PARA A SALA DE GUERRA."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_008A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Bom trabalho, Mason."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7BOM TRABALHO, MASON."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_009A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Eu sabia que poderia confiar em você, comandante."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7EU SABIA QUE PODERIA CONFIAR EM VOCÃª, COMANDANTE."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_010A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Que trabalho incrível, Mason."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7QUE TRABALHO INCRÃ­VEL, MASON."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_010A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Muito bem, Mason."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7MUITO BEM, MASON."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_011A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Isso é o que eu gosto de ver. Maldito livro didático."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ISSO Ã© O QUE EU GOSTO DE VER. MALDITO LIVRO DIDÃ¡TICO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_011A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Isso é o que eu gosto de ver. Livro didático direto."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ISSO Ã© O QUE EU GOSTO DE VER. LIVRO DIDÃ¡TICO DIRETO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_012A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7É assim que fazemos as coisas. Bom trabalho, Mason."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7Ã‰ ASSIM QUE FAZEMOS AS COISAS. BOM TRABALHO, MASON."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_012A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7É assim que fazemos isso. Bom trabalho, Mason."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7Ã‰ ASSIM QUE FAZEMOS ISSO. BOM TRABALHO, MASON."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_013A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Esse foi para os livros, Mason."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ESSE FOI PARA OS LIVROS, MASON."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_014A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Que porra foi essa, Mason? Espero melhor de você."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7QUE PORRA FOI ESSA, MASON? ESPERO MELHOR DE VOCÃª."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_014A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7O que foi isso, Mason? Espero melhor de você."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7O QUE FOI ISSO, MASON? ESPERO MELHOR DE VOCÃª."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_015A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Nunca vi uma execução de missão tão lamentável. Controle suas coisas, Mason."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7NUNCA VI UMA EXECUÃ§Ã£O DE MISSÃ£O TÃ£O LAMENTÃ¡VEL. CONTROLE SUAS COISAS, MASON."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_015A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Nunca vi uma execução de missão tão lamentável. Controle-se, Mason."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7NUNCA VI UMA EXECUÃ§Ã£O DE MISSÃ£O TÃ£O LAMENTÃ¡VEL. CONTROLE-SE, MASON."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_016A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Isso foi um fracasso em grande escala em todos os aspectos."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ISSO FOI UM FRACASSO EM GRANDE ESCALA EM TODOS OS ASPECTOS."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_016A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Isso foi um fracasso em grande escala em todos os aspectos."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ISSO FOI UM FRACASSO EM GRANDE ESCALA EM TODOS OS ASPECTOS."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_017A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7O que diabos deu errado lá atrás? Coloque a cabeça no jogo, filho."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7O QUE DIABOS DEU ERRADO LÃ¡ ATRÃ¡S? COLOQUE A CABEÃ§A NO JOGO, FILHO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_017A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7O que deu errado lá atrás? Coloque a cabeça no jogo, filho."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7O QUE DEU ERRADO LÃ¡ ATRÃ¡S? COLOQUE A CABEÃ§A NO JOGO, FILHO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_018A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Falaremos sobre esse fiasco mais tarde, Mason."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7FALAREMOS SOBRE ESSE FIASCO MAIS TARDE, MASON."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_019A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Estou desapontado e chateado... Você sabe que não é uma boa combinação."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ESTOU DESAPONTADO E CHATEADO... VOCÃª SABE QUE NÃ£O Ã© UMA BOA COMBINAÃ§Ã£O."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_019A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Estou desapontado e chateado... Você sabe que essa não é uma boa combinação."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ESTOU DESAPONTADO E CHATEADO... VOCÃª SABE QUE ESSA NÃ£O Ã© UMA BOA COMBINAÃ§Ã£O."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_001A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Que tal isso? O presidente Zhao acabou de me enviar seu currículo. O desgraçado está procurando um novo show!"
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7QUE TAL ISSO? O PRESIDENTE ZHAO ACABOU DE ME ENVIAR SEU CURRÃ­CULO. O DESGRAÃ§ADO ESTÃ¡ PROCURANDO UM NOVO SHOW!"
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_001A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Que tal isso? O presidente Zhao acabou de me enviar seu currículo. Ele está procurando um novo show!"
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7QUE TAL ISSO? O PRESIDENTE ZHAO ACABOU DE ME ENVIAR SEU CURRÃ­CULO. ELE ESTÃ¡ PROCURANDO UM NOVO SHOW!"
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_002A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Pode apostar, temos esses idiotas em fuga. Tudo bem, tudo bem, tudo bem, acalme-se."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7PODE APOSTAR, TEMOS ESSES IDIOTAS EM FUGA. TUDO BEM, TUDO BEM, TUDO BEM, ACALME-SE."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_002A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Pode apostar que... nós pegamos isso... em fuga. Tudo bem, tudo bem, tudo bem. Estabeleça-se."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7PODE APOSTAR QUE... NÃ³S PEGAMOS ISSO... EM FUGA. TUDO BEM, TUDO BEM, TUDO BEM. ESTABELEÃ§A-SE."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_003A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Há uma hora, Teerã emitiu um juramento de lealdade ao SDC. A China é dona do Médio Oriente."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7HÃ¡ UMA HORA, TEERÃ£ EMITIU UM JURAMENTO DE LEALDADE AO SDC. A CHINA Ã© DONA DO MÃ©DIO ORIENTE."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_004A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Graças a Deus você protegeu Spectre ontem, ou estaria aprimorando seu mandarim agora. Foda-se... Poderia ser pior."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7GRAÃ§AS A DEUS VOCÃª PROTEGEU SPECTRE ONTEM, OU ESTARIA APRIMORANDO SEU MANDARIM AGORA. FODA-SE... PODERIA SER PIOR."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_004A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Obrigado... você protegeu Spectre, ou estaria aprimorando seu mandarim agora. Poderia ser pior."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7OBRIGADO... VOCÃª PROTEGEU SPECTRE, OU ESTARIA APRIMORANDO SEU MANDARIM AGORA. PODERIA SER PIOR."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_005A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Você pode apostar que o presidente Zhao está de olho em uma suíte de cobertura em Nova Delhi agora."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7VOCÃª PODE APOSTAR QUE O PRESIDENTE ZHAO ESTÃ¡ DE OLHO EM UMA SUÃ­TE DE COBERTURA EM NOVA DELHI AGORA."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_005A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Você pode apostar que está... que o presidente Zhao está de olho em uma suíte de cobertura em Nova Delhi agora."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7VOCÃª PODE APOSTAR QUE ESTÃ¡... QUE O PRESIDENTE ZHAO ESTÃ¡ DE OLHO EM UMA SUÃ­TE DE COBERTURA EM NOVA DELHI AGORA."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_006A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Ok, então bloqueamos o Irã, mas não se engane. Se estragarmos tudo, o Kremlin vai chamar o Zhao para tomar vodca e caviar."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7OK, ENTÃ£O BLOQUEAMOS O IRÃ£, MAS NÃ£O SE ENGANE. SE ESTRAGARMOS TUDO, O KREMLIN VAI CHAMAR O ZHAO PARA TOMAR VODCA E CAVIAR."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_006A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Ok, então bloqueamos o Irã, mas não se engane. Se nós... isso acontecer, o Kremlin chamará Zhao para tomar vodca e caviar."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7OK, ENTÃ£O BLOQUEAMOS O IRÃ£, MAS NÃ£O SE ENGANE. SE NÃ³S... ISSO ACONTECER, O KREMLIN CHAMARÃ¡ ZHAO PARA TOMAR VODCA E CAVIAR."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_007A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Que bagunça santa e abandonada por Deus. Neste momento, o SDC infestou o Irão e está a rastejar por toda a fronteira da Índia."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7QUE BAGUNÃ§A SANTA E ABANDONADA POR DEUS. NESTE MOMENTO, O SDC INFESTOU O IRÃ£O E ESTÃ¡ A RASTEJAR POR TODA A FRONTEIRA DA Ã�NDIA."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_007A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Que bagunça sagrada e abandonada. Neste momento, o SDC infestou o Irão e está a rastejar por toda a fronteira da Índia."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7QUE BAGUNÃ§A SAGRADA E ABANDONADA. NESTE MOMENTO, O SDC INFESTOU O IRÃ£O E ESTÃ¡ A RASTEJAR POR TODA A FRONTEIRA DA Ã�NDIA."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_008A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Pelo amor de Deus, controlem-se, pessoal! Não vou perder esta guerra... e você também não."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7PELO AMOR DE DEUS, CONTROLEM-SE, PESSOAL! NÃ£O VOU PERDER ESTA GUERRA... E VOCÃª TAMBÃ©M NÃ£O."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_008A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Pelo amor de Deus, reúnam seus... pessoal! Não vou perder esta guerra... e você também não."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7PELO AMOR DE DEUS, REÃºNAM SEUS... PESSOAL! NÃ£O VOU PERDER ESTA GUERRA... E VOCÃª TAMBÃ©M NÃ£O."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_009A_SECT_D
-LANG_SPANISH        "^1Seção:^7À luz da ameaça de assassinato, o local do cume mudou para Maidan Shahr, 80 quilômetros a oeste de Cabul."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7Ã€ LUZ DA AMEAÃ§A DE ASSASSINATO, O LOCAL DO CUME MUDOU PARA MAIDAN SHAHR, 80 QUILÃ´METROS A OESTE DE CABUL."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_010A_SECT_D
-LANG_SPANISH        "^1Seção:^7Forneceremos vigilância para o comboio do governo. Ao primeiro sinal de problema, o uso de força terminal é autorizado."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7FORNECEREMOS VIGILÃ¢NCIA PARA O COMBOIO DO GOVERNO. AO PRIMEIRO SINAL DE PROBLEMA, O USO DE FORÃ§A TERMINAL Ã© AUTORIZADO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_011A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Autorizado e obrigatório."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7AUTORIZADO E OBRIGATÃ³RIO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_011A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Autorizado e mandatado."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7AUTORIZADO E MANDATADO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_012A_SECT_M
-LANG_SPANISH        "^1Seção:^7Use seus quadriciclos para vigilância aérea. Você vai precisar desses pássaros, porque os desgraçados vão cavar naquelas montanhas."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7USE SEUS QUADRICICLOS PARA VIGILÃ¢NCIA AÃ©REA. VOCÃª VAI PRECISAR DESSES PÃ¡SSAROS, PORQUE OS DESGRAÃ§ADOS VÃ£O CAVAR NAQUELAS MONTANHAS."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_012A_SECT_S
-LANG_SPANISH        "^1Seção:^7Use seus quadriciclos para vigilância aérea. Você vai precisar desses pássaros, porque eles cavarão naquelas montanhas."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7USE SEUS QUADRICICLOS PARA VIGILÃ¢NCIA AÃ©REA. VOCÃª VAI PRECISAR DESSES PÃ¡SSAROS, PORQUE ELES CAVARÃ£O NAQUELAS MONTANHAS."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_013A_SECT_D
-LANG_SPANISH        "^1Seção:^7Kraken rastreará cada movimento seu e estará pronto com ordens superiores, se necessário."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7KRAKEN RASTREARÃ¡ CADA MOVIMENTO SEU E ESTARÃ¡ PRONTO COM ORDENS SUPERIORES, SE NECESSÃ¡RIO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_014A_SECT_D
-LANG_SPANISH        "^1Seção:^7ASDs flanquearão você na terra. Estamos jogando com muita segurança, então desta vez não há botas no chão. Apenas drones e o olho no céu."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ASDS FLANQUEARÃ£O VOCÃª NA TERRA. ESTAMOS JOGANDO COM MUITA SEGURANÃ§A, ENTÃ£O DESTA VEZ NÃ£O HÃ¡ BOTAS NO CHÃ£O. APENAS DRONES E O OLHO NO CÃ©U."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_016A_SECT_D
-LANG_SPANISH        "^1Seção:^7Tivemos problemas no Afeganistão. O ministro dos Negócios Estrangeiros russo está em Cabul a negociar um tratado de paz com o presidente afegão."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7TIVEMOS PROBLEMAS NO AFEGANISTÃ£O. O MINISTRO DOS NEGÃ³CIOS ESTRANGEIROS RUSSO ESTÃ¡ EM CABUL A NEGOCIAR UM TRATADO DE PAZ COM O PRESIDENTE AFEGÃ£O."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_017A_SECT_D
-LANG_SPANISH        "^1Seção:^7E além disso, a frota ainda está por aí... navegando para a Índia."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7E ALÃ©M DISSO, A FROTA AINDA ESTÃ¡ POR AÃ­... NAVEGANDO PARA A Ã�NDIA."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_018A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Aquele idiota do Zhao voou para fora da reserva. Ele pode e irá usar esses ativos sempre que quiser. Não podemos perder a Índia."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7AQUELE IDIOTA DO ZHAO VOOU PARA FORA DA RESERVA. ELE PODE E IRÃ¡ USAR ESSES ATIVOS SEMPRE QUE QUISER. NÃ£O PODEMOS PERDER A Ã�NDIA."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_018A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Isso... Zhao voou para fora da reserva. Ele pode e irá usar esses ativos sempre que quiser. Não podemos perder a Índia."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ISSO... ZHAO VOOU PARA FORA DA RESERVA. ELE PODE E IRÃ¡ USAR ESSES ATIVOS SEMPRE QUE QUISER. NÃ£O PODEMOS PERDER A Ã�NDIA."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_030A_SECT_D
-LANG_SPANISH        "^1Seção:^7Nossos feeds de satélite mostram tropas do SDC fervilhando por toda a fronteira norte da Índia."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7NOSSOS FEEDS DE SATÃ©LITE MOSTRAM TROPAS DO SDC FERVILHANDO POR TODA A FRONTEIRA NORTE DA Ã�NDIA."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_040A_SECT_D
-LANG_SPANISH        "^1Seção:^7O problema é que a Inteligência Central interceptou uma ordem de assassinato dirigida pelo próprio Raul Menendez."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7O PROBLEMA Ã© QUE A INTELIGÃªNCIA CENTRAL INTERCEPTOU UMA ORDEM DE ASSASSINATO DIRIGIDA PELO PRÃ³PRIO RAUL MENENDEZ."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_001A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Você está brincando comigo? Perdemos o Médio Oriente! Os chefões afegãos estão sendo espancados e o SDC está peidando!"
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7VOCÃª ESTÃ¡ BRINCANDO COMIGO? PERDEMOS O MÃ©DIO ORIENTE! OS CHEFÃΜES AFEGÃ£OS ESTÃ£O SENDO ESPANCADOS E O SDC ESTÃ¡ PEIDANDO!"
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_001A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Você está brincando comigo? Perdemos o Médio Oriente! Os chefões afegãos estão sendo espancados e o SDC está peidando!"
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7VOCÃª ESTÃ¡ BRINCANDO COMIGO? PERDEMOS O MÃ©DIO ORIENTE! OS CHEFÃΜES AFEGÃ£OS ESTÃ£O SENDO ESPANCADOS E O SDC ESTÃ¡ PEIDANDO!"
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_002A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Tirem a cabeça da bunda, pessoal, e resolvam essa bagunça!"
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7TIREM A CABEÃ§A DA BUNDA, PESSOAL, E RESOLVAM ESSA BAGUNÃ§A!"
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_002A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Tire a cabeça do seu... pessoal e resolva essa bagunça!"
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7TIRE A CABEÃ§A DO SEU... PESSOAL E RESOLVA ESSA BAGUNÃ§A!"
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_003A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Olha, estamos a um passo de sermos xeque-mate, pessoal. Olha, temos que nos esforçar e fazer valer a pena."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7OLHA, ESTAMOS A UM PASSO DE SERMOS XEQUE-MATE, PESSOAL. OLHA, TEMOS QUE NOS ESFORÃ§AR E FAZER VALER A PENA."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_003A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Olha, estamos a um passo de ser o xeque-mate, pessoal. Olha, temos que transportar... e fazer valer a pena."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7OLHA, ESTAMOS A UM PASSO DE SER O XEQUE-MATE, PESSOAL. OLHA, TEMOS QUE TRANSPORTAR... E FAZER VALER A PENA."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_004A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Estamos em rota de colisão com nossa bunda. Asseguramos apenas um território, enquanto o SDC está almoçando."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ESTAMOS EM ROTA DE COLISÃ£O COM NOSSA BUNDA. ASSEGURAMOS APENAS UM TERRITÃ³RIO, ENQUANTO O SDC ESTÃ¡ ALMOÃ§ANDO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_004A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Estamos em rota de colisão com nosso... Nós protegemos apenas um território, enquanto o SDC está almoçando."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ESTAMOS EM ROTA DE COLISÃ£O COM NOSSO... NÃ³S PROTEGEMOS APENAS UM TERRITÃ³RIO, ENQUANTO O SDC ESTÃ¡ ALMOÃ§ANDO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_005A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Agora, devemos ao nosso Comandante-em-Chefe mais do que isso."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7AGORA, DEVEMOS AO NOSSO COMANDANTE-EM-CHEFE MAIS DO QUE ISSO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_006A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Tudo bem... Tudo bem... Estamos cara a cara com eles agora, certo? Temos que acabar com esses chupadores de pau. Pegamos apenas mais um território deles e os pegamos."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7TUDO BEM... TUDO BEM... ESTAMOS CARA A CARA COM ELES AGORA, CERTO? TEMOS QUE ACABAR COM ESSES CHUPADORES DE PAU. PEGAMOS APENAS MAIS UM TERRITÃ³RIO DELES E OS PEGAMOS."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_006A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Tudo bem... Tudo bem... Estamos cara a cara com eles agora, certo? Temos que acabar com isso. Pegamos apenas mais um território deles e os pegamos."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7TUDO BEM... TUDO BEM... ESTAMOS CARA A CARA COM ELES AGORA, CERTO? TEMOS QUE ACABAR COM ISSO. PEGAMOS APENAS MAIS UM TERRITÃ³RIO DELES E OS PEGAMOS."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_007A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Isso mesmo, pessoal. Mas não seja arrogante. Fique esperto. Ainda não estamos fora de perigo."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ISSO MESMO, PESSOAL. MAS NÃ£O SEJA ARROGANTE. FIQUE ESPERTO. AINDA NÃ£O ESTAMOS FORA DE PERIGO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_008A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7O ministro das Relações Exteriores da Rússia denunciou oficialmente o SDC e declarou-o uma ameaça beligerante à paz e à estabilidade do mundo civilizado! Se o tivessem fumado no Afeganistão, hoje o mundo seria muito diferente."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7O MINISTRO DAS RELAÃ§ÃΜES EXTERIORES DA RÃºSSIA DENUNCIOU OFICIALMENTE O SDC E DECLAROU-O UMA AMEAÃ§A BELIGERANTE Ã  PAZ E Ã  ESTABILIDADE DO MUNDO CIVILIZADO! SE O TIVESSEM FUMADO NO AFEGANISTÃ£O, HOJE O MUNDO SERIA MUITO DIFERENTE."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_009A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Este é o começo do fim do SDC, pessoal. Continue assim e eles estarão acabados."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ESTE Ã© O COMEÃ§O DO FIM DO SDC, PESSOAL. CONTINUE ASSIM E ELES ESTARÃ£O ACABADOS."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_010A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7FOB Spectre, na Coreia do Norte, está sob ataque e eles pediram ajuda. Agora, eles têm botas no chão, mas estão em desvantagem numérica de dez para um. Os detalhes dos tangos são vagos, mas tem todo o charme de um sucesso da SDC."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7FOB SPECTRE, NA COREIA DO NORTE, ESTÃ¡ SOB ATAQUE E ELES PEDIRAM AJUDA. AGORA, ELES TÃªM BOTAS NO CHÃ£O, MAS ESTÃ£O EM DESVANTAGEM NUMÃ©RICA DE DEZ PARA UM. OS DETALHES DOS TANGOS SÃ£O VAGOS, MAS TEM TODO O CHARME DE UM SUCESSO DA SDC."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_011A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7O FOB abriga o drone furtivo hipersônico Dante 702. Se Spectre cair, será temporada de caça em Pyongyang."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7O FOB ABRIGA O DRONE FURTIVO HIPERSÃ´NICO DANTE 702. SE SPECTRE CAIR, SERÃ¡ TEMPORADA DE CAÃ§A EM PYONGYANG."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_012A_SECT_D
-LANG_SPANISH        "^1Seção:^7Há uma hora, o Agente Farid, no arquipélago do Iêmen, recebeu informações de que um dos maiores especialistas do mundo em tecnologia Celerium está sendo mantido em cativeiro em uma vila local."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7HÃ¡ UMA HORA, O AGENTE FARID, NO ARQUIPÃ©LAGO DO IÃªMEN, RECEBEU INFORMAÃ§ÃΜES DE QUE UM DOS MAIORES ESPECIALISTAS DO MUNDO EM TECNOLOGIA CELERIUM ESTÃ¡ SENDO MANTIDO EM CATIVEIRO EM UMA VILA LOCAL."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_013A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Os cérebros lá embaixo não conseguiram decifrar o dispositivo Celerium que recuperamos em Mianmar. Este cientista é a nossa melhor hipótese."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7OS CÃ©REBROS LÃ¡ EMBAIXO NÃ£O CONSEGUIRAM DECIFRAR O DISPOSITIVO CELERIUM QUE RECUPERAMOS EM MIANMAR. ESTE CIENTISTA Ã© A NOSSA MELHOR HIPÃ³TESE."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_014A_FOB_D
-LANG_SPANISH        "^1Comandante:^7O ataque inicial deles nos pegou desprevenidos e prejudicou nossas defesas primárias. Nós os seguramos, mas nosso regimento foi dizimado. Não podemos resistir a outro ataque."
+LANG_SPANISH        "^1COMANDANTE:^7O ATAQUE INICIAL DELES NOS PEGOU DESPREVENIDOS E PREJUDICOU NOSSAS DEFESAS PRIMÃ¡RIAS. NÃ³S OS SEGURAMOS, MAS NOSSO REGIMENTO FOI DIZIMADO. NÃ£O PODEMOS RESISTIR A OUTRO ATAQUE."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_015A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Foi SDC, Comandante?"
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7FOI SDC, COMANDANTE?"
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_016A_FOB_D
-LANG_SPANISH        "^1Comandante:^7Fomos atingidos por drones terrestres e aéreos..."
+LANG_SPANISH        "^1COMANDANTE:^7FOMOS ATINGIDOS POR DRONES TERRESTRES E AÃ©REOS..."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_017A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7A base é fortemente protegida por essas posições. O inimigo não pode fazer merda nenhuma a menos que elimine isso."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7A BASE Ã© FORTEMENTE PROTEGIDA POR ESSAS POSIÃ§ÃΜES. O INIMIGO NÃ£O PODE FAZER MERDA NENHUMA A MENOS QUE ELIMINE ISSO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_017A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7A base é fortemente protegida por posições fixas de armas. O inimigo não pode fazer nada a menos que os elimine."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7A BASE Ã© FORTEMENTE PROTEGIDA POR POSIÃ§ÃΜES FIXAS DE ARMAS. O INIMIGO NÃ£O PODE FAZER NADA A MENOS QUE OS ELIMINE."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_018A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Agora, essas armas são todas alimentadas por esta sala de controle central. Uma explosão de EMP aqui deixaria a base totalmente aberta."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7AGORA, ESSAS ARMAS SÃ£O TODAS ALIMENTADAS POR ESTA SALA DE CONTROLE CENTRAL. UMA EXPLOSÃ£O DE EMP AQUI DEIXARIA A BASE TOTALMENTE ABERTA."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_019A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Agora, esses drones são alvos fáceis. Eles não podem lançar enquanto estão sob ataque. Eles seriam largados como pombos de barro. Proteja os drones a todo custo."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7AGORA, ESSES DRONES SÃ£O ALVOS FÃ¡CEIS. ELES NÃ£O PODEM LANÃ§AR ENQUANTO ESTÃ£O SOB ATAQUE. ELES SERIAM LARGADOS COMO POMBOS DE BARRO. PROTEJA OS DRONES A TODO CUSTO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_020A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7O tamale quente está dentro deste armazém. Se eles desperdiçarem Dante 702, os céus de Pyongyang estarão à sua disposição."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7O TAMALE QUENTE ESTÃ¡ DENTRO DESTE ARMAZÃ©M. SE ELES DESPERDIÃ§AREM DANTE 702, OS CÃ©US DE PYONGYANG ESTARÃ£O Ã  SUA DISPOSIÃ§Ã£O."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_021A_SECT_D
-LANG_SPANISH        "^1Seção:^7Nosso HVI está sendo realizado nas montanhas Haghier, no noroeste da península de Socotra."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7NOSSO HVI ESTÃ¡ SENDO REALIZADO NAS MONTANHAS HAGHIER, NO NOROESTE DA PENÃ­NSULA DE SOCOTRA."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_022A_SECT_D
-LANG_SPANISH        "^1Seção:^7Ele pode estar em qualquer um desses complexos. Onde quer que ele esteja, o lugar estará repleto de insurgentes."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ELE PODE ESTAR EM QUALQUER UM DESSES COMPLEXOS. ONDE QUER QUE ELE ESTEJA, O LUGAR ESTARÃ¡ REPLETO DE INSURGENTES."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_023A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Este é um livro didático para pegar e pegar. Temos que fazer isso rápido."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ESTE Ã© UM LIVRO DIDÃ¡TICO PARA PEGAR E PEGAR. TEMOS QUE FAZER ISSO RÃ¡PIDO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_023A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Este é um livro didático. Temos que fazer isso... rápido."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ESTE Ã© UM LIVRO DIDÃ¡TICO. TEMOS QUE FAZER ISSO... RÃ¡PIDO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_024A_SECT_D
-LANG_SPANISH        "^1Seção:^7Depois de escalar os penhascos, cobriremos o local com gás lacrimogêneo."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7DEPOIS DE ESCALAR OS PENHASCOS, COBRIREMOS O LOCAL COM GÃ¡S LACRIMOGÃªNEO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_025A_SECT_D
-LANG_SPANISH        "^1Seção:^7Varra a área até localizar o HVI. Não deixe pedra sobre pedra."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7VARRA A Ã¡REA ATÃ© LOCALIZAR O HVI. NÃ£O DEIXE PEDRA SOBRE PEDRA."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_026A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Depois de acertar o resultado, você chama o Kraken e o Comandante Mason cuidará da extração."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7DEPOIS DE ACERTAR O RESULTADO, VOCÃª CHAMA O KRAKEN E O COMANDANTE MASON CUIDARÃ¡ DA EXTRAÃ§Ã£O."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_027A_SECT_D
-LANG_SPANISH        "^1Seção:^7Acertou, Almirante. Assim que receber o sinal, aguarde até eu chegar."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ACERTOU, ALMIRANTE. ASSIM QUE RECEBER O SINAL, AGUARDE ATÃ© EU CHEGAR."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_028A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Este cientista intelectual pode ser nossa única chance de quebrar o dispositivo Celerium. Vamos buscá-lo."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ESTE CIENTISTA INTELECTUAL PODE SER NOSSA ÃºNICA CHANCE DE QUEBRAR O DISPOSITIVO CELERIUM. VAMOS BUSCÃ¡-LO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_039A_SECT_D
-LANG_SPANISH        "^1Seção:^7Somos JSOC Navy Seals. Lembre-se do que foi necessário para nos trazer até aqui e lembre-se do que o seu país tem a perder se falharmos."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7SOMOS JSOC NAVY SEALS. LEMBRE-SE DO QUE FOI NECESSÃ¡RIO PARA NOS TRAZER ATÃ© AQUI E LEMBRE-SE DO QUE O SEU PAÃ­S TEM A PERDER SE FALHARMOS."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_001A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Sim, sim, sim... Tudo bem, como você sabe, ontem, a Rússia denunciou oficialmente o SDC e jurou lealdade total às Forças Armadas dos Estados Unidos."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7SIM, SIM, SIM... TUDO BEM, COMO VOCÃª SABE, ONTEM, A RÃºSSIA DENUNCIOU OFICIALMENTE O SDC E JUROU LEALDADE TOTAL Ã S FORÃ§AS ARMADAS DOS ESTADOS UNIDOS."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_002A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Ahh! Não estraguem seu maço, rapazes! Ainda temos que ir ao baile."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7AHH! NÃ£O ESTRAGUEM SEU MAÃ§O, RAPAZES! AINDA TEMOS QUE IR AO BAILE."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_002A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Ahh! Não... rapazes! Ainda temos que ir ao baile."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7AHH! NÃ£O... RAPAZES! AINDA TEMOS QUE IR AO BAILE."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_003A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Este maluco está estimulando seus meninos para invadir a Rússia. A China perdeu o controlo e pediu a nossa ajuda."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7ESTE MALUCO ESTÃ¡ ESTIMULANDO SEUS MENINOS PARA INVADIR A RÃºSSIA. A CHINA PERDEU O CONTROLO E PEDIU A NOSSA AJUDA."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_004A_BRIG_D
-LANG_SPANISH        "^1Almirante Briggs:^7Há apenas cinco minutos, eu estava ao telefone com o presidente. Ela ligou. Nós vamos tirá-lo."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7HÃ¡ APENAS CINCO MINUTOS, EU ESTAVA AO TELEFONE COM O PRESIDENTE. ELA LIGOU. NÃ³S VAMOS TIRÃ¡-LO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_006A_SECT_D
-LANG_SPANISH        "^1Seção:^7Zhao sobrevoará Peshawar aproximadamente às mil e seis horas amanhã. São botas no chão, à moda antiga. Mire no VTOL de Zhao, marque-o e pegue-o. Você terá um pelotão inteiro para apoiá-lo."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ZHAO SOBREVOARÃ¡ PESHAWAR APROXIMADAMENTE Ã S MIL E SEIS HORAS AMANHÃ£. SÃ£O BOTAS NO CHÃ£O, Ã  MODA ANTIGA. MIRE NO VTOL DE ZHAO, MARQUE-O E PEGUE-O. VOCÃª TERÃ¡ UM PELOTÃ£O INTEIRO PARA APOIÃ¡-LO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_007A_SECT_D
-LANG_SPANISH        "^1Seção:^7Acabamos de receber informações de que Zhao estará no ar em algum lugar próximo a Islamabad amanhã à tarde. Não temos localização, então vocês serão divididos em equipes de 4. São botas no chão, à moda antiga. Mire no VTOL de Zhao, marque-o e pegue-o. Não perca."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7ACABAMOS DE RECEBER INFORMAÃ§ÃΜES DE QUE ZHAO ESTARÃ¡ NO AR EM ALGUM LUGAR PRÃ³XIMO A ISLAMABAD AMANHÃ£ Ã  TARDE. NÃ£O TEMOS LOCALIZAÃ§Ã£O, ENTÃ£O VOCÃªS SERÃ£O DIVIDIDOS EM EQUIPES DE 4. SÃ£O BOTAS NO CHÃ£O, Ã  MODA ANTIGA. MIRE NO VTOL DE ZHAO, MARQUE-O E PEGUE-O. NÃ£O PERCA."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_008A_BRIG_M
-LANG_SPANISH        "^1Almirante Briggs:^7Boa sorte, Comandante. É isso. Você tem que eliminar Zhao antes que o SDC acampe em Moscou. Você estraga tudo e nossa supremacia militar é apenas um sonho molhado."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7BOA SORTE, COMANDANTE. Ã‰ ISSO. VOCÃª TEM QUE ELIMINAR ZHAO ANTES QUE O SDC ACAMPE EM MOSCOU. VOCÃª ESTRAGA TUDO E NOSSA SUPREMACIA MILITAR Ã© APENAS UM SONHO MOLHADO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_008A_BRIG_S
-LANG_SPANISH        "^1Almirante Briggs:^7Boa sorte, Comandante. É isso. Você tem que eliminar Zhao antes que o SDC acampe em Moscou. Você... pronto, e nossa supremacia militar é apenas um... sonho."
+LANG_SPANISH        "^1ALMIRANTE BRIGGS:^7BOA SORTE, COMANDANTE. Ã‰ ISSO. VOCÃª TEM QUE ELIMINAR ZHAO ANTES QUE O SDC ACAMPE EM MOSCOU. VOCÃª... PRONTO, E NOSSA SUPREMACIA MILITAR Ã© APENAS UM... SONHO."
 
 REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_011A_SECT_D
-LANG_SPANISH        "^1Seção:^7Matar Zhao será um grande golpe no plano de Menendez de iniciar toda a nossa guerra entre a América e a SDC."
+LANG_SPANISH        "^1SEÃ§Ã£O:^7MATAR ZHAO SERÃ¡ UM GRANDE GOLPE NO PLANO DE MENENDEZ DE INICIAR TODA A NOSSA GUERRA ENTRE A AMÃ©RICA E A SDC."
 
 REFERENCE           FRONTEND_WARMAP_AVAILABLE
-LANG_SPANISH        "Mapa da Força de Assalto Disponível"
+LANG_SPANISH        "MAPA DA FORÃ§A DE ASSALTO DISPONÃ­VEL"
 
 REFERENCE           UIPLS_PLAYLIST_CATEGORY_NOTVISIBLE
 LANG_SPANISH        "CLASSIFICADO"
@@ -447,8 +447,8 @@ REFERENCE           UIPLS_PLAYLIST_NOTVISIBLE
 LANG_SPANISH        "CLASSIFICADO"
 
 REFERENCE           UIPLS_PLAYLIST_NOTVISIBLE_CAPS
-LANG_SPANISH        "Este mapa contém materiais CLASSIFICADOS.  É necessário um nível de autorização mais alto."
+LANG_SPANISH        "ESTE MAPA CONTÃ©M MATERIAIS CLASSIFICADOS.  Ã‰ NECESSÃ¡RIO UM NÃ­VEL DE AUTORIZAÃ§Ã£O MAIS ALTO."
 
 REFERENCE           UIPLS_PLAYLIST_NOTVISIBLE_DESC
-LANG_SPANISH        "Este mapa contém materiais CLASSIFICADOS.  É necessário um nível de autorização mais alto."
+LANG_SPANISH        "ESTE MAPA CONTÃ©M MATERIAIS CLASSIFICADOS.  Ã‰ NECESSÃ¡RIO UM NÃ­VEL DE AUTORIZAÃ§Ã£O MAIS ALTO."
 

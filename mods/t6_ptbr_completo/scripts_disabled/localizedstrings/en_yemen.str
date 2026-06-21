@@ -3,94 +3,94 @@ CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           SP_OBJECTIVES_AMMO
-LANG_ENGLISH        "Ammo"
+LANG_ENGLISH        "AMMO"
 
 REFERENCE           SP_OBJECTIVES_BREACH
-LANG_ENGLISH        "Breach"
+LANG_ENGLISH        "BREACH"
 
 REFERENCE           SP_OBJECTIVES_CLEAR
-LANG_ENGLISH        "Clear"
+LANG_ENGLISH        "CLEAR"
 
 REFERENCE           SP_OBJECTIVES_CLIMB
-LANG_ENGLISH        "Climb"
+LANG_ENGLISH        "CLIMB"
 
 REFERENCE           SP_OBJECTIVES_DEFEND
-LANG_ENGLISH        "Defend"
+LANG_ENGLISH        "DEFEND"
 
 REFERENCE           SP_OBJECTIVES_DESTROY
-LANG_ENGLISH        "Destroy"
+LANG_ENGLISH        "DESTROY"
 
 REFERENCE           SP_OBJECTIVES_DETONATE
-LANG_ENGLISH        "Detonate"
+LANG_ENGLISH        "DETONATE"
 
 REFERENCE           SP_OBJECTIVES_DISABLE
-LANG_ENGLISH        "Disable"
+LANG_ENGLISH        "DISABLE"
 
 REFERENCE           SP_OBJECTIVES_ENTER
-LANG_ENGLISH        "Enter"
+LANG_ENGLISH        "ENTER"
 
 REFERENCE           SP_OBJECTIVES_ESCORT
-LANG_ENGLISH        "Escort"
+LANG_ENGLISH        "ESCORT"
 
 REFERENCE           SP_OBJECTIVES_FOLLOW
-LANG_ENGLISH        "Follow"
+LANG_ENGLISH        "FOLLOW"
 
 REFERENCE           SP_OBJECTIVES_HELP
-LANG_ENGLISH        "Help"
+LANG_ENGLISH        "HELP"
 
 REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
-LANG_ENGLISH        "Incoming (helos)"
+LANG_ENGLISH        "INCOMING (HELOS)"
 
 REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
-LANG_ENGLISH        "Incoming (tanks)"
+LANG_ENGLISH        "INCOMING (TANKS)"
 
 REFERENCE           SP_OBJECTIVES_INTERACT
-LANG_ENGLISH        "Access"
+LANG_ENGLISH        "ACCESS"
 
 REFERENCE           SP_OBJECTIVES_JUMP
-LANG_ENGLISH        "Jump"
+LANG_ENGLISH        "JUMP"
 
 REFERENCE           SP_OBJECTIVES_KILL
-LANG_ENGLISH        "Kill"
+LANG_ENGLISH        "KILL"
 
 REFERENCE           SP_OBJECTIVES_MELEE
-LANG_ENGLISH        "Melee"
+LANG_ENGLISH        "MELEE"
 
 REFERENCE           SP_OBJECTIVES_PICKUP
-LANG_ENGLISH        "Pick Up"
+LANG_ENGLISH        "PICK UP"
 
 REFERENCE           SP_OBJECTIVES_PROTECT
-LANG_ENGLISH        "Protect"
+LANG_ENGLISH        "PROTECT"
 
 REFERENCE           SP_OBJECTIVES_RAPPEL
-LANG_ENGLISH        "Rappel"
+LANG_ENGLISH        "RAPPEL"
 
 REFERENCE           SP_OBJECTIVES_REGROUP
-LANG_ENGLISH        "Regroup"
+LANG_ENGLISH        "REGROUP"
 
 REFERENCE           SP_OBJECTIVES_SEARCH
-LANG_ENGLISH        "Search"
+LANG_ENGLISH        "SEARCH"
 
 REFERENCE           SP_OBJECTIVES_SHOOT
-LANG_ENGLISH        "Shoot"
+LANG_ENGLISH        "SHOOT"
 
 REFERENCE           SP_OBJECTIVES_SUPPORT
-LANG_ENGLISH        "Support"
+LANG_ENGLISH        "SUPPORT"
 
 REFERENCE           SP_OBJECTIVES_SWEEP
-LANG_ENGLISH        "Sweep"
+LANG_ENGLISH        "SWEEP"
 
 REFERENCE           SP_OBJECTIVES_TARGET
-LANG_ENGLISH        "Target"
+LANG_ENGLISH        "TARGET"
 
 REFERENCE           SP_OBJECTIVES_USE
-LANG_ENGLISH        "Use"
+LANG_ENGLISH        "USE"
 
 REFERENCE           SP_OBJECTIVES_WEAPONS
-LANG_ENGLISH        "Weapons"
+LANG_ENGLISH        "WEAPONS"
 
 REFERENCE           YEMEN_CONFIRM_TARGET
-LANG_ENGLISH        "Pressione^3[{+attack}]^7para confirmar o alvo"
+LANG_ENGLISH        "PRESSIONE^3[{+attack}]^7PARA CONFIRMAR O ALVO"
 
 REFERENCE           YEMEN_DRONES_OFFLINE
 LANG_ENGLISH        "SYSTEM ERROR!\nDRONE TARGETING OFFLINE..."
@@ -99,7 +99,7 @@ REFERENCE           YEMEN_DRONES_ONLINE
 LANG_ENGLISH        "SYSTEM INITIALIZED\nTARGETING ONLINE"
 
 REFERENCE           YEMEN_FALL_DEATH
-LANG_ENGLISH        "Cuidado com o seu passo!"
+LANG_ENGLISH        "CUIDADO COM O SEU PASSO!"
 
 REFERENCE           YEMEN_INTROSCREEN_LINE_1
 LANG_ENGLISH        "^L\ACHILLES' VEIL\^L"
@@ -132,440 +132,440 @@ REFERENCE           YEMEN_MASON_INTROSCREEN_LINE_5
 LANG_ENGLISH        "JUNE 19, ^L2025^L"
 
 REFERENCE           YEMEN_OBJ_BRIDGE
-LANG_ENGLISH        "Perseguir e capturar Menéndez"
+LANG_ENGLISH        "PERSEGUIR E CAPTURAR MENÉNDEZ"
 
 REFERENCE           YEMEN_OBJ_CAPTURE_MENENDEZ
-LANG_ENGLISH        "Capture Menendez."
+LANG_ENGLISH        "CAPTURE MENENDEZ."
 
 REFERENCE           YEMEN_OBJ_LZ
-LANG_ENGLISH        "Limpe o LZ"
+LANG_ENGLISH        "LIMPE O LZ"
 
 REFERENCE           YEMEN_OBJ_MEET_MENENDEZ
-LANG_ENGLISH        "Encontro com Menéndez na Cidadela"
+LANG_ENGLISH        "ENCONTRO COM MENÉNDEZ NA CIDADELA"
 
 REFERENCE           YEMEN_OBJ_SPEECH
-LANG_ENGLISH        "Join Menendez on stage"
+LANG_ENGLISH        "JOIN MENENDEZ ON STAGE"
 
 REFERENCE           YEMEN_OPEN_DOOR
-LANG_ENGLISH        "Pressione e segure ^3[{+reload}]^7 para abrir a porta."
+LANG_ENGLISH        "PRESSIONE E SEGURE ^3[{+reload}]^7 PARA ABRIR A PORTA."
 
 REFERENCE           YEMEN_PRESS_X
-LANG_ENGLISH        "Pressione ^3[{+activate}]^7"
+LANG_ENGLISH        "PRESSIONE ^3[{+activate}]^7"
 
 REFERENCE           YEMEN_PULL_HAMMER
-LANG_ENGLISH        "Use ^3[{+lookstick}]^7 para puxar o martelo para trás."
+LANG_ENGLISH        "USE ^3[{+lookstick}]^7 PARA PUXAR O MARTELO PARA TRÁS."
 
 REFERENCE           YEMEN_PULL_TRIGGER
-LANG_ENGLISH        "Pressione ^3[{+attack}]^7 para disparar."
+LANG_ENGLISH        "PRESSIONE ^3[{+attack}]^7 PARA DISPARAR."
 
 REFERENCE           YEMEN_SHOOT_HARPER
-LANG_ENGLISH        "Pressione ^3[{+activate}]^7 para atirar em Harper"
+LANG_ENGLISH        "PRESSIONE ^3[{+activate}]^7 PARA ATIRAR EM HARPER"
 
 REFERENCE           YEMEN_SHOOT_MENENDEZ
-LANG_ENGLISH        "Pressione ^3[{+gostand}]^7 para atirar em Menéndez"
+LANG_ENGLISH        "PRESSIONE ^3[{+gostand}]^7 PARA ATIRAR EM MENÉNDEZ"
 
 REFERENCE           YEMEN_USE_GRID
-LANG_ENGLISH        "Pressione ^3[{+actionslot 1}]^7 para marcar o alvo."
+LANG_ENGLISH        "PRESSIONE ^3[{+actionslot 1}]^7 PARA MARCAR O ALVO."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_01_001A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Internal comm link established."
+LANG_ENGLISH        "^1HARPER: ^7INTERNAL COMM LINK ESTABLISHED."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_01_002A_FARI_D
-LANG_ENGLISH        "^1Farid: ^7I copy, Harper."
+LANG_ENGLISH        "^1FARID: ^7I COPY, HARPER."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_01_003A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Our Blue Force Tracking is down.  We can't ID you as a friendly."
+LANG_ENGLISH        "^1HARPER: ^7OUR BLUE FORCE TRACKING IS DOWN.  WE CAN'T ID YOU AS A FRIENDLY."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_02_002A_HARP_M
-LANG_ENGLISH        "^1Harper: ^7This is it, Farid.  We're bringing this bastard in today."
+LANG_ENGLISH        "^1HARPER: ^7THIS IS IT, FARID.  WE'RE BRINGING THIS BASTARD IN TODAY."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_02_002A_HARP_S
-LANG_ENGLISH        "^1Harper: ^7This is it, Farid.  We're bringing this guy in today."
+LANG_ENGLISH        "^1HARPER: ^7THIS IS IT, FARID.  WE'RE BRINGING THIS GUY IN TODAY."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_02_003A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7So no matter what happens out there, when the bullets start flying, you CANNOT blow your cover."
+LANG_ENGLISH        "^1HARPER: ^7SO NO MATTER WHAT HAPPENS OUT THERE, WHEN THE BULLETS START FLYING, YOU CANNOT BLOW YOUR COVER."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_02_005A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Just stay cool.  We'll get through this."
+LANG_ENGLISH        "^1HARPER: ^7JUST STAY COOL.  WE'LL GET THROUGH THIS."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_02_006A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7We're almost ready."
+LANG_ENGLISH        "^1HARPER: ^7WE'RE ALMOST READY."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_02_007A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7We are ready."
+LANG_ENGLISH        "^1MENENDEZ: ^7WE ARE READY."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_02_008A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7Come, Farid.  It is time."
+LANG_ENGLISH        "^1MENENDEZ: ^7COME, FARID.  IT IS TIME."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_02_009A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7Come, Farid!"
+LANG_ENGLISH        "^1MENENDEZ: ^7COME, FARID!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_02_010A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7It is time, Farid!  Come!"
+LANG_ENGLISH        "^1MENENDEZ: ^7IT IS TIME, FARID!  COME!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_02_014A_FARI_D
-LANG_ENGLISH        "^1Farid: ^7Yes."
+LANG_ENGLISH        "^1FARID: ^7YES."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_02_017A_DEFA_D
-LANG_ENGLISH        "^1Defalco: ^7Cordis Die awaits your word."
+LANG_ENGLISH        "^1DEFALCO: ^7CORDIS DIE AWAITS YOUR WORD."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_02_018A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7They await their freedom... and they shall have it."
+LANG_ENGLISH        "^1MENENDEZ: ^7THEY AWAIT THEIR FREEDOM... AND THEY SHALL HAVE IT."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_03_002A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7Cordis Die!"
+LANG_ENGLISH        "^1MENENDEZ: ^7CORDIS DIE!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_04_001A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7The Americans are coming, Farid."
+LANG_ENGLISH        "^1MENENDEZ: ^7THE AMERICANS ARE COMING, FARID."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_04_002A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7There is a...  traitor in our midst."
+LANG_ENGLISH        "^1MENENDEZ: ^7THERE IS A...  TRAITOR IN OUR MIDST."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_04_003A_FARI_D
-LANG_ENGLISH        "^1Farid: ^7But how?  Who?"
+LANG_ENGLISH        "^1FARID: ^7BUT HOW?  WHO?"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_04_004A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7It matters not."
+LANG_ENGLISH        "^1MENENDEZ: ^7IT MATTERS NOT."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_04_005A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7I am one step ahead of him."
+LANG_ENGLISH        "^1MENENDEZ: ^7I AM ONE STEP AHEAD OF HIM."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_04_006A_FARI_D
-LANG_ENGLISH        "^1Farid: ^7Harper, I secured an optical camo suit."
+LANG_ENGLISH        "^1FARID: ^7HARPER, I SECURED AN OPTICAL CAMO SUIT."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_04_007A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Good.  The less attention you draw, the better."
+LANG_ENGLISH        "^1HARPER: ^7GOOD.  THE LESS ATTENTION YOU DRAW, THE BETTER."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_04_008A_FARI_D
-LANG_ENGLISH        "^1Farid: ^7Harper!  I can't keep this going!  There's too many of them!"
+LANG_ENGLISH        "^1FARID: ^7HARPER!  I CAN'T KEEP THIS GOING!  THERE'S TOO MANY OF THEM!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_05_002A_FARI_D
-LANG_ENGLISH        "^1Farid: ^7Harper!  Menendez is gone!  He left as soon as the shooting started!"
+LANG_ENGLISH        "^1FARID: ^7HARPER!  MENENDEZ IS GONE!  HE LEFT AS SOON AS THE SHOOTING STARTED!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_05_004A_FARI_D
-LANG_ENGLISH        "^1Farid: ^7Menendez knows!  I'm sure of it."
+LANG_ENGLISH        "^1FARID: ^7MENENDEZ KNOWS!  I'M SURE OF IT."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_05_005A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7You can't be sure of that.  I mean, if he knew you'd be dead already."
+LANG_ENGLISH        "^1HARPER: ^7YOU CAN'T BE SURE OF THAT.  I MEAN, IF HE KNEW YOU'D BE DEAD ALREADY."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_05_010A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7We will regroup at the Citadel."
+LANG_ENGLISH        "^1MENENDEZ: ^7WE WILL REGROUP AT THE CITADEL."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_05_013A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7NOW!!"
+LANG_ENGLISH        "^1MENENDEZ: ^7NOW!!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_05_016A_FARI_D
-LANG_ENGLISH        "^1Farid: ^7He told me to meet him at the Citadel."
+LANG_ENGLISH        "^1FARID: ^7HE TOLD ME TO MEET HIM AT THE CITADEL."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_05_020A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Egghead, listen to me..."
+LANG_ENGLISH        "^1HARPER: ^7EGGHEAD, LISTEN TO ME..."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_05_023A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7You stay strong, my friend, and I promise you, I'll get you through this.  Okay?"
+LANG_ENGLISH        "^1HARPER: ^7YOU STAY STRONG, MY FRIEND, AND I PROMISE YOU, I'LL GET YOU THROUGH THIS.  OKAY?"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_05_024A_FARI_D
-LANG_ENGLISH        "^1Farid: ^7Yes."
+LANG_ENGLISH        "^1FARID: ^7YES."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_05_032A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7We can't give him a chance to dig in.  Move through the city and re-establish contact."
+LANG_ENGLISH        "^1HARPER: ^7WE CAN'T GIVE HIM A CHANCE TO DIG IN.  MOVE THROUGH THE CITY AND RE-ESTABLISH CONTACT."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_05_089A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7The Yemeni forces will establish a perimeter around the city."
+LANG_ENGLISH        "^1HARPER: ^7THE YEMENI FORCES WILL ESTABLISH A PERIMETER AROUND THE CITY."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_05_090A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Farid, head South through the market... Good luck."
+LANG_ENGLISH        "^1HARPER: ^7FARID, HEAD SOUTH THROUGH THE MARKET... GOOD LUCK."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_05_091A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Remember, to the Yemeni forces, you're just another terrorist."
+LANG_ENGLISH        "^1HARPER: ^7REMEMBER, TO THE YEMENI FORCES, YOU'RE JUST ANOTHER TERRORIST."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_05_092A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Engage only if you have no other choice."
+LANG_ENGLISH        "^1HARPER: ^7ENGAGE ONLY IF YOU HAVE NO OTHER CHOICE."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_05_093A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7You said Menendez is headed for the Citadel.  What's the quickest route out of the city?"
+LANG_ENGLISH        "^1HARPER: ^7YOU SAID MENENDEZ IS HEADED FOR THE CITADEL.  WHAT'S THE QUICKEST ROUTE OUT OF THE CITY?"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_05_094A_FARI_D
-LANG_ENGLISH        "^1Farid: ^7The west gate leads to a mountain path on the outskirts."
+LANG_ENGLISH        "^1FARID: ^7THE WEST GATE LEADS TO A MOUNTAIN PATH ON THE OUTSKIRTS."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_05_095A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Get there.  We'll regroup when our VTOLs are in the AO."
+LANG_ENGLISH        "^1HARPER: ^7GET THERE.  WE'LL REGROUP WHEN OUR VTOLS ARE IN THE AO."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_05_096A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Farid, did you locate Menendez?"
+LANG_ENGLISH        "^1HARPER: ^7FARID, DID YOU LOCATE MENENDEZ?"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_05_097A_FARI_D
-LANG_ENGLISH        "^1Farid: ^7Negative."
+LANG_ENGLISH        "^1FARID: ^7NEGATIVE."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_05_098A_HARP_M
-LANG_ENGLISH        "^1Harper: ^7Dammit, man.  He must have slipped through the Yemeni lines."
+LANG_ENGLISH        "^1HARPER: ^7DAMMIT, MAN.  HE MUST HAVE SLIPPED THROUGH THE YEMENI LINES."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_05_098A_HARP_S
-LANG_ENGLISH        "^1Harper: ^7He must have slipped through the Yemeni lines."
+LANG_ENGLISH        "^1HARPER: ^7HE MUST HAVE SLIPPED THROUGH THE YEMENI LINES."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_05_099A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Farid, I'm seeing movement in the streets below."
+LANG_ENGLISH        "^1HARPER: ^7FARID, I'M SEEING MOVEMENT IN THE STREETS BELOW."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_06_001A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7We're only minutes away, Farid!"
+LANG_ENGLISH        "^1HARPER: ^7WE'RE ONLY MINUTES AWAY, FARID!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_1_06_002A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Just keep moving.  You have to find Menendez!"
+LANG_ENGLISH        "^1HARPER: ^7JUST KEEP MOVING.  YOU HAVE TO FIND MENENDEZ!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_2_01_002A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Farid... Are you still with me?"
+LANG_ENGLISH        "^1HARPER: ^7FARID... ARE YOU STILL WITH ME?"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_2_01_003A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7American blood on your hands, Farid?"
+LANG_ENGLISH        "^1MENENDEZ: ^7AMERICAN BLOOD ON YOUR HANDS, FARID?"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_2_01_004A_FARI_D
-LANG_ENGLISH        "^1Farid: ^7Of course, Menendez.  We must get you to safety.  We have lost too many men."
+LANG_ENGLISH        "^1FARID: ^7OF COURSE, MENENDEZ.  WE MUST GET YOU TO SAFETY.  WE HAVE LOST TOO MANY MEN."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_2_01_005A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7Victory is not measured by losses, Farid..."
+LANG_ENGLISH        "^1MENENDEZ: ^7VICTORY IS NOT MEASURED BY LOSSES, FARID..."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_2_01_006A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7It is measured by gains."
+LANG_ENGLISH        "^1MENENDEZ: ^7IT IS MEASURED BY GAINS."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_2_01_013A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Farid... Come in..."
+LANG_ENGLISH        "^1HARPER: ^7FARID... COME IN..."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_2_01_014A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7We're hit!  We're going down!"
+LANG_ENGLISH        "^1HARPER: ^7WE'RE HIT!  WE'RE GOING DOWN!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_2_01_015A_HARP_M
-LANG_ENGLISH        "^1Harper: ^7Dammit...  Fuck... I... Argh."
+LANG_ENGLISH        "^1HARPER: ^7DAMMIT...  FUCK... I... ARGH."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_2_01_015A_HARP_S
-LANG_ENGLISH        "^1Harper: ^7I can't...  I...  Argh..."
+LANG_ENGLISH        "^1HARPER: ^7I CAN'T...  I...  ARGH..."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_2_01_016A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Aaargh!!  Let go of me!!"
+LANG_ENGLISH        "^1HARPER: ^7AAARGH!!  LET GO OF ME!!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_2_01_018A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7Here."
+LANG_ENGLISH        "^1MENENDEZ: ^7HERE."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_2_01_021A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7Farid!"
+LANG_ENGLISH        "^1MENENDEZ: ^7FARID!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_2_01_025A_HARP_M
-LANG_ENGLISH        "^1Harper: ^7Get off me, you fuckin' animals!!!"
+LANG_ENGLISH        "^1HARPER: ^7GET OFF ME, YOU FUCKIN' ANIMALS!!!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_2_01_025A_HARP_S
-LANG_ENGLISH        "^1Harper: ^7Get off me, you... you animals!!!"
+LANG_ENGLISH        "^1HARPER: ^7GET OFF ME, YOU... YOU ANIMALS!!!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_5_03_001A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7You knew that I would be here.  Who betrayed me?"
+LANG_ENGLISH        "^1MENENDEZ: ^7YOU KNEW THAT I WOULD BE HERE.  WHO BETRAYED ME?"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_5_03_002A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7Who betrayed me?"
+LANG_ENGLISH        "^1MENENDEZ: ^7WHO BETRAYED ME?"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_5_03_003A_HARP_M
-LANG_ENGLISH        "^1Harper: ^7You're wasting your time, you fucking... bastard!  You... You won't get SHIT from me!!!"
+LANG_ENGLISH        "^1HARPER: ^7YOU'RE WASTING YOUR TIME, YOU FUCKING... BASTARD!  YOU... YOU WON'T GET SHIT FROM ME!!!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_5_03_003A_HARP_S
-LANG_ENGLISH        "^1Harper: ^7You're wasting your time!  You... You won't get SQUAT from me!!!"
+LANG_ENGLISH        "^1HARPER: ^7YOU'RE WASTING YOUR TIME!  YOU... YOU WON'T GET SQUAT FROM ME!!!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_5_03_004A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7Farid."
+LANG_ENGLISH        "^1MENENDEZ: ^7FARID."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_5_03_005A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7Kill him."
+LANG_ENGLISH        "^1MENENDEZ: ^7KILL HIM."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_5_04_001A_DEFA_D
-LANG_ENGLISH        "^1Defalco: ^7Anything wrong, Farid?"
+LANG_ENGLISH        "^1DEFALCO: ^7ANYTHING WRONG, FARID?"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_5_04_001A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Come on!  Is that all you got?!  Huh?"
+LANG_ENGLISH        "^1HARPER: ^7COME ON!  IS THAT ALL YOU GOT?!  HUH?"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_5_04_002A_HARP_M
-LANG_ENGLISH        "^1Harper: ^7Yeah, that's it.  Kill me, Egghead!  And you... You spineless piece of shit!  Getting others to do your dirty work!  What kind of man are you?!  Huh?"
+LANG_ENGLISH        "^1HARPER: ^7YEAH, THAT'S IT.  KILL ME, EGGHEAD!  AND YOU... YOU SPINELESS PIECE OF SHIT!  GETTING OTHERS TO DO YOUR DIRTY WORK!  WHAT KIND OF MAN ARE YOU?!  HUH?"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_5_04_002A_HARP_S
-LANG_ENGLISH        "^1Harper: ^7Yeah, that's it.  Kill me, Egghead!  And you... You spineless piece of... Getting others to do your dirty work!  What kind of man are you?!  Huh?"
+LANG_ENGLISH        "^1HARPER: ^7YEAH, THAT'S IT.  KILL ME, EGGHEAD!  AND YOU... YOU SPINELESS PIECE OF... GETTING OTHERS TO DO YOUR DIRTY WORK!  WHAT KIND OF MAN ARE YOU?!  HUH?"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_5_04_003A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7Show your loyalty by following my orders, Farid!"
+LANG_ENGLISH        "^1MENENDEZ: ^7SHOW YOUR LOYALTY BY FOLLOWING MY ORDERS, FARID!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_5_04_004A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7NOW, Farid!"
+LANG_ENGLISH        "^1MENENDEZ: ^7NOW, FARID!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_5_04_007A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Farid."
+LANG_ENGLISH        "^1SECTION: ^7FARID."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_5_04_010A_HARP_M
-LANG_ENGLISH        "^1Harper: ^7Do it, man!  Come on!  You don't got the stones to fucking shoot me?!  Come on, Egghead!  DO IT!!!"
+LANG_ENGLISH        "^1HARPER: ^7DO IT, MAN!  COME ON!  YOU DON'T GOT THE STONES TO FUCKING SHOOT ME?!  COME ON, EGGHEAD!  DO IT!!!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_5_04_010A_HARP_S
-LANG_ENGLISH        "^1Harper: ^7Do it, man!  C'mon you don't got the stones to... shoot me?!  C'mon, Egghead!  DO IT!!!"
+LANG_ENGLISH        "^1HARPER: ^7DO IT, MAN!  C'MON YOU DON'T GOT THE STONES TO... SHOOT ME?!  C'MON, EGGHEAD!  DO IT!!!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_5_04_011A_HARP_D
-LANG_ENGLISH        "^1Harper: ^7Do it, Egghead!  Do your job!"
+LANG_ENGLISH        "^1HARPER: ^7DO IT, EGGHEAD!  DO YOUR JOB!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_5_05_001A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7You betrayed us, Farid."
+LANG_ENGLISH        "^1MENENDEZ: ^7YOU BETRAYED US, FARID."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_5_05_002A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7And for what?"
+LANG_ENGLISH        "^1MENENDEZ: ^7AND FOR WHAT?"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_5_05_003A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7To those you serve, your life means NOTHING!!!"
+LANG_ENGLISH        "^1MENENDEZ: ^7TO THOSE YOU SERVE, YOUR LIFE MEANS NOTHING!!!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_6_01_001A_FARI_D
-LANG_ENGLISH        "^1Farid: ^7Section"
+LANG_ENGLISH        "^1FARID: ^7SECTION"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_6_01_002A_SALA_D
-LANG_ENGLISH        "^1Salazar: ^7Harper's dead."
+LANG_ENGLISH        "^1SALAZAR: ^7HARPER'S DEAD."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_6_01_003A_FARI_D
-LANG_ENGLISH        "^1Farid: ^7I..."
+LANG_ENGLISH        "^1FARID: ^7I..."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_6_01_004A_SECT_D
-LANG_ENGLISH        "^1Section: ^7You had no choice."
+LANG_ENGLISH        "^1SECTION: ^7YOU HAD NO CHOICE."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_6_01_005A_FARI_D
-LANG_ENGLISH        "^1Farid: ^7Menendez is heading for the Citadel overlooking the town."
+LANG_ENGLISH        "^1FARID: ^7MENENDEZ IS HEADING FOR THE CITADEL OVERLOOKING THE TOWN."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_6_01_006A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Salazar, arrange for MEDEVAC extraction back to the Obama."
+LANG_ENGLISH        "^1SECTION: ^7SALAZAR, ARRANGE FOR MEDEVAC EXTRACTION BACK TO THE OBAMA."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_6_01_009A_SALA_D
-LANG_ENGLISH        "^1Salazar: ^7Let's go. C'mon, let's go."
+LANG_ENGLISH        "^1SALAZAR: ^7LET'S GO. C'MON, LET'S GO."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_002A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Harper.  Harper!  Do you copy?"
+LANG_ENGLISH        "^1SECTION: ^7HARPER.  HARPER!  DO YOU COPY?"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_003A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Kraken, Linebacker two.  Engaging enemy forces en route to downed bird."
+LANG_ENGLISH        "^1SECTION: ^7KRAKEN, LINEBACKER TWO.  ENGAGING ENEMY FORCES EN ROUTE TO DOWNED BIRD."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_004A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Taking heavy fire from the rooftops!"
+LANG_ENGLISH        "^1SECTION: ^7TAKING HEAVY FIRE FROM THE ROOFTOPS!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_007A_HARP_M
-LANG_ENGLISH        "^1Harper: ^7Menendez...  The son of a bitch is headed for the Citadel."
+LANG_ENGLISH        "^1HARPER: ^7MENENDEZ...  THE SON OF A BITCH IS HEADED FOR THE CITADEL."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_007A_HARP_S
-LANG_ENGLISH        "^1Harper: ^7Menendez...  is headed for the Citadel."
+LANG_ENGLISH        "^1HARPER: ^7MENENDEZ...  IS HEADED FOR THE CITADEL."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_008A_SECT_D
-LANG_ENGLISH        "^1Section: ^7It's okay, Harper.  We'll get him."
+LANG_ENGLISH        "^1SECTION: ^7IT'S OKAY, HARPER.  WE'LL GET HIM."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_010A_SALA_D
-LANG_ENGLISH        "^1Salazar: ^7Salazar on Primary SAT. Multiple EAGLES down.  Request immediate MEDEVAC.  LZ SPARROW."
+LANG_ENGLISH        "^1SALAZAR: ^7SALAZAR ON PRIMARY SAT. MULTIPLE EAGLES DOWN.  REQUEST IMMEDIATE MEDEVAC.  LZ SPARROW."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_012A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Kraken, I need to assume OPCON of the drone fleet in support of capture of Menendez."
+LANG_ENGLISH        "^1SECTION: ^7KRAKEN, I NEED TO ASSUME OPCON OF THE DRONE FLEET IN SUPPORT OF CAPTURE OF MENENDEZ."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_013A_COMM_D
-LANG_ENGLISH        "^1Command: ^7Sending codes to your display, drones re-tasked to your objective."
+LANG_ENGLISH        "^1COMMAND: ^7SENDING CODES TO YOUR DISPLAY, DRONES RE-TASKED TO YOUR OBJECTIVE."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_019A_SALA_D
-LANG_ENGLISH        "^1Salazar: ^7RPGs!"
+LANG_ENGLISH        "^1SALAZAR: ^7RPGS!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_020A_SECT_D
-LANG_ENGLISH        "^1Section: ^7The whole street's a kill zone!"
+LANG_ENGLISH        "^1SECTION: ^7THE WHOLE STREET'S A KILL ZONE!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_021A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Split up!  Take the high ground!"
+LANG_ENGLISH        "^1SECTION: ^7SPLIT UP!  TAKE THE HIGH GROUND!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_022A_SECT_D
-LANG_ENGLISH        "^1Section: ^7You take the left!  I'll take the right!"
+LANG_ENGLISH        "^1SECTION: ^7YOU TAKE THE LEFT!  I'LL TAKE THE RIGHT!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_023A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Take the right!  I've got the left!"
+LANG_ENGLISH        "^1SECTION: ^7TAKE THE RIGHT!  I'VE GOT THE LEFT!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_024A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Go!"
+LANG_ENGLISH        "^1SECTION: ^7GO!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_033A_SALA_D
-LANG_ENGLISH        "^1Salazar: ^7Section!  Use the drones!"
+LANG_ENGLISH        "^1SALAZAR: ^7SECTION!  USE THE DRONES!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_036A_SALA_D
-LANG_ENGLISH        "^1Salazar: ^7Mark targets!"
+LANG_ENGLISH        "^1SALAZAR: ^7MARK TARGETS!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_053A_REDS_D
-LANG_ENGLISH        "^1Navy SEAL: ^7The HVI appears to be inside the downed command VTOL.  We are receiving heavy fire from its mini-gun!"
+LANG_ENGLISH        "^1NAVY SEAL: ^7THE HVI APPEARS TO BE INSIDE THE DOWNED COMMAND VTOL.  WE ARE RECEIVING HEAVY FIRE FROM ITS MINI-GUN!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_055A_VTOL_D
-LANG_ENGLISH        "^1Pilot: ^7Enemy has quad drones inbound."
+LANG_ENGLISH        "^1PILOT: ^7ENEMY HAS QUAD DRONES INBOUND."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_056A_VTOL_D
-LANG_ENGLISH        "^1Pilot: ^7We are re-tasking your quad drones to engage."
+LANG_ENGLISH        "^1PILOT: ^7WE ARE RE-TASKING YOUR QUAD DRONES TO ENGAGE."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_057A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Kraken, without the drones we have no support to cover our advance."
+LANG_ENGLISH        "^1SECTION: ^7KRAKEN, WITHOUT THE DRONES WE HAVE NO SUPPORT TO COVER OUR ADVANCE."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_058A_VTOL_D
-LANG_ENGLISH        "^1Pilot: ^7We are chopping you a containment team to support."
+LANG_ENGLISH        "^1PILOT: ^7WE ARE CHOPPING YOU A CONTAINMENT TEAM TO SUPPORT."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_059A_VTOL_D
-LANG_ENGLISH        "^1Pilot: ^7They will fast rope insert and link up at the bridge."
+LANG_ENGLISH        "^1PILOT: ^7THEY WILL FAST ROPE INSERT AND LINK UP AT THE BRIDGE."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_060A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Understood.  Section out."
+LANG_ENGLISH        "^1SECTION: ^7UNDERSTOOD.  SECTION OUT."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_061A_SALA_D
-LANG_ENGLISH        "^1Salazar: ^7Containment team is coming down."
+LANG_ENGLISH        "^1SALAZAR: ^7CONTAINMENT TEAM IS COMING DOWN."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_062A_US0_D
-LANG_ENGLISH        "^1Navy SEAL: ^7Sir, five man team to cover your movement to HVT."
+LANG_ENGLISH        "^1NAVY SEAL: ^7SIR, FIVE MAN TEAM TO COVER YOUR MOVEMENT TO HVT."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_063A_US1_D
-LANG_ENGLISH        "^1Navy SEAL: ^7We'll pick up rear security."
+LANG_ENGLISH        "^1NAVY SEAL: ^7WE'LL PICK UP REAR SECURITY."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_064A_US0_D
-LANG_ENGLISH        "^1Navy SEAL: ^7Once you locate Menendez we'll make the grab."
+LANG_ENGLISH        "^1NAVY SEAL: ^7ONCE YOU LOCATE MENENDEZ WE'LL MAKE THE GRAB."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_065A_US1_D
-LANG_ENGLISH        "^1Navy SEAL: ^7Moving."
+LANG_ENGLISH        "^1NAVY SEAL: ^7MOVING."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_066A_US0_D
-LANG_ENGLISH        "^1Navy SEAL: ^7Surround the VTOL.  Wait for the go."
+LANG_ENGLISH        "^1NAVY SEAL: ^7SURROUND THE VTOL.  WAIT FOR THE GO."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_01_067A_US1_D
-LANG_ENGLISH        "^1Navy SEAL: ^7Engage the drones first."
+LANG_ENGLISH        "^1NAVY SEAL: ^7ENGAGE THE DRONES FIRST."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_02_001A_SECT_M
-LANG_ENGLISH        "^1Section: ^7Dammit!  Something's wrong."
+LANG_ENGLISH        "^1SECTION: ^7DAMMIT!  SOMETHING'S WRONG."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_02_001A_SECT_S
-LANG_ENGLISH        "^1Section: ^7Something's wrong."
+LANG_ENGLISH        "^1SECTION: ^7SOMETHING'S WRONG."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_02_006A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Arrange MEDEVAC extraction to get Harper back to the Obama."
+LANG_ENGLISH        "^1SECTION: ^7ARRANGE MEDEVAC EXTRACTION TO GET HARPER BACK TO THE OBAMA."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_02_043A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Menendez!"
+LANG_ENGLISH        "^1SECTION: ^7MENENDEZ!"
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_02_048A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Push available video of crash site to my HUD."
+LANG_ENGLISH        "^1SECTION: ^7PUSH AVAILABLE VIDEO OF CRASH SITE TO MY HUD."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_02_049A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Menendez."
+LANG_ENGLISH        "^1SECTION: ^7MENENDEZ."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_02_050A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Kraken, we have eyes on Menendez.  Moving to capture."
+LANG_ENGLISH        "^1SECTION: ^7KRAKEN, WE HAVE EYES ON MENENDEZ.  MOVING TO CAPTURE."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_02_052A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Kraken, we believe Mendendez is heading for the Citadel."
+LANG_ENGLISH        "^1SECTION: ^7KRAKEN, WE BELIEVE MENDENDEZ IS HEADING FOR THE CITADEL."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_02_053A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Push all available assets to that grid.  Establish blocking positions cutting off their escape."
+LANG_ENGLISH        "^1SECTION: ^7PUSH ALL AVAILABLE ASSETS TO THAT GRID.  ESTABLISH BLOCKING POSITIONS CUTTING OFF THEIR ESCAPE."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_02_054A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Blocking positions, I need updates on Menendez's location."
+LANG_ENGLISH        "^1SECTION: ^7BLOCKING POSITIONS, I NEED UPDATES ON MENENDEZ'S LOCATION."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_02_055A_REDS_D
-LANG_ENGLISH        "^1Navy SEAL: ^7Sir, enemy forces have formed a defensive perimeter around the Citadel."
+LANG_ENGLISH        "^1NAVY SEAL: ^7SIR, ENEMY FORCES HAVE FORMED A DEFENSIVE PERIMETER AROUND THE CITADEL."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_02_056A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Maintain eyes on, but do not engage.  We need him alive."
+LANG_ENGLISH        "^1SECTION: ^7MAINTAIN EYES ON, BUT DO NOT ENGAGE.  WE NEED HIM ALIVE."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_03_044A_SECT_D
-LANG_ENGLISH        "^1Section: ^7Secure him."
+LANG_ENGLISH        "^1SECTION: ^7SECURE HIM."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_03_045A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7Thank you, David."
+LANG_ENGLISH        "^1MENENDEZ: ^7THANK YOU, DAVID."
 
 REFERENCE           YEMEN_VOX_VOX_YEM_7_03_046A_MENE_D
-LANG_ENGLISH        "^1Menendez: ^7Help me seek a newer world."
+LANG_ENGLISH        "^1MENENDEZ: ^7HELP ME SEEK A NEWER WORLD."
 

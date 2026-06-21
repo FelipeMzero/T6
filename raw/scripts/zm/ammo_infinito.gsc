@@ -49,13 +49,18 @@ _ammo_loop()
 
         if ( self.muni_infinita )
         {
-            arma = self getCurrentWeapon();
-            if ( arma != "none" )
+            armas = self GetWeaponsList();
+
+            for ( i = 0; i < armas.size; i++ )
             {
+                arma = armas[ i ];
+
+                if ( arma == "none" ) continue;
+
                 clipSize = weaponClipSize( arma );
-                if ( self getWeaponAmmoClip( arma ) < clipSize )
+                if ( clipSize > 0 && self getWeaponAmmoClip( arma ) < clipSize )
                     self setWeaponAmmoClip( arma, clipSize );
-                
+
                 if ( self getWeaponAmmoStock( arma ) < 9000 )
                     self setWeaponAmmoStock( arma, 9999 );
             }

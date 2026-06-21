@@ -3,149 +3,149 @@ CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           ZM_CRAFTABLES_CHANGE_BUILD
-LANG_ENGLISH        "Pressione [{+actionslot 1}] ou [{+actionslot 2}] para alterar o item"
+LANG_ENGLISH        "PRESSIONE [{+ACTIONSLOT 1}] OU [{+ACTIONSLOT 2}] PARA ALTERAR O ITEM"
 
 REFERENCE           ZM_CRAFTABLES_PIECE_NO_SWITCH
-LANG_ENGLISH        "Já carregando um pedaço."
+LANG_ENGLISH        "JÁ CARREGANDO UM PEDAÇO."
 
 REFERENCE           ZM_PRISON_ACID_GAT_KIT
-LANG_ENGLISH        "Kit Ácido Gat"
+LANG_ENGLISH        "KIT ÁCIDO GAT"
 
 REFERENCE           ZM_PRISON_ACID_TRAP
-LANG_ENGLISH        "Segure^3[{+activate}]^7 para ativar a Armadilha de Ácido [Custo: &&1 ]"
+LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA ATIVAR A ARMADILHA DE ÁCIDO [CUSTO: &&1 ]"
 
 REFERENCE           ZM_PRISON_ACID_TRAP_UNAVAILABLE
-LANG_ENGLISH        "Armadilha ácida indisponível"
+LANG_ENGLISH        "ARMADILHA ÁCIDA INDISPONÍVEL"
 
 REFERENCE           ZM_PRISON_AFTERLIFE_DOOR
-LANG_ENGLISH        "Porta precisa de energia"
+LANG_ENGLISH        "PORTA PRECISA DE ENERGIA"
 
 REFERENCE           ZM_PRISON_AFTERLIFE_HOWTO
-LANG_ENGLISH        "Pressione^3[{+attack}]^7para chocar"
+LANG_ENGLISH        "PRESSIONE^3[{+ATTACK}]^7PARA CHOCAR"
 
 REFERENCE           ZM_PRISON_AFTERLIFE_HOWTO_2
-LANG_ENGLISH        "Pressione^3[{+gostand}]^7para levitar"
+LANG_ENGLISH        "PRESSIONE^3[{+GOSTAND}]^7PARA LEVITAR"
 
 REFERENCE           ZM_PRISON_AFTERLIFE_INTERACT
-LANG_ENGLISH        "Choque para ligar a energia"
+LANG_ENGLISH        "CHOQUE PARA LIGAR A ENERGIA"
 
 REFERENCE           ZM_PRISON_AFTERLIFE_KILL
-LANG_ENGLISH        "Segure^3[{+activate}]^7para entrar na vida após a morte"
+LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7PARA ENTRAR NA VIDA APÓS A MORTE"
 
 REFERENCE           ZM_PRISON_AFTERLIFE_OVERLOAD
-LANG_ENGLISH        "Choque para sobrecarga"
+LANG_ENGLISH        "CHOQUE PARA SOBRECARGA"
 
 REFERENCE           ZM_PRISON_BAD
 LANG_ENGLISH        "O CICLO CONTINUA..."
 
 REFERENCE           ZM_PRISON_CALL_GONDOLA
-LANG_ENGLISH        "Segure^3[{+activate}]^7para chamar a Gôndola"
+LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7PARA CHAMAR A GÔNDOLA"
 
 REFERENCE           ZM_PRISON_CONVERT_PICKUP
-LANG_ENGLISH        "Segure [{+activate}] para pegar sua arma convertida"
+LANG_ENGLISH        "SEGURE [{+ACTIVATE}] PARA PEGAR SUA ARMA CONVERTIDA"
 
 REFERENCE           ZM_PRISON_CONVERT_START
-LANG_ENGLISH        "Segure [{+activate}] para converter Blundergat em Acidgat"
+LANG_ENGLISH        "SEGURE [{+ACTIVATE}] PARA CONVERTER BLUNDERGAT EM ACIDGAT"
 
 REFERENCE           ZM_PRISON_CRAFTING_PLANE
-LANG_ENGLISH        "Peça adicionada ao avião"
+LANG_ENGLISH        "PEÇA ADICIONADA AO AVIÃO"
 
 REFERENCE           ZM_PRISON_CRAFT_PACKASPLAT
-LANG_ENGLISH        "Segure^3[{+activate}]^7para criar o upgrade Blundergat"
+LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7PARA CRIAR O UPGRADE BLUNDERGAT"
 
 REFERENCE           ZM_PRISON_CRAFT_PLANE
-LANG_ENGLISH        "Segure^3[{+activate}]^7para criar o Avião"
+LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7PARA CRIAR O AVIÃO"
 
 REFERENCE           ZM_PRISON_CRAFT_RIOT
-LANG_ENGLISH        "Segure^3[{+activate}]^7para criar Escudo Zumbi"
+LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7PARA CRIAR ESCUDO ZUMBI"
 
 REFERENCE           ZM_PRISON_ELECTRIC_CHAIR_ACTIVATE
-LANG_ENGLISH        "Pressione^3[{+activate}]^7para ativar a Cadeira Elétrica"
+LANG_ENGLISH        "PRESSIONE^3[{+ACTIVATE}]^7PARA ATIVAR A CADEIRA ELÉTRICA"
 
 REFERENCE           ZM_PRISON_FAN_TRAP
-LANG_ENGLISH        "Segure^3[{+activate}]^7 para ativar a Armadilha de Ventilador [Custo: &&1 ]"
+LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA ATIVAR A ARMADILHA DE VENTILADOR [CUSTO: &&1 ]"
 
 REFERENCE           ZM_PRISON_FAN_TRAP_UNAVAILABLE
-LANG_ENGLISH        "Armadilha de Ventilador indisponível"
+LANG_ENGLISH        "ARMADILHA DE VENTILADOR INDISPONÍVEL"
 
 REFERENCE           ZM_PRISON_GONDOLA_ACTIVE
-LANG_ENGLISH        "A gôndola está ativa"
+LANG_ENGLISH        "A GÔNDOLA ESTÁ ATIVA"
 
 REFERENCE           ZM_PRISON_GONDOLA_COOLDOWN
-LANG_ENGLISH        "A gôndola está recarregando"
+LANG_ENGLISH        "A GÔNDOLA ESTÁ RECARREGANDO"
 
 REFERENCE           ZM_PRISON_GONDOLA_REQUIRES_POWER
-LANG_ENGLISH        "Gôndola requer energia"
+LANG_ENGLISH        "GÔNDOLA REQUER ENERGIA"
 
 REFERENCE           ZM_PRISON_GOOD
 LANG_ENGLISH        "O CICLO ESTÁ QUEBRADO."
 
 REFERENCE           ZM_PRISON_KEY_DOOR
-LANG_ENGLISH        "Segure^3[{+activate}]^7 para abrir"
+LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA ABRIR"
 
 REFERENCE           ZM_PRISON_KEY_DOOR_LOCKED
-LANG_ENGLISH        "Preciso da chave do diretor"
+LANG_ENGLISH        "PRECISO DA CHAVE DO DIRETOR"
 
 REFERENCE           ZM_PRISON_LAUNDRY_MACHINE_ACTIVATE
-LANG_ENGLISH        "Pressione^3[{+activate}]^7 para ativar a Máquina de Lavar Roupa"
+LANG_ENGLISH        "PRESSIONE^3[{+ACTIVATE}]^7 PARA ATIVAR A MÁQUINA DE LAVAR ROUPA"
 
 REFERENCE           ZM_PRISON_LIFE_OVER
 LANG_ENGLISH        "A VIDA ACABOU"
 
 REFERENCE           ZM_PRISON_MISSING_BLUNDERGAT
-LANG_ENGLISH        "Blundergat obrigatório"
+LANG_ENGLISH        "BLUNDERGAT OBRIGATÓRIO"
 
 REFERENCE           ZM_PRISON_MOVE_GONDOLA
-LANG_ENGLISH        "Segure^3[{+activate}]^7para usar a Gôndola [Custo: &&1 ]"
+LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7PARA USAR A GÔNDOLA [CUSTO: &&1 ]"
 
 REFERENCE           ZM_PRISON_OUT_OF_LIVES
-LANG_ENGLISH        "Nenhuma vida após a morte restante"
+LANG_ENGLISH        "NENHUMA VIDA APÓS A MORTE RESTANTE"
 
 REFERENCE           ZM_PRISON_PERK_CHERRY
-LANG_ENGLISH        "Segure^3[{+activate}]^7para comprar Electric Cherry [Custo: &&1 ]"
+LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7PARA COMPRAR ELECTRIC CHERRY [CUSTO: &&1 ]"
 
 REFERENCE           ZM_PRISON_PLANE_BEGIN_TAKEOFF
-LANG_ENGLISH        "Pressione^3[{+activate}]^7 para iniciar a sequência de decolagem"
+LANG_ENGLISH        "PRESSIONE^3[{+ACTIVATE}]^7 PARA INICIAR A SEQUÊNCIA DE DECOLAGEM"
 
 REFERENCE           ZM_PRISON_PLANE_BOARD
-LANG_ENGLISH        "Pressione^3[{+activate}]^7 para embarcar no avião"
+LANG_ENGLISH        "PRESSIONE^3[{+ACTIVATE}]^7 PARA EMBARCAR NO AVIÃO"
 
 REFERENCE           ZM_PRISON_PLANE_PARTS
-LANG_ENGLISH        "Peças de avião"
+LANG_ENGLISH        "PEÇAS DE AVIÃO"
 
 REFERENCE           ZM_PRISON_REFUELING_PLANE
-LANG_ENGLISH        "Combustível adicionado ao avião"
+LANG_ENGLISH        "COMBUSTÍVEL ADICIONADO AO AVIÃO"
 
 REFERENCE           ZM_PRISON_REFUEL_PLANE
-LANG_ENGLISH        "Segure^3[{+activate}]^7 para reabastecer o avião"
+LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA REABASTECER O AVIÃO"
 
 REFERENCE           ZM_PRISON_RIOTSHIELD_ATTACK
-LANG_ENGLISH        "Pressione^7[{+melee}]^3 para atacar com Escudo"
+LANG_ENGLISH        "PRESSIONE^7[{+MELEE}]^3 PARA ATACAR COM ESCUDO"
 
 REFERENCE           ZM_PRISON_RIOTSHIELD_DEPLOY
-LANG_ENGLISH        "Pressione^3[{+attack}]^7 para posicionar o Escudo"
+LANG_ENGLISH        "PRESSIONE^3[{+ATTACK}]^7 PARA POSICIONAR O ESCUDO"
 
 REFERENCE           ZM_PRISON_SHIELD
-LANG_ENGLISH        "Escudo"
+LANG_ENGLISH        "ESCUDO"
 
 REFERENCE           ZM_PRISON_SQ_BG
-LANG_ENGLISH        "Segure^3[{+activate}]^7 para pegar o Blundergat"
+LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA PEGAR O BLUNDERGAT"
 
 REFERENCE           ZM_PRISON_SQ_BS
-LANG_ENGLISH        "Segure^3[{+activate}]^7para pegar Acid Gat"
+LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7PARA PEGAR ACID GAT"
 
 REFERENCE           ZM_PRISON_TOMAHAWK_PICKUP
-LANG_ENGLISH        "Segure^3[{+activate}]^7para pegar Hell's Retriever"
+LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7PARA PEGAR HELL'S RETRIEVER"
 
 REFERENCE           ZM_PRISON_TOMAHAWK_TUTORIAL
-LANG_ENGLISH        "Pressione^3[{+smoke}]^7para lançar o Retriever"
+LANG_ENGLISH        "PRESSIONE^3[{+SMOKE}]^7PARA LANÇAR O RETRIEVER"
 
 REFERENCE           ZM_PRISON_TOMAHAWK_UPGRADED_PICKUP
-LANG_ENGLISH        "Segure^3[{+activate}]^7para pegar o Hell's Redeemer"
+LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7PARA PEGAR O HELL'S REDEEMER"
 
 REFERENCE           ZM_PRISON_TOWER_TRAP
-LANG_ENGLISH        "Segure^3[{+activate}]^7 para ativar a Armadilha de Torre [Custo: &&1 ]"
+LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA ATIVAR A ARMADILHA DE TORRE [CUSTO: &&1 ]"
 
 REFERENCE           ZM_PRISON_WEAPON_THOMPSON
-LANG_ENGLISH        "Segure^3[{+activate}]^7para comprar Tommy Gun [Custo: &&1 ]"
+LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7PARA COMPRAR TOMMY GUN [CUSTO: &&1 ]"
 
