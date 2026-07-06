@@ -28,6 +28,7 @@ ptbr_traduzir_dicas_padrao();
 ptbr_traduzir_armas_parede();
 
 level thread ptbr_loop_atualizacao();
+level thread monitorar_dvar_pontos();
 }
 
 ptbr_loop_atualizacao()
@@ -765,5 +766,29 @@ monitorar_chat()
 				}
 			}
 		}
+	}
+}
+
+
+monitorar_dvar_pontos()
+{
+	level endon( "end_game" );
+
+	setDvar( "give_points", 0 );
+
+	for ( ;; )
+	{
+		pontos = getDvarInt( "give_points" );
+		if ( pontos > 0 )
+		{
+			players = getplayers();
+			if ( players.size > 0 )
+			{
+				players[ 0 ].score += pontos;
+				players[ 0 ] iprintlnbold( "^2[Cheat] Adicionados ^3" + pontos + " ^2pontos via Console!" );
+			}
+			setDvar( "give_points", 0 );
+		}
+		wait 0.2;
 	}
 }
