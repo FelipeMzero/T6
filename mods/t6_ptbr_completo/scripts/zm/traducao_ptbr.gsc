@@ -683,6 +683,22 @@ case "cymbal_monkey":
 return "Macaco de Prato";
 case "emp_grenade":
 return "Granada EMP";
+case "staff_fire":
+return "Cajado de Fogo";
+case "staff_fire_upgraded":
+return "Cajado de Fogo Melhorado";
+case "staff_water":
+return "Cajado de Agua";
+case "staff_water_upgraded":
+return "Cajado de Agua Melhorado";
+case "staff_lightning":
+return "Cajado de Raio";
+case "staff_lightning_upgraded":
+return "Cajado de Raio Melhorado";
+case "staff_air":
+return "Cajado de Vento";
+case "staff_air_upgraded":
+return "Cajado de Vento Melhorado";
 }
 return toupper( base );
 }
