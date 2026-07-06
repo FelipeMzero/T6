@@ -341,6 +341,10 @@ init_custom_map()
 		perk_system( "script_model", (1832, -1220, -56), "zombie_vending_marathon_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Thunder Wall", 20000, "marathon_light", "THUNDER_WALL","zombie_perk_bottle_marathon" );
 		//east town bar wall
 		perk_system( "script_model", (2350, -44, -56), "zombie_vending_doubletap2_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Burn Heart", 12000, "doubletap_light", "Burn_Heart","zombie_perk_bottle_doubletap" );
+		// Time Slip - near laundry alley
+		perk_system( "script_model", (1510, -960, -56), "zombie_vending_marathon_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Time Slip", 4000, "marathon_light", "Time_Slip", "zombie_perk_bottle_marathon" );
+		// Vampiric Touch - upstairs pub balcony
+		perk_system( "script_model", (2000, -1080, 120), "zombie_vending_revive_on", ( 0, 180, 0 ), "custom", "mus_perks_sleight_sting", "Vampiric Touch", 6000, "revive_light", "Vampiric_Touch", "zombie_perk_bottle_revive" );
 		
 		
 		//Farm 
@@ -373,6 +377,10 @@ init_custom_map()
 		perk_system( "script_model", (7057, -5725, -48), "zombie_vending_marathon_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Thunder Wall", 20000, "marathon_light", "THUNDER_WALL","zombie_perk_bottle_marathon" );
 		//outside door. below mystery box
 		perk_system( "script_model", (7760, -6316, 116), "zombie_vending_doubletap2_on", ( 0, 120, 0 ), "custom", "mus_perks_sleight_sting", "Burn Heart", 12000, "doubletap_light", "Burn_Heart","zombie_perk_bottle_doubletap" );
+		// Time Slip - next to barn silo
+		perk_system( "script_model", (8010, -5500, 48), "zombie_vending_marathon_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Time Slip", 4000, "marathon_light", "Time_Slip", "zombie_perk_bottle_marathon" );
+		// Vampiric Touch - near house porch
+		perk_system( "script_model", (7450, -6400, 116), "zombie_vending_revive_on", ( 0, 180, 0 ), "custom", "mus_perks_sleight_sting", "Vampiric Touch", 6000, "revive_light", "Vampiric_Touch", "zombie_perk_bottle_revive" );
 		
 
 		
@@ -404,6 +412,10 @@ init_custom_map()
 		perk_system( "script_model", (1698, 2394, 40), "zombie_vending_marathon_on", ( 0, 340, 0 ), "custom", "mus_perks_sleight_sting", "Headshot Mayhem", 30000, "marathon_light", "Headshot_Mayhem","zombie_perk_bottle_marathon" );
 		//bank
 		perk_system( "script_model", (-494, -198, 20), "zombie_vending_marathon_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Thunder Wall", 20000, "marathon_light", "THUNDER_WALL","zombie_perk_bottle_marathon" );
+		// Time Slip - candy store alley
+		perk_system( "script_model", (200, -600, 20), "zombie_vending_marathon_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Time Slip", 4000, "marathon_light", "Time_Slip", "zombie_perk_bottle_marathon" );
+		// Vampiric Touch - ghost mansion garden
+		perk_system( "script_model", (2800, 1000, 48), "zombie_vending_revive_on", ( 0, 180, 0 ), "custom", "mus_perks_sleight_sting", "Vampiric Touch", 6000, "revive_light", "Vampiric_Touch", "zombie_perk_bottle_revive" );
 	}
 		
 	else if (getdvar( "mapname" ) == "zm_nuked") 
@@ -421,6 +433,10 @@ init_custom_map()
 		perk_system( "script_model", (-651, 273, -55), "zombie_vending_jugg_on", ( 0, 160, 0 ), "custom", "mus_perks_sleight_sting", "Guarding Strike", 10000, "sleight_light", "Guarding_Strike","zombie_perk_bottle_sleight" );
 		perk_system( "script_model", (1149, 170, 79), "zombie_vending_doubletap2_on", ( 0, 284, 0 ), "custom", "mus_perks_sleight_sting", "Bloodthirst", 2500, "jugger_light", "Bloodthirst","zombie_perk_bottle_jugg" );
 		perk_system( "script_model", (-937, 275, -56 ), "zombie_vending_doubletap2_on", ( 0, 70, 0 ), "custom", "mus_perks_sleight_sting", "Headshot Mayhem", 30000, "marathon_light", "Headshot_Mayhem","zombie_perk_bottle_marathon" );
+		// Time Slip - green backyard
+		perk_system( "script_model", (-900, 600, -57), "zombie_vending_marathon_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Time Slip", 4000, "marathon_light", "Time_Slip", "zombie_perk_bottle_marathon" );
+		// Vampiric Touch - yellow backyard
+		perk_system( "script_model", (900, -600, -57), "zombie_vending_revive_on", ( 0, 180, 0 ), "custom", "mus_perks_sleight_sting", "Vampiric Touch", 6000, "revive_light", "Vampiric_Touch", "zombie_perk_bottle_revive" );
 	}
 	else if (getdvar( "mapname" ) == "zm_tomb") //Origins
 	{
@@ -445,6 +461,10 @@ init_custom_map()
 		perk_system( "script_model", (-246, 162, -751), "zombie_vending_marathon_on", ( 0, 53, 0 ), "custom", "mus_perks_sleight_sting", "Headshot Mayhem", 30000, "marathon_light", "Headshot_Mayhem","zombie_perk_bottle_marathon" );
 		//Gen 3 Bunker 1
 		perk_system( "script_model", (2368, 3610, -292), "zombie_vending_marathon_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Thunder Wall", 20000, "marathon_light", "THUNDER_WALL","zombie_perk_bottle_marathon" );
+		// Time Slip - Gen 4
+		perk_system( "script_model", (-3300, -1100, -180), "zombie_vending_marathon_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Time Slip", 4000, "marathon_light", "Time_Slip", "zombie_perk_bottle_marathon" );
+		// Vampiric Touch - Gen 1/Spawn room
+		perk_system( "script_model", (2500, -3200, 230), "zombie_vending_revive_on", ( 0, 180, 0 ), "custom", "mus_perks_sleight_sting", "Vampiric Touch", 6000, "revive_light", "Vampiric_Touch", "zombie_perk_bottle_revive" );
 	}
 	else if (getdvar("mapname") == "zm_transit" && getdvar( "g_gametype" )=="zclassic") //TranZit
 	{//Depot, Diner, Farm, Town, Power area
@@ -476,6 +496,10 @@ init_custom_map()
 		perk_system( "script_model", (1832, -1220, -56), "zombie_vending_marathon_on", ( 0, 270, 0 ), "custom", "mus_perks_sleight_sting", "Thunder Wall", 20000, "marathon_light", "THUNDER_WALL","zombie_perk_bottle_marathon" );
 		//outside bus depot
 		perk_system( "script_model", (-7417, 4147, -64), "zombie_vending_doubletap2_on", ( 0, 180, 0 ), "custom", "mus_perks_sleight_sting", "Burn Heart", 12000, "doubletap_light", "Burn_Heart","zombie_perk_bottle_doubletap" );
+		// Time Slip - gas station back
+		perk_system( "script_model", (-5500, -7500, -59), "zombie_vending_marathon_on", ( 0, 90, 0 ), "custom", "mus_perks_sleight_sting", "Time Slip", 4000, "marathon_light", "Time_Slip", "zombie_perk_bottle_marathon" );
+		// Vampiric Touch - farmhouse barn upper
+		perk_system( "script_model", (8500, -4800, 116), "zombie_vending_revive_on", ( 0, 180, 0 ), "custom", "mus_perks_sleight_sting", "Vampiric Touch", 6000, "revive_light", "Vampiric_Touch", "zombie_perk_bottle_revive" );
 		
 	}
 	// probably wont do this might though
@@ -995,6 +1019,39 @@ drawshader_and_shadermove(perk, custom, print, bottle)
 			self iprintln("an additional 2x damage multiplier for headshots and extra points for headshot damage.");
 		}
 	}
+	if(perk == "Time_Slip")
+	{
+		self.perk16back = self drawshader( "specialty_marathon_zombies", x, y, 24, 24, ( 0, 0, 0 ), 100, 0 );
+		self.perk16front = self drawshader( "menu_mp_lobby_icon_film", x, y, 23, 23, ( 1, 0.8, 0 ), 100, 0 );
+		self.perk16front.name = perk;
+		self.perkarray[self.perkarray.size] = self.perk16front;
+		self.perk16back.name = perk;
+		self.perkarray[self.perkarray.size] = self.perk16back;
+		self.num_perks++;
+		self thread timeslip_think();
+		if(print)
+		{
+			self iprintln("^9Time Slip");
+			wait 0.2;
+			self iprintln("This Perk slows down nearby zombies.");
+		}
+	}
+	if(perk == "Vampiric_Touch")
+	{
+		self.perk17back = self drawshader( "specialty_marathon_zombies", x, y, 24, 24, ( 0.1, 0, 0 ), 100, 0 );
+		self.perk17front = self drawshader( "killiconheadshot", x, y, 23, 23, ( 1, 0.2, 0.2 ), 100, 0 );
+		self.perk17front.name = perk;
+		self.perkarray[self.perkarray.size] = self.perk17front;
+		self.perk17back.name = perk;
+		self.perkarray[self.perkarray.size] = self.perk17back;
+		self.num_perks++;
+		if(print)
+		{
+			self iprintln("^9Vampiric Touch");
+			wait 0.2;
+			self iprintln("This Perk heals you on kills and doubles weapon damage when low on health.");
+		}
+	}
 }
 
 ammoregen()
@@ -1352,6 +1409,24 @@ actor_damage_override_override( inflictor, attacker, damage, flags, meansofdeath
 	
 	{
 		finaldamage = damage;
+		if ( attacker hascustomperk("Vampiric_Touch") )
+		{
+			if ( finaldamage > self.health )
+			{
+				if ( ( attacker.health + 15 ) < attacker.maxhealth )
+				{
+					attacker.health += 15;
+				}
+				else
+				{
+					attacker.health = attacker.maxhealth;
+				}
+			}
+			if ( attacker.health < ( attacker.maxhealth * 0.3 ) )
+			{
+				finaldamage = finaldamage * 2;
+			}
+		}
 		if (attacker hascustomperk("Bloodthirst") && (damage>self.health) )
 		{
 			if (attacker.health < attacker.maxhealth)
@@ -1931,7 +2006,7 @@ Perkaholic()
 	self endon("death");
 	self endon("disconnected");
 	level endon("end_Game");
-	custom_perk_array = array("Downers_Delight","Rampage","PHD_FLOPPER","ELECTRIC_CHERRY","Guarding_Strike","Dying_Wish","Bloodthirst","WIDOWS_WINE","Ammo_Regen","Executioners_Edge","MULE","Headshot_Mayhem","THUNDER_WALL","Burn_Heart");
+	custom_perk_array = array("Downers_Delight","Rampage","PHD_FLOPPER","ELECTRIC_CHERRY","Guarding_Strike","Dying_Wish","Bloodthirst","WIDOWS_WINE","Ammo_Regen","Executioners_Edge","MULE","Headshot_Mayhem","THUNDER_WALL","Burn_Heart","Time_Slip","Vampiric_Touch");
 	foreach(perk in custom_perk_array)
 	{
 		if (!self hascustomperk(perk))
@@ -1971,4 +2046,51 @@ Perkaholic()
 	}
 	self.perkaholic_activated = 0;
 	return;
+}
+
+timeslip_think()
+{
+	self endon( "disconnect" );
+	level endon( "end_game" );
+	self endon( "stopcustomperk" );
+	
+	slowed_zombies = [];
+	
+	for(;;)
+	{
+		zombies = getaiarray( level.zombie_team );
+		current_slowed = [];
+		
+		foreach( zombie in zombies )
+		{
+			if( isdefined( zombie ) && isalive( zombie ) )
+			{
+				if( distance( zombie.origin, self.origin ) <= 250 )
+				{
+					if( !is_true( zombie.is_timeslip_slowed ) )
+					{
+						zombie.is_timeslip_slowed = 1;
+						zombie set_anim_rate( 0.45 );
+						zombie maps\mp\zombies\_zm_utility::set_zombie_run_cycle( "walk" );
+					}
+					current_slowed[ current_slowed.size ] = zombie;
+				}
+			}
+		}
+		
+		foreach( zombie in slowed_zombies )
+		{
+			if( isdefined( zombie ) && isalive( zombie ) )
+			{
+				if( distance( zombie.origin, self.origin ) > 250 )
+				{
+					zombie.is_timeslip_slowed = 0;
+					zombie set_anim_rate( 1.0 );
+				}
+			}
+		}
+		
+		slowed_zombies = current_slowed;
+		wait 0.2;
+	}
 }
