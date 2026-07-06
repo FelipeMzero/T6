@@ -7,16 +7,20 @@ init()
 {
     mapname = getDvar("mapname");
     
-    // Precache the staffs globally so they are registered in the game engine
-    precacheweapon("staff_fire_zm");
-    precacheweapon("staff_water_zm");
-    precacheweapon("staff_lightning_zm");
-    precacheweapon("staff_air_zm");
-    
-    precacheweapon("staff_fire_upgraded_zm");
-    precacheweapon("staff_water_upgraded_zm");
-    precacheweapon("staff_lightning_upgraded_zm");
-    precacheweapon("staff_air_upgraded_zm");
+    // ONLY precache the staffs on Origins (zm_tomb) and Buried (zm_buried)
+    // Precaching them on maps that do not support them (like Town/Tranzit) will crash the game to desktop instantly.
+    if ( mapname == "zm_tomb" || mapname == "zm_buried" )
+    {
+        precacheweapon("staff_fire_zm");
+        precacheweapon("staff_water_zm");
+        precacheweapon("staff_lightning_zm");
+        precacheweapon("staff_air_zm");
+        
+        precacheweapon("staff_fire_upgraded_zm");
+        precacheweapon("staff_water_upgraded_zm");
+        precacheweapon("staff_lightning_upgraded_zm");
+        precacheweapon("staff_air_upgraded_zm");
+    }
 
     level thread onPlayerConnect();
     
