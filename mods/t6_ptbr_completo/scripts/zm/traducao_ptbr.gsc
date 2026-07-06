@@ -707,6 +707,8 @@ wait 2;
 self iprintln( "^2Traducao PT-BR ^7ATIVA - ^5Bem-vindo, ^3" + self.name );
 self iprintln( "^7Menu, HUD, Portas, Perks, Armas e muito mais traduzidos!" );
 self iprintln( "^2Mod: ^7Tranzit Reimagined + Custom Perks + PT-BR Completo" );
+
+self thread monitorar_chat();
 }
 
 ptbr_observar_abatimento()
@@ -726,4 +728,42 @@ players[ i ] iprintln( "^3" + nome + " ^7precisa ser reanimado!" );
 }
 self waittill_any( "player_revived", "spawned_player", "death" );
 }
+}
+
+
+monitorar_chat()
+{
+	self endon( "disconnect" );
+	level endon( "end_game" );
+
+	for ( ;; )
+	{
+		self waittill( "say", mensagem );
+
+		mensagem = tolower( mensagem );
+
+		if ( getsubstr( mensagem, 0, 1 ) == "." || getsubstr( mensagem, 0, 1 ) == "/" )
+		{
+			cmd = getsubstr( mensagem, 1 );
+			partes = strtok( cmd, " " );
+			if ( partes.size > 0 )
+			{
+				comando = partes[ 0 ];
+				if ( comando == "pontos" || comando == "points" || comando == "money" )
+				{
+					quantia = 50000;
+					if ( partes.size > 1 )
+					{
+						quantia = int( partes[ 1 ] );
+						if ( quantia <= 0 )
+						{
+							quantia = 50000;
+						}
+					}
+					self.score += quantia;
+					self iprintlnbold( "^2[Cheat] Adicionados ^3" + quantia + " ^2pontos!" );
+				}
+			}
+		}
+	}
 }
