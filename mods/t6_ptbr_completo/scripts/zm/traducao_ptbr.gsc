@@ -79,7 +79,7 @@ level.zombie_hints[ chave ] = "Mantenha [{+activate}] para comprar a arma" + cus
 }
 else if ( issubstr( chave, "treasure_chest" ) || issubstr( chave, "random_weapon" ) )
 {
-level.zombie_hints[ chave ] = "Mantenha [{+activate}] para comprar uma arma aleatoria" + custo;
+level.zombie_hints[ chave ] = "Mantenha [{+activate}] para comprar uma arma aleatória" + custo;
 }
 else if ( issubstr( chave, "pack_a_punch" ) || issubstr( chave, "weapon_upgrade" ) )
 {
@@ -280,29 +280,29 @@ ptbr_descricao_perk( perk )
 switch ( perk )
 {
 case "specialty_armorvest":
-return "Aumenta a saude para 250. Essencial para sobreviver!";
+return "Aumenta a saúde para 250. Essencial para sobreviver!";
 case "specialty_quickrevive":
-return "Revive aliados mais rapido. Em solo: revive automaticamente.";
+return "Revive aliados mais rápido. Em solo: revive automaticamente.";
 case "specialty_fastreload":
-return "Recarrega suas armas muito mais rapido.";
+return "Recarrega suas armas muito mais rápido.";
 case "specialty_rof":
 return "Aumenta o dano das armas em 100% (dobro)";
 case "specialty_longersprint":
 return "Corra por muito mais tempo sem se cansar.";
 case "specialty_deadshot":
-return "Mira automaticamente na cabeca dos zumbis. Reduz o balanco da mira.";
+return "Mira automaticamente na cabeça dos zumbis. Reduz o balanço da mira.";
 case "specialty_additionalprimaryweapon":
-return "Carregue 3 armas: duas primarias e uma secundaria.";
+return "Carregue 3 armas: duas primárias e uma secundária.";
 case "specialty_finalstand":
 return "Ao cair, vira um clone seu que pode se reviver.";
 case "specialty_scavenger":
-return "Mantem suas armas apos ser revivido. Recebe bonus de pontos.";
+return "Mantém suas armas após ser revivido. Recebe bônus de pontos.";
 case "specialty_nomotionsensor":
-return "Veja os zumbis através das paredes. Itens brilham no chao.";
+return "Veja os zumbis através das paredes. Itens brilham no chão.";
 case "specialty_grenadepulldeath":
-return "Ao recarregar, cria um pulso eletrico que atordoa zumbis.";
+return "Ao recarregar, cria um pulso elétrico que atordoa zumbis.";
 case "specialty_flakjacket":
-return "Elimina dano de queda e explosoes. Mergulho explode!";
+return "Elimina dano de queda e explosões. Mergulho explode!";
 }
 return "";
 }
@@ -397,7 +397,7 @@ if ( !isDefined( level.chests[ i ] ) || !isDefined( level.chests[ i ].unitrigger
 continue;
 }
 
-level.chests[ i ].unitrigger_stub.hint_string = "Mantenha [{+activate}] para comprar uma arma aleatoria [Custo: 950]";
+level.chests[ i ].unitrigger_stub.hint_string = "Mantenha [{+activate}] para comprar uma arma aleatória [Custo: 950]";
 }
 }
 
@@ -463,7 +463,7 @@ ptbr_traduzir_powerup( nome )
 switch ( nome )
 {
 case "instant_kill":
-return "Morte Instantanea";
+return "Morte Instantânea";
 case "double_points":
 return "Pontos Duplos";
 case "nuke":
@@ -471,11 +471,11 @@ return "Bomba Nuclear";
 case "carpenter":
 return "Carpinteiro";
 case "max_ammo":
-return "Municao Maxima";
+return "Munição Máxima";
 case "full_health":
 return "Vida Cheia";
 case "bonus_points":
-return "Pontos Bonus";
+return "Pontos Bônus";
 case "fire_sale":
 return "Queima de Estoque";
 }
@@ -511,23 +511,23 @@ player iprintlnbold( "^5RODADA 1 ^7- Prepare-se para o apocalipse!" );
 }
 else if ( round == 10 )
 {
-player iprintlnbold( "^5RODADA 10 ^7- Agora a coisa ficou seria!" );
+player iprintlnbold( "^5RODADA 10 ^7- Agora a coisa ficou séria!" );
 }
 else if ( round == 20 )
 {
-player iprintlnbold( "^5RODADA 20 ^7- Voce ainda esta vivo? Impressionante!" );
+player iprintlnbold( "^5RODADA 20 ^7- Você ainda está vivo? Impressionante!" );
 }
 else if ( round == 30 )
 {
-player iprintlnbold( "^5RODADA 30 ^7- Parabens, voce eh uma maquina!" );
+player iprintlnbold( "^5RODADA 30 ^7- Parabéns, você é uma máquina!" );
 }
 else if ( round == 40 )
 {
-player iprintlnbold( "^5RODADA 40 ^7- Lendario! Continue assim!" );
+player iprintlnbold( "^5RODADA 40 ^7- Lendário! Continue assim!" );
 }
 else if ( round == 50 )
 {
-player iprintlnbold( "^5RODADA 50 ^7- VOCE EH UMA LENDA VIVA!" );
+player iprintlnbold( "^5RODADA 50 ^7- VOCÊ É UMA LENDA VIVA!" );
 }
 else if ( round % 5 == 0 )
 {
@@ -584,7 +584,7 @@ return "FAL";
 case "remington_new_model_army":
 return "Remington New Model Army";
 case "frag_grenade":
-return "Granada de Fragmentacao";
+return "Granada de Fragmentação";
 case "semtex":
 return "Semtex";
 case "claymore":
@@ -593,7 +593,7 @@ case "bouncing_betty":
 case "betty":
 return "Bouncing Betty";
 case "knife_ballistic":
-return "Faca Balistica";
+return "Faca Balística";
 case "riotshield":
 return "Escudo Antimotim";
 case "tazer_knuckles":
@@ -705,7 +705,7 @@ self endon( "disconnect" );
 self waittill( "spawned_player" );
 wait 2;
 
-self iprintln( "^2Traducao PT-BR ^7ATIVA - ^5Bem-vindo, ^3" + self.name );
+self iprintln( "^2Tradução PT-BR ^7ATIVA - ^5Bem-vindo, ^3" + self.name );
 self iprintln( "^7Menu, HUD, Portas, Perks, Armas e muito mais traduzidos!" );
 self iprintln( "^2Mod: ^7Tranzit Reimagined + Custom Perks + PT-BR Completo" );
 

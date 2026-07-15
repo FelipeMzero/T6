@@ -44,12 +44,12 @@ _sem_neblina_jogador()
 		self setClientDvar( "r_fogHazeSpread",  "0"      );
 
 		// Empurra as distâncias de neblina para muito longe
-		self setClientDvar( "r_fogBaseDist",    "999999" );
-		self setClientDvar( "r_fogStartDist",   "999999" );
-		self setClientDvar( "r_fogMaxDist",     "999999" );
+		self setClientDvar( "r_fogBaseDist",    "20000" );
+		self setClientDvar( "r_fogStartDist",   "20000" );
+		self setClientDvar( "r_fogMaxDist",     "20000" );
 
 		// Remove neblina de altura
-		self setClientDvar( "r_fogHeight",      "999999" );
+		self setClientDvar( "r_fogHeight",      "20000" );
 
 		// Aguarda antes de reaplicar (mapas como TranZit resetam os valores)
 		wait 3;
