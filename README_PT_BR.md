@@ -54,7 +54,6 @@ O jogo carrega todos os arquivos nativamente da pasta **`raw`**:
 Contém 84 arquivos `.str` de tradução abrangendo:
 - **Zombies Mode** (Todos os mapas)
 - **Multiplayer Mode** (Interface, mapas, armas e marcadores)
-- **Campanha** (Missões e legendas)
 - **Interface e Menus** (Placar, Vantagens, Anexos, Séries de Pontuação, Configurações)
 
 ### 📜 `raw/scripts/`

@@ -1,6 +1,6 @@
 # T6 - Tradução PT-BR Completa para Call of Duty: Black Ops II (Plutonium)
 
-Tradução completa em Português Brasileiro para Call of Duty: Black Ops II via Plutonium T6 (Zombies, Multiplayer, Campanha e Menus) + Scripts Customizados.
+Tradução completa em Português Brasileiro para Call of Duty: Black Ops II via Plutonium T6 (Zombies, Multiplayer e Menus) + Scripts Customizados.
 
 > 🚀 **Carregamento Automático**: O jogo carrega a tradução automaticamente direto da pasta `raw`, sem necessidade de usar ou carregar a pasta `mods`.
 
@@ -10,7 +10,6 @@ Tradução completa em Português Brasileiro para Call of Duty: Black Ops II via
 
 - **Modo Zombies** — Transit, Buried, Die Rise, Nuketown, Mob of the Dead (Prison), Origins (Tomb), Highrise
 - **Modo Multiplayer** — Todos os mapas e modos de jogo
-- **Campanha** — Missões e diálogos
 - **Menus e Interface** — Placar, Vantagens (Perks), Anexos de Armas, Séries de Pontuação e Configurações
 - **Nomenclaturas Originais e Ajustadas** — Armas, anexos e dificuldades dos bots (Recruta, Regular, Casca Grossa, Veterano)
 
