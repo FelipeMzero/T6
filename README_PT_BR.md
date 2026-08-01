@@ -24,15 +24,27 @@ Copie a pasta **`raw`** para o seguinte caminho no seu computador:
 
 *(Você pode pressionar `Win + R`, colar a linha acima e apertar Enter).*
 
-### 3. Estrutura final das pastas
-```
-%localappdata%\Plutonium\storage\t6\raw\
-├── localizedstrings/   # 84 arquivos .str de tradução
-└── scripts/            # Scripts customizados (Zombies)
-```
-
-### 4. Inicie o jogo
+### 3. Inicie o jogo
 Abra o Plutonium T6 (Zombies ou Multiplayer). O jogo iniciará **100% traduzido**!
+
+---
+
+## 📂 Estrutura do Repositório e Carregamento
+
+O jogo carrega todos os arquivos nativamente da pasta **`raw`**:
+
+```
+%localappdata%\Plutonium\storage\t6\
+└── raw/                           # Pasta carregada nativamente pelo Plutonium
+    ├── localizedstrings/          # 84 arquivos .str com a tradução completa PT-BR
+    │   ├── en_code_post_gfx_mp.str
+    │   ├── sp_code_post_gfx_mp.str
+    │   └── ... (demais arquivos .str)
+    └── scripts/                   # Scripts customizados (Zombies)
+        └── zm/
+            ├── armas_completas.gsc
+            └── pap_melhorado.gsc
+```
 
 ---
 

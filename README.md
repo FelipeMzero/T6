@@ -49,13 +49,20 @@ Tradução completa em Português Brasileiro para Call of Duty: Black Ops II via
 
 ## 📂 Estrutura do Repositório
 
+O jogo carrega todo o conteúdo automaticamente a partir da pasta **`raw`**:
+
 ```
-raw/
-├── localizedstrings/     ← 84 arquivos .str com as traduções completas
-└── scripts/              ← Scripts customizados para o modo Zombies
-    └── zm/
-        ├── armas_completas.gsc   ← Armas DLC na caixa + parede (cajados, paralyzer, etc.)
-        └── pap_melhorado.gsc     ← Pack-a-Punch com repack ilimitado e preço reduzido
+%localappdata%\Plutonium\storage\t6\
+└── raw/                           ← Pasta carregada automaticamente pelo Plutonium
+    ├── localizedstrings/          ← 84 arquivos .str com a tradução completa PT-BR
+    │   ├── en_code_post_gfx_mp.str
+    │   ├── en_patch.str
+    │   ├── sp_code_post_gfx_mp.str
+    │   └── ... (demais arquivos .str)
+    └── scripts/                   ← Scripts customizados opcionais (Zombies)
+        └── zm/
+            ├── armas_completas.gsc   ← Armas DLC na caixa + parede (cajados, paralyzer, etc.)
+            └── pap_melhorado.gsc     ← Pack-a-Punch com repack ilimitado e preço reduzido
 ```
 
 ---
