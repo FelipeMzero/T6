@@ -1,31 +1,34 @@
-VERSION             "1"
-CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
-FILENOTES           ""
-
-REFERENCE           ZOMBIE_TRANSIT_BUS_CLIMB_ROOF
-LANG_ENGLISH        "SEGURE^3[{+activate}]^7PARA SUBIR ATÉ O TELHADO"
-
-REFERENCE           ZOMBIE_TRANSIT_CLOSE_BUS_DOOR
-LANG_ENGLISH        "SEGURE^3[{+activate}]^7PARA FECHAR"
-
-REFERENCE           ZOMBIE_TRANSIT_EMERGENCY_EXIT
-LANG_ENGLISH        "SEGURE^3[{+activate}]^7PARA SAÍDA DE EMERGÊNCIA"
-
-REFERENCE           ZOMBIE_TRANSIT_ENGINE_OVERHEAT
-LANG_ENGLISH        "MOTOR SUPERAQUECIDO, AGUARDANDO RESFRIAMENTO"
-
-REFERENCE           ZOMBIE_TRANSIT_ENTER_BUNKER
-LANG_ENGLISH        "SEGURE^3[{+activate}]^7PARA ENTRAR NO BUNKER"
-
-REFERENCE           ZOMBIE_TRANSIT_HATCH_DOWN
-LANG_ENGLISH        "SEGURE^3[{+activate}]^7PARA DESCER"
-
-REFERENCE           ZOMBIE_TRANSIT_HATCH_UP
-LANG_ENGLISH        "SEGURE^3[{+activate}]^7PARA SUBIR"
-
-REFERENCE           ZOMBIE_TRANSIT_OPEN_BUS_DOOR
-LANG_ENGLISH        "SEGURE^3[{+activate}]^7PARA ABRIR"
-
-REFERENCE           ZOMBIE_TRANSIT_PURCHASE_BUS
-LANG_ENGLISH        "PRESSIONE^3[{+activate}]^7PARA INICIAR O ÔNIBUS [CUSTO: &&1 ]"
-
+// Dumped from fastfile "en_zm_transit".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_TRANSIT_BUS_CLIMB_ROOF
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para subir no telhado."
+
+REFERENCE           ZOMBIE_TRANSIT_ENGINE_OVERHEAT
+LANG_ENGLISH        "Motor superaquecido, aguardando resfriamento."
+
+REFERENCE           ZOMBIE_TRANSIT_HATCH_UP
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para subir."
+
+REFERENCE           ZOMBIE_TRANSIT_ENTER_BUNKER
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para entrar no búnquer."
+
+REFERENCE           ZOMBIE_TRANSIT_EMERGENCY_EXIT
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para Saída de Emergência."
+
+REFERENCE           ZOMBIE_TRANSIT_OPEN_BUS_DOOR
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para abrir."
+
+REFERENCE           ZOMBIE_TRANSIT_PURCHASE_BUS
+LANG_ENGLISH        "Aperte ^3[{+activate}]^7 para ligar o ônibus [Custo: &&1]."
+
+REFERENCE           ZOMBIE_TRANSIT_CLOSE_BUS_DOOR
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para fechar."
+
+REFERENCE           ZOMBIE_TRANSIT_HATCH_DOWN
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para descer."
+
+ENDMARKER

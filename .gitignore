@@ -1,6 +1,7 @@
 # Arquivos do jogo
 *.iwd
 *.ff
+!mods/**/mod.ff
 *.log
 *.cache
 

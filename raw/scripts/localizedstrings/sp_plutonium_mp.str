@@ -1,0 +1,229 @@
+// Dumped from fastfile "en_plutonium_mp".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           MENU_UNLOCK_STATS_BUTTON
+LANG_SPANISH        "Desbloquear todas as estatísticas"
+
+REFERENCE           MOD_VERSION
+LANG_SPANISH        "Versão: &&1"
+
+REFERENCE           MOD_LOAD
+LANG_SPANISH        "Carregar mod?"
+
+REFERENCE           PLATFORM_NEXT_SCORE_STREAK_HINT
+LANG_SPANISH        "Tecla usada para retirar o equipamento."
+
+REFERENCE           SERVERBROWSER_NO_SERVER_SELECTED
+LANG_SPANISH        "Nenhum servidor selecionado"
+
+REFERENCE           MENU_ENGINE_SLEEPS_HINT
+LANG_SPANISH        "Quando habilitado, melhora os FPS ao reduzir as pausas que a engine faz."
+
+REFERENCE           MENU_STREAMER_MODE_CAPS
+LANG_SPANISH        "MODO STREAMER"
+
+REFERENCE           MOD_DESCRIPTION
+LANG_SPANISH        "Descrição: &&1"
+
+REFERENCE           PLATFORM_SAFE_AREA_CONTROLS_UP_DOWN
+LANG_SPANISH        "Arraste para cima / baixo"
+
+REFERENCE           MENU_UNLOAD
+LANG_SPANISH        "Descarregar"
+
+REFERENCE           MOD_NONE_FOR_MODE
+LANG_SPANISH        "Nenhum mod encontrado para o modo atual. Certifique-se de que o mod esteja prefixado com "&&1" para ser encontrado."
+
+REFERENCE           PLATFORM_FOV_SCALE_HINT
+LANG_SPANISH        "Escala aplicada ao campo de visão."
+
+REFERENCE           MENU_UNLOCK_ALL_CAPS
+LANG_SPANISH        "DESBLOQUEAR TUDO"
+
+REFERENCE           PLATFORM_FOV_SENSITIVITY_HINT
+LANG_SPANISH        "Quando habilitado, sua sensibilidade é ajustada com base na sua Escala de FOV."
+
+REFERENCE           PLATFORM_PREVIOUS_SCORE_STREAK_HINT
+LANG_SPANISH        "Tecla usada para retirar o quadrotor (somente em Origins)."
+
+REFERENCE           MENU_UNLOCK_POPUP
+LANG_SPANISH        "Tem certeza de que deseja desbloquear tudo?"
+
+REFERENCE           MENU_MINPLAYERS_HINT
+LANG_SPANISH        "O jogo aguardará na tela de carregamento até que a quantidade de jogadores no jogo seja alcançada."
+
+REFERENCE           MENU_RESET_STATS_BUTTON
+LANG_SPANISH        "Redefinir todas as estatísticas"
+
+REFERENCE           MENU_SLIDER_ARROW_HINT
+LANG_SPANISH        "Use as teclas de seta esquerda e direita para ajustes mais precisos."
+
+REFERENCE           MENU_FLASH_HASHES_HINT
+LANG_SPANISH        "Quando habilitado, exibe os hashes na tela no início da partida."
+
+REFERENCE           MENU_MOUSE_RAW_INPUT_CAPS
+LANG_SPANISH        "ENTRADA BRUTA"
+
+REFERENCE           MENU_TARGET_ASSIST_HINT
+LANG_SPANISH        "Permitir a opção de assistência de mira para todos os jogadores de controle."
+
+REFERENCE           MENU_FLASH_HASHES_CAPS
+LANG_SPANISH        "AUTO EXIBIR HASHES DOS SCRIPTS"
+
+REFERENCE           MENU_MOUSE_RAW_INPUT_HINT
+LANG_SPANISH        "Habilite a Entrada Bruta; para que as alterações tenham efeito, é necessário reiniciar o jogo."
+
+REFERENCE           SERVERBROWSER_PLAYERS
+LANG_SPANISH        "JOGADORES: &&1"
+
+REFERENCE           MENU_MOUSE_FIX_POOLINGRATE_CAPS
+LANG_SPANISH        "CORRIGIR LAG DE ALTA TAXA DE POLLING"
+
+REFERENCE           MENU_MOUSE_ACCEL_CAPS
+LANG_SPANISH        "ACELERAÇÃO DO MOUSE"
+
+REFERENCE           MENU_TARGET_ASSIST_DISABLED_INGAME
+LANG_SPANISH        "A Assistência de Mira está desativada neste servidor."
+
+REFERENCE           MENU_MOUSE_FIX_POOLINGRATE_HINT
+LANG_SPANISH        "Reduz quedas de FPS com dispositivos de entrada com altas taxas de polling."
+
+REFERENCE           PLATFORM_SAFE_AREA_CONTROLS_LEFT_RIGHT
+LANG_SPANISH        "Arraste para a esquerda / direita"
+
+REFERENCE           MENU_STREAMER_MODE_HINT
+LANG_SPANISH        "Oculta informações importantes de rede e de jogadores."
+
+REFERENCE           PLATFORM_ACTIVATE_SCORE_STREAK_HINT
+LANG_SPANISH        "Tecla usada para retirar as Claymores."
+
+REFERENCE           SERVERBROWSER_HOSTNAME
+LANG_SPANISH        "NOME DO SERVIDOR: &&1"
+
+REFERENCE           MENU_GPAD_STICK_DEADZONE_MAX_CAPS
+LANG_SPANISH        "DEADZONE MÁX"
+
+REFERENCE           MENU_THEATER_NAME
+LANG_SPANISH        "NOME: &&1"
+
+REFERENCE           MENU_GPAD_STICK_DEADZONE_MAX_HINT
+LANG_SPANISH        "Limite máximo de entrada do analógico."
+
+REFERENCE           MENU_IDENTIFIER_CAPS
+LANG_SPANISH        "IDENTIFICADOR DE PARTIDA"
+
+REFERENCE           MENU_SERVER_BROWSER_DISPLAY_EMPTY_HINT
+LANG_SPANISH        "Exibir servidores vazios na lista de servidores."
+
+REFERENCE           MENU_GPAD_STICK_DEADZONE_MIN_CAPS
+LANG_SPANISH        "DEADZONE MÍN"
+
+REFERENCE           MENU_SERVER_BROWSER_DISPLAY_EMPTY_CAPS
+LANG_SPANISH        "EXIBIR SERVIDORES VAZIOS"
+
+REFERENCE           MENU_IDENTIFIER_HINT
+LANG_SPANISH        "Quando habilitado, desenha um identificador único na tela."
+
+REFERENCE           MENU_GPAD_STICK_DEADZONE_MIN_HINT
+LANG_SPANISH        "Limite mínimo de entrada do analógico. Valores menores tornam os analógicos mais responsivos a pequenos movimentos."
+
+REFERENCE           MENU_CHEATS_CAPS
+LANG_SPANISH        "CHEATS"
+
+REFERENCE           PLATFORM_MAX_FPS_DESC
+LANG_SPANISH        "Defina o número máximo de quadros por segundo. Sincronizar a cada quadro deve estar desativado para ajustar o FPS máximo. ^3Qualquer valor ^3acima de ^1250 ^3resultará em problemas de movimentação, problemas ao correr e pop-ups de Interrupção de conexão piscando."
+
+REFERENCE           PLATFORM_FOV_SCALE_CAPS
+LANG_SPANISH        "ESCALA DE FOV"
+
+REFERENCE           PLATFORM_FOV_SENSITIVITY_CAPS
+LANG_SPANISH        "SENSIBILIDADE DE FOV"
+
+REFERENCE           MENU_ALLOW_DOWNLOAD_HINT
+LANG_SPANISH        "Quando habilitado, permite baixar mods do servidor."
+
+REFERENCE           MENU_ENGINE_SLEEPS_CAPS
+LANG_SPANISH        "REDUZIR PAUSAS DA ENGINE"
+
+REFERENCE           MENU_FLASH_HASHES_NOW_CAPS
+LANG_SPANISH        "EXIBIR HASHES DOS SCRIPTS AGORA"
+
+REFERENCE           MENU_THEATER_MAP
+LANG_SPANISH        "MAPA: &&1"
+
+REFERENCE           MENU_FLASH_HASHES_NOW_HINT
+LANG_SPANISH        "Exiba agora na tela os hashes dos scripts."
+
+REFERENCE           MENU_SERVER_BROWSER_SEARCH_FILTER_HINT
+LANG_SPANISH        "Digite um texto para filtrar a lista de servidores."
+
+REFERENCE           MENU_SERVER_BROWSER_CURRENT
+LANG_SPANISH        "Atual: &&1"
+
+REFERENCE           MENU_SERVER_BROWSER_FILTER
+LANG_SPANISH        "Digite um filtro"
+
+REFERENCE           MENU_SERVER_BROWSER_SEARCH_FILTER_CAPS
+LANG_SPANISH        "FILTRO DE PESQUISA"
+
+REFERENCE           SERVERBROWSER_GAMETYPE
+LANG_SPANISH        "TIPO DE JOGO: &&1"
+
+REFERENCE           SERVERBROWSER_CONNECT_TO_SERVER_CAPS
+LANG_SPANISH        "CONECTAR AO SERVIDOR"
+
+REFERENCE           SERVER_CONNECT
+LANG_SPANISH        "Conectar ao servidor."
+
+REFERENCE           SERVERBROWSER_CONNECT_TO_SERVER_HINT
+LANG_SPANISH        "Conectar ao servidor."
+
+REFERENCE           SERVERBROWSER_MAX_PLAYERS
+LANG_SPANISH        "MÁX. DE JOGADORES: &&1"
+
+REFERENCE           SERVERBROWSER_MAP_NAME
+LANG_SPANISH        "NOME DO MAPA: &&1"
+
+REFERENCE           SERVERBROWSER_PING
+LANG_SPANISH        "PING: &&1"
+
+REFERENCE           MPTIP_PLUTONIUM
+LANG_SPANISH        "Sem o trabalho de todos os desenvolvedores do Plutonium, os jogos que amamos teriam morrido há muito tempo."
+
+REFERENCE           MENU_MINPLAYERS_CAPS
+LANG_SPANISH        "MÍN. DE JOGADORES"
+
+REFERENCE           MENU_CHEATS_HINT
+LANG_SPANISH        "Habilite cheats no servidor."
+
+REFERENCE           MENU_THEATER_MISSING_METADATA
+LANG_SPANISH        "Metadados ausentes"
+
+REFERENCE           MENU_THEATER_VERSION
+LANG_SPANISH        "VERSÃO: &&1"
+
+REFERENCE           MENU_THEATER_DATE
+LANG_SPANISH        "DATA: &&1"
+
+REFERENCE           MENU_THEATER_HOSTNAME
+LANG_SPANISH        "NOME DO SERVIDOR: &&1"
+
+REFERENCE           MENU_THEATER_GAMETYPE
+LANG_SPANISH        "TIPO DE JOGO: &&1"
+
+REFERENCE           MENU_THEATER_LENGTH
+LANG_SPANISH        "DURAÇÃO: &&1"
+
+REFERENCE           MENU_THEATER_INFORMATION_CAPS
+LANG_SPANISH        "INFORMAÇÕES DA DEMO"
+
+REFERENCE           MENU_THEATER_DATE_CAPS
+LANG_SPANISH        "DATA"
+
+REFERENCE           MENU_THEATER_LENGTH_CAPS
+LANG_SPANISH        "DURAÇÃO"
+
+ENDMARKER

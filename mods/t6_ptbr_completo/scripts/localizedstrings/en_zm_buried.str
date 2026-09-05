@@ -1,163 +1,166 @@
-VERSION             "1"
-CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
-FILENOTES           ""
-
-REFERENCE           ZM_BURIED_BOOZE_B
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7PARA BEBIDA [CUSTO: &&1 ]"
-
-REFERENCE           ZM_BURIED_BOOZE_G
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7PARA BEBER"
-
-REFERENCE           ZM_BURIED_BOOZE_GV
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA DAR BEBIDA"
-
-REFERENCE           ZM_BURIED_CANDY_B
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7PARA DOCES [CUSTO: &&1 ]"
-
-REFERENCE           ZM_BURIED_CANDY_G
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA DOCES"
-
-REFERENCE           ZM_BURIED_CANDY_GV
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA DAR DOCES"
-
-REFERENCE           ZM_BURIED_DRAW
-LANG_ENGLISH        "SACANDO..."
-
-REFERENCE           ZM_BURIED_EQ_HC
-LANG_ENGLISH        "CORTADOR DE CABECA"
-
-REFERENCE           ZM_BURIED_EQ_HC_HTS
-LANG_ENGLISH        "PRESSIONE^3[{+ACTIONSLOT 1}]^7PARA EQUIPAR O HEAD CHOPPER"
-
-REFERENCE           ZM_BURIED_EQ_HC_PHS
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7PARA HEAD CHOPPER"
-
-REFERENCE           ZM_BURIED_EQ_SP
-LANG_ENGLISH        "ATROPELAR VAPOR"
-
-REFERENCE           ZM_BURIED_EQ_SP_HTS
-LANG_ENGLISH        "PRESSIONE^3[{+ACTIONSLOT 1}]^7PARA EQUIPAR TRAMPLE STEAM"
-
-REFERENCE           ZM_BURIED_EQ_SP_PHS
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7PARA TRAMPLE STEAM"
-
-REFERENCE           ZM_BURIED_EQ_SW
-LANG_ENGLISH        "RESSONADOR SUBSUPERFICIAL"
-
-REFERENCE           ZM_BURIED_EQ_SW_HTS
-LANG_ENGLISH        "PRESSIONE^3[{+ACTIONSLOT 1}]^7PARA EQUIPAR O RESSONADOR SUBSUPERFICIAL"
-
-REFERENCE           ZM_BURIED_EQ_SW_PHS
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7PARA O RESSONADOR DE SUBSUPERFÍCIE"
-
-REFERENCE           ZM_BURIED_GIVING
-LANG_ENGLISH        "DANDO..."
-
-REFERENCE           ZM_BURIED_HINT_GHOST_PIANO
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7PARA DAR GORJETA [CUSTO: &&1 ]"
-
-REFERENCE           ZM_BURIED_KEYS_BL
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA DESBLOQUEAR"
-
-REFERENCE           ZM_BURIED_KEY_G
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA A CHAVE"
-
-REFERENCE           ZM_BURIED_PU_870MCS
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA GIZ DA REMINGTON 870 MCS"
-
-REFERENCE           ZM_BURIED_PU_AK74U
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA GIZ DA AK-74U"
-
-REFERENCE           ZM_BURIED_PU_AN94
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA GIZ DA AN-94"
-
-REFERENCE           ZM_BURIED_PU_PDW57
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA GIZ DA PDW-57"
-
-REFERENCE           ZM_BURIED_PU_SVU
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA GIZ DA SVU-AS"
-
-REFERENCE           ZM_BURIED_PU_TAZER
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA GIZ DAS GALVAKNUCKLES"
-
-REFERENCE           ZM_BURIED_SQ_BUT_U
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7PARA USAR A CAMPAINHA"
-
-REFERENCE           ZM_BURIED_SQ_EGM_BUT
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7PARA USAR O BOTÃO"
-
-REFERENCE           ZM_BURIED_SQ_FND
-LANG_ENGLISH        "ENCONTREI UM INTERRUPTOR"
-
-REFERENCE           ZM_BURIED_SQ_FOUNT_U
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7PARA FAZER UM DESEJO"
-
-REFERENCE           ZM_BURIED_SQ_GL_HB
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7PARA PEGAR A PARTE"
-
-REFERENCE           ZM_BURIED_SQ_LANTERN_G
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7PARA PEGAR LANTERNA"
-
-REFERENCE           ZM_BURIED_SQ_NFND
-LANG_ENGLISH        "NADA FOI ENCONTRADO..."
-
-REFERENCE           ZM_BURIED_SQ_SCH
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7PARA PESQUISAR O CORPO"
-
-REFERENCE           ZM_BURIED_SQ_SEARCHING
-LANG_ENGLISH        "PROCURANDO..."
-
-REFERENCE           ZM_BURIED_SQ_SWIT_U
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7PARA USAR A ALAVANCA"
-
-REFERENCE           ZM_BURIED_UNLOCKING
-LANG_ENGLISH        "DESBLOQUEANDO..."
-
-REFERENCE           ZM_BURIED_WALLBUILD
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA GIZ DE COMPRA DE PAREDE PERSONALIZADO"
-
-REFERENCE           ZM_BURIED_WB
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA COMPRAR O GIZ POR &&1"
-
-REFERENCE           ZM_BURIED_WB_870MCS
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA COMPRAR A REMINGTON 870 MCS DA PAREDE"
-
-REFERENCE           ZM_BURIED_WB_AK74U
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA COMPRAR A AK-74U DA PAREDE"
-
-REFERENCE           ZM_BURIED_WB_AN94
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA COMPRAR A AN-94 DA PAREDE"
-
-REFERENCE           ZM_BURIED_WB_BERETTA93R
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA COMPRAR A B23R DA PAREDE"
-
-REFERENCE           ZM_BURIED_WB_BOWIE
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA COMPRAR A FACA BOWIE DA PAREDE"
-
-REFERENCE           ZM_BURIED_WB_CLAYMORE
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA COMPRAR CLAYMORES DA PAREDE"
-
-REFERENCE           ZM_BURIED_WB_M14
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA COMPRAR A M14 DA PAREDE"
-
-REFERENCE           ZM_BURIED_WB_M16
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA COMPRAR A M16A1 DA PAREDE"
-
-REFERENCE           ZM_BURIED_WB_MP5K
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA COMPRAR A MP5 DA PAREDE"
-
-REFERENCE           ZM_BURIED_WB_PDW57
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA COMPRAR A PDW-57 DA PAREDE"
-
-REFERENCE           ZM_BURIED_WB_STICKY
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA COMPRAR SEMTEX DA PAREDE"
-
-REFERENCE           ZM_BURIED_WB_SVU
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA COMPRAR A SVU-AS DA PAREDE"
-
-REFERENCE           ZM_BURIED_WB_TAZER
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA COMPRAR GALVAKNUCKLES DA PAREDE"
-
-REFERENCE           ZM_BURIED_WB_USRPG
-LANG_ENGLISH        "SEGURE^3[{+ACTIVATE}]^7 PARA COMPRAR O RPG DA PAREDE"
-
+// Dumped from fastfile "en_zm_buried".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_BURIED_SQ_SWIT_U
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para usar a Alavanca."
+
+REFERENCE           ZM_BURIED_EQ_SP_HTS
+LANG_ENGLISH        "Aperte ^3[{+actionslot 1}]^7 para equipar Pisoteador."
+
+REFERENCE           ZM_BURIED_EQ_HC
+LANG_ENGLISH        "Decepa Cuca"
+
+REFERENCE           ZM_BURIED_PU_870MCS
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para Giz Remington 870 MCS."
+
+REFERENCE           ZM_BURIED_WB_AN94
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para desenhar AN-94 Ex-Giz."
+
+REFERENCE           ZM_BURIED_EQ_SP
+LANG_ENGLISH        "Pisoteador"
+
+REFERENCE           ZM_BURIED_WB_TAZER
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para desenhar Galvanuckles Ex-Giz."
+
+REFERENCE           ZM_BURIED_EQ_HC_PHS
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para Decepa Cuca."
+
+REFERENCE           ZM_BURIED_EQ_HC_HTS
+LANG_ENGLISH        "Aperte ^3[{+actionslot 1}]^7 para equipar Decepa Cuca."
+
+REFERENCE           ZM_BURIED_WB_STICKY
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para desenhar Semtex Ex-Giz."
+
+REFERENCE           ZM_BURIED_EQ_SW
+LANG_ENGLISH        "Ressonador de Superfície"
+
+REFERENCE           ZM_BURIED_WB_MP5K
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para desenhar MP5 Ex-Giz."
+
+REFERENCE           ZM_BURIED_KEYS_BL
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para abrir."
+
+REFERENCE           ZM_BURIED_EQ_SW_PHS
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para Ressonador de Superfície."
+
+REFERENCE           ZM_BURIED_EQ_SW_HTS
+LANG_ENGLISH        "Aperte ^3[{+actionslot 1}]^7 para equipar Ressonador de Superfície."
+
+REFERENCE           ZM_BURIED_SQ_EGM_BUT
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para usar o Botão."
+
+REFERENCE           ZM_BURIED_EQ_SP_PHS
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para Pisoteador."
+
+REFERENCE           ZM_BURIED_BOOZE_GV
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para dar Bebida."
+
+REFERENCE           ZM_BURIED_KEY_G
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para Chave."
+
+REFERENCE           ZM_BURIED_BOOZE_G
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para Bebida."
+
+REFERENCE           ZM_BURIED_CANDY_G
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para Doce."
+
+REFERENCE           ZM_BURIED_BOOZE_B
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para Bebida. [Custo: &&1]"
+
+REFERENCE           ZM_BURIED_GIVING
+LANG_ENGLISH        "Dando..."
+
+REFERENCE           ZM_BURIED_WB_M16
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para desenhar Colt M16A1 Ex-Giz."
+
+REFERENCE           ZM_BURIED_UNLOCKING
+LANG_ENGLISH        "Abrindo..."
+
+REFERENCE           ZM_BURIED_SQ_SEARCHING
+LANG_ENGLISH        "Procurando..."
+
+REFERENCE           ZM_BURIED_CANDY_GV
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para dar Doce."
+
+REFERENCE           ZM_BURIED_PU_AK74U
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para Giz AK47u."
+
+REFERENCE           ZM_BURIED_CANDY_B
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para Doce. [Custo: &&1]"
+
+REFERENCE           ZM_BURIED_SQ_GL_HB
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para pegar peça."
+
+REFERENCE           ZM_BURIED_DRAW
+LANG_ENGLISH        "Desenhando..."
+
+REFERENCE           ZM_BURIED_WALLBUILD
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para Ex-Giz personalizado."
+
+REFERENCE           ZM_BURIED_WB
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para &&1 Giz."
+
+REFERENCE           ZM_BURIED_WB_AK74U
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para desenhar AK74u Ex-Giz."
+
+REFERENCE           ZM_BURIED_SQ_FOUNT_U
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para fazer um pedido."
+
+REFERENCE           ZM_BURIED_WB_BERETTA93R
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para desenhar B2BR Ex-Giz."
+
+REFERENCE           ZM_BURIED_WB_PDW57
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para desenhar PDW-57 Ex-Giz."
+
+REFERENCE           ZM_BURIED_WB_SVU
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para desenhar SVU-AS Ex-Giz."
+
+REFERENCE           ZM_BURIED_WB_M14
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para desenhar M14 Ex-Giz."
+
+REFERENCE           ZM_BURIED_WB_USRPG
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para desenhar RPG Ex-Giz."
+
+REFERENCE           ZM_BURIED_PU_SVU
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para Giz SVU-AS."
+
+REFERENCE           ZM_BURIED_WB_BOWIE
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para desenhar Faca Bowie Ex-Giz."
+
+REFERENCE           ZM_BURIED_WB_CLAYMORE
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para desenhar Claymore Ex-Giz."
+
+REFERENCE           ZM_BURIED_WB_870MCS
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para desenhar R-870 MCS Ex-Giz."
+
+REFERENCE           ZM_BURIED_PU_AN94
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para Giz AN-94."
+
+REFERENCE           ZM_BURIED_PU_PDW57
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para Giz PDW-57."
+
+REFERENCE           ZM_BURIED_SQ_BUT_U
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para usar a Sineta."
+
+REFERENCE           ZM_BURIED_PU_TAZER
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para Giz Galvaknuckles."
+
+REFERENCE           ZM_BURIED_SQ_LANTERN_G
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para pegar a lanterna."
+
+REFERENCE           ZM_BURIED_HINT_GHOST_PIANO
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para dica [Custo: &&1]."
+
+REFERENCE           ZM_BURIED_SQ_SCH
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para revistar o corpo."
+
+REFERENCE           ZM_BURIED_SQ_FND
+LANG_ENGLISH        "Você encontrou um interruptor."
+
+REFERENCE           ZM_BURIED_SQ_NFND
+LANG_ENGLISH        "Você não encontrou nada..."
+
+ENDMARKER

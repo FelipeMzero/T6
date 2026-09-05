@@ -18,7 +18,7 @@ wait 0.1;
 
 ptbr_substituir( "waiting_for_teams", "Aguardando os times..." );
 ptbr_substituir( "waiting_for_players", "Aguardando jogadores..." );
-ptbr_substituir( "opponent_forfeiting_in", "O adversario vai desistir em:" );
+ptbr_substituir( "opponent_forfeiting_in", "O adversario vai sair em:" );
 ptbr_substituir( "match_starting_in", "A partida comeca em:" );
 ptbr_substituir( "match_starting", "A partida esta comecando" );
 ptbr_substituir( "match_started", "Partida iniciada!" );
